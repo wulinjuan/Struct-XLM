@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>1000</sentences><tokens>23829</tokens><words>23829</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>1000</sentences><tokens>23829</tokens><words>23829</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="0" /><!--  -->
+  <forms unique="5151" /><!-- के, ।, में, ,, है, की, और, से, को, का, ने, एक, कि, पर, हैं -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="16">
+    <tag name="ADJ">1995</tag><!-- _ -->
+    <tag name="ADP">4849</tag><!-- _ -->
+    <tag name="ADV">159</tag><!-- _ -->
+    <tag name="AUX">1776</tag><!-- _ -->
+    <tag name="CCONJ">545</tag><!-- _ -->
+    <tag name="DET">876</tag><!-- _ -->
+    <tag name="NOUN">5597</tag><!-- _ -->
+    <tag name="NUM">452</tag><!-- _ -->
+    <tag name="PART">316</tag><!-- _ -->
+    <tag name="PRON">1128</tag><!-- _ -->
+    <tag name="PROPN">1358</tag><!-- _ -->
+    <tag name="PUNCT">2297</tag><!-- _ -->
+    <tag name="SCONJ">382</tag><!-- _ -->
+    <tag name="SYM">30</tag><!-- _ -->
+    <tag name="VERB">2058</tag><!-- _ -->
+    <tag name="X">11</tag><!-- _ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="39">
+    <feat name="Animacy" value="Anim" upos="AUX,NOUN,PRON,PROPN">1693</feat><!-- वह, उसने, लोगों, उसके, उसे, उसकी, उसका, व्यक्ति, मैं, लोग -->
+    <feat name="Animacy" value="Inan" upos="AUX,NOUN,PRON,PROPN">5392</feat><!-- रूप, वर्ष, समय, क्षेत्र, साल, तरह, बार, युद्ध, अमेरिका, उपयोग -->
+    <feat name="Aspect" value="Imp" upos="AUX,VERB">801</feat><!-- है, हैं, जाता, सकता, करता, होता, करते, होती, सकते, होगा -->
+    <feat name="Aspect" value="Perf" upos="AUX,VERB">944</feat><!-- गया, किया, था, गयी, कहा, थी, दिया, की, हुआ, थे -->
+    <feat name="Aspect" value="Prog" upos="AUX,VERB">71</feat><!-- रहे, रहा, रही, हुए, फिशिंग -->
+    <feat name="Case" value="Abl" upos="ADP">1</feat><!-- से -->
+    <feat name="Case" value="Acc" upos="ADJ,ADP,AUX,DET,NOUN,PRON,PROPN">5065</feat><!-- को, से, में, पर, अपने, उसने, रूप, लोगों, उसके, उसे -->
+    <feat name="Case" value="Dat" upos="ADP">2</feat><!-- को -->
+    <feat name="Case" value="Erg" upos="ADP">256</feat><!-- ने, के -->
+    <feat name="Case" value="Gen" upos="ADP">1215</feat><!-- के, की, का, ऑफ, आफ -->
+    <feat name="Case" value="Ins" upos="ADP">42</feat><!-- द्वारा, से -->
+    <feat name="Case" value="Loc" upos="ADP">593</feat><!-- में, पर, से, को, तक, इन, एट, ओवर, मे -->
+    <feat name="Case" value="Nom" upos="ADJ,ADP,AUX,DET,NOUN,PRON,PROPN">2880</feat><!-- जो, वह, अपनी, वर्ष, उसकी, उसका, समय, बार, मैं, साल -->
+    <feat name="Definite" value="Def" upos="DET">237</feat><!-- इस, यह, उस, इन, उन, ऐसा, द, उसी, ऐसे, ऐसी -->
+    <feat name="Definite" value="Ind" upos="DET">208</feat><!-- एक, ए, उन, द, दि, वह, वैसा -->
+    <feat name="Foreign" value="Yes" upos="X">3</feat><!-- थ़ॉट, न्यू, या -->
+    <feat name="Gender" value="Fem" upos="ADJ,ADP,AUX,DET,NOUN,PRON,PROPN,VERB">3174</feat><!-- की, है, थी, गयी, अपनी, हैं, उसकी, दी, हुई, तरह -->
+    <feat name="Gender" value="Masc" upos="ADJ,ADP,AUX,DET,NOUN,PRON,PROPN,VERB">7942</feat><!-- के, है, का, था, किया, गया, हैं, अपने, दिया, कहा -->
+    <feat name="Gender[psor]" value="Fem" upos="PRON">75</feat><!-- जो, जिसमें, उसके, उसका, जिनमें, जिसे, जिसका, अपनी, इसका, उसकी -->
+    <feat name="Gender[psor]" value="Masc" upos="PRON">189</feat><!-- जो, उसकी, उसके, जिसमें, जिसे, उसका, जहां, जिसका, जिसकी, उनकी -->
+    <feat name="Mood" value="Imp" upos="AUX,VERB">10</feat><!-- करें, करेंगे, चाहें, चाहेंगे, जाए, दें, सकते -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">1779</feat><!-- है, गया, किया, था, हैं, गयी, कहा, थी, जाता, दिया -->
+    <feat name="Mood" value="Opt" upos="AUX,VERB">16</feat><!-- चाहिए, जाए, सकता, करे, गयी, लाना, सकते -->
+    <feat name="Number" value="Plur" upos="ADJ,ADP,AUX,DET,NOUN,PRON,PROPN,VERB">1640</feat><!-- हैं, के, थे, लोगों, गए, रहे, वाले, वे, करते, लोग -->
+    <feat name="Number" value="Sing" upos="ADJ,ADP,AUX,DET,NOUN,PRON,PROPN,VERB">10572</feat><!-- है, के, का, एक, था, किया, गया, यह, इस, थी -->
+    <feat name="Number[psor]" value="Plur" upos="PRON">68</feat><!-- जो, उनकी, जिनमें, जिन्हें, जिन्होंने, जिसमें, जिनकी, उनके, जहां, जिनका -->
+    <feat name="Number[psor]" value="Sing" upos="PRON">219</feat><!-- जो, उसके, उसकी, जिसमें, उसका, जिसे, जिसका, जिसकी, जिसके, इसका -->
+    <feat name="NumType" value="Card" upos="NUM">452</feat><!-- दो, तीन, एक, मिलियन, चार, 1, 10, 3, छह, दस -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">152</feat><!-- मैं, मैंने, हम, मुझे, हमारे, हूं, हमें, हैं, मेरे, सकते -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">29</feat><!-- आप, आपको, हैं, आपके, यू, करते, करें, गिरा, चलिये, चाहें -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">3303</feat><!-- है, था, हैं, किया, गया, थी, दिया, वह, कहा, थे -->
+    <feat name="Polarity" value="Neg" upos="ADP,PART">136</feat><!-- नहीं, न, बगैर, बिना, डिडन्ट, डोंट -->
+    <feat name="Polite" value="Form" upos="AUX,PRON,VERB">54</feat><!-- हैं, आप, उन्हें, आपको, उनकी, थे, करते, कहते, करती, करें -->
+    <feat name="PronType" value="Prs" upos="PRON">289</feat><!-- जो, उसके, जिसमें, उसकी, उनकी, उसका, जिसे, जिनमें, जिसका, जहां -->
+    <feat name="PronType" value="Rel" upos="PRON">4</feat><!-- जो, जिन्हें, जिसका -->
+    <feat name="Tense" value="Fut" upos="AUX,VERB">92</feat><!-- होगा, जाएगा, होगी, देगा, करेंगे, करेगा, जाएगी, होंगे, जाएंगे, देगी -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">872</feat><!-- था, किया, थी, थे, गया, कहा, दिया, की, लिया, हुआ -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">776</feat><!-- है, हैं, हूं, चाहिए, करें, जाए, थे, सकते, हो, करता -->
+    <feat name="VerbForm" value="Inf" upos="AUX,VERB">437</feat><!-- करने, होने, करना, रहने, बनाने, देने, रखने, कहना, लगाने, आने -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="38">
+    <dep name="acl">338</dep>
+    <dep name="acl:relcl">215</dep>
+    <dep name="advcl">200</dep>
+    <dep name="advmod">379</dep>
+    <dep name="amod">1413</dep>
+    <dep name="appos">111</dep>
+    <dep name="aux">1203</dep>
+    <dep name="aux:pass">211</dep>
+    <dep name="case">4075</dep>
+    <dep name="cc">547</dep>
+    <dep name="ccomp">153</dep>
+    <dep name="compound">815</dep>
+    <dep name="compound:lvc">447</dep>
+    <dep name="compound:redup">14</dep>
+    <dep name="conj">599</dep>
+    <dep name="cop">362</dep>
+    <dep name="dep">65</dep>
+    <dep name="det">791</dep>
+    <dep name="discourse">165</dep>
+    <dep name="fixed">783</dep>
+    <dep name="flat">4</dep>
+    <dep name="flat:name">205</dep>
+    <dep name="iobj">177</dep>
+    <dep name="list">1</dep>
+    <dep name="mark">403</dep>
+    <dep name="nmod">141</dep>
+    <dep name="nmod:poss">1401</dep>
+    <dep name="nsubj">1137</dep>
+    <dep name="nsubj:pass">167</dep>
+    <dep name="nummod">279</dep>
+    <dep name="obj">1465</dep>
+    <dep name="obl">1644</dep>
+    <dep name="obl:agent">43</dep>
+    <dep name="obl:tmod">313</dep>
+    <dep name="parataxis">94</dep>
+    <dep name="punct">2297</dep>
+    <dep name="root">1000</dep>
+    <dep name="xcomp">172</dep>
+  </deps>
+</treebank>

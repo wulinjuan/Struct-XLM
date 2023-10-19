@@ -1,0 +1,9155 @@
+te:ప్రపంచ	B-ORG
+te:మస్జిద్	I-ORG
+te:ల	I-ORG
+te:జాబితా	I-ORG
+
+te:EU	O
+te:BY	O
+te:BLR	O
+te:112	O
+te:బెలారస్	B-LOC
+
+te:'	O
+te:''	O
+te:చెక్	B-LOC
+te:రిపబ్లిక్	I-LOC
+te:''	O
+te:'	O
+
+te:రాయల్	B-ORG
+te:సొసైటీ	I-ORG
+te:లో	O
+te:సభ్యత్వం	O
+te:పొందిన	O
+te:మొట్టమొదటి	O
+te:భారతీయుడు	O
+te:--	O
+te:జగదీశ్	B-PER
+te:చంద్ర	I-PER
+te:బోస్	I-PER
+
+te:'	O
+te:''	O
+te:చేబోలు	O
+te:''	O
+te:'	O
+te:,	O
+te:కర్నూలు	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:నంద్యాల	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+te:.	O
+
+te:18వ	O
+te:శతాబ్దానికి	O
+te:ఇంగ్లాండులో	B-LOC
+te:ప్రకటనలు	O
+te:వారపత్రికలలో	O
+te:ముద్రితమయ్యేవి	O
+te:.	O
+
+te:బ్రహ్మసముద్రం	B-LOC
+te:అనంతపురం	B-ORG
+te:జిల్లా	I-ORG
+te:సోమందేపల్లె	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+te:.	O
+
+te:సహదేవుడు	B-PER
+te:వాటిని	O
+te:మధ్యలో	O
+te:ఖండించాడు	O
+te:.	O
+
+te:కర్ణుడు	B-PER
+te:ఏడు	O
+te:బాణములతో	O
+te:ప్రభద్రకులను	O
+te:ఎదుర్కొన్నాడు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:ఇరాన్	B-LOC
+te:''	O
+te:'	O
+
+te:కోటగిరి	B-PER
+te:వెంకటేశ్వరరావు	I-PER
+te:ఎడిటరుగా	O
+te:,	O
+te:శ్యామ్	B-PER
+te:కె.	I-PER
+te:నాయుడు	I-PER
+te:ఛాయాగ్రాహకుడిగా	O
+te:పనిచేశారు	O
+te:.	O
+
+te:ధర్మరాజు	B-ORG
+te:ఉగ్రరూపందాల్చి	O
+te:మరొక	O
+te:విల్లందుకుని	O
+te:ద్రోణుని	O
+te:శరీరంలో	O
+te:గుచ్చుకునేలా	O
+te:బాణములు	O
+te:సంధించాడు	O
+te:.	O
+
+te:నీ	O
+te:ఆగడాలను	O
+te:మరచి	O
+te:ధర్మరాజు	B-ORG
+te:నన్ను	O
+te:సంధికి	O
+te:పంపించాడు	O
+te:దానిని	O
+te:నీవు	O
+te:తిరస్కరించి	O
+te:ఫలితం	O
+te:అనుభవిస్తున్నావు	O
+te:.	O
+
+te:ఆయన	O
+te:పరిశోధనా	O
+te:విభాగంలో	O
+te:తెలుగు	B-ORG
+te:విశ్వవిద్యాలయం	I-ORG
+te:2014	O
+te:కీర్తిపురస్కారాన్ని	O
+te:అందుకున్నారు	O
+te:.	O
+
+te:జూపిటర్	O
+te:ప్రింటింగ్	O
+te:ప్రెస్	O
+te:,	O
+te:గుంటూరు	B-LOC
+
+te:వారిలో	O
+te:నీలం	B-PER
+te:సంజీవరెడ్డి	I-PER
+te:వంటివారు	O
+te:ఉన్నారు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:కృష్ణ	B-ORG
+te:రాజ	I-ORG
+te:సాగర్	I-ORG
+
+te:చిత్రమంతా	O
+te:దాదాపుగా	O
+te:అమెరికాలో	B-LOC
+te:జరిగింది	O
+te:.	O
+
+te:ఈ	O
+te:పాటకు	O
+te:సాహిత్యం	O
+te:అందించింది	O
+te:దేవులపల్లి	B-PER
+te:కృష్ణశాస్త్రి	I-PER
+te:,	O
+te:సంగీతం	O
+te:అందించింది	O
+te:రమేష్	B-ORG
+te:నాయుడు	I-ORG
+te:.	O
+
+te:శకుని	B-PER
+te:దుర్యోధనుని	O
+te:చూసి	O
+te:``	O
+te:సుయోధనా	O
+te:!	O
+
+te:నిరాడంబరమైన	O
+te:వాతావరణంలో	O
+te:పెరుగుతూ	O
+te:,	O
+te:ప్రాథమిక	O
+te:విద్యను	O
+te:ముల్కీలోనూ	O
+te:,	O
+te:ఉన్నత	O
+te:పాఠశాల	O
+te:విద్యను	O
+te:ఉడిపిలోనూ	B-LOC
+te:ఆయన	O
+te:పూర్తి	O
+te:చేశాడు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:కిర్గిజిస్తాన్	B-LOC
+te:''	O
+te:'	O
+
+te:దారిమార్పు	O
+te:ఎన్.	B-PER
+te:సి.	I-PER
+te:కారుణ్య	I-PER
+
+te:దారిమార్పు	O
+te:ఇంద్రగంటి	B-PER
+te:మోహన	I-PER
+te:కృష్ణ	I-PER
+
+te:దారిమార్పు	O
+te:పోసాని	B-PER
+te:కృష్ణ	I-PER
+te:మురళి	I-PER
+
+te:సైంధవుడు	B-PER
+te:వారి	O
+te:చాటున	O
+te:నిలబడి	O
+te:డెబ్బై	O
+te:మూడు	O
+te:బాణములు	O
+te:అర్జునుడిపై	O
+te:వేసాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:శ్రీ	B-LOC
+te:పొట్టి	I-LOC
+te:శ్రీరాములు	I-LOC
+te:నెల్లూరు	I-LOC
+te:జిల్లా	I-LOC
+
+te:దారిమార్పు	O
+te:జవహర్	B-ORG
+te:లాల్	I-ORG
+te:నెహ్రూ	I-ORG
+te:సాంకేతిక	I-ORG
+te:విశ్వవిద్యాలయం	I-ORG
+
+te:కర్ణుడు	B-PER
+te:``	O
+te:ఓ	O
+te:నకులరాజకుమారా	O
+te:!	O
+
+te:'	O
+te:''	O
+te:రూపన	O
+te:గుంట్ల	O
+te:''	O
+te:'	O
+te:,	O
+te:గుంటూరు	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:నకరికల్లు	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+te:.	O
+
+te:అతని	O
+te:అత్యధిక	O
+te:స్కోరు	O
+te:56	O
+te:పరుగులు	O
+te:ముంబై	B-ORG
+te:ఇండియన్స్	I-ORG
+te:మీద	O
+te:ఐదు-వికెట్ల	O
+te:తేడాతో	O
+te:విజయాన్ని	O
+te:సాధించటానికి	O
+te:సహాయపడింది	O
+te:.	O
+
+te:దారిమార్పు	O
+te:కాకతీయ	B-ORG
+te:వైద్య	I-ORG
+te:కళాశాల	I-ORG
+
+te:ఆమె	O
+te:భర్త	O
+te:సూర్య	B-PER
+te:కూడా	O
+te:నటుడే	O
+te:.	O
+
+te:ఇంతటి	O
+te:వినాశనానికి	O
+te:కారణమైన	O
+te:శకునిని	B-PER
+te:తిట్టాడు	O
+te:.	O
+
+te:ఊటీ	B-LOC
+te:వెళుతున్న	O
+te:అను	O
+te:కారు	O
+te:ప్రమాదానికి	O
+te:గురి	O
+te:అవుతుంది	O
+te:.	O
+
+te:అంతే	O
+te:కాకుండా	O
+te:తిథుల	B-ORG
+te:విశేషాలు	O
+te:ప్రత్యేకంగా	O
+te:చెప్పబడినవి	O
+te:.	O
+
+te:ఆంధ్ర	B-LOC
+te:ప్రదేశ్‌లో	I-LOC
+te:హనుమంతుని	O
+te:గుడి	O
+te:లేని	O
+te:ఊరు	O
+te:అరుదు	O
+te:.	O
+
+te:ఈ	O
+te:దేశపు	O
+te:తూర్పున	O
+te:నల్ల	B-LOC
+te:సముద్రం	I-LOC
+te:వున్నది	O
+te:.	O
+
+te:దారిమార్పు	O
+te:కృష్ణ	B-PER
+te:కుమార్	I-PER
+te:బిర్లా	I-PER
+
+te:అశ్వత్థామ	B-PER
+te:ఒక్కడే	O
+te:వారినందరిని	O
+te:ఎలా	O
+te:చంపగలిగాడు	O
+te:.	O
+
+te:ఈ	O
+te:మధ్యలో	O
+te:సన్	B-LOC
+te:రైజర్స్	I-LOC
+te:హైదరాబాద్	I-LOC
+te:తరఫున	O
+te:ఐపీఎల్‌లో	O
+te:కూడా	O
+te:తన	O
+te:అదృష్టాన్ని	O
+te:పరీక్షించుకున్నాడు	O
+te:.	O
+
+te:Cultivated	O
+te:ingargens	O
+te:throughout	O
+te:భారత	B-LOC
+te:దేశము	I-LOC
+
+te:పక్షితీర్థం	B-ORG
+te:తమిళనాడు	B-LOC
+te:కు	O
+te:చెందిన	O
+te:ఒక	O
+te:పుణ్యక్షేత్రం	O
+te:.	O
+
+te:అందు	O
+te:వలన	O
+te:ద్రౌపది	B-PER
+te:అవమానాల	O
+te:పాలైంది	O
+te:.	O
+
+te:శ్రీకృష్ణదేవరాయల	B-PER
+te:ఆస్థానానికి	O
+te:'	O
+te:''	O
+te:భువనవిజయము	O
+te:''	O
+te:'	O
+te:అని	O
+te:పేరు	O
+te:.	O
+
+te:అయితే	O
+te:ఆ	O
+te:పేరు	O
+te:చాలా	O
+te:మొరటుగా	O
+te:ఉందన్న	O
+te:ఉద్దేశంతో	O
+te:దర్శకుడు	O
+te:విఠలాచార్య	B-PER
+te:గారు	O
+te:ఈమెకు	O
+te:‘జయమాలిని’	O
+te:అని	O
+te:నామకరణం	O
+te:చేశారు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:వేయి	B-ORG
+te:మిలియన్ల	I-ORG
+te:ఘనపుటడుగులు	I-ORG
+
+te:అక్కడ	O
+te:చ్యవన	B-ORG
+te:మహర్షి	I-ORG
+te:తపోనిష్టలో	O
+te:వున్నాడు	O
+te:.	O
+
+te:స్వాతంత్ర్యం	O
+te:రాక	O
+te:ముందు	O
+te:కొంతకాలం	O
+te:కాకినాడ	B-LOC
+te:పేరు	O
+te:కొకనాడగా	O
+te:చలామణి	O
+te:అయ్యింది	O
+te:.	O
+
+te:ఈ	O
+te:గ్రామము	O
+te:నిజాం	B-ORG
+te:రజాకార్ల	O
+te:దుర్మార్గాలను	O
+te:సమర్దంగా	O
+te:ఎదుర్కొన్నది	O
+te:.	O
+
+te:కోదాడ	B-LOC
+te:మరియు	O
+te:హుజూర్‌నగర్	B-LOC
+te:నుండి	O
+te:బస్సులో	O
+te:చేరుకొనవచ్చు	O
+
+te:ఆ	O
+te:దూత	O
+te:ధర్మరాజుకు	B-ORG
+te:నమస్కరించి	O
+te:``	O
+te:మహారా	O
+te:!	O
+
+te:తరువాత	O
+te:ధర్మవరం	B-PER
+te:రామకృష్ణమాచార్యులు	I-PER
+te:గురించి	O
+te:విమర్శావ్యాసం	O
+te:వ్రాసి	O
+te:ఆంధ్ర	B-ORG
+te:విశ్వవిద్యాలయం	I-ORG
+te:నుండి	O
+te:మొట్టమొదటి	O
+te:ఎం.ఏ	O
+te:(	O
+te:ఆనర్సు	O
+te:)	O
+te:పట్టాను	O
+te:పొందాడు	O
+te:.	O
+
+te:గౌతమ	B-PER
+te:బుద్ధుడు	I-PER
+te:ప్రవచించిన	O
+te:విధానము	O
+te:.	O
+
+te:దారిమార్పు	O
+te:జేమ్స్	B-PER
+te:క్లర్క్	I-PER
+te:మాక్స్‌వెల్	I-PER
+
+te:ఈ	O
+te:సినిమాలో	O
+te:రంగనాథ్	B-PER
+te:,	O
+te:భారతి	B-PER
+te:నటించారు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:భారత	B-ORG
+te:జాతీయ	I-ORG
+te:కాంగ్రెస్	I-ORG
+
+te:వారి	O
+te:ధాటికి	O
+te:అర్జునుడు	B-PER
+te:తట్టుకోలేక	O
+te:గాడీవమును	O
+te:జారవిడిచి	O
+te:తిరిగి	O
+te:శక్తిని	O
+te:కూడతీసుకుని	O
+te:వారిమీద	O
+te:విరుచుకు	O
+te:పడి	O
+te:సింధురాజుల	O
+te:మీద	O
+te:వారి	O
+te:సైన్యాలను	O
+te:చీల్చిచెండాడి	O
+te:రణభూమిని	O
+te:శవాల	O
+te:పెంటకుప్పగా	O
+te:మార్చాడు	O
+te:.	O
+
+te:కామ్రేడ్	O
+te:పుచ్చలపల్లి	B-PER
+te:సుందరయ్య	I-PER
+te:వంటి	O
+te:ప్రముఖ	O
+te:నాయకులెందరో	O
+te:రామారావుగారి	O
+te:యింట్లో	O
+te:ఆశ్రయం	O
+te:పొందారు	O
+te:.	O
+
+te:ఎడమచేతి	O
+te:బ్యాట్స్‌మెన్	O
+te:సురీందర్	B-PER
+te:అమర్‌నాథ్	I-PER
+te:జననం	O
+te:.	O
+
+te:జింబాబ్వేపై	B-LOC
+te:జుమా	O
+te:వైఖరి	O
+te:మిశ్రమంగా	O
+te:కనిపిస్తుంది	O
+te:.	O
+
+te:క్రికెటర్	O
+te:మన్సూర్	B-PER
+te:అలీ	I-PER
+te:ఖాన్	I-PER
+te:పటౌడి	I-PER
+te:అతనికి	O
+te:మెళకువలు	O
+te:నేర్పించేవాడు	O
+te:.	O
+
+te:ఈతని	O
+te:తదుపరి	O
+te:వరుసగా	O
+te:పెమ్మసాని	B-PER
+te:రామలింగ	I-PER
+te:నాయుడు	I-PER
+te:,	O
+te:పెదతిమ్మ	O
+te:,	O
+te:బలిచిన్న	O
+te:,	O
+te:అరతిమ్మ	O
+te:,	O
+te:నారసింహ	O
+te:,	O
+te:బొజ్జతిమ్మ	O
+te:మొదలగు	O
+te:వారు	O
+te:పాలించారు	O
+te:.	O
+
+te:అప్పుడు	O
+te:శివుడు	B-ORG
+te:తన	O
+te:భార్యకు	O
+te:ఇంత	O
+te:భ్రమపుట్టుటకు	O
+te:కారణము	O
+te:బ్రహ్మకును	O
+te:అయిదు	O
+te:తలలు	O
+te:ఉండుటయె	O
+te:కదా	O
+te:అని	O
+te:అతనితలలో	O
+te:ఒకటిని	O
+te:శివుఁడు	O
+te:తీసివేసెను	O
+te:.	O
+
+te:దానిని	O
+te:అర్జునుడు	B-PER
+te:తన	O
+te:కుమారుడికి	O
+te:ఉపదేశించాడు	O
+te:.	O
+
+te:''	O
+te:సుధా	B-PER
+te:చంద్రన్	I-PER
+te:''	O
+
+te:అరుణాచల్	B-LOC
+te:ప్రదేశ్	I-LOC
+te:—	O
+te:1	O
+
+te:సెకండరీ	B-ORG
+te:స్కూల్	I-ORG
+te:సర్టిఫికేట్	I-ORG
+te:లో	O
+te:మునుపు	O
+te:ఒక్కొక్క	O
+te:సబ్జెక్టు	O
+te:ఇన్నిన్ని	O
+te:మార్కులు	O
+te:అన్ని	O
+te:సబ్జెక్టులకు	O
+te:కలిపి	O
+te:ఇన్ని	O
+te:మార్కులు	O
+te:అని	O
+te:మార్కులను	O
+te:నమోదు	O
+te:చేసే	O
+te:వారు	O
+te:,	O
+te:ప్రస్తుతం	O
+te:మార్కులకు	O
+te:బదులుగా	O
+te:గ్రేడులను	O
+te:ఇస్తున్నారు	O
+te:(	O
+te:ఉదాహరణకు	O
+te:10	O
+te:/	O
+te:10	O
+te:,	O
+te:9.8	O
+te:/	O
+te:10	O
+te:)	O
+te:.	O
+
+te:దారిమార్పు	O
+te:తిరుమల	B-ORG
+te:తిరుపతి	I-ORG
+te:దేవస్థానములు	I-ORG
+
+te:అను	O
+te:పధ్యము	O
+te:వల్ల	O
+te:కనీసం	O
+te:కర్ణ	B-LOC
+te:పర్వము	I-LOC
+te:వరకూ	O
+te:తెనిగించి	O
+te:ఉంటాదు	O
+te:అని	O
+te:చెప్పవచ్చు	O
+te:.	O
+
+te:పగటి	O
+te:వేషలను	O
+te:గురించి	O
+te:మిక్కిలినేని	B-PER
+te:రాధాకృష్ణమూర్తి	I-PER
+te:,	O
+te:ప్రొ	O
+te:.	O
+
+te:ఈ	O
+te:పట్టణము	O
+te:హైదరాబాదు	B-LOC
+te:నుండి	O
+te:160	O
+te:కి.మీ	O
+te:.	O
+
+te:దారిమార్పు	O
+te:హార్డ్	B-ORG
+te:డిస్క్	I-ORG
+te:డ్రైవ్	I-ORG
+
+te:'	O
+te:''	O
+te:విఠంరాజుపల్లి	O
+te:''	O
+te:'	O
+te:,	O
+te:గుంటూరు	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:వినుకొండ	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+te:.	O
+
+te:గ్రీస్	B-LOC
+te:''	O
+te:చిత్రంలో	O
+te:కూడా	O
+te:రిజ్జో	O
+te:యొక్క	O
+te:గోడలో	O
+te:డీన్	O
+te:యొక్క	O
+te:చిత్రపటం	O
+te:ఉంటుంది	O
+te:.	O
+
+te:తండ్రి	O
+te:వ్యాపారపరంగా	O
+te:కొన్ని	O
+te:ఒడిదుడుకులు	O
+te:ఎదుర్కోవడంతో	O
+te:కుటుంబ	O
+te:సమేతంగా	O
+te:నివాసాన్ని	O
+te:కార్వేటినగరం	B-LOC
+te:నుండి	O
+te:పుత్తూరుకు	B-LOC
+te:మార్చాడు	O
+te:.	O
+
+te:దాసరి	B-PER
+te:నారాయణరావు	I-PER
+te:పూనుకొని	O
+te:,	O
+te:ఘనమైన	O
+te:వీడ్కోలు	O
+te:జరిపించి	O
+te:,	O
+te:అతని	O
+te:కుటుంబాన్ని	O
+te:ఆదుకున్నారు	O
+
+te:దారిమార్పు	O
+te:ముత్తారం	B-LOC
+te:(	I-LOC
+te:మంథని	I-LOC
+te:)	I-LOC
+
+te:Grown	O
+te:throughout	O
+te:warmer	O
+te:parts	O
+te:of	O
+te:భారత	B-LOC
+te:దేశము	I-LOC
+
+te:విశాఖ	B-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+te:(	I-ORG
+te:రైలు	I-ORG
+te:)	I-ORG
+
+te:'	O
+te:''	O
+te:కువైట్	B-LOC
+te:''	O
+te:'	O
+
+te:దుర్యోధనుడు	B-PER
+te:ఇలా	O
+te:అన్నాడు	O
+te:``	O
+te:కర్ణుడు	B-PER
+te:బాగ	O
+te:చెప్పాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:మల్లాడి	B-ORG
+te:సత్యలింగ	I-ORG
+te:నాయకర్	I-ORG
+
+te:రావణాసురుడు	B-PER
+te:,	O
+te:శివుని	B-ORG
+te:గురించి	O
+te:అకుంఠిత	O
+te:తపస్సు	O
+te:చేసి	O
+te:మెప్పించి	O
+te:ఆత్మలింగాన్ని	O
+te:భూలోకానికి	O
+te:తెస్తాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:భారత	B-ORG
+te:పురాతత్వ	I-ORG
+te:శాఖ	I-ORG
+
+te:నమీబియా	B-LOC
+te:దేశ	O
+te:జనసంఖ్యకు	O
+te:సమానం	O
+te:.	O
+
+te:ఈ	O
+te:పాటకు	O
+te:సాహిత్యం	O
+te:అందించింది	O
+te:సముద్రాల	B-PER
+te:రాఘవాచార్య	I-PER
+te:,	O
+te:సంగీతం	O
+te:అందించింది	O
+te:గాలి	B-PER
+te:పెంచల	I-PER
+te:నరసింహారావు	I-PER
+te:.	O
+
+te:కుంటాల	B-LOC
+te:జలపాతం	I-LOC
+te:చాలా	O
+te:ఆకర్షణీయమైంది	O
+te:.	O
+
+te:ఐనవల్లి	O
+te:కాకినాడ	B-LOC
+te:కు	O
+te:72	O
+te:కి.మీ	O
+te:.	O
+
+te:వీటిని	O
+te:సమోసా	B-ORG
+te:లతో	O
+te:కలిపి	O
+te:తింటారు	O
+te:.	O
+
+te:ఈ	O
+te:దుర్మార్గుడు	O
+te:ఏకవస్త్ర	O
+te:అయిన	O
+te:ద్రౌపదిని	B-PER
+te:సభకు	O
+te:ఈడ్పించి	O
+te:వలువలు	O
+te:విప్పమని	O
+te:ఆజ్ఞాపించాడు	O
+te:.	O
+
+te:అభిమన్యుడు	B-PER
+te:కౌరవ	O
+te:వీరుల	O
+te:మీద	O
+te:భల్లములు	O
+te:,	O
+te:అంజలకములు	O
+te:,	O
+te:క్షురపములు	O
+te:,	O
+te:కూర్మనఖములు	O
+te:మొదలయిన	O
+te:బాణములు	O
+te:ప్రయోగిస్తున్నాడు	O
+te:.	O
+
+te:రామగుండం	B-LOC
+te:(	O
+te:కొంత	O
+te:భాగం	O
+te:)	O
+
+te:ఇంద్రగంటి	B-PER
+te:మోహన	I-PER
+te:కృష్ణ	I-PER
+te:ఈ	O
+te:సినిమాకు	O
+te:రచయిత	O
+te:మరియు	O
+te:దర్శకుడు	O
+te:.	O
+
+te:ఐదు	O
+te:శక్తివంతమైన	O
+te:బాణాలు	O
+te:కర్ణుడు	B-PER
+te:ద్వారా	O
+te:కాల్చాడు	O
+te:.	O
+
+te:మహారాజా	B-ORG
+te:ప్రభుత్వ	I-ORG
+te:సంగీత	I-ORG
+te:నృత్య	I-ORG
+te:కళాశాల	I-ORG
+te:.	O
+
+te:12712	O
+te:చెన్నై	B-ORG
+te:-	I-ORG
+te:విజయవాడ	I-ORG
+te:పినాకిని	I-ORG
+te:సూపర్‌ఫాస్ట్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:వారి	O
+te:సోదరుడు	O
+te:ప్రసిద్ధ	O
+te:న్యూరోసర్జన్	O
+te:సుంకర	B-PER
+te:బాలపరమేశ్వరరావు	I-PER
+te:గారు	O
+te:.	O
+
+te:బెత్లెహెం	O
+te:,	O
+te:పాలస్తీనియన్	B-LOC
+te:అథారిటీ	I-LOC
+
+te:అర్జునునికి	B-PER
+te:తన	O
+te:కుమారుడు	O
+te:వీరుని	O
+te:వలే	O
+te:ఎదిరించకుండా	O
+te:లొంగిపోవుట	O
+te:నచ్చక	O
+te:``	O
+te:వీరపుత్రులు	O
+te:యుద్ధమునకు	O
+te:వెనుకాడరు	O
+te:''	O
+te:అని	O
+te:పల్కాడు	O
+te:.	O
+
+te:ఫలితంగా	O
+te:గుండె	B-ORG
+te:కు	O
+te:మరియు	O
+te:కేంద్రనాడీవ్యవస్థకు	O
+te:నష్టం	O
+te:కలిగించును	O
+te:.	O
+
+te:దారిమార్పు	O
+te:హైదరాబాదు	B-ORG
+te:రైల్వే	I-ORG
+te:స్టేషను	I-ORG
+
+te:12759	O
+te:/	O
+te:12760	O
+te:చార్మినార్	B-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:రాజులంతా	O
+te:ధర్మరాజు	B-ORG
+te:కు	O
+te:అమూల్యమైన	O
+te:కప్పములు	O
+te:సమర్పించారు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:తోట	B-PER
+te:తరణి	I-PER
+te:''	O
+te:'	O
+
+te:గ్రామంలొ	O
+te:ఎక్కువగా	O
+te:తెలుగుదేశం	B-ORG
+te:పార్టీ	I-ORG
+te:రాజకీయంగా	O
+te:బలంగా	O
+te:ఉంది	O
+te:.	O
+
+te:దారిమార్పు	O
+te:నందమూరి	B-PER
+te:తారక	I-PER
+te:రామారావు	I-PER
+
+te:ఈ	O
+te:సినిమాలో	O
+te:3	O
+te:పాటలను	O
+te:ఆరుద్ర	B-PER
+te:రచించారు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:ఇరావెన్ను	O
+te:''	O
+te:'	O
+te:,	O
+te:వరంగల్	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:పాలకుర్తి	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+
+te:బిందుసారుడి	B-PER
+te:తర్వాత	O
+te:అతడి	O
+te:కుమారుడు	O
+te:అశోకుడు	B-PER
+te:రాజ్యపరిపాలన	O
+te:కోనసాగించారు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ఎ.	B-PER
+te:ఆర్.	I-PER
+te:రెహమాన్	I-PER
+
+te:తన	O
+te:నూరుగురు	O
+te:కుమారులు	O
+te:యుద్ధములో	O
+te:మరణించారు	O
+te:అని	O
+te:తెలుసుకున్న	O
+te:ధృతరాష్ట్రుడు	B-PER
+te:మొదలు	O
+te:నరికిన	O
+te:వృక్షంలాగా	O
+te:కూలి	O
+te:పోయాడు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:బురుండి	B-LOC
+te:''	O
+te:'	O
+
+te:దారిమార్పు	O
+te:జాతీయ	B-ORG
+te:రహదారి	I-ORG
+te:18	I-ORG
+te:(	I-ORG
+te:భారతదేశం	I-ORG
+te:)	I-ORG
+
+te:గబాన్	B-LOC
+te:దేశ	O
+te:జనసంఖ్యకు	O
+te:సమానం	O
+te:.	O
+
+te:జవహర్	B-ORG
+te:లాల్	I-ORG
+te:నెహ్రూ	I-ORG
+te:సాంకేతిక	I-ORG
+te:విశ్వవిద్యాలయం	I-ORG
+te:,	I-ORG
+te:కాకినాడ	I-ORG
+
+te:ఈ	O
+te:సినిమాలో	O
+te:''తెల్లారింది	O
+te:లెగండోయ్	O
+te:...	O
+te:మంచాలింక	O
+te:దిగండోయ్	O
+te:...	O
+te:''	O
+te:అనే	O
+te:పాటను	O
+te:సిరివెన్నెల	B-ORG
+te:సీతారామశాస్త్రి	I-ORG
+te:తానే	O
+te:రాసి	O
+te:స్వయంగా	O
+te:పాడాడు	O
+te:.	O
+
+te:ఇండోర్	B-ORG
+te:-	I-ORG
+te:భింద్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:మల్లవోలు	B-LOC
+te:(	I-LOC
+te:గూడూరు	I-LOC
+te:మండలం	I-LOC
+te:)	I-LOC
+
+te:ఎల్.వి.ప్రసాద్	B-PER
+te:దర్శకత్వంలో	O
+te:వచ్చిన	O
+te:ఈ	O
+te:చిత్రంలో	O
+te:ఆమె	O
+te:వసంతసేనగా	O
+te:'జీవించింది	O
+te:'	O
+te:.	O
+
+te:వారి	O
+te:తరువాత	O
+te:స్థానంలో	O
+te:భారతదేశం	B-LOC
+te:ఉంది	O
+te:.	O
+
+te:ముంబై	B-ORG
+te:ఎల్‌టీటీ	I-ORG
+te:-	I-ORG
+te:గోరఖ్‌పూర్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:ధర్మరాజు	B-ORG
+te:ధృతరాష్ట్రుడి	O
+te:వలన	O
+te:అతడి	O
+te:కుమారుల	O
+te:వలన	O
+te:తాము	O
+te:అనుభవించిన	O
+te:కష్టాలను	O
+te:,	O
+te:వారి	O
+te:తమకు	O
+te:చేసిన	O
+te:అపకారాలను	O
+te:మనసులోకి	O
+te:రానిచ్చేవాడు	O
+te:కాదు	O
+te:.	O
+
+te:జనకమహారాజు	O
+te:,	O
+te:పరశురాముడు	B-PER
+te:తమ	O
+te:రాజ్యాలను	O
+te:బ్రాహ్మణులకు	O
+te:దానంచేసాడు	O
+te:.	O
+
+te:అమరగాయకుడు	O
+te:ఘంటసాల	B-PER
+te:వెంకటేశ్వరరావు	I-PER
+te:పాడిన	O
+te:గ్రామఫోను	O
+te:రికార్డుల	O
+te:వలన	O
+te:ఈ	O
+te:పద్యాలు	O
+te:ఆంధ్రదేశమంతటా	O
+te:ఎంతగానో	O
+te:ప్రాచుర్యం	O
+te:పొందాయి	O
+te:.	O
+
+te:దారిమార్పు	O
+te:కె.	B-PER
+te:ఎస్.	I-PER
+te:చిత్ర	I-PER
+
+te:ఎన్	B-ORG
+te:టి	I-ORG
+te:టి	I-ORG
+te:డాటా	I-ORG
+
+te:దారిమార్పు	O
+te:భీంరావ్	B-PER
+te:రాంజీ	I-PER
+te:అంబేడ్కర్	I-PER
+
+te:'	O
+te:''	O
+te:బెలిజ్	B-LOC
+te:''	O
+te:'	O
+
+te:హిజ్రత్	B-ORG
+te:లేదా	O
+te:మదీనాకు	O
+te:వలస	O
+
+te:దారిమార్పు	O
+te:బెంగుళూరు	B-ORG
+te:నగర	I-ORG
+te:రైల్వేస్టేషన్	I-ORG
+
+te:దారిమార్పు	O
+te:కేంద్ర	B-ORG
+te:దర్యాప్తు	I-ORG
+te:సంస్థ	I-ORG
+
+te:'	O
+te:''	O
+te:స్వీడన్	B-LOC
+te:''	O
+te:'	O
+
+te:ఆఫ్ఘనిస్తాన్	B-LOC
+te:లో	O
+te:,	O
+te:కిండర్	O
+te:గార్టెన్	O
+te:కు	O
+te:సమానమైన	O
+te:పదం	O
+te:کودکستان	O
+te:,	O
+te:ఇది	O
+te:''కుడకిస్తాన్	O
+te:''	O
+te:గా	O
+te:ఉచ్చరించబడుతుంది	O
+te:(	O
+te:''కుడాక్	O
+te:''	O
+te:–	O
+te:అనగా	O
+te:పిల్లవాడు	O
+te:మరియు	O
+te:''స్తాన్	O
+te:''	O
+te:–	O
+te:అనగా	O
+te:భూమి	O
+te:అని	O
+te:అర్ధం	O
+te:)	O
+te:మరియు	O
+te:ఇది	O
+te:అసలైన	O
+te:విద్యా	O
+te:వ్యవస్థలో	O
+te:భాగం	O
+te:కాదు	O
+te:.	O
+
+te:18645	O
+te:ఈస్ట్	B-ORG
+te:కోస్ట్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:ఎన్	B-ORG
+te:టి	I-ORG
+te:టి	I-ORG
+te:డాటా	I-ORG
+
+te:ఇది	O
+te:ఆలయ	O
+te:పట్టణమైన	O
+te:ఉడిపి	B-LOC
+te:నుండి	O
+te:3	O
+te:కిలోమీటర్ల	O
+te:దూరంలో	O
+te:,	O
+te:మరియు	O
+te:మంగుళూరుకు	B-LOC
+te:ఉత్తరంగా	O
+te:65	O
+te:కిమీ	O
+te:(	O
+te:37	O
+te:మైళ్ళు	O
+te:)	O
+te:దూరంలో	O
+te:నెలకొని	O
+te:ఉంది	O
+te:.	O
+
+te:తరువాత	O
+te:వీరు	O
+te:చెన్నై	B-LOC
+te:వెళ్ళి	O
+te:సంగీతం	O
+te:మీద	O
+te:ఆసక్తి	O
+te:నిలిపారు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:చండీగఢ్	B-LOC
+te:''	O
+te:'	O
+
+te:ప్రసిద్ధ	O
+te:చిత్రకారుడు	O
+te:,	O
+te:సినీ	O
+te:దర్శకుడు	O
+te:బాపు	B-PER
+te:ఆయన	O
+te:రచించిన	O
+te:ఈ	O
+te:పుస్తకాన్నీ	O
+te:ఆధారంగా	O
+te:చేసుకునే	O
+te:తొలినాళ్ళలో	O
+te:అభ్యసించారు	O
+te:.	O
+
+te:అయినప్పటికీ	O
+te:శ్రీహరికోట	B-LOC
+te:లో	O
+te:లాగా	O
+te:ఇక్కడి	O
+te:నుండి	O
+te:శాటిలైట్లు	O
+te:ప్రయోగించబడడంలేదు	O
+te:.	O
+
+te:అన్నవరం	B-LOC
+te:(	O
+te:2006	O
+te:)	O
+
+te:'	O
+te:''	O
+te:అమితాబ్	B-PER
+te:బచ్చన్	I-PER
+te:''	O
+te:'	O
+te:''	O
+
+te:స్విట్జర్లాండ్‌లోని	B-LOC
+te:నాలుగు	O
+te:ముఖ్యభాషలలోను	O
+te:నాలుగు	O
+te:జాతీయగీతాలున్నాయి	O
+te:.	O
+
+te:ప్రకృతి	O
+te:ఆహ్వానాన్ని	O
+te:అందుకుని	O
+te:పురుషుని	O
+te:రూపంలో	O
+te:అవతరించిన	O
+te:శివుడు	B-ORG
+te:.	O
+
+te:శ్రీ	B-ORG
+te:వేంకటేశ్వర	I-ORG
+te:విశ్వవిద్యాలయం	I-ORG
+te:పరిశోధన	O
+te:శాఖతో	O
+te:అనుసంధానించబడి	O
+te:ఈ	O
+te:విభాగానికి	O
+te:గుర్తింపు	O
+te:తెచ్చే	O
+te:దిశగా	O
+te:ప్రయత్నాలు	O
+te:జరుగుతున్నాయి	O
+te:.	O
+
+te:మల్టీ	B-ORG
+te:మోడల్	I-ORG
+te:ట్రాన్స్‌పోర్ట్	I-ORG
+te:సిస్టమ్	I-ORG
+te:,	I-ORG
+te:హైదరాబాద్	I-ORG
+
+te:ధృతరాష్ట్రుడి	O
+te:మాటలు	O
+te:విన్న	O
+te:ధర్మరాజు	B-ORG
+te:``	O
+te:పెదనానగారూ	O
+te:!	O
+
+te:గౌతమ	B-PER
+te:బుద్ధుడు	I-PER
+te:ఈ	O
+te:కాలము	O
+te:నాటి	O
+te:వాడే	O
+te:.	O
+
+te:'	O
+te:''	O
+te:మానిరేవు	O
+te:''	O
+te:'	O
+te:,	O
+te:అనంతపురం	B-ORG
+te:జిల్లా	I-ORG
+te:,	O
+te:కల్యాణదుర్గం	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+te:.	O
+
+te:వన్డేలలో	O
+te:అతడి	O
+te:అత్యధిక	O
+te:స్కోరు	O
+te:ఆస్ట్రేలియాపై	B-LOC
+te:సాధించిన	O
+te:52	O
+te:పరుగులు	O
+te:.	O
+
+te:మీకు	O
+te:కలిగిన	O
+te:కష్టానికి	O
+te:ధర్మరాజు	B-ORG
+te:ఎంతో	O
+te:దుఃఖిస్తున్నాడు	O
+te:.	O
+
+te:కాల్పులకు	O
+te:నిరసనగా	O
+te:కొండా	B-PER
+te:లక్ష్మణ్	I-PER
+te:బాపూజీ	I-PER
+te:తన	O
+te:మంత్రి	O
+te:పదవికి	O
+te:రాజీనామా	O
+te:చేశారు	O
+te:.	O
+
+te:జపాన్	B-LOC
+te:ప్రపంచంలో	O
+te:పాడి	O
+te:ఉత్పత్తులను	O
+te:అధిక	O
+te:శాతంలో	O
+te:దిగుమతి	O
+te:చేసుకునే	O
+te:దేశంగా	O
+te:చెప్పవచ్చు	O
+te:.	O
+
+te:పొట్టి	B-ORG
+te:శ్రీరాములు	I-ORG
+te:తెలుగు	I-ORG
+te:విశ్వవిద్యాలయము	I-ORG
+
+te:ముంబై	B-ORG
+te:ఎల్‌టీటీ	I-ORG
+te:-	I-ORG
+te:గోరఖ్‌పూర్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:దారిమార్పు	O
+te:భారత	B-ORG
+te:జాతీయ	I-ORG
+te:కాంగ్రెస్	I-ORG
+
+te:అర్జునుడు	B-PER
+te:ద్రుపదుని	O
+te:బంధించి	O
+te:తెచ్చి	O
+te:ద్రోణునికి	O
+te:సమర్పించాడు	O
+te:.	O
+
+te:కెనడా	B-LOC
+te:లో	O
+te:జరిగిన	O
+te:తరువాతి	O
+te:రెండు	O
+te:టోర్నమెంట్లలో	O
+te:మిశ్రమ	O
+te:ఫలితాలు	O
+te:సాధించారు	O
+te:.	O
+
+te:గౌండమణి	O
+te:ఇండియా	B-LOC
+te:,	O
+te:తమిళనాడు	B-LOC
+te:,	O
+te:కోయంబత్తూర్	B-LOC
+te:లోని	O
+te:కన్నంపాలయం	O
+te:అన్న	O
+te:గ్రమంలో	O
+te:జన్మించాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:అల్	B-ORG
+te:అక్సా	I-ORG
+te:మస్జిద్	I-ORG
+
+te:ఇక	O
+te:నీకు	O
+te:కర్ణుడు	B-PER
+te:హాని	O
+te:చేయజాలడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:శ్రీపతి	B-PER
+te:పండితారాధ్యుల	I-PER
+te:బాలసుబ్రహ్మణ్యం	I-PER
+
+te:ఇండియన్‌	B-ORG
+te:ఇన్‌స్టిట్యూట్‌	I-ORG
+te:ఆఫ్‌	I-ORG
+te:టెక్నాలజీ	I-ORG
+te:మద్రాస్‌	I-ORG
+
+te:ఈయన	O
+te:మహారాజా	B-ORG
+te:ప్రభుత్వ	I-ORG
+te:సంగీత	I-ORG
+te:నృత్య	I-ORG
+te:కళాశాల	I-ORG
+te:లో	O
+te:పనిచేసారు	O
+te:.	O
+
+te:కాని	O
+te:అశ్వత్థామ	B-PER
+te:మాత్రం	O
+te:నిలిచి	O
+te:ఘటోత్కచునితో	O
+te:పోరుసాగిస్తూ	O
+te:ఘటోత్కచుని	O
+te:గుండెలకు	O
+te:గురి	O
+te:పెట్టి	O
+te:పది	O
+te:బాణములు	O
+te:వేసాడు	O
+te:.	O
+
+te:ఉత్తర	B-LOC
+te:ప్రదేశ్	I-LOC
+te:(	O
+te:405	O
+te:)	O
+
+te:సెమికార్పస్	B-LOC
+te:''	O
+te:(	O
+te:నల్ల	B-LOC
+te:జీడి	I-LOC
+te:)	O
+
+te:ఆయన	O
+te:ఇరవయ్యవ	O
+te:శతాబ్దపు	O
+te:భాషాశాస్త్ర	O
+te:కోవిదులు	O
+te:భద్రిరాజు	B-PER
+te:కృష్ణమూర్తి	I-PER
+te:గారికి	O
+te:సహధ్యాయ	O
+te:.	O
+
+te:తరువాత	O
+te:కర్ణుడు	B-PER
+te:ధర్మరాజుని	B-ORG
+te:ఎదుర్కొన్నాడు	O
+te:.	O
+
+te:సంగీతం	O
+te:సాంప్రదాయ	O
+te:కర్ణాటక	B-ORG
+te:రూపం	O
+te:మరియు	O
+te:అనేక	O
+te:ప్రముఖ	O
+te:శైలులలో	O
+te:ఉంటుంది	O
+te:.	O
+
+te:కమ్మ	B-ORG
+te:కులస్తులు	I-ORG
+te:8	O
+te:వార్డులలో	O
+te:నివసించే	O
+te:వారు	O
+te:.	O
+
+te:త్రైలింగస్వామి	B-PER
+te:(	O
+te:1607-1887	O
+te:)	O
+
+te:షెంగెన్	O
+te:ప్రాంత	O
+te:షెంగెన్	O
+te:ఆవశ్యకతలతో	O
+te:ఫ్రాన్స్	B-LOC
+te:పాలనలో	O
+te:ఉంది	O
+
+te:దారిమార్పు	O
+te:ఎం.	B-PER
+te:ఎం.	B-PER
+te:కీరవాణి	I-PER
+
+te:'	O
+te:''	O
+te:మొరోగోరో	O
+te:''	O
+te:'	O
+te:,	O
+te:టాన్జానియా	B-LOC
+
+te:దారిమార్పు	O
+te:సూదిని	B-PER
+te:జైపాల్	I-PER
+te:రెడ్డి	I-PER
+
+te:శివుడి	B-ORG
+te:మూర్తీభవించిన	O
+te:రూపమే	O
+te:కాలగతికి	O
+te:చిహ్నం	O
+te:.	O
+
+te:మొదటి	O
+te:రెండు	O
+te:స్థానాలలో	O
+te:న్యూయార్క్	B-LOC
+te:మరియు	O
+te:కాలిఫోర్నియా	B-LOC
+te:లు	O
+te:ఉన్నాయి	O
+te:.	O
+
+te:ఈయన	O
+te:బళ్ళారి	B-PER
+te:రాఘవతో	I-PER
+te:కలిసి	O
+te:``	O
+te:తెగని	O
+te:సమస్య	O
+te:''	O
+te:అనే	O
+te:నాటకాన్ని	O
+te:రచించాడు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:బార్లపూడి	O
+te:''	O
+te:'	O
+te:,	O
+te:కృష్ణా	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:మొవ్వ	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ధొండొ	B-PER
+te:కేశవ	I-PER
+te:కర్వే	I-PER
+
+te:జాతీయ	B-ORG
+te:భూభౌతిక	I-ORG
+te:పరిశోధనా	I-ORG
+te:సంస్థ	I-ORG
+
+te:దీనిని	O
+te:సముద్రాల	B-PER
+te:రాఘవాచార్య	I-PER
+te:రచించారు	O
+te:.	O
+
+te:అలాంటి	O
+te:ఒక	O
+te:ఒంగోలు	B-LOC
+te:పర్యటనలో	O
+te:వడదెబ్బకు	O
+te:గురై	O
+te:,	O
+te:నీరసించి	O
+te:హైదరాబాదులో	B-LOC
+te:ఆసుపత్రిలో	O
+te:చేర్పించబడ్డాడు	O
+te:.	O
+
+te:సైన్య	O
+te:వీక్షకులు	O
+te:లాస్	B-LOC
+te:ఏంజలెస్	I-LOC
+te:,	O
+te:కాలిఫోర్నియా	B-LOC
+te:ప్రాంతంలో	O
+te:ఒక	O
+te:గుర్తు	O
+te:తెలియని	O
+te:విమానాన్ని	O
+te:కళ్ళతో	O
+te:చూసారు	O
+te:మరియు	O
+te:రాడార్తో	O
+te:గుర్తించారు	O
+te:.	O
+
+te:ఆ	O
+te:గీతను	O
+te:అనుసరించి	O
+te:పరశురాముడు	B-PER
+te:భూదానము	O
+te:చేసాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ఎం.	B-PER
+te:ఎస్.	I-PER
+te:నారాయణ	I-PER
+
+te:ఆయన	O
+te:తన	O
+te:విద్యాభ్యాసం	O
+te:కొనసాగించడానికి	O
+te:మైసూర్	B-LOC
+te:వెళ్లి	O
+te:అక్కడి	O
+te:వెస్లీ	O
+te:ఉన్నత	O
+te:పాఠశాలలో	O
+te:తన	O
+te:ఉన్నత	O
+te:పాఠశాల	O
+te:విద్యను	O
+te:పూర్తిచేసాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:సుల్తాన్	B-PER
+te:సలాహుద్దీన్	I-PER
+te:ఒవైసీ	I-PER
+
+te:దారిమార్పు	O
+te:గురజాడ	B-PER
+te:కృష్ణదాసు	I-PER
+te:వెంకటేష్	I-PER
+
+te:రైలు	O
+te:మార్గము	O
+te:ద్వారా	O
+te:కైకలూరు	B-LOC
+te:చేరి	O
+te:అటుపై	O
+te:రోడ్డు	O
+te:ద్వారా	O
+te:ఈ	O
+te:ఊరు	O
+te:చేరవచ్చు	O
+te:.	O
+
+te:16వ	O
+te:శతాబ్దంలో	O
+te:మొఘల్	B-LOC
+te:సామ్రాజ్యం	I-LOC
+te:స్థాపించబడినది	O
+te:,	O
+te:కానీ	O
+te:18వ	O
+te:శతాబ్దంలో	O
+te:క్షీణించినది	O
+te:.	O
+
+te:రెండవ	O
+te:శతాబ్దంలో	O
+te:చైనా	B-LOC
+te:ఆడారని	O
+te:ఆధారాలు	O
+te:వున్నాయి	O
+te:.	O
+
+te:19వ	O
+te:శతాబ్ద	O
+te:మధ్యకాలంలో	O
+te:ఇంగ్లాండులోని	B-LOC
+te:ప్రభుత్వ	O
+te:పాఠశాలలలో	O
+te:ఆడబడిన	O
+te:ఫుట్బాలు	O
+te:యొక్క	O
+te:వివిధ	O
+te:రాకాలని	O
+te:ఏకం	O
+te:చేయడానికి	O
+te:ఫుట్బాలు	O
+te:యొక్క	O
+te:నియమాలు	O
+te:రచించడం	O
+te:జరిగింది	O
+te:.	O
+
+te:21125	O
+te:ఇండోర్	B-ORG
+te:-	I-ORG
+te:భింద్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:'	O
+te:''	O
+te:లిబియా	B-LOC
+te:''	O
+te:'	O
+
+te:తన	O
+te:ఊరివాడైన	O
+te:వీరేందర్	B-PER
+te:సెహ్వాగ్	I-PER
+te:తో	O
+te:కలిసి	O
+te:అతను	O
+te:203-పరుగుల	O
+te:భాగస్వామ్యాన్ని	O
+te:కూడా	O
+te:కలిగి	O
+te:ఉన్నాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ఇండియన్	B-ORG
+te:ప్రీమియర్	I-ORG
+te:లీగ్	I-ORG
+
+te:అందుకు	O
+te:వారు	O
+te:చెప్పిన	O
+te:కారణం	O
+te:ఏమిటంటే	O
+te:,	O
+te:ఆ	O
+te:ప్రాంతాలు	O
+te:భారత్‌కు	O
+te:దుర్గమంగా	O
+te:ఉంటాయి	O
+te:,	O
+te:పెద్ద	O
+te:రేవు	O
+te:పట్టణమైన	O
+te:చిట్టాగాంగ్‌	O
+te:(	O
+te:ఇప్పుడు	O
+te:బంగ్లాదేశ్‌లో	B-LOC
+te:ఉంది	O
+te:)	O
+te:కు	O
+te:కాస్త	O
+te:ఉపశమనాన్ని	O
+te:అందుబాటులో	O
+te:ఉంచాలి	O
+te:.	O
+
+te:కానీ	O
+te:బాల్యమంతా	O
+te:చైనాలోనే	B-LOC
+te:గడిపింది	O
+te:.	O
+
+te:'	O
+te:''	O
+te:రొమేనియా	B-LOC
+te:''	O
+te:'	O
+
+te:వాటిలో	O
+te:త్యాగరాజు	B-PER
+te:తెలుగులో	O
+te:రచించినవి	O
+te:చాలా	O
+te:ప్రాముఖ్యం	O
+te:పొందినాయి	O
+te:.	O
+
+te:ఆయన	O
+te:దాతృత్వానికి	O
+te:అబ్బురపడి	O
+te:మహాత్మా	B-PER
+te:గాంధీ	I-PER
+te:ఆయనను	O
+te:'	O
+te:''	O
+te:విశ్వదాత	O
+te:''	O
+te:'	O
+te:అని	O
+te:కొనియాడాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:భారత	B-ORG
+te:పురాతత్వ	I-ORG
+te:శాఖ	I-ORG
+
+te:పాకిస్తాన్	B-LOC
+te:విభజన	O
+te:తరువాత	O
+te:వ్యాపారం	O
+te:ఆపివేయబడింది	O
+te:.	O
+
+te:కర్ణుడు	B-PER
+te:వారిని	O
+te:గెలుస్తానని	O
+te:చెప్తూనే	O
+te:మరణించాడు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:కలమడుగు	O
+te:''	O
+te:'	O
+te:,	O
+te:ఆదిలాబాదు	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:జన్నారం	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ప్రే	B-LOC
+te:విహార	I-LOC
+te:దేవాలయం	I-LOC
+
+te:మల్టీ	B-ORG
+te:మోడల్	I-ORG
+te:ట్రాన్స్‌పోర్ట్	I-ORG
+te:సిస్టమ్	I-ORG
+te:,	I-ORG
+te:హైదరాబాద్	I-ORG
+
+te:దారిమార్పు	O
+te:ఎల్.	B-PER
+te:బి.	I-PER
+te:శ్రీరామ్	I-PER
+
+te:నా	O
+te:మీద	O
+te:కలిగిన	O
+te:వాత్సల్యంతో	O
+te:నా	O
+te:గురువైన	O
+te:పరశురాముడు	B-PER
+te:దానిని	O
+te:నాకు	O
+te:నాకు	O
+te:ఇచ్చాడు	O
+te:.	O
+
+te:ప్రొద్దుటూరు	B-LOC
+te:సమీపంలోని	O
+te:దువ్వూరు	B-LOC
+te:ఖజానాను	O
+te:కూడా	O
+te:దోచుకున్నాడు	O
+te:.	O
+
+te:అది	O
+te:చూసిన	O
+te:బ్రహ్మ	B-PER
+te:``	O
+te:మహాదేవా	O
+te:!	O
+
+te:''	O
+te:గీతా	B-PER
+te:సింగ్	I-PER
+te:''	O
+
+te:ఐరోపా	B-LOC
+te:,	O
+te:గ్రీన్‌ల్యాండ్	B-LOC
+te:మరియు	O
+te:ఆఫ్రికాలో	B-LOC
+te:కొన్ని	O
+te:భాగాలు	O
+te:,	O
+te:కేవలం	O
+te:సరిసంఖ్యల	O
+te:గుణిజాలను	O
+te:ఉపయోగిస్తాయి	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ఆంధ్ర	B-ORG
+te:ప్రదేశ్	I-ORG
+te:రాష్ట్ర	I-ORG
+te:రోడ్డు	I-ORG
+te:రవాణా	I-ORG
+te:సంస్థ	I-ORG
+
+te:ధర్మరాజు	B-ORG
+te:బంగారముతో	O
+te:చేసిన	O
+te:వస్తువులను	O
+te:పంపించాడు	O
+te:.	O
+
+te:సుయోధనుడు	O
+te:ఏడు	O
+te:వందల	O
+te:రధములతో	O
+te:ధర్మరాజును	B-ORG
+te:చుట్టుముట్టాడు	O
+te:.	O
+
+te:బుద్దికాం	O
+te:మరియు	O
+te:బ్లైర్	O
+te:లు	O
+te:బర్మా	B-ORG
+te:వెళ్ళిన	O
+te:వెంటనే	O
+te:తమ	O
+te:సంబంధాలను	O
+te:కోల్పోయారు	O
+te:,	O
+te:మరియు	O
+te:ఆమెకు	O
+te:అతని	O
+te:మీద	O
+te:జాలి	O
+te:లేకుండా	O
+te:పోయింది	O
+te:.	O
+
+te:ప్రవేశాలను	O
+te:ఎన్.టి.ఆర్.	B-ORG
+te:ఆరోగ్యశాస్త్ర	I-ORG
+te:విశ్వవిద్యాలయము	I-ORG
+te:ఇంటర్లో	O
+te:మార్కులు	O
+te:ఆధారంగా	O
+te:నిర్వహిస్తుంది	O
+te:.	O
+
+te:అప్పటికి	O
+te:,	O
+te:విశాఖపట్నం	B-LOC
+te:జిల్లా	I-LOC
+te:ఏర్పడలేదు	O
+te:)	O
+te:.	O
+
+te:జార్జియా	B-LOC
+te:మరియు	O
+te:ఇరాన్	B-LOC
+te:మీదుగా	O
+te:భూమార్గాలు	O
+te:తగినంతగా	O
+te:అభివృద్ధి	O
+te:చేయబడ	O
+te:లేదు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:కోడి	B-PER
+te:రామ్మూర్తి	I-PER
+te:నాయుడు	I-PER
+
+te:``	O
+te:వాక్యం	O
+te:రసాత్మకం	O
+te:కావ్యం	O
+te:''	O
+te:అని	O
+te:నిర్వచనం..	O
+te:రసవంతమైన	O
+te:వాక్యమే	O
+te:కావ్యము	B-ORG
+te:.	O
+
+te:వ్యాసుడు	B-PER
+te:ఇంకా	O
+te:ఇలా	O
+te:చెప్పసాగాడు.	O
+te:``	O
+
+te:దారిమార్పు	O
+te:మక్కా	B-ORG
+te:మసీదు	I-ORG
+te:(	I-ORG
+te:హైదరాబాదు	I-ORG
+te:)	I-ORG
+
+te:బిధాన్	B-PER
+te:చంద్ర	I-PER
+te:రాయ్	I-PER
+
+te:అందరి	O
+te:తిట్లను	O
+te:భరిస్తూ	O
+te:ధర్మరాజు	B-ORG
+te:ధృతరాష్ట్రుడి	O
+te:వద్దకు	O
+te:వెళ్ళాడు	O
+te:.	O
+
+te:ఇది	O
+te:108	O
+te:వైష్ణవ	B-ORG
+te:దివ్యదేశాలు	I-ORG
+te:లో	O
+te:ఒకటి	O
+te:.	O
+
+te:వారి	O
+te:పూర్వీకులు	O
+te:వైఎస్ఆర్	B-LOC
+te:జిల్లా	I-LOC
+te:సింహాద్రిపురం	B-LOC
+te:గ్రామానికి	O
+te:చెందినవారు	O
+te:.	O
+
+te:శంఖవరంలో	B-LOC
+te:ఉన్నత	O
+te:పాఠశాలలో	O
+te:చేరాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ఆంధ్ర	B-ORG
+te:ప్రదేశ్	I-ORG
+te:రాష్ట్ర	I-ORG
+te:రోడ్డు	I-ORG
+te:రవాణా	I-ORG
+te:సంస్థ	I-ORG
+
+te:17201	O
+te:/	O
+te:02	O
+te:గోల్కొండ	B-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:శల్యుని	O
+te:మీద	O
+te:అతని	O
+te:పెద్ద	O
+te:సైన్యం	O
+te:మీద	O
+te:పాండవులు	B-PER
+te:ఎన్నో	O
+te:ఆశలు	O
+te:పెట్టుకున్నారు	O
+te:.	O
+
+te:కర్ణుడు	B-PER
+te:మరొక	O
+te:విల్లు	O
+te:తీసుకుని	O
+te:భీమసేనుడి	O
+te:మీద	O
+te:శర	O
+te:పరంపర	O
+te:గుప్పిస్తున్నాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ఇంటర్నెట్	B-ORG
+te:విజ్ఞాన	I-ORG
+te:సర్వస్వము	I-ORG
+
+te:కుడి	O
+te:వెంట్రికిల్	O
+te:జర్మనీలోని	B-LOC
+te:ఫ్రాంక్‌ఫర్ట్‌కు	O
+te:చెందిన	O
+te:డాక్టర్‌	O
+te:లుడ్విగ్‌	O
+te:రెన్‌	O
+te:చేశాడు	O
+te:.	O
+
+te:ఇతడు	O
+te:నందమూరి	B-PER
+te:తారక	I-PER
+te:రామారావు	I-PER
+te:పెద్ద	O
+te:కుమారుడు	O
+te:.	O
+
+te:అతను	O
+te:బోస్‌ను	O
+te:బెర్లిన్	B-LOC
+te:పంపాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:పాములపర్తి	B-PER
+te:వెంకట	I-PER
+te:నరసింహారావు	I-PER
+
+te:2014	B-ORG
+te:లో	O
+te:తెలంగాణ	B-LOC
+te:గా	O
+te:రాష్ట్రం	O
+te:విడిపోయింది	O
+te:.	O
+
+te:అర్జునుడు	B-PER
+te:వారిని	O
+te:తన	O
+te:బాణములకు	O
+te:ఎరగా	O
+te:వేసాడు	O
+te:.	O
+
+te:ఇంకా	O
+te:మామిడి	B-LOC
+te:తొటాలూ	O
+te:కూడా	O
+te:వూన్నాయి	O
+te:.	O
+
+te:అనుగ్రహించిన	O
+te:శివుడు	B-ORG
+te:దిజ	O
+te:గంగను	O
+te:భువికి	O
+te:రాగానే	O
+te:తన	O
+te:తలపైమోపి	O
+te:,	O
+te:జటాజూటంలో	O
+te:బంధించాడు	O
+te:.	O
+
+te:వీరి	O
+te:కుమార్తె	O
+te:మల్లికా	B-PER
+te:సారాభాయ్.ఈమె	I-PER
+te:కూడా	O
+te:మంచి	O
+te:నర్తకి	O
+te:.	O
+
+te:దక్షిణ	B-ORG
+te:మధ్య	I-ORG
+te:రైల్వే	I-ORG
+te:రైళ్ళు	I-ORG
+
+te:ఈ	O
+te:తరహా	O
+te:హాకీని	O
+te:ఉత్తర	B-LOC
+te:అమెరికా	I-LOC
+te:,	O
+te:ఐరోపా	B-LOC
+te:మరియు	O
+te:ప్రపంచంలో	O
+te:ఇతరదేశాలలో	O
+te:ఎక్కవగా	O
+te:ఆడుతుంటారు	O
+te:.	O
+
+te:''	O
+te:శ్రద్దా	B-PER
+te:దాస్	I-PER
+te:''	O
+
+te:ఎందుకంటే	O
+te:వాల్మీకి	B-PER
+te:మొదటి	O
+te:శ్లోకం	O
+te:(	O
+te:``	O
+te:మాన్నిషాద	O
+te:''	O
+te:)	O
+te:కరుణ	O
+te:నుంచే	O
+te:ఉద్భవించింది	O
+te:.	O
+
+te:దారిమార్పు	O
+te:హైదరాబాదు	B-ORG
+te:రైల్వే	I-ORG
+te:స్టేషను	I-ORG
+
+te:''	O
+te:మంజు	B-PER
+te:సింగ్	I-PER
+te:''	O
+
+te:సంగం	B-LOC
+te:(	I-LOC
+te:నెల్లూరు	I-LOC
+te:జిల్లా	I-LOC
+te:)	I-LOC
+
+te:'	O
+te:''	O
+te:నెదర్లాండ్స్	B-LOC
+te:''	O
+te:'	O
+
+te:12717	O
+te:రత్నాచల్	B-ORG
+te:సూపర్‌ఫాస్ట్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:దారిమార్పు	O
+te:దేశాల	B-ORG
+te:జాబితా	I-ORG
+te:–	I-ORG
+te:వైశాల్యం	I-ORG
+te:క్రమంలో	I-ORG
+
+te:'	O
+te:''	O
+te:మేదుకూరు	O
+te:''	O
+te:'	O
+te:,	O
+te:కృష్ణా	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:గంపలగూడెం	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+
+te:తరువాత	O
+te:కొంతకాలానికి	O
+te:న్యూయార్క్	B-LOC
+te:నగరానికి	O
+te:చెందిన	O
+te:వైద్యుడు	O
+te:డా	O
+
+te:ఫైనల్‌లో	O
+te:,	O
+te:అతని	O
+te:ముఖ్య	O
+te:ప్రత్యర్థి	O
+te:రోజర్	B-PER
+te:ఫెడరర్	I-PER
+te:మీద	O
+te:7–6	O
+te:(	O
+te:4	O
+te:)	O
+te:,	O
+te:7–6	O
+te:(	O
+te:3	O
+te:)	O
+te:తో	O
+te:గెలుపొందాడు	O
+te:.	O
+
+te:భారతీయ	B-ORG
+te:జనతా	I-ORG
+te:పార్టీ	I-ORG
+te:అభ్యర్థి	O
+te:ప్రకాష్‌భావ్	O
+te:తెంబూర్నేకు	O
+te:62,238	O
+te:ఓట్లు	O
+te:లభించాయి	O
+te:.	O
+
+te:ఈ	O
+te:ఆలయాన్ని	O
+te:విశ్వామిత్రుడు	B-ORG
+te:నిర్మించాడని	O
+te:,	O
+te:విగ్రహాన్ని	O
+te:కూడ	O
+te:తనే	O
+te:ప్రతిష్టింఛాడని	O
+te:భక్తుల	O
+te:విస్వాసం	O
+te:.	O
+
+te:బల్గేరియాలో	B-LOC
+te:తాటాకు	O
+te:ఆదివారాన్ని	O
+te:స్వెంట్నిత్సగా	O
+te:పిలుస్తారు	O
+te:.	O
+
+te:త్యాగరాజాదులచే	B-PER
+te:కొనియాడబడిన	O
+te:ఈయన	O
+te:లయజ్ఞానము	O
+te:శ్లాఘనీయమైనది	O
+te:.	O
+
+te:మయుడు	B-PER
+te:తారకాక్షుడికి	O
+te:సువర్ణపురమును	O
+te:,	O
+te:కమలాక్షునికి	O
+te:రజిత	O
+te:పురమును	O
+te:,	O
+te:విద్యున్మాలికి	O
+te:ఇనుప	O
+te:పురమును	O
+te:నిర్మించి	O
+te:ఇచ్చాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ఆఫ్రికా	B-LOC
+te:రాక్షస	I-LOC
+te:నత్త	I-LOC
+
+te:అది	O
+te:చూసిన	O
+te:వ్యాసుడు	B-PER
+te:తన	O
+te:కుమారుడికి	O
+te:వైరాగ్యం	O
+te:బోధిస్తూ	O
+te:``	O
+te:కుమారా	O
+te:!	O
+
+te:నిజాం	B-ORG
+te:ప్రభుత్వంలో	O
+te:రైల్వేలో	O
+te:పనిచేశారు	O
+te:.	O
+
+te:అమెరికా	B-LOC
+te:సంయుక్త	I-LOC
+te:రాష్ట్రాలు	I-LOC
+te:సుమారు	O
+te:సగం	O
+te:(	O
+te:~42.5	O
+te:%	O
+te:)	O
+te:ఉత్పత్తికి	O
+te:కారణమై	O
+te:అగ్రస్థానంలో	O
+te:నిలిచింది	O
+te:.	O
+
+te:దక్షిణ	B-ORG
+te:మధ్య	I-ORG
+te:రైల్వే	I-ORG
+te:జోను	I-ORG
+
+te:ఇతడు	O
+te:పుట్టి	O
+te:పెరిగింది	O
+te:అంతా	O
+te:భీమవరంలోనే	B-LOC
+te:.	O
+
+te:క్షత్రియుడైన	O
+te:కుశికుడికి	O
+te:మనుమడుగా	O
+te:బ్రాహ్మణత్వము	O
+te:అవలంబించిన	O
+te:విశ్వామిత్రుడు	B-ORG
+te:జన్మిస్తాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:పుల్లారెడ్డి	B-ORG
+te:నేతి	I-ORG
+te:మిఠాయిలు	I-ORG
+
+te:ధర్మరాజు	B-ORG
+te:విదురుని	O
+te:సాదరంగా	O
+te:ఆహ్వానించాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ఆచార్య	B-ORG
+te:జయశంకర్	I-ORG
+te:వ్యవసాయ	I-ORG
+te:విశ్వవిద్యాలయము	I-ORG
+
+te:మతపరమయిన	O
+te:మరియు	O
+te:ధార్మికపరమయిన	O
+te:భాషగా	O
+te:అరబ్బీ	B-ORG
+te:ఉండేది	O
+te:.	O
+
+te:AF	O
+te:CM	O
+te:CMR	O
+te:120	O
+te:కామెరూన్	B-LOC
+
+te:అంతేకాక	O
+te:ఇది	O
+te:పారిశ్రామికంగా	O
+te:పశ్చిమ	B-LOC
+te:బెంగాల్	I-LOC
+te:రాష్ట్రం	O
+te:నుండి	O
+te:జార్ఖండ్	B-LOC
+te:,	O
+te:ఒడిషా	B-LOC
+te:,	O
+te:మధ్య	B-LOC
+te:ప్రదేశ్	I-LOC
+te:మరియు	O
+te:ఉత్తర	B-LOC
+te:ప్రదేశ్	I-LOC
+te:రాష్త్రాలకు	O
+te:ద్వారంగా	O
+te:ఉంది	O
+te:.	O
+
+te:ఇక్కడ	O
+te:ఒకే	O
+te:ప్రాంగణంలో	O
+te:రెండు	O
+te:శివాలయాలున్నాయి	B-ORG
+te:.	O
+
+te:తర్వాత	O
+te:కాలంలో	O
+te:బెంజమిన్	B-PER
+te:ఫ్రాంక్లిన్	I-PER
+te:మెఘాలలో	O
+te:గల	O
+te:మెరుపులలో	O
+te:విధ్యుత్	O
+te:శక్తి	O
+te:ఉన్నదని	O
+te:లోహపు	O
+te:గాలిపటాలను	O
+te:ఎగురవేసి	O
+te:దానికి	O
+te:లోహపు	O
+te:తీగలు	O
+te:కట్టి	O
+te:నిర్థారించాడు	O
+te:.	O
+
+te:పెన్సిల్వేనియా	B-ORG
+te:విశ్వవిద్యాలయం	I-ORG
+te:స్థాపించబడింది	O
+te:.	O
+
+te:దారిమార్పు	O
+te:మొదటి	B-PER
+te:బుక్క	I-PER
+te:రాయలు	I-PER
+
+te:ఉలవపాడు	B-LOC
+te:లలో	O
+te:మామిడీ	O
+te:,	O
+te:సపొటా	O
+te:తోటలు	O
+te:ప్రసిద్ధి	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ముహమ్మద్	B-PER
+te:అలీ	I-PER
+te:జిన్నా	I-PER
+
+te:ప్రముఖ	O
+te:నటుడు	O
+te:'	O
+te:''	O
+te:ధర్మవరపు	B-PER
+te:సుబ్రహ్మణ్యం	I-PER
+te:''	O
+te:'	O
+te:ఈ	O
+te:గ్రామస్తుడే	O
+te:.	O
+
+te:ముంబై	B-ORG
+te:ఎల్‌టీటీ	I-ORG
+te:-	I-ORG
+te:గోరఖ్‌పూర్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:ఒకే	O
+te:విధంగా	O
+te:ఉన్న	O
+te:LSDB	O
+te:నకళ్ళు	O
+te:కాలానుగునంగా	O
+te:అన్ని	O
+te:OSPF	O
+te:రౌటర్స్	B-PER
+te:పై	O
+te:ముంచెత్తటం	O
+te:ద్వారా	O
+te:అప్డేట్	O
+te:చెయ్యబడతాయి	O
+te:.	O
+
+te:ముహమ్మద్	B-ORG
+te:ఇబ్న్	I-ORG
+te:మూసా	I-ORG
+te:అల్	I-ORG
+te:క్వారిజిమి	I-ORG
+
+te:ఈ	O
+te:గ్రంథం	O
+te:శైవభక్తుల	O
+te:జీవితాల్లో	O
+te:శివుడుచేసిన	B-ORG
+te:పలు	O
+te:లీలల	O
+te:సంకలనం	O
+te:.	O
+
+te:దునేదిన్‌లో	O
+te:భారత్‌తో	B-ORG
+te:జరిగిన	O
+te:మూడో	O
+te:వన్డేలో	O
+te:అతను	O
+te:అత్యధిక	O
+te:స్కోరు	O
+te:సాధించాడు	O
+te:.	O
+
+te:జ్ఞాని	B-PER
+te:జైల్	I-PER
+te:సింగ్	I-PER
+
+te:కపిధ్వజము	O
+te:రెపరెపలాడగా	O
+te:అర్జునుడు	B-PER
+te:యుద్ధరంగ	O
+te:ప్రవేశం	O
+te:చేసాడు	O
+te:.	O
+
+te:గురజాడ	B-PER
+te:అప్పారావు	I-PER
+te:కలం	O
+te:నుండి	O
+te:భాషలోకి	O
+te:ప్రవహించిన	O
+te:గొప్ప	O
+te:వాక్యాల్లో	O
+te:ఇది	O
+te:ఒకటి	O
+te:.	O
+
+te:ప్రధాన	B-ORG
+te:ఎన్నికల	I-ORG
+te:కమిషను	I-ORG
+te:పార్టీలకు	O
+te:గుర్తింపునిస్తుంది	O
+te:.	O
+
+te:'	O
+te:''	O
+te:అసోం	B-LOC
+te:''	O
+te:'	O
+
+te:వీటిని	O
+te:పొగాకు	B-LOC
+te:(	O
+te:Tobacco	O
+te:)	O
+te:కోసం	O
+te:పెంచుతారు	O
+te:.	O
+
+te:దుర్యోధనుడు	B-PER
+te:అసూయతో	O
+te:రోజురోజుకు	O
+te:కృశించి	O
+te:పోసాగాడు	O
+te:.	O
+
+te:దానిని	O
+te:బ్రహ్మ	B-PER
+te:దక్షుడికి	O
+te:ఉపదేశించాడు	O
+te:.	O
+
+te:ఈయన	O
+te:హైదరాబాదు	B-LOC
+te:నగరంలో	O
+te:తన	O
+te:పరిశోధన	O
+te:జరిపాడు	O
+te:.	O
+
+te:**	O
+te:వేరీడ్	B-LOC
+te:లోరికీట్	I-LOC
+te:,	O
+te:''ప్సిట్టెయుటెలస్	O
+te:వెర్సికలర్	O
+te:''	O
+
+te:'	O
+te:''	O
+te:అయ్యనపల్లె	O
+te:''	O
+te:'	O
+te:,	O
+te:శ్రీ	B-LOC
+te:పొట్టి	I-LOC
+te:శ్రీరాములు	I-LOC
+te:నెల్లూరు	I-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:దుత్తలూరు	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+te:.	O
+
+te:లాల్	B-PER
+te:బెహారీ	I-PER
+te:డే	I-PER
+te:(	O
+te:1824-1892	O
+te:)	O
+
+te:దారిమార్పు	O
+te:మైలవరం	B-LOC
+te:(	I-LOC
+te:కృష్ణా	I-LOC
+te:జిల్లా	I-LOC
+te:)	I-LOC
+
+te:శ్రీ	B-PER
+te:కృష్ణదేవ	I-PER
+te:రాయలు	I-PER
+te:కొలువులో	O
+te:ఉండి	O
+te:ఆయనకు	O
+te:సేవచేసిన	O
+te:ప్రముఖ	O
+te:రాజసేవకులు	O
+te:వీర్లు	O
+te:.	O
+
+te:కర్ణుడు	B-PER
+te:ఎంతటి	O
+te:వీరుడైనా	O
+te:యుద్ధనైపుణ్యంలో	O
+te:కాని	O
+te:కార్య	O
+te:సాధనలో	O
+te:కాని	O
+te:మీకు	O
+te:సాటి	O
+te:రాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:మహబూబ్	B-LOC
+te:నగర్	I-LOC
+te:జిల్లా	I-LOC
+
+te:ఆ	O
+te:తరువాత	O
+te:దొరికిన	O
+te:పాత్రల్లో	O
+te:పురాతనమైనవి	O
+te:చైనా	B-LOC
+te:మరియు	O
+te:భారత	B-LOC
+te:దేశముల	I-LOC
+te:నుండి	O
+te:లభిస్తున్నాయి	O
+te:.	O
+
+te:వేమన	B-PER
+te:స్ఫూర్తిగా	O
+te:తీసుకొని	O
+te:``	O
+te:మినీకవిత	O
+te:''	O
+te:ఒక	O
+te:కొత్త	O
+te:ప్రక్రియగా	O
+te:నిలదొక్కుకొనటానికి	O
+te:విశేషకృషి	O
+te:చేస్తున్నారు	O
+te:.	O
+
+te:(	O
+te:ఇది	O
+te:వరకు	O
+te:ఈ	O
+te:పేరు	O
+te:గాడిచర్ల	B-PER
+te:హరిసర్వోత్తమ	I-PER
+te:రావు	I-PER
+te:ప్రతిపాదించారు	O
+te:అనే	O
+te:ఆలోచన	O
+te:వ్యాప్తిలో	O
+te:ఉండేది	O
+te:.	O
+
+te:సూర్య	B-PER
+te:(	I-PER
+te:నటుడు	I-PER
+te:)	I-PER
+
+te:వీరు	O
+te:పాడిన	O
+te:ఆ	O
+te:గేయాలు	O
+te:కడప	B-LOC
+te:ఆకాశవాణి	B-ORG
+te:కేంద్రం	O
+te:నుండి	O
+te:ప్రసారంకాబడ్డాయి	O
+te:.	O
+
+te:ఇండియన్	B-ORG
+te:ఇన్స్టిట్యూట్	I-ORG
+te:ఆఫ్	I-ORG
+te:టెక్నాలజీ	I-ORG
+te:ఢిల్లీ	I-ORG
+
+te:AS	O
+te:BD	O
+te:BGD	O
+te:050	O
+te:బంగ్లాదేశ్	B-LOC
+
+te:ధవళేశ్వరం	B-ORG
+te:ఆనకట్ట	I-ORG
+te:నిర్మాణం	O
+te:పూర్తి	O
+te:.	O
+
+te:దారిమార్పు	O
+te:రాజా	B-PER
+te:రాధా	I-PER
+te:రెడ్డి	I-PER
+
+te:'	O
+te:''	O
+te:ఫాతిమా	B-PER
+te:''	O
+te:'	O
+
+te:భీష్ముడు	B-PER
+te:అంతటి	O
+te:వాడు	O
+te:అర్జునుడి	O
+te:చేత	O
+te:ఓడి	O
+te:పోయాడు	O
+te:.	O
+
+te:12717	O
+te:రత్నాచల్	B-ORG
+te:సూపర్‌ఫాస్ట్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:దానికి	O
+te:ధర్మరాజు	B-ORG
+te:``	O
+te:అయ్యా	O
+te:!	O
+
+te:Machilipatnam	O
+te:కైకాల	B-PER
+te:సత్యనారాయణ	I-PER
+te:TDP	O
+
+te:మొదట	O
+te:రేకుల	O
+te:షెడ్డు	O
+te:నుండి	O
+te:ప్రారంభమైన	O
+te:సంస్థ	O
+te:తమ	O
+te:కోసం	O
+te:హైదరాబాదులో	B-LOC
+te:మూడు	O
+te:అంతస్థుల	O
+te:భవనాన్ని	O
+te:నిర్మించుకున్నారు	O
+te:.	O
+
+te:ఈ	O
+te:గ్రామము	O
+te:వైఎస్ఆర్	B-LOC
+te:జిల్లా	I-LOC
+te:అట్లూరు	B-LOC
+te:మండలము	O
+te:లో	O
+te:ఉన్నది	O
+te:.	O
+
+te:కాచిగూడ-చెన్నై	B-ORG
+te:ఎగ్మోర్	I-ORG
+te:ఎక్స్	I-ORG
+te:ప్రెస్	I-ORG
+
+te:భువన	O
+te:విజయం	O
+te:పబ్లికేషన్స్	O
+te:,	O
+te:విజయవాడ	B-LOC
+
+te:**	O
+te:నల్ల	B-LOC
+te:రెక్కల	I-LOC
+te:లోరీ	I-LOC
+te:,	O
+te:''ఇయోస్	O
+te:సయానోజీనియా	O
+te:''	O
+
+te:బీజింగ్	B-LOC
+te:,	O
+te:చైనా	B-LOC
+te:(	O
+te:2005	O
+te:)	O
+
+te:దీని	O
+te:క్రింద	O
+te:కూసుమంచి	B-LOC
+te:మరియు	O
+te:నేలకొండపల్లి	B-LOC
+te:మండల	O
+te:గ్రామాల్లో	O
+te:కొన్ని	O
+te:వందల	O
+te:ఎకరాల	O
+te:భూములకు	O
+te:నీటి	O
+te:వసతి	O
+te:కలుగుతున్నది	O
+te:.	O
+
+te:హైదరాబాదు	B-ORG
+te:దక్కన్	I-ORG
+te:రైల్వే	I-ORG
+te:స్టేషను	I-ORG
+
+te:పాకిస్తానీ	B-LOC
+te:వివాహం	O
+te:సాధారణంగా	O
+te:నాలుగు	O
+te:రోజుల్లో	O
+te:నాలుగు	O
+te:ప్రత్యేక	O
+te:కార్యక్రమాలను	O
+te:కలిగి	O
+te:ఉంటుంది	O
+te:.	O
+
+te:గుంటూరు	B-LOC
+te:హిందూ	B-ORG
+te:కళాశాల	I-ORG
+te:ప్రధానోపాధ్యాయునిగా	O
+te:కూడా	O
+te:పనిచేశారు	O
+te:.	O
+
+te:కందుకూరి	B-PER
+te:వీరేశలింగం	I-PER
+te:పంతులు	I-PER
+te:తమ	O
+te:'కవులచరిత్ర	O
+te:'	O
+te:లో	O
+te:మఱుగున	O
+te:నున్న	O
+te:కవులను	O
+te:బెక్కుమందిని	O
+te:బయట	O
+te:బెట్టి	O
+te:వారి	O
+te:వారి	O
+te:కాల	O
+te:నిర్ణయములు	O
+te:సప్రమాణముగా	O
+te:నొనరించి	O
+te:తత్తద్గ్రంథములలోని	O
+te:గుణ	O
+te:దోహములు	O
+te:వెల్లడించిరి	O
+te:.	O
+
+te:ముంబై	B-ORG
+te:ఎల్‌టీటీ	I-ORG
+te:-	I-ORG
+te:గోరఖ్‌పూర్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:సాలూరు	B-PER
+te:రాజేశ్వరరావు	I-PER
+te:గారు	O
+te:స్వరపరచి	O
+te:గానంచేయగా	O
+te:ఎంతో	O
+te:ప్రసిద్ధిపొందింది	O
+te:.	O
+
+te:సుల్తాన్	B-PER
+te:కులీ	I-PER
+te:కుత్బుల్	I-PER
+te:ముల్క్	I-PER
+
+te:మహారాష్ట్ర	B-LOC
+te:లో	O
+te:BJP	O
+te:మరియు	O
+te:శివసేన	B-ORG
+te:పొత్తు	O
+te:పెట్టుకున్నాయి	O
+te:.	O
+
+te:తిరువనంతపురం	B-ORG
+te:-	I-ORG
+te:ఇండోర్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:పరమ	O
+te:ధర్మాత్ముడైన	O
+te:నా	O
+te:తండ్రిగారు	O
+te:యమసభలో	O
+te:ఉండగా	O
+te:హరిశ్చంద్రుడు	B-PER
+te:మాత్రం	O
+te:ఇంద్రసభలో	O
+te:ఎలా	O
+te:ఉన్నాడు	O
+te:``	O
+te:అని	O
+te:అడిగాడు.	O
+te:``	O
+
+te:ఇక్కడ	O
+te:ఒక	O
+te:శివాలయం	B-ORG
+te:కూడా	O
+te:స్థాపించబడింది	O
+te:.	O
+
+te:ఈ	O
+te:భరతకులంలో	O
+te:ధర్మరాజు	B-ORG
+te:పరమధార్మికుడు	O
+te:అయ్యాడు	O
+te:.	O
+
+te:ఇప్పుడు	O
+te:నాకు	O
+te:గాంధారి	B-PER
+te:,	O
+te:ధృతరాష్ట్రుడు	B-PER
+te:తోడు	O
+te:దొరికారు	O
+te:.	O
+
+te:===	O
+te:''	O
+te:'నన్నయ	O
+te:ప్రాంగణం	O
+te:''	O
+te:'	O
+te:,	O
+te:రాజమండ్రి	B-LOC
+
+te:పొట్టి	B-ORG
+te:శ్రీరాములు	I-ORG
+te:తెలుగు	I-ORG
+te:విశ్వవిద్యాలయము	I-ORG
+
+te:అప్పటికి	O
+te:వరకు	O
+te:అన్ని	O
+te:విషయములు	O
+te:శ్రద్ధగా	O
+te:వింటున్న	O
+te:ఖడ్గవిద్యా	O
+te:విశారదుడైన	O
+te:నకులుడు	B-PER
+te:భీష్ముడిని	O
+te:కొన్ని	O
+te:ప్రశ్నలు	O
+te:అడిగాడు.	O
+te:``	O
+
+te:ఒక	O
+te:వృత్తంలో	O
+te:కేంద్రం	O
+te:గుండా	O
+te:పోవు	O
+te:జ్యా	B-ORG
+te:ను	O
+te:వ్యాసము	O
+te:అందురు	O
+te:.	O
+
+te:ప్రస్తుతం	O
+te:షెంగెన్	O
+te:ప్రాంతం	O
+te:ఇరవై	O
+te:ఐదు	O
+te:దేశాలను	O
+te:కలిగి	O
+te:ఉంది	O
+te:,	O
+te:వీటిలో	O
+te:మూడు	O
+te:తప్ప	O
+te:ఐరోపా	B-ORG
+te:సమాఖ్య	I-ORG
+te:(	O
+te:EU	O
+te:)	O
+te:సభ్యదేశాలే	O
+te:.	O
+
+te:దారిమార్పు	O
+te:శ్రీ	B-ORG
+te:సీతారామచంద్ర	I-ORG
+te:స్వామి	I-ORG
+te:వారి	I-ORG
+te:దేవస్థానము	I-ORG
+te:,	I-ORG
+te:భద్రాచలం	I-ORG
+
+te:దారిమార్పు	O
+te:భారత	B-ORG
+te:జాతీయ	I-ORG
+te:కాంగ్రెస్	I-ORG
+
+te:దారిమార్పు	O
+te:హార్డ్	B-ORG
+te:డిస్క్	I-ORG
+te:డ్రైవ్	I-ORG
+
+te:కేరళ	B-LOC
+te:రాష్ట్రంలో	O
+te:సాధారణంగా	O
+te:రంగులతో	O
+te:వివిధ	O
+te:డిజైనులలో	O
+te:ఉండే	O
+te:లుంగీలను	O
+te:స్త్రీ	O
+te:పురుషులిరువురూ	O
+te:ధరిస్తారు	O
+te:.	O
+
+te:చైనా	B-LOC
+te:మరియు	O
+te:టిబెట్	B-LOC
+te:క్యాండర్	O
+te:ఆధారంగా	O
+te:జరిగే	O
+te:ఈ	O
+te:పండుగ	O
+te:కొత్తసంవత్సర	O
+te:ఆరంభపండుగ	O
+te:.	O
+
+te:]]	O
+te:,	O
+te:గజాలా	B-PER
+te:,	O
+te:రాజీవ్	B-PER
+te:కనకాల	I-PER
+te:,	O
+te:కోట	B-PER
+te:శ్రీనివాసరావు	I-PER
+
+te:'	O
+te:''	O
+te:మంగోలియా	B-LOC
+te:''	O
+te:'	O
+
+te:దారిమార్పు	O
+te:జైపూర్	B-ORG
+te:(	I-ORG
+te:రాజస్థాన్	I-ORG
+te:)	I-ORG
+
+te:ఈ	O
+te:క్షేత్రం	O
+te:కర్నూలు	B-LOC
+te:నుండి	O
+te:సుమారు	O
+te:వంద	O
+te:కిలో	O
+te:మీటర్ల	O
+te:దూరంలో	O
+te:వున్నది	O
+te:.	O
+
+te:ఈమె	O
+te:ప్రస్తుతం	O
+te:చెన్నైలో	B-LOC
+te:ఉంటున్నారు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:అరుణాచల్	B-LOC
+te:ప్రదేశ్	I-LOC
+te:''	O
+te:'	O
+
+te:''కాంగ్రెసు	O
+te:''	O
+te:భారత	B-ORG
+te:జాతీయ	I-ORG
+te:కాంగ్రెస్	I-ORG
+
+te:ప్రతి	O
+te:15	O
+te:నిమిషములకు	O
+te:చిలకలూరిపేట	B-LOC
+te:,	O
+te:చీరాల	B-LOC
+te:,	O
+te:నరసరావుపేట	B-LOC
+te:నుంచి	O
+te:ఆ.ప్ర.రా.రో.ర.స	O
+te:బస్	O
+te:లు	O
+te:కలవు	O
+te:.	O
+
+te:భాజపా	O
+te:యొక్క	O
+te:క్రిందిస్థాయి	O
+te:కార్యకర్తలంతా	O
+te:ముఖ్యంగా	O
+te:రాష్ట్రీయ	B-ORG
+te:స్వయంసేవక్	I-ORG
+te:సంఘ్	I-ORG
+te:యొక్క	O
+te:లక్షలాది	O
+te:సభ్యులనుండి	O
+te:వచ్చినవారే	O
+te:.	O
+
+te:భువన	O
+te:విజయం	O
+te:పబ్లికేషన్స్	O
+te:,	O
+te:విజయవాడ	B-LOC
+
+te:కంప్యూటర్	B-LOC
+te:నైపుణ్యాలను	O
+te:నేర్చుకోవాలి	O
+te:.	O
+
+te:యు.ఎస్	O
+te:నాయకత్వం	O
+te:వహించిన	O
+te:ఇరాక్	B-LOC
+te:యుద్ధానికి	O
+te:423	O
+te:మంది	O
+te:శక్తివంతమైన	O
+te:యోధులను	O
+te:పంపి	O
+te:సహకరించింది	O
+te:.	O
+
+te:పురుషోత్తమ	B-PER
+te:దాస్	I-PER
+te:టాండన్	I-PER
+te:(	O
+te:1882-1962	O
+te:)	O
+
+te:ప్రస్తుతం	O
+te:కృష్ణా	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:కొండపల్లి	B-LOC
+te:లో	O
+te:నివసిస్తున్నారు	O
+te:.	O
+
+te:తుర్కీ	B-LOC
+te:లో	O
+te:ఈద్-ముబారక్	O
+te:తెలుపుకోవడం	O
+te:సాధారణంగా	O
+te:కానరాదు	O
+te:.	O
+
+te:కర్ణార్జునులు	O
+te:ఒకరితో	O
+te:ఒకరు	O
+te:సమరానికి	O
+te:సిద్ధపడిన	O
+te:అశ్వత్థామ	B-PER
+te:సుయోధనుడితో	O
+te:``	O
+te:సుయోధనా	O
+te:!	O
+
+te:EU	O
+te:SE	O
+te:SWE	O
+te:752	O
+te:స్వీడన్	B-LOC
+
+te:ప్రముఖ	O
+te:నటుడు	O
+te:ఆర్.నారాయణమూర్తితో	B-PER
+te:ఆ	O
+te:పాత్ర	O
+te:చేయిద్దామని	O
+te:దర్శకుడు	O
+te:,	O
+te:రచయిత	O
+te:తదితరులు	O
+te:భావించారు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:తిర్మలగిరి	O
+te:''	O
+te:'	O
+te:,	O
+te:వరంగల్	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:పాలకుర్తి	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+
+te:రూ.2	O
+te:కోట్ల	O
+te:నిధులతో	O
+te:కాకినాడ	B-LOC
+te:ప్రధాన	O
+te:కాలువపై	O
+te:వారధిని	O
+te:నిర్మించడం	O
+te:జరిగింది	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ఆంధ్ర	B-ORG
+te:ప్రదేశ్	I-ORG
+te:రాష్ట్ర	I-ORG
+te:రోడ్డు	I-ORG
+te:రవాణా	I-ORG
+te:సంస్థ	I-ORG
+
+te:ఆదికవి	B-ORG
+te:నన్నయ	I-ORG
+te:విశ్వవిద్యాలయము	I-ORG
+te:,	I-ORG
+te:రాజమండ్రి	I-ORG
+
+te:కొంతకాలం	O
+te:ఆనందవాణికి	B-ORG
+te:సంపాదకుడుగా	O
+te:పనిచేశాడు	O
+te:.	O
+
+te:కారణం	O
+te:,	O
+te:గోరా	B-PER
+te:ప్రముఖ	O
+te:వ్యక్తి	O
+te:.	O
+
+te:ఇది	O
+te:ప్రస్తుతం	O
+te:తెలంగాణ	B-LOC
+te:రాష్ట్రం	O
+te:లోని	O
+te:వరంగల్	B-LOC
+te:జిల్లా	I-LOC
+te:లో	O
+te:కలదు	O
+te:.	O
+
+te:బ్రహ్మకు	B-PER
+te:ఆసనంగా	O
+te:పద్మము	O
+te:పుట్టింది	O
+te:అంతే	O
+te:కాని	O
+te:ఈ	O
+te:సృష్టిలో	O
+te:ముందు	O
+te:వెనుకలు	O
+te:లేవు	O
+te:.	O
+
+te:తలుపుల	B-LOC
+te:మండలంలో	O
+te:ఒక	O
+te:కుగ్రామం	O
+te:.	O
+
+te:ఇది	O
+te:రాజరాజ	B-PER
+te:నరేంద్రుడు	I-PER
+te:పరిపాలించే	O
+te:కాలంలో	O
+te:జరిగిందని	O
+te:నమ్మకం	O
+te:.	O
+
+te:తర్వాత	O
+te:ఆసియా	B-LOC
+te:మరియు	O
+te:ఆస్ట్రేలియా	B-LOC
+te:ఖండాలలో	O
+te:విస్తరించాయి	O
+te:.	O
+
+te:పదిహేనున్నర	O
+te:సంవత్సరాల	O
+te:ప్రాయంలో	O
+te:అండర్-19	O
+te:జట్టుకు	O
+te:ఎంపైకై	O
+te:ఇంగ్లాండు	B-LOC
+te:పర్యటించి	O
+te:రెండు	O
+te:అర్థసెంచరీలు	O
+te:సాధించాడు	O
+te:.	O
+
+te:దీని	O
+te:ప్రధాన	O
+te:కార్యాలయము	O
+te:జపాన్	B-LOC
+te:లోని	O
+te:టోక్యో	B-LOC
+te:లో	O
+te:ఉంది	O
+te:.	O
+
+te:పాండురాజు	B-PER
+te:దానిని	O
+te:చంపేలోగాకుంతీ	O
+te:భీముని	O
+te:ఒక	O
+te:బండరాతిపై	O
+te:జారవిడిచింది	O
+te:కేవలం	O
+te:పది	O
+te:రోజుల	O
+te:శిశువు	O
+te:పడగానే	O
+te:ఆ	O
+te:రాళ్ళు	O
+te:పొడి	O
+te:పొడి	O
+te:అయ్యాయి	O
+te:.	O
+
+te:232లో	O
+te:అశోకు	B-PER
+te:ని	O
+te:మరణము	O
+te:తర్వాత	O
+te:స్వాతంత్ర్యము	O
+te:ప్రకటించుకొన్నారు	O
+te:.	O
+
+te:వస్తీ	O
+te:ఇస్తా	O
+te:నా	O
+te:మూగమనసు	O
+te:పిఠాపురం	B-PER
+te:నాగేశ్వరరావు	I-PER
+te:,	O
+te:ఎల్.	B-PER
+te:ఆర్.	I-PER
+te:ఈశ్వరి	I-PER
+
+te:హైదరాబాదు	B-LOC
+te:నిజాంలు	O
+te:,	O
+te:ఆస్థానులు	O
+te:కూడా	O
+te:దీనిని	O
+te:ధరించే	O
+te:వారు	O
+te:.	O
+
+te:ఫైల్	O
+te:సిస్టం	O
+te:గురించిన	O
+te:సలహాల	O
+te:కోసం	O
+te:వీరి	O
+te:ప్రతినిధులు	O
+te:IBM	B-ORG
+te:ను	O
+te:కలిసారు	O
+te:.	O
+
+te:ప్రపంచ	B-ORG
+te:మస్జిద్	I-ORG
+te:ల	I-ORG
+te:జాబితా	I-ORG
+
+te:మాథాడైయిషన్	O
+te:శిఖరం	O
+te:,	O
+te:మేఘాలయ	B-LOC
+te:రాష్ట్రంలో	O
+te:ఇది	O
+te:రెండవ	O
+te:స్థానంలో	O
+te:ఉంది	O
+te:.	O
+
+te:తిరువనంతపురం	B-ORG
+te:-	I-ORG
+te:ఇండోర్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:[[Republic	O
+te:of	O
+te:Macedonia]	O
+te:మేసిడోనియా	B-LOC
+
+te:ఈ	O
+te:నాటికను	O
+te:మధునాపంతుల	B-PER
+te:సత్యనారాయణ	I-PER
+te:శాస్త్రి	I-PER
+te:అనువదించారు	O
+te:.	O
+
+te:గిరిజనాభివృధ్ధి	O
+te:సంస్థ	O
+te:అమ్మే	O
+te:స్వచ్చమైన	O
+te:తేనె	B-ORG
+te:మొదలైనవి	O
+te:కొనవచ్చు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:కర్నాటక	B-ORG
+te:ముఖ్యమంత్రుల	I-ORG
+te:జాబితా	I-ORG
+
+te:లెవీ	B-ORG
+te:స్ట్రాస్	I-ORG
+te:అండ్	I-ORG
+te:కో	I-ORG
+te:.	I-ORG
+
+te:అందరు	O
+te:తలొక	O
+te:పొంగలి	B-ORG
+te:ముద్దను	O
+te:తీసి	O
+te:దేవుని	O
+te:ముందు	O
+te:కుప్పగా	O
+te:పెడ్తారు	O
+te:.	O
+
+te:దీనిని	O
+te:నిజాం	B-ORG
+te:నవాబు	O
+te:1929లో	O
+te:తవ్వించెను	O
+te:.	O
+
+te:జపాన్లో	B-LOC
+te:మినీస్కర్టులు	O
+te:బాగా	O
+te:ప్రాచుర్యం	O
+te:పొందాయి	O
+te:.	O
+
+te:ఆ	O
+te:క్రమంలో	O
+te:మమతా	B-PER
+te:మోహన్	I-PER
+te:దాస్	I-PER
+te:అయితే	O
+te:బావుంటుందన్న	O
+te:అభిప్రాయంతో	O
+te:ఆమెను	O
+te:కథతో	O
+te:సంప్రదించారు	O
+te:.	O
+
+te:ఆరేళ్ళ	O
+te:పరిశోధన	O
+te:తరువాతు	O
+te:మొట్టమొదటిసారిగా	O
+te:ఇటువంటి	O
+te:కర్మాగారాన్ని	O
+te:పాట్నాలో	B-LOC
+te:నెలకొల్పారు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:కంగుట్ట	O
+te:''	O
+te:'	O
+te:,	O
+te:ఆదిలాబాదు	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:బోథ్	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+te:.	O
+
+te:వాషింగ్టన్	B-LOC
+te:,	I-LOC
+te:డి.సి	I-LOC
+te:.	I-LOC
+
+te:కృష్ణ	B-ORG
+te:రాజ	I-ORG
+te:సాగర్	I-ORG
+te:(	O
+te:కెఆర్ఎస్	O
+te:ఆనకట్ట	O
+te:)	O
+te:.	O
+
+te:దారిమార్పు	O
+te:భోగరాజు	B-PER
+te:పట్టాభి	I-PER
+te:సీతారామయ్య	I-PER
+
+te:గుడివాడ	B-LOC
+te:,	O
+te:జగ్గయ్యపేట	B-LOC
+te:,	O
+te:మచిలీపట్నం	B-LOC
+te:,	O
+te:నూజివీడు	B-LOC
+te:,	O
+te:పెడన	B-LOC
+te:,	O
+
+te:;	O
+te:శ్రీ	B-LOC
+te:పొట్టి	I-LOC
+te:శ్రీరాములు	I-LOC
+te:నెల్లూరు	I-LOC
+te:జిల్లా	I-LOC
+
+te:ఇవి	O
+te:సన్యాసి	O
+te:ఆచరించవలసిన	O
+te:ధర్మాలు	O
+te:``	O
+te:అని	O
+te:పరమశివుడు	B-ORG
+te:పార్వతీదేవికి	O
+te:చెప్పాడు	O
+te:.	O
+
+te:ఇది	O
+te:ఫ్రెడ్	B-PER
+te:యొక్క	O
+te:ఇష్టమైన	O
+te:నవల	O
+te:.	O
+
+te:ఇది	O
+te:పడమటి	B-LOC
+te:కనుమలులో	I-LOC
+te:భాగం	O
+te:.	O
+
+te:''	O
+te:త్రిష	B-PER
+te:కృష్ణన్	I-PER
+te:''	O
+
+te:12615	O
+te:చెన్నై	B-ORG
+te:-	I-ORG
+te:న్యూ	I-ORG
+te:ఢిల్లీ	I-ORG
+te:గ్రాండ్	I-ORG
+te:ట్రంక్	I-ORG
+te:సూపర్‌ఫాస్ట్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:దారిమార్పు	O
+te:ఒసామా	B-PER
+te:బిన్	I-PER
+te:లాదెన్	I-PER
+
+te:ఈ	O
+te:సమయంలోనే	O
+te:రామకృష్ణ	B-PER
+te:పరమహంస	I-PER
+te:బోధనలను	O
+te:తెలుగులోకి	O
+te:అనువదించింది	O
+te:.	O
+
+te:దారిమార్పు	O
+te:యువజన	B-ORG
+te:శ్రామిక	I-ORG
+te:రైతు	I-ORG
+te:కాంగ్రెస్	I-ORG
+te:పార్టీ	I-ORG
+
+te:మిత్రుల	O
+te:ప్రోద్బలముతో	O
+te:చిత్రాల్లో	O
+te:నటించాలనే	O
+te:కోరిక	O
+te:గలిగి	O
+te:తాపీ	B-PER
+te:చాణక్య	I-PER
+te:సహకారముతో	O
+te:చిత్రసీమలో	O
+te:అడుగు	O
+te:పెట్టాడు	O
+te:.	O
+
+te:రాజీవ్	B-PER
+te:గాంధీ	I-PER
+te:హయంలో	O
+te:తయారైన	O
+te:ఈ	O
+te:ప్రణాళికలో	O
+te:ఆహారోత్పత్తి	O
+te:మరియు	O
+te:ఉపాధి	O
+te:అవకాశాలకు	O
+te:అధిక	O
+te:ప్రాధాన్యత	O
+te:ఇచ్చారు	O
+te:.	O
+
+te:ఇటువంటి	O
+te:మందిరం	O
+te:'	O
+te:''	O
+te:అమలాపురం	B-LOC
+te:''	O
+te:'	O
+te:లో	O
+te:ఉన్నట్లు	O
+te:తెలిసింది	O
+
+te:శ్రీరంగం	B-LOC
+te:మొదలైన	O
+te:క్షేత్రాలలో	O
+te:సుదర్శనచక్రానికి	O
+te:ప్రత్యేకంగా	O
+te:ఆలయాలు	O
+te:కలవు	O
+te:.	O
+
+te:ఒక	O
+te:రచయితగా	O
+te:మరియు	O
+te:ఒక	O
+te:తత్వవేత్తగా	O
+te:ఉండటానికి	O
+te:తనకు	O
+te:అవసరమైన	O
+te:డబ్బుని	O
+te:వాల్	B-ORG
+te:స్ట్రీట్	I-ORG
+te:లో	O
+te:సంపాదించడమే	O
+te:తన	O
+te:ఉద్దేశ్యంగా	O
+te:ఉండేదని	O
+te:అతను	O
+te:తరువాత	O
+te:చెప్పాడు	O
+te:.	O
+
+te:ఆంధ్ర	B-LOC
+te:ప్రదేశ్	I-LOC
+te:లోనే	O
+te:కాకుండా	O
+te:పొరుగురాష్ట్రాలైన	O
+te:మహారాష్ట్ర	B-LOC
+te:,	O
+te:కర్ణాటక	B-LOC
+te:,	O
+te:తమిళనాడు	B-LOC
+te:రాష్ట్రాలకు	O
+te:కూడా	O
+te:దీనిని	O
+te:సరఫరా	O
+te:చేస్తుంటారు	O
+te:.	O
+
+te:పి.వేణుగోపాల్	B-PER
+te:,	O
+te:ప్రముఖ	O
+te:హృద్రోగ	O
+te:శస్త్రచికిత్స	O
+te:వైద్యంలో	O
+te:నిపుణులు	O
+te:,	O
+te:అఖిల	B-ORG
+te:భారత	I-ORG
+te:వైద్య	I-ORG
+te:విజ్ఞాన	I-ORG
+te:సంస్థ	I-ORG
+te:డైరెక్టర్	O
+te:.	O
+
+te:కేదార్‌నాథ్గుడి	B-LOC
+te:వెనుక	O
+te:భాగంలో	O
+te:ఆదింకరుల	O
+te:సమాధికి	O
+te:ఉంది	O
+te:.	O
+
+te:ఎక్కువగా	O
+te:రష్యా	B-LOC
+te:నుండి	O
+te:దిగుమతి	O
+te:చేసుకుంటుంది	O
+te:.	O
+
+te:కరాచీ	B-LOC
+te:కేంద్రం	O
+te:గా	O
+te:ఇతడు	O
+te:దక్షిణాసియా	B-LOC
+te:మొత్తం	O
+te:తన	O
+te:నేరసామ్రాజ్యాన్ని	O
+te:విస్తరించాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:జె.	B-PER
+te:వి.	I-PER
+te:రమణమూర్తి	I-PER
+
+te:కర్ణుడు	B-PER
+te:నకులుడి	O
+te:విల్లు	O
+te:విరిచి	O
+te:అతడి	O
+te:హయములను	O
+te:చంపి	O
+te:,	O
+te:సారధిని	O
+te:గాయపరిచాడు	O
+te:,	O
+te:అతడి	O
+te:చక్రరక్షకులను	O
+te:చంపి	O
+te:,	O
+te:నకులుడి	O
+te:కేతనము	O
+te:విరిచాడు	O
+te:.	O
+
+te:భూటాన్	B-LOC
+te:దేశ	O
+te:జనసంఖ్యతో	O
+te:సమానం	O
+te:.	O
+
+te:|	O
+te:శ్రీరంగం	B-PER
+te:గోపాలరత్నం	I-PER
+te:,	O
+te:మంగళంపల్లి	B-PER
+te:బాలమురళీకృష్ణ	I-PER
+
+te:'	O
+te:''	O
+te:గండ్లపర్తి	O
+te:''	O
+te:'	O
+te:,	O
+te:అనంతపురం	B-ORG
+te:జిల్లా	I-ORG
+te:,	O
+te:రాప్తాడు	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+te:.	O
+
+te:'	O
+te:''	O
+te:మార్టినా	B-PER
+te:హింగిస్	I-PER
+te:''	O
+te:'	O
+te:1–2	O
+
+te:ఈ	O
+te:గ్రామం	O
+te:ఒకప్పుడు	O
+te:పొలంగానే	O
+te:ఉండేది	O
+te:,	O
+te:తరువాత	O
+te:ఈ	O
+te:ప్రాంతంలోని	O
+te:కొన్ని	O
+te:భూములను	O
+te:అంతర్వేది	B-LOC
+te:దేవాలయానికి	O
+te:ఇవ్వడం	O
+te:జరిగింది	O
+te:.	O
+
+te:గిల్బార్కో	O
+te:ప్రస్తుతం	O
+te:యునైటెడ్	B-LOC
+te:కింగ్డంలో	I-LOC
+te:జిఎసి	O
+te:యాజమాన్యంలో	O
+te:ఉంది	O
+te:.	O
+
+te:అర్జునునికి	B-PER
+te:తన	O
+te:కుమారుడు	O
+te:వీరుని	O
+te:వలే	O
+te:ఎదిరించకుండా	O
+te:లొంగిపోవుట	O
+te:నచ్చక	O
+te:``	O
+te:వీరపుత్రులు	O
+te:యుద్ధమునకు	O
+te:వెనుకాడరు	O
+te:''	O
+te:అని	O
+te:పల్కాడు	O
+te:.	O
+
+te:దాంతో	O
+te:బాలీవుడ్	B-LOC
+te:లో	O
+te:అదే	O
+te:సినిమాని	O
+te:ఆమిర్	B-PER
+te:ఖాన్	I-PER
+te:తో	O
+te:తీసే	O
+te:అవకాశం	O
+te:వచ్చింది	O
+te:.	O
+
+te:తల్లి	O
+te:మీద	O
+te:,	O
+te:తల్లి	O
+te:తెలంగాణ	B-LOC
+te:మీద	O
+te:ఆయన	O
+te:రచించిన	O
+te:పద్యాలు	O
+te:ఇప్పటికీ	O
+te:ఎందరికో	O
+te:ఉత్తేజాన్ని	O
+te:కలిగిస్తున్నాయి	O
+te:.	O
+
+te:అక్కడ	O
+te:సూర్యుడు	B-LOC
+te:పట్టపగలు	O
+te:మాదిరి	O
+te:ప్రకాశవంతంగా	O
+te:వెలుగుతున్నాడు	O
+te:.	O
+
+te:ఆస్ట్రేలియా	B-LOC
+te:కూడా	O
+te:దాని	O
+te:నుంచి	O
+te:తప్పించుకోలేక	O
+te:పోయింది	O
+te:.	O
+
+te:రుద్రుడికి	O
+te:సారధ్యం	O
+te:వహించడానికి	O
+te:మీకంటే	O
+te:ఎవరూ	O
+te:మాకు	O
+te:కనిపించుట	O
+te:లేదు	O
+te:కనుక	O
+te:మీరు	O
+te:రుద్రుడికి	O
+te:సారధ్యం	O
+te:వహించాలి	O
+te:``	O
+te:అప్పుడు	O
+te:బ్రహ్మదేవుడు	B-PER
+te:వారి	O
+te:కోరిక	O
+te:మన్నించి	O
+te:రుద్రుడికి	O
+te:సారధిగా	O
+te:ఉండటానికి	O
+te:అంగీకరించాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:అడుగు	B-ORG
+te:(	I-ORG
+te:కొలమానం	I-ORG
+te:)	I-ORG
+
+te:'	O
+te:''	O
+te:వేల్పుల	O
+te:''	O
+te:'	O
+te:,	O
+te:వైఎస్ఆర్	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:వేముల	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+
+te:కత్తి	B-PER
+te:పద్మారావు	I-PER
+te:ఆమెకు	O
+te:‘కళారత్న’	O
+te:బిరుదు	O
+te:ప్రదానం	O
+te:చేశారు	O
+te:.	O
+
+te:విటమిన్	B-ORG
+te:డి	I-ORG
+te:యొక్క	O
+te:ఒకేఒక	O
+te:ట్రయల్	O
+te:ప్రయోజనమును	O
+te:కనుగొనలేకపోయింది	O
+te:.	O
+
+te:జపాన్	B-LOC
+te:కు	O
+te:బోన్సాయ్	O
+te:కళ	O
+te:మొదటి	O
+te:సంపన్నులకే	O
+te:పరిమితమైంది	O
+te:.	O
+
+te:కౌలా	O
+te:లంపూర్	O
+te:,	O
+te:మలేషియా	B-LOC
+
+te:ఈ	O
+te:గ్రామానికి	O
+te:3	O
+te:కిలోమీటర్ల	O
+te:దూరంలో	O
+te:కృష్ణా	B-LOC
+te:నది	I-LOC
+te:ఉన్నది	O
+te:.	O
+
+te:ఇక్కడ	O
+te:నుండి	O
+te:చెన్నై	B-LOC
+te:,	O
+te:విల్లుపురంలకు	O
+te:ప్రతీరోజూ	O
+te:నడిచే	O
+te:రైలు	O
+te:సర్వీసులుండగా	O
+te:,	O
+te:వారణాశి	B-LOC
+te:మరియు	O
+te:భువనేశ్వర్లకు	O
+te:వారానికి	O
+te:ఒక	O
+te:సర్వీసు	O
+te:ఉన్నవి	O
+te:.	O
+
+te:గుండె	B-ORG
+te:సంబంధమైన	O
+te:వ్యాధులని	O
+te:నివారించును	O
+te:.	O
+
+te:పశ్చిమాన	O
+te:కర్ణాటక	B-LOC
+te:రాష్ట్రం	O
+te:సరిహద్దుగా	O
+te:ఉంది	O
+te:.	O
+
+te:కనుక	O
+te:అర్జునుడు	B-PER
+te:నీకు	O
+te:కీడు	O
+te:తలపెట్టడు	O
+te:.	O
+
+te:*ప్రతాప్	O
+te:వసతి	O
+te:గృహము	O
+te:,	O
+te:బద్వేలి	B-LOC
+te:మార్గము	O
+
+te:ఆయిల్	B-ORG
+te:అండ్	I-ORG
+te:నాచురల్	I-ORG
+te:గ్యాస్	I-ORG
+te:కార్పొరేషన్	I-ORG
+
+te:అరుంధతి	B-ORG
+te:(	O
+te:2009	O
+te:)	O
+
+te:ఎన్.	B-PER
+te:సి.	I-PER
+te:కారుణ్య	I-PER
+
+te:భృగు	B-ORG
+te:మహర్షి	I-ORG
+te:వీరి	O
+te:వంశానికి	O
+te:మూల	O
+te:పురుషుడు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:సాతంబాకం	O
+te:''	O
+te:'	O
+te:,	O
+te:చిత్తూరు	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:పెనుమూరు	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+te:.	O
+
+te:కమ్యూనిస్టు	B-ORG
+te:పార్టీ	I-ORG
+te:ఆఫ్	I-ORG
+te:ఇండియా	I-ORG
+
+te:కందుకూరి	B-PER
+te:వీరేశలింగం	I-PER
+te:పంతులు	I-PER
+te:,	O
+te:సంక్షిప్తం	O
+te:.	O
+
+te:కైరో	B-LOC
+te:,	O
+te:ఈజిప్టు	B-LOC
+te:.	O
+
+te:అప్పటివరకు	O
+te:జీతాలకున్న	O
+te:వ్యక్తులు	O
+te:తమ	O
+te:ఊళ్లలో	O
+te:నాగార్జునసాగర్	B-ORG
+te:కాలువల	O
+te:ద్వారా	O
+te:నీటి	O
+te:సౌకర్యం	O
+te:ఏర్పడడంతో	O
+te:,	O
+te:వాళ్ల	O
+te:ఊరికి	O
+te:వెళ్లిపోయారు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:ఢాకా	B-LOC
+te:(	O
+te:7,033,075	O
+te:)	O
+te:'	O
+te:''	O
+
+te:ఉదాహరణకు	O
+te:జర్మనీ	B-LOC
+te:1200	O
+te:కంటే	O
+te:ఎక్కువ	O
+te:రకాల	O
+te:సాసేజ్‌లను	O
+te:కలిగి	O
+te:ఉంది	O
+te:,	O
+te:ఇవి	O
+te:''ముడి	O
+te:''	O
+te:,	O
+te:''వండిన	O
+te:''	O
+te:మరియు	O
+te:''ముందే	O
+te:వండిన	O
+te:''	O
+te:సాసేజ్‌లకు	O
+te:వేరుగా	O
+te:ఉంటాయి	O
+te:.	O
+
+te:'	O
+te:''	O
+te:మోహన్	B-PER
+te:లాల్	I-PER
+te:''	O
+te:'	O
+te:''	O
+
+te:దారిమార్పు	O
+te:జాతీయ	B-ORG
+te:రహదారి	I-ORG
+te:7	I-ORG
+te:(	I-ORG
+te:భారతదేశం	I-ORG
+te:)	I-ORG
+
+te:విశ్వామిత్రుడు	B-ORG
+te:సరస్వతినది	O
+te:మీద	O
+te:కోపించి	O
+te:ఆమెను	O
+te:రక్తపుటేరుగా	O
+te:మారి	O
+te:పొమ్మని	O
+te:శపించాడు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:బాబర్	B-PER
+te:''	O
+te:'	O
+
+te:1921-22	O
+te:,	O
+te:సోవియట్	B-LOC
+te:యూనియన్	I-LOC
+te:,	O
+te:50	O
+te:లక్షల	O
+te:మంది	O
+te:ఈ	O
+te:కరవు	O
+te:వల్ల	O
+te:ఆకలిచావులవాత	O
+te:పడ్డారు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ఆంధ్రప్రదేశ్	B-ORG
+te:(	I-ORG
+te:పత్రిక	I-ORG
+te:)	I-ORG
+
+te:ఇది	O
+te:చూసిన	O
+te:కర్ణుడు	B-PER
+te:``	O
+te:ఆచార్యా	O
+te:!	O
+
+te:టెస్సీ	B-PER
+te:థామస్	I-PER
+te:ప్రముఖ	O
+te:అణుశాస్త్రవేత్త	O
+te:.	O
+
+te:ఇది	O
+te:అనంతపురం	B-ORG
+te:జిల్లాకు	I-ORG
+te:చెందిన	O
+te:మండలము	O
+te:.	O
+
+te:'	O
+te:''	O
+te:యునైటెడ్	B-LOC
+te:కింగ్‌డమ్	I-LOC
+te:''	O
+te:'	O
+
+te:59388	O
+te:ఇండోర్	B-ORG
+te:-	I-ORG
+te:నగ్డా	I-ORG
+te:ప్యాసింజర్	I-ORG
+
+te:ముంబై	B-ORG
+te:ఎల్‌టీటీ	I-ORG
+te:-	I-ORG
+te:గోరఖ్‌పూర్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:దారిమార్పు	O
+te:సావిత్రి	B-ORG
+te:(	I-ORG
+te:ఈస్టిండియా	I-ORG
+te:)	I-ORG
+
+te:తెలంగాణ	B-PER
+te:శకుంతల	I-PER
+te:(	O
+te:2011	O
+te:)	O
+
+te:'	O
+te:''	O
+te:లక్నో	B-LOC
+te:''	O
+te:'	O
+
+te:కర్నూలు	B-LOC
+te:జిల్లా	I-LOC
+te:లోని	O
+te:కృష్ణా	B-LOC
+te:నది	I-LOC
+te:మీద	O
+te:శ్రీశైలం	B-ORG
+te:ప్రాజెక్టు	I-ORG
+
+te:ఈ	O
+te:గ్రామములో	O
+te:మామిడి	B-LOC
+te:పంటను	O
+te:విస్తృతంగా	O
+te:సాగుచేస్తారు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:లెబనాన్	B-LOC
+te:''	O
+te:'	O
+
+te:ఇది	O
+te:తెలుపు	B-ORG
+te:రంగులో	O
+te:ఉంటుంది	O
+te:.	O
+
+te:ఇది	O
+te:ఆసియా	B-LOC
+te:మరియు	O
+te:ఆఫ్రికాలోని	B-LOC
+te:చాలా	O
+te:దేశాలలో	O
+te:విస్తరించింది	O
+te:.	O
+
+te:ఎల్.కె.ఝా	B-PER
+te:(	O
+te:1967-1970	O
+te:)	O
+
+te:కాబా	B-ORG
+te:గృహం	O
+te:కలిగివున్నందున	O
+te:ధార్మికపరంగాకూడా	O
+te:ప్రముఖక్షేత్రం	O
+te:.	O
+
+te:తరువాత	O
+te:చిత్రాంగధ	O
+te:,	O
+te:ఉలూపి	O
+te:ద్రౌపదిని	B-PER
+te:సుభద్రను	B-PER
+te:కలిసారు	O
+te:.	O
+
+te:ధృతరాష్ట్రుడు	B-PER
+te:పాండవులతో	O
+te:``	O
+te:పాండుకుమారులారా	O
+te:!	O
+
+te:బుక్స్	O
+te:యన్	O
+te:బుక్స్	O
+te:,	O
+te:విజయవాడ	B-LOC
+
+te:వ్యాసుడు	B-PER
+te:``	O
+te:ఇంద్రియ	O
+te:నిగ్రహము	O
+te:,	O
+te:ఏకాగ్రత	O
+te:,	O
+te:అన్నింటి	O
+te:కంటే	O
+te:ఉత్తమధర్మము	O
+te:.	O
+
+te:దారిమార్పు	O
+te:జాన‌కి	B-PER
+te:బ‌ల్ల‌భ	I-PER
+te:ప‌ట్నాయ‌క్‌	I-PER
+
+te:తెలంగాణ	B-LOC
+te:సాంఘిక	O
+te:సంక్షేమ	O
+te:బాలికల	O
+te:రెసిడెన్షియల్	O
+te:పాఠశాల	O
+te:ఉన్నది	O
+te:.	O
+
+te:సింధుదేశపురాజు	O
+te:సైంధవుడు	B-PER
+te:మహాభారతయుద్ధములో	O
+te:మరణించగా	O
+te:అతడి	O
+te:కుమారులు	O
+te:మనుమలు	O
+te:మాత్రము	O
+te:రాజ్యముచేస్తున్నారు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:పెగడపల్లి	B-LOC
+te:(	I-LOC
+te:కరీంనగర్	I-LOC
+te:జిల్లా	I-LOC
+te:మండలం	I-LOC
+te:)	I-LOC
+
+te:దారిమార్పు	O
+te:ఉప్పలపాటి	B-PER
+te:వెంకట	I-PER
+te:కృష్ణంరాజు	I-PER
+
+te:జనాభా	O
+te:లెక్కల	O
+te:ప్రకారం	O
+te:గుంటూరు	B-LOC
+te:జిల్లా	I-LOC
+te:లో	O
+te:ఉన్నసంబంధిత	O
+te:మండలాలలోనివి	O
+te:ఉన్నాయి	O
+te:.	O
+
+te:ఫిలిప్పీన్స్‌లో	B-LOC
+te:ఇది	O
+te:చాలా	O
+te:శక్తివంతంగా	O
+te:మరియు	O
+te:ప్రభావవంతంగా	O
+te:ఉంది	O
+te:,	O
+te:ఇక్కడ	O
+te:సగచు	O
+te:వినియోగదారుడు	O
+te:రోజుకు	O
+te:10–12	O
+te:టెక్స్ట్	O
+te:సందేశాలను	O
+te:పంపుతాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ఆదికవి	B-ORG
+te:నన్నయ	I-ORG
+te:విశ్వవిద్యాలయం	I-ORG
+
+te:దారిమార్పు	O
+te:ఎన్.	B-PER
+te:సి.	I-PER
+te:కారుణ్య	I-PER
+
+te:దారిమార్పు	O
+te:ఆచార్య	B-ORG
+te:జయశంకర్	I-ORG
+te:వ్యవసాయ	I-ORG
+te:విశ్వవిద్యాలయము	I-ORG
+
+te:''	O
+te:మమతా	B-PER
+te:మోహన్	I-PER
+te:దాస్	I-PER
+te:''	O
+
+te:పురందర	B-PER
+te:దాసు	I-PER
+te:400వ	O
+te:వర్ధంతి	O
+
+te:కర్ణాటక	B-LOC
+te:,	O
+te:తమిళనాడు	B-LOC
+te:లలో	O
+te:కూడా	O
+te:వీరు	O
+te:కొంత	O
+te:సంఖ్యలో	O
+te:ఉంటారు	O
+te:.	O
+
+te:చైనా	B-LOC
+te:మొత్తం	O
+te:ఉత్పత్తిలో	O
+te:సుమారు	O
+te:35	O
+te:%	O
+te:భాగం	O
+te:ఉన్నది	O
+te:.	O
+
+te:దక్షిణాన	O
+te:హిమాచల్	B-LOC
+te:ప్రదేశ్	I-LOC
+te:రాష్ట్రమున్నది	O
+te:.	O
+
+te:దారిమార్పు	O
+te:శ్రీ	B-ORG
+te:వేంకటేశ్వర	I-ORG
+te:విశ్వవిద్యాలయం	I-ORG
+
+te:ఇస్టాడియో	O
+te:జలిస్కో	O
+te:,	O
+te:గువాడలజర	O
+te:,	O
+te:మెక్సికో	B-LOC
+
+te:ధర్మరాజు	B-ORG
+te:వ్యాసుడితో	O
+te:``	O
+te:మునివర్యా	O
+te:!	O
+
+te:లోక్‌సభ	B-ORG
+te:లో	O
+te:ఇతర	O
+te:పార్టీల	O
+te:ప్రాతినిధ్యం===	O
+
+te:న్యూజీలాండ్	B-LOC
+te:''	O
+te:(	O
+te:38	O
+te:మ్యాచ్	O
+te:లు	O
+te:)	O
+te:''	O
+
+te:భారతదేశం-ప్రజలు	O
+te:పేరిట	O
+te:దేశంలోని	O
+te:వివిధ	O
+te:విషయాలను	O
+te:వివరించే	O
+te:గ్రంథాల	O
+te:శీర్షక	O
+te:ద్వారా	O
+te:నేషనల్	B-ORG
+te:బుక్	I-ORG
+te:ట్రస్ట్	I-ORG
+te:,	I-ORG
+te:ఇండియా	I-ORG
+te:వారు	O
+te:ప్రచురించారు	O
+te:.	O
+
+te:అరుణిమ	B-PER
+te:సిన్హా	I-PER
+te:దుండగుల	O
+te:దురాగతంలో	O
+te:తన	O
+te:కుడికాలు	O
+te:పోగొట్టుకున్న	O
+te:జాతీయస్థాయి	O
+te:వాలీబాల్‌	O
+te:మాజీ	O
+te:క్రీడాకారిణి	O
+te:.	O
+
+te:పాకిస్థాన్]]	O
+te:(	O
+te:ప్రస్తుత	O
+te:బంగ్లాదేశ్	B-LOC
+te:)	O
+
+te:కాని	O
+te:రెండో	O
+te:మ్యాచ్	O
+te:లో	O
+te:రాజస్థాన్	B-LOC
+te:కు	O
+te:విరుద్ధంగా	O
+te:114	O
+te:పరుగులు	O
+te:సాధించి	O
+te:విమర్శకులకు	O
+te:బ్యాట్	O
+te:తోనే	O
+te:సమాధానం	O
+te:చెప్పినాడు	O
+te:.	O
+
+te:దీనికి	O
+te:అక్కినేని	B-PER
+te:నాగార్జున	I-PER
+te:సారధ్యం	O
+te:వహిస్తున్నారు	O
+te:.	O
+
+te:చక్రవర్తి	B-PER
+te:రాజగోపాలాచారి	I-PER
+te:,	O
+te:ప్రముఖ	O
+te:రాజకీయవేత్త	O
+te:.	O
+
+te:''	O
+te:అచలా	B-PER
+te:సచ్‍‍దేవ్	I-PER
+te:''	O
+
+te:సత్యనారాయణబాబు	O
+te:(	O
+te:గుడివాడ	B-LOC
+te:,	O
+te:కృష్ణా	B-LOC
+te:జిల్లా	I-LOC
+te:)	O
+te:,	O
+
+te:చాలా	O
+te:వరకు	O
+te:వర్షం	B-ORG
+te:వేసవిలో	O
+te:కురుస్తుంది	O
+te:.	O
+
+te:ఇతని	O
+te:గురించి	O
+te:చెప్పుకోవలసినది	O
+te:,	O
+te:ఇతను	O
+te:తండ్రిగారి	O
+te:హయాములో	O
+te:చేసిన	O
+te:పద్మనాయకులపై	O
+te:దండయాతలు	O
+te:వీటిగురించి	O
+te:రెండవ	B-PER
+te:హరిహర	I-PER
+te:రాయలు	I-PER
+te:వ్యాసంలో	O
+te:చదవండి	O
+
+te:అమలా	B-PER
+te:పాల్	I-PER
+te:,	O
+te:కేథరీన్	B-PER
+te:థెరీసా	I-PER
+
+te:18645	O
+te:ఈస్ట్	B-ORG
+te:కోస్ట్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:దారిమార్పు	O
+te:థామస్	B-PER
+te:రాబర్ట్	I-PER
+te:మాల్థస్	I-PER
+
+te:దారిమార్పు	O
+te:విజయనగరం	B-ORG
+te:లోక్‌సభ	I-ORG
+te:నియోజకవర్గం	I-ORG
+
+te:ఈ	O
+te:వృత్తుడు	O
+te:60,000	O
+te:దివ్య	O
+te:సంవత్సరములు	O
+te:బ్రహ్మ	B-PER
+te:గురించి	O
+te:తపస్సు	O
+te:చేసాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:హైదరాబాదు	B-ORG
+te:రైల్వే	I-ORG
+te:స్టేషను	I-ORG
+
+te:``	O
+te:గేహే	O
+te:గేహే	O
+te:జంగమా	O
+te:హేమవల్లీ	O
+te:''	O
+te:అన్నాడు	O
+te:కాళిదాసు	B-PER
+te:.	O
+
+te:దీని	O
+te:ప్రధాన	O
+te:కేంద్రం	O
+te:లక్నో	B-LOC
+te:గా	O
+te:ఏర్పడింది	O
+te:.	O
+
+te:ఈ	O
+te:పాలకొల్లు	B-LOC
+te:పట్టణానికి	O
+te:3	O
+te:కి.మీ	O
+te:.	O
+
+te:ఆ	O
+te:శాపకారణమున	O
+te:నేడవనాడే	O
+te:తక్షకునిచే	O
+te:గఱవబడి	O
+te:పరీక్షిత్తు	B-PER
+te:మృతినొందెనని	O
+te:చెప్పబడియున్నది	O
+te:.	O
+
+te:పరీక్షలో	O
+te:ఉత్తీర్ణులై	O
+te:డాక్టరుగా	O
+te:తెనాలిలో	B-LOC
+te:స్థిరపడి	O
+te:,	O
+te:దానివలన	O
+te:పేరుప్రతిష్టలు	O
+te:సంపాదించారు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:శ్రీ	B-ORG
+te:కృష్ణ	I-ORG
+te:దేవరాయాంధ్ర	I-ORG
+te:భాషా	I-ORG
+te:నిలయం	I-ORG
+
+te:అక్కడ	O
+te:ప్రాథమికంగా	O
+te:సిద్ధంచేయబడిన	O
+te:కాఫీ	B-ORG
+te:లేదా	O
+te:ఇతర	O
+te:వేడి	O
+te:పానీయాలను	O
+te:అందిస్తారు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:బోస్నియా	B-LOC
+te:మరియు	I-LOC
+te:హెర్జెగొవీనా	I-LOC
+
+te:ఈ	O
+te:పాటకి	O
+te:కె.వి.మహదేవన్	B-PER
+te:అద్భుతమైన	O
+te:సంగీతం	O
+te:అందించారు	O
+te:.	O
+
+te:ఒకనాడు	O
+te:వనవిహరానికి	O
+te:వెళ్ళిన	O
+te:వారికి	O
+te:యయాతి	B-PER
+te:వేటకై	O
+te:వస్తాడు	O
+te:.	O
+
+te:దీనికి	O
+te:సి.వి.రామన్‌	B-PER
+te:ఆమోదం	O
+te:కూడా	O
+te:ఉంది	O
+te:.	O
+
+te:ధర్మరాజు	B-ORG
+te:``	O
+te:ఈ	O
+te:శరీరాన్ని	O
+te:వదిలపెట్టి	O
+te:వెళ్ళే	O
+te:జీవుడిని	O
+te:ధర్మము	O
+te:ఎలా	O
+te:అనుసరిస్తుంది	O
+te:?	O
+te:``	O
+
+te:‘పారిస్	O
+te:రివ్యూ’లో	O
+te:మార్క్వెజ్	O
+te:ఇంటర్వ్యూ	O
+te:లో	O
+te:ఫ్రాంజ్	B-PER
+te:కాఫ్కా’	I-PER
+te:ఆయన	O
+te:inspiration	O
+te:అంటాడు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:మూటకొండూరు	O
+te:''	O
+te:'	O
+te:,	O
+te:నల్గొండ	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:యాదగిరిగుట్ట	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+te:.	O
+
+te:దారిమార్పు	O
+te:రవి	B-PER
+te:శంకర్	I-PER
+te:ప్రసాద్	I-PER
+
+te:12615	O
+te:చెన్నై	B-ORG
+te:-	I-ORG
+te:న్యూ	I-ORG
+te:ఢిల్లీ	I-ORG
+te:గ్రాండ్	I-ORG
+te:ట్రంక్	I-ORG
+te:సూపర్‌ఫాస్ట్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:'	O
+te:''	O
+te:మహారాష్ట్ర	B-LOC
+te:''	O
+te:'	O
+
+te:మరణించే	O
+te:వరకు	O
+te:కుంచెలను	O
+te:రంగరించిన	O
+te:తెలంగాణ	B-LOC
+te:చిత్రకారుడాయన	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ప్రఫుల్ల	B-PER
+te:చంద్ర	I-PER
+te:రాయ్	I-PER
+
+te:బేకార్ప్‌	O
+te:అడ్వాంటేజ్‌	O
+te:(	O
+te:ఆస్ట్రేలియా	B-LOC
+te:)	O
+
+te:దారిమార్పు	O
+te:ఆంధ్ర	B-ORG
+te:ప్రదేశ్	I-ORG
+te:రాష్ట్ర	I-ORG
+te:రోడ్డు	I-ORG
+te:రవాణా	I-ORG
+te:సంస్థ	I-ORG
+
+te:వ్యాసుడు	B-PER
+te:వేదాలను	O
+te:నాలుగు	O
+te:భాగాలుగా	O
+te:విభజించినప్పుడు	O
+te:,	O
+te:నాలుగింటిని	O
+te:నలుగురు	O
+te:ప్రధాన	O
+te:శిష్యులకు	O
+te:బోధించాడు	O
+te:.	O
+
+te:అశ్వత్థామ	B-PER
+te:దానిని	O
+te:మధ్యలోనే	O
+te:నరికాడు	O
+te:.	O
+
+te:ముంబై	B-ORG
+te:ఎల్‌టీటీ	I-ORG
+te:-	I-ORG
+te:గోరఖ్‌పూర్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:ధర్మరాజు	B-ORG
+te:భీష్ముడిని	O
+te:``	O
+te:పితామహా	O
+te:!	O
+
+te:ఇది	O
+te:జిల్లాలో	O
+te:మొదటి	O
+te:స్కూలుగా	O
+te:పశ్చిమ	B-LOC
+te:బెంగాల్	I-LOC
+te:పురాతన	O
+te:స్కూళ్ళలో	O
+te:ఒకటిగా	O
+te:గుర్తించబడుతుంది	O
+te:.	O
+
+te:శంకర్	B-PER
+te:మహదేవన్	I-PER
+te:,	O
+te:ప్రసిద్ధ	O
+te:గాయకుడు	O
+te:.	O
+
+te:కేశవ	B-PER
+te:చంద్ర	I-PER
+te:సేన్	I-PER
+te:(	O
+te:1838-1884	O
+te:)	O
+
+te:కర్ణుడికి	O
+te:శల్యుడు	B-PER
+te:సారధ్యం	O
+te:వహించడానికి	O
+te:అంగీకరించిన	O
+te:పిదప	O
+te:సుయోధనుడు	O
+te:కర్ణుని	O
+te:చూసి	O
+te:``	O
+te:కర్ణా	O
+te:!	O
+
+te:అశ్వత్థామ	B-PER
+te:మాటలను	O
+te:విని	O
+te:కృపాచార్యుడు	B-PER
+te:``	O
+te:అశ్వత్థామా	O
+te:!	O
+
+te:ప్రపంచ	B-ORG
+te:మస్జిద్	I-ORG
+te:ల	I-ORG
+te:జాబితా	I-ORG
+
+te:వాస్తవంగా	O
+te:యూక్లిడ్	B-PER
+te:నిర్వచనం	O
+te:ప్రకారం	O
+te:``	O
+te:బిందువులనునవి	O
+te:భాగం	O
+te:లేనివి	O
+te:''	O
+te:.	O
+
+te:'	O
+te:''	O
+te:దక్షిణ	B-LOC
+te:కొరియా	I-LOC
+te:''	O
+te:'	O
+
+te:వీరు	O
+te:ఉత్తరాంధ్రలో	O
+te:రాజ్యాన్ని	O
+te:స్థాపించి	O
+te:వేంగి	B-PER
+te:రాజధానిగా	O
+te:క్రీ.శ	O
+te:.	O
+
+te:'	O
+te:''	O
+te:'గుత్తి	O
+te:''	O
+te:'	O
+te:(	O
+te:Gooty	O
+te:)	O
+te:,	O
+te:ఆంధ్ర	B-LOC
+te:ప్రదేశ్	I-LOC
+te:రాష్ట్రములోని	O
+te:అనంతపురం	B-ORG
+te:జిల్లాకు	I-ORG
+te:చెందిన	O
+te:ఒక	O
+te:పట్టణము	O
+te:మరియు	O
+te:అదే	O
+te:పేరుగల	O
+te:మండలము	O
+te:.	O
+
+te:మిగిలిన	O
+te:ఏడు	O
+te:వందల	O
+te:హయములతో	O
+te:శకుని	B-PER
+te:తప్పించుకున్నాడు	O
+te:.	O
+
+te:మరుజన్మలో	O
+te:ముంగిసగా	O
+te:జన్మించి	O
+te:ధర్మరాజు	B-ORG
+te:చేసిన	O
+te:అశ్వమేధయాగాన్ని	O
+te:అధర్మమని	O
+te:నిరూపించి	O
+te:శాపవిముక్తి	O
+te:పొందింది	O
+te:``	O
+te:అని	O
+te:'	O
+te:''	O
+te:వైశంపాయనుడు	O
+te:''	O
+te:'	O
+te:చెప్పాడు	O
+te:.	O
+
+te:చంద్రగిరి	B-LOC
+te:నుండి	O
+te:కూడా	O
+te:జీపులు	O
+te:,	O
+te:వ్యానులు	O
+te:,	O
+te:ట్యాక్సీలు	O
+te:మొదలగునవి	O
+te:లభించును	O
+te:.	O
+
+te:ఆ	O
+te:బుడుగ	O
+te:హీలియంతో	B-ORG
+te:నింపిబడింది	O
+te:మరియు	O
+te:2	O
+te:డిసెంబరున	O
+te:అది	O
+te:ఎగిరిపోతే	O
+te:పేల్చడానికి	O
+te:శిక్షణ	O
+te:పొందిన	O
+te:గురికాళ్లతో	O
+te:స్థానంలోకి	O
+te:విడిచిపెట్టారు	O
+te:.	O
+
+te:ఆఫ్రికా-అమెరికా	B-ORG
+te:చట్ట	I-ORG
+te:హక్కుల	I-ORG
+te:ఉద్యమం	I-ORG
+te:(	I-ORG
+te:1955-1968	I-ORG
+te:)	I-ORG
+
+te:మల్టీ	B-ORG
+te:మోడల్	I-ORG
+te:ట్రాన్స్‌పోర్ట్	I-ORG
+te:సిస్టమ్	I-ORG
+te:,	I-ORG
+te:హైదరాబాద్	I-ORG
+
+te:ధర్మరాజు	B-ORG
+te:ఆజ్ఞపై	O
+te:శత్రుసంహారానికి	O
+te:వచ్చాము	O
+te:.	O
+
+te:సికింద్రాబాద్	B-ORG
+te:జంక్షన్	I-ORG
+te:రైల్వే	I-ORG
+te:స్టేషను	I-ORG
+
+te:తమిళనాడు	B-LOC
+te:,	O
+te:తంజావూరు	B-LOC
+te:లోని	O
+te:బృహదీశ్వరాలయం	B-LOC
+
+te:ఆంధ్రభూమి	B-ORG
+te:మాసపత్రికకు	O
+te:సంపాదకత్వం	O
+te:వహించారు	O
+te:.	O
+
+te:యెల్లారెడ్డి	B-LOC
+te:(	O
+te:1964-1970	O
+te:)	O
+
+te:ఈమె	O
+te:మాధురీ	B-PER
+te:దీక్షిత్	I-PER
+te:తో	O
+te:కలిసి	O
+te:'	O
+te:''	O
+te:ఖల్‌నాయక్	O
+te:''	O
+te:'	O
+te:చిత్రంలో	O
+te:నటించింది	O
+te:.	O
+
+te:ఇది	O
+te:అశోకుని	B-PER
+te:అనంతర	O
+te:దశ	O
+te:.	O
+
+te:ఈయన	O
+te:ఆంధ్ర	B-LOC
+te:ప్రదేశ్కి	I-LOC
+te:చెందిన	O
+te:వాడు	O
+te:.	O
+
+te:ధర్మరాజు	B-ORG
+te:శల్యుడి	O
+te:శరీరం	O
+te:నిండా	O
+te:పదునాలుగు	O
+te:బాణములు	O
+te:వేసాడు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:మరేడుమాక	O
+te:''	O
+te:'	O
+te:,	O
+te:కృష్ణా	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:కంకిపాడు	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ముప్పవరపు	B-PER
+te:వెంకయ్య	I-PER
+te:నాయుడు	I-PER
+
+te:దారిమార్పు	O
+te:హార్డ్	B-ORG
+te:డిస్క్	I-ORG
+te:డ్రైవ్	I-ORG
+
+te:మల్లిపూడి	B-PER
+te:మంగపతి	I-PER
+te:పళ్ళంరాజు	I-PER
+
+te:పారిజాతాపహరణం	B-ORG
+te:(	I-ORG
+te:ప్రబంధం	I-ORG
+te:)	I-ORG
+
+te:12615	O
+te:చెన్నై	B-ORG
+te:-	I-ORG
+te:న్యూ	I-ORG
+te:ఢిల్లీ	I-ORG
+te:గ్రాండ్	I-ORG
+te:ట్రంక్	I-ORG
+te:సూపర్‌ఫాస్ట్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:'	O
+te:''	O
+te:యమన్‌పల్లి	O
+te:''	O
+te:'	O
+te:,	O
+te:కరీంనగర్	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:ముత్తారం	B-LOC
+te:(	I-LOC
+te:మహాదేవపూర్	I-LOC
+te:)	I-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+
+te:సదస్సు	O
+te:ఇప్పుడు	O
+te:అనేక	O
+te:US	O
+te:నగరాలకు	O
+te:మరియు	O
+te:మెక్సికో	B-LOC
+te:ప్రయాణిస్తోంది	O
+te:.	O
+
+te:శ్రీహరికోటలో	B-LOC
+te:ఉన్నట్లు	O
+te:ఇక్కడ	O
+te:శాటిలైట్ల	O
+te:ప్రయోగానికి	O
+te:సౌకర్యాలు	O
+te:లేకున్నా	O
+te:,	O
+te:దీనిని	O
+te:ప్రధానంగా	O
+te:రాకెట్లను	O
+te:ప్రయోగించుటకు	O
+te:ఉపయోగిస్తారు	O
+te:.	O
+
+te:శ్రీపతి	B-PER
+te:పండితారాధ్యుల	I-PER
+te:బాలసుబ్రహ్మణ్యం	I-PER
+te:పేరిట	O
+te:స్థాపించిన	O
+te:ఈ	O
+te:సంస్థ	O
+te:యొక్క	O
+te:గొప్పతనం	O
+te:ఈ	O
+te:పేరులోనే	O
+te:ఉంది	O
+te:.	O
+
+te:బొపారా	O
+te:విజయాన్ని	O
+te:ఇండియన్	B-ORG
+te:ప్రీమియర్	I-ORG
+te:లీగ్‌లో	I-ORG
+te:కూడా	O
+te:ఆస్వాదించారు	O
+te:,	O
+te:అతను	O
+te:దీనిలో	O
+te:కింగ్స్	B-ORG
+te:XI	I-ORG
+te:పంజాబ్	I-ORG
+te:కొరకు	O
+te:ఆడతారు	O
+te:.	O
+
+te:ఈ	O
+te:గ్రామం	O
+te:స్వామి	B-PER
+te:జ్ఞానానంద	I-PER
+te:జన్మస్థలం	O
+te:.	O
+
+te:గాంధారి	B-PER
+te:కూడా	O
+te:పుత్రశోకమును	O
+te:ఇన్నిరోజులు	O
+te:మనసులోనే	O
+te:అణచుకున్నది	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ఆచార్య	B-ORG
+te:జయశంకర్	I-ORG
+te:వ్యవసాయ	I-ORG
+te:విశ్వవిద్యాలయము	I-ORG
+
+te:శల్యుడు	B-PER
+te:విజృంభించి	O
+te:నకులసహదేవుల	O
+te:మీద	O
+te:శరవర్షం	O
+te:కురిపించాడు	O
+te:.	O
+
+te:అర్జుడి	O
+te:మాటలు	O
+te:ధర్మరాజు	B-ORG
+te:ను	O
+te:స్వస్థుడిని	O
+te:చేయలేక	O
+te:పోయాయి	O
+te:.	O
+
+te:దుర్యోధనుడు	B-PER
+te:నిన్ను	O
+te:సభకు	O
+te:తీసుకురమ్మని	O
+te:నన్ను	O
+te:పంపాడు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:లిథువేనియా	B-LOC
+te:''	O
+te:'	O
+
+te:అశ్వత్థామ	B-PER
+te:తన	O
+te:వద్ద	O
+te:ఉన్న	O
+te:తోమరములు	O
+te:,	O
+te:చక్రాయుధములను	O
+te:ఆ	O
+te:భూతము	O
+te:మీదకు	O
+te:విసిరాడు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:బిరదవోలు	O
+te:''	O
+te:'	O
+te:,	O
+te:శ్రీ	B-LOC
+te:పొట్టి	I-LOC
+te:శ్రీరాములు	I-LOC
+te:నెల్లూరు	I-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:పొదలకూరు	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము..	O
+te:పిన్	O
+te:కోడ్	O
+te:నం	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ఎస్.	B-PER
+te:వి.	I-PER
+te:కృష్ణారెడ్డి	I-PER
+
+te:ఆంధ్ర	B-ORG
+te:విశ్వవిద్యాలయం	I-ORG
+te:నుండి	O
+te:ఎం.ఎ	O
+te:.	O
+
+te:ఆయన	O
+te:కేరళ	B-LOC
+te:రాష్ట్రంలో	O
+te:భారత	B-ORG
+te:జాతీయ	I-ORG
+te:కాంగ్రెస్	I-ORG
+te:లో	O
+te:కీలక	O
+te:వ్యక్తి	O
+te:.	O
+
+te:ఈ	O
+te:రొడ్డు	O
+te:,	O
+te:గుంటూరు	B-LOC
+te:మరియు	O
+te:కృష్ణా	B-LOC
+te:జిల్లాలో	I-LOC
+te:నిర్మితమౌతుంది	O
+te:.	O
+
+te:అక్కడ	O
+te:రాడిక్	O
+te:చిట్టచివరి	O
+te:రన్నర్-అప్	O
+te:రోజర్	B-PER
+te:ఫెదరర్	I-PER
+te:చేతిలో	O
+te:6–2	O
+te:,	O
+te:7–5	O
+te:,	O
+te:7–5తో	O
+te:ఓడిపోయాడు	O
+te:.	O
+
+te:మరియు	O
+te:వాటికన్	B-LOC
+te:నగరపు	I-LOC
+te:అధ్యక్షుడు	O
+te:.	O
+
+te:ఈమె	O
+te:పుట్టిన	O
+te:ఊరు	O
+te:విశాఖపట్నం	B-LOC
+te:.	O
+
+te:భారత	B-ORG
+te:సైనిక	I-ORG
+te:దళం	I-ORG
+
+te:అక్కడ	O
+te:కాఫీ	B-ORG
+te:అదే	O
+te:విధంగా	O
+te:తేనీరు	B-ORG
+te:మరియు	O
+te:ఔషధసంబంధ	O
+te:తేనీరులు	O
+te:కూడా	O
+te:అందిస్తారు	O
+te:.	O
+
+te:గీతా	B-ORG
+te:ప్రెస్	I-ORG
+te:(	O
+te:Gita	O
+te:Press	O
+te:)	O
+te:ప్రచురించినది	O
+te:12.284.68-180	O
+te:.	O
+
+te:అది	O
+te:వరకూ	O
+te:తూర్పు	B-PER
+te:చాళుక్యుల	I-PER
+te:పరిపాలనా	O
+te:కేంద్రంగా	O
+te:'	O
+te:''	O
+te:హిరణ్యక	O
+te:రాష్ట్రం	O
+te:''	O
+te:'గా	O
+te:ఈ	O
+te:ప్రాంతం	O
+te:విలసిల్లినది	O
+te:.	O
+
+te:ఏది	O
+te:ఏమయినప్పటికీ	O
+te:విరమణ	O
+te:చేసిన	O
+te:షేన్	B-PER
+te:వార్న్	I-PER
+te:అనే	O
+te:ఆటగాడు	O
+te:IPL	O
+te:వంటి	O
+te:మ్యాచ్	O
+te:లలో	O
+te:కూడా	O
+te:విజయవంతంగా	O
+te:నిలిచాడు	O
+te:అనే	O
+te:వాస్తవం	O
+te:దీనిని	O
+te:ధృవపరుస్తుంది	O
+te:.	O
+
+te:రెండో	O
+te:స్థానంలో	O
+te:ఉన్న	O
+te:జర్మనీకి	B-LOC
+te:కేవలం	O
+te:4	O
+te:స్వర్ణాలు	O
+te:మాత్రమే	O
+te:వచ్చాయి	O
+te:.	O
+
+te:దారిమార్పు	O
+te:కోట్ల	B-PER
+te:జయసూర్యప్రకాష్	I-PER
+te:రెడ్డి	I-PER
+
+te:దారిమార్పు	O
+te:రఘుపతి	B-ORG
+te:రాఘవ	I-ORG
+te:రాజారామ్	I-ORG
+
+te:దారిమార్పు	O
+te:జాతీయ	B-ORG
+te:రహదారి	I-ORG
+te:214	I-ORG
+te:(	I-ORG
+te:భారతదేశం	I-ORG
+te:)	I-ORG
+
+te:'	O
+te:''	O
+te:తల్వాడ	O
+te:''	O
+te:'	O
+te:,	O
+te:ఆదిలాబాదు	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:నిర్మల్	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+te:.	O
+
+te:12615	O
+te:చెన్నై	B-ORG
+te:-	I-ORG
+te:న్యూ	I-ORG
+te:ఢిల్లీ	I-ORG
+te:గ్రాండ్	I-ORG
+te:ట్రంక్	I-ORG
+te:సూపర్‌ఫాస్ట్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:అప్పుడు	O
+te:శకుని	B-PER
+te:``	O
+te:ధర్మజా	O
+te:!	O
+
+te:కర్ణుడు	B-PER
+te:అర్జునుడి	O
+te:శరీరంలో	O
+te:పది	O
+te:బాణములు	O
+te:నాటాడు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:జంగలపల్లె	O
+te:''	O
+te:'	O
+te:,	O
+te:శ్రీ	B-LOC
+te:పొట్టి	I-LOC
+te:శ్రీరాములు	I-LOC
+te:నెల్లూరు	I-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:సూళ్లూరుపేట	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+te:.	O
+
+te:'	O
+te:''	O
+te:చుట్టి	O
+te:''	O
+te:'	O
+te:,	O
+te:శ్రీ	B-LOC
+te:పొట్టి	I-LOC
+te:శ్రీరాములు	I-LOC
+te:నెల్లూరు	I-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:బాలాయపల్లె	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+te:.	O
+
+te:మడగాస్కర్‌లో	B-LOC
+te:దాదాపు	O
+te:సగం	O
+te:మంది	O
+te:జనాభా	O
+te:బానిసలుగా	O
+te:చేయబడ్డారు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ప్రపంచ	B-ORG
+te:మానవతా	I-ORG
+te:దినోత్సవం	I-ORG
+
+te:'	O
+te:''	O
+te:కవాసాకి	O
+te:''	O
+te:'	O
+te:,	O
+te:జపాన్	B-LOC
+
+te:'	O
+te:''	O
+te:హుమాయూన్	B-PER
+te:''	O
+te:'	O
+
+te:రాబోవు	O
+te:తరాల	O
+te:వారికి	O
+te:చాకలి	B-ORG
+te:అంటే	O
+te:పుస్తకాలలో	O
+te:చదువు	O
+te:కోవలసిందే	O
+te:.	O
+
+te:అభిమన్యుడు	B-PER
+te:లక్ష్మణకుమారుని	O
+te:మీద	O
+te:బాణములు	O
+te:గుప్పించాడు	O
+te:.	O
+
+te:భారత	B-ORG
+te:సైనిక	I-ORG
+te:దళం	I-ORG
+te:సంవత్సరములో	O
+te:చాలా	O
+te:సార్లు	O
+te:రాలీలు	O
+te:నిర్వహించి	O
+te:ఉద్యోగాలు	O
+te:ఇస్తుంది	O
+te:.	O
+
+te:నందమూరి	B-PER
+te:తారక	I-PER
+te:రామారావు	I-PER
+te:అడవిలో	O
+te:దేక్కుంటూ	O
+te:విలపిస్తున్న	O
+te:అభినయం	O
+te:అద్భుతం	O
+te:.	O
+
+te:జనచైతన్య	O
+te:ఆధ్మిత	O
+te:కేంద్రం	O
+te:,	O
+te:గుంటూరు	B-LOC
+
+te:అధ్యక్షుడు	O
+te:,	O
+te:ఆల్	B-ORG
+te:ఇండియా	I-ORG
+te:మజ్లిస్	I-ORG
+te:ఎ	I-ORG
+te:ఇత్తెహాదుల్	I-ORG
+te:ముస్లిమీన్	I-ORG
+
+te:మల్టీ	B-ORG
+te:మోడల్	I-ORG
+te:ట్రాన్స్‌పోర్ట్	I-ORG
+te:సిస్టమ్	I-ORG
+te:,	I-ORG
+te:హైదరాబాద్	I-ORG
+
+te:పెదనందిపాడు	B-LOC
+te:పన్నుల	O
+te:నిరాకరణోద్యంలో	O
+te:పాల్గొన్నందుకు	O
+te:ఆయన	O
+te:మొదటిసారి	O
+te:జైలు	O
+te:శిక్ష	O
+te:అనుభవించాడు	O
+te:.	O
+
+te:ఇంద్రగంటి	B-PER
+te:మోహన	I-PER
+te:కృష్ణ	I-PER
+
+te:అంతర్జాలంలోని	O
+te:సమాచారం	O
+te:ప్రకారం	O
+te:)	O
+te:నటరాజ	B-PER
+te:రామకృష్ణ	I-PER
+
+te:నీ	O
+te:భార్య	O
+te:గాంధారి	B-PER
+te:కూడా	O
+te:నిన్ను	O
+te:అనుసరించి	O
+te:వస్తుంది	O
+te:.	O
+
+te:ఈ	O
+te:పాటను	O
+te:అలనాటి	O
+te:ప్రముఖ	O
+te:రచయిత	O
+te:సముద్రాల	B-PER
+te:రాఘవాచార్య	I-PER
+te:రచించారు	O
+te:.	O
+
+te:తరువాత	O
+te:వారు	O
+te:పాయకరావుపేటకు	B-LOC
+te:నివాసం	O
+te:మార్చారు	O
+te:.	O
+
+te:ఘంటసాల	B-LOC
+te:(	I-LOC
+te:కృష్ణా	I-LOC
+te:జిల్లా	I-LOC
+te:)	I-LOC
+
+te:ముంబై	B-ORG
+te:ఎల్‌టీటీ	I-ORG
+te:-	I-ORG
+te:గోరఖ్‌పూర్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:నందమూరి	B-PER
+te:తారక	I-PER
+te:రామారావు	I-PER
+te:విగ్రహం	O
+
+te:సౌమ్యుడైన	O
+te:ధర్మరాజు	B-ORG
+te:సంధికి	O
+te:అంగీకరిస్తాడు	O
+te:.	O
+
+te:స్టేట్	B-ORG
+te:బ్యాంక్	I-ORG
+te:ఆఫ్	I-ORG
+te:బికనూర్	I-ORG
+te:&	I-ORG
+te:జైపూర్	I-ORG
+
+te:ప్రముఖ	O
+te:హాస్య	O
+te:నటుడు	O
+te:కృష్ణ	B-PER
+te:భగవాన్	I-PER
+te:ఈ	O
+te:చిత్రానికి	O
+te:రచనా	O
+te:సహకారం	O
+te:అందించారు	O
+te:.	O
+
+te:సేలం]]	O
+te:,	O
+te:ఈరోడ్	B-LOC
+te:,	O
+te:కోయంబత్తూరు	B-LOC
+
+te:దారిమార్పు	O
+te:ఆటోమేటెడ్	B-ORG
+te:టెల్లర్	I-ORG
+te:మెషీన్	I-ORG
+
+te:వారికి	O
+te:వీడ్కోలు	O
+te:పలకేసమయములో	O
+te:వ్యాసుడు	B-PER
+te:``	O
+te:చనిపోయిన	O
+te:మీ	O
+te:భర్తలను	O
+te:కలుసుకున్నరు	O
+te:.	O
+
+te:ఇతడు	O
+te:ప్రముఖ	O
+te:సినీనటి	O
+te:రోజారమణి	B-PER
+te:కుమారుడు	O
+te:.	O
+
+te:18646	O
+te:ఈస్ట్	B-ORG
+te:కోస్ట్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:వారిలో	O
+te:అన్నమయ్య	B-PER
+te:,	O
+te:రామదాసు	B-PER
+te:,	O
+te:త్యాగరాజు	B-PER
+te:,	O
+te:క్షేత్రయ్య	B-PER
+te:మొదలైనవారు	O
+te:ముఖ్యులు	O
+te:.	O
+
+te:AF	O
+te:=	O
+te:ఆఫ్రికా	B-LOC
+
+te:ఆ	O
+te:ఉపన్యాస	O
+te:సంపుటులను	O
+te:తత్త్వబోధస్వామి	O
+te:తెలుగులోకి	O
+te:అనువదించగా	O
+te:రామకృష్ణ	B-ORG
+te:మఠము	I-ORG
+te:వారు	O
+te:ఈ	O
+te:గ్రంథంగా	O
+te:ప్రచురించారు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ఎ.	B-PER
+te:ఆర్.	I-PER
+te:రెహమాన్	I-PER
+
+te:లక్షాగృహ	O
+te:దహనము	O
+te:,	O
+te:కపటజూదము	O
+te:,	O
+te:పాండవసతికి	O
+te:జరిగిన	O
+te:అవమానము	O
+te:,	O
+te:ఇంకా	O
+te:సుయోధనుడు	B-PER
+te:చేసిన	O
+te:సమస్త	O
+te:అకృత్యములకు	O
+te:మూలము	O
+te:అతడే	O
+te:.	O
+
+te:ఈ	O
+te:గ్రామానికి	O
+te:సమీపములో	O
+te:కృష్ణా	B-LOC
+te:నది	I-LOC
+te:ప్రవహిస్తుంది	O
+te:.	O
+
+te:ఆగ్నేయ	B-ORG
+te:మధ్య	I-ORG
+te:రైల్వే	I-ORG
+te:రైళ్లు	I-ORG
+
+te:కృష్ణవేణి	B-PER
+te:బాలనటిగా	O
+te:ఈ	O
+te:చిత్రం	O
+te:ద్వారా	O
+te:పరిచయమైంది	O
+te:.	O
+
+te:అమృతం	B-ORG
+te:(	O
+te:పది	O
+te:ఎపిసోడ్లు	O
+te:)	O
+
+te:12615	O
+te:చెన్నై	B-ORG
+te:-	I-ORG
+te:న్యూ	I-ORG
+te:ఢిల్లీ	I-ORG
+te:గ్రాండ్	I-ORG
+te:ట్రంక్	I-ORG
+te:సూపర్‌ఫాస్ట్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:దీనిని	O
+te:వదులుకోవడానికి	O
+te:శ్రీలంక	B-LOC
+te:కూడా	O
+te:సిద్దంగా	O
+te:లేదు	O
+te:.	O
+
+te:విరూపాక్షాలయాన్ని	O
+te:గురించి	O
+te:``	O
+te:డొమింగో	B-PER
+te:పీస్	I-PER
+te:''	O
+te:ఏమన్నాడో	O
+te:చదవండి	O
+te:.	O
+
+te:నీ	O
+te:ప్రశ్నకు	O
+te:ధర్మరాజు	B-ORG
+te:ఒక్కడే	O
+te:సమాధానం	O
+te:చెప్పగలడు	O
+te:``	O
+te:అని	O
+te:అన్నాడు	O
+te:.	O
+
+te:అశ్వత్థామ	B-PER
+te:,	O
+te:శకుని	B-PER
+te:,	O
+te:కృపాచార్యుడు	B-PER
+te:,	O
+te:కృతవర్మలు	B-PER
+te:వెంట	O
+te:ఉండగా	O
+te:నిష్కారణంగా	O
+te:కర్ణుడు	B-PER
+te:ఎలా	O
+te:చచ్చాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ఎం.	B-PER
+te:ఎం.	B-PER
+te:కీరవాణి	I-PER
+
+te:ఈ	O
+te:నాటికను	O
+te:మధునాపంతుల	B-PER
+te:సత్యనారాయణ	I-PER
+te:శాస్త్రి	I-PER
+te:తెలుగులోకి	O
+te:అనువదించారు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:విజయనగరం	B-LOC
+te:(	I-LOC
+te:కర్ణాటక	I-LOC
+te:)	I-LOC
+
+te:దారిమార్పు	O
+te:ఇబ్రాహీం	B-PER
+te:(	I-PER
+te:ప్రవక్త	I-PER
+te:)	I-PER
+
+te:నాగాలాండ్	B-LOC
+te:రాష్ట్రంలో	O
+te:ఇది	O
+te:చాలా	O
+te:ప్రధానమైనది	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ఈడుపుగంటి	B-PER
+te:వెంకట	I-PER
+te:సుబ్బారావు	I-PER
+
+te:ఇతడు	O
+te:విజయనగరం	B-LOC
+te:జిల్లాలో	O
+te:కొమరాడ	B-LOC
+te:గ్రామంలో	O
+te:జన్మించారు	O
+te:.	O
+
+te:గోపీనాథ్	B-PER
+te:బొర్దొలాయి	I-PER
+te:(	O
+te:జ	O
+te:.	O
+
+te:12615	O
+te:చెన్నై	B-ORG
+te:-	I-ORG
+te:న్యూ	I-ORG
+te:ఢిల్లీ	I-ORG
+te:గ్రాండ్	I-ORG
+te:ట్రంక్	I-ORG
+te:సూపర్‌ఫాస్ట్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:ఆంధ్రప్రదేశ్‌లో	O
+te:పంచారామాలుగా	B-ORG
+te:ప్రసిద్ధి	O
+te:చెందిన	O
+te:5	O
+te:పుణ్యక్షేత్రాలలో	O
+te:పాలకొల్లు	B-LOC
+te:ఒకటి	O
+te:.	O
+
+te:భీష్ముడు	B-PER
+te:బదులుగా	O
+te:``	O
+te:ధర్మనందనా	O
+te:!	O
+
+te:దారిమార్పు	O
+te:ఘనశ్యాం	B-PER
+te:దాస్	I-PER
+te:బిర్లా	I-PER
+
+te:శకుని	B-PER
+te:తన	O
+te:కుమారుడైన	O
+te:ఉలూకునితో	O
+te:చేరి	O
+te:అర్జునుడిని	O
+te:ఎదుర్కొన్నాడు	O
+te:.	O
+
+te:తరువాత	O
+te:విశ్వామిత్రుడు	B-ORG
+te:లేచి	O
+te:``	O
+te:అర్హత	O
+te:కలవారిని	O
+te:వదిలి	O
+te:అర్హత	O
+te:లేని	O
+te:వారిని	O
+te:పనిలో	O
+te:పెట్టుకోవడం	O
+te:,	O
+te:అధర్మవర్తనుడు	O
+te:,	O
+te:కపటి	O
+te:అయిన	O
+te:రాజును	O
+te:సేవించడం	O
+te:వంటి	O
+te:పాపములు	O
+te:ఈ	O
+te:తామరతూండ్లు	O
+te:దొంగిలించిన	O
+te:వానికి	O
+te:సంక్రమిస్తుంది	O
+te:``	O
+te:అని	O
+te:అన్నాడు	O
+te:.	O
+
+te:రంగసింహ	O
+te:వైద్యశాల	O
+te:,	O
+te:బద్వేలి	B-LOC
+te:మార్గము	O
+te:.	O
+
+te:స్వతంత్ర	O
+te:రాజ్యంగా	O
+te:ప్రకటించుకొని	O
+te:నిర్మల్	B-LOC
+te:ప్రాంతాన్ని	O
+te:పాలించాడు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:ఫ్రాన్స్	B-LOC
+te:''	O
+te:'	O
+
+te:ఇతడు	O
+te:మేనక	B-PER
+te:మరియు	O
+te:హిమవంతుల	O
+te:కుమారుడు	O
+te:.	O
+
+te:ఇండోర్	B-ORG
+te:-	I-ORG
+te:నగ్డా	I-ORG
+te:ప్యాసింజర్	I-ORG
+
+te:దారిమార్పు	O
+te:ముహమ్మద్	B-PER
+te:బిన్	I-PER
+te:తుగ్లక్	I-PER
+
+te:తరువాతికాలంలో	O
+te:రాజపుత్ర	B-ORG
+te:వంశాల	I-ORG
+te:ప్రాభవం	O
+te:మొదలయ్యింది	O
+te:.	O
+
+te:1351లో	O
+te:ముహమ్మద్	B-PER
+te:బిన్	I-PER
+te:తుగ్లక్	I-PER
+te:చనిపోయాడు	O
+te:.	O
+
+te:''మాటలు	O
+te:''	O
+te:–	O
+te:ముళ్ళపూడి	B-PER
+te:వెంకటరమణ	I-PER
+
+te:హైదరాబాదు	B-LOC
+te:నుంచి	O
+te:ఈ	O
+te:పట్టణము	O
+te:110	O
+te:కిమోమీటర్ల	O
+te:దూరంలో	O
+te:ఉత్తరం	O
+te:వైపు	O
+te:ఉంది	O
+te:.	O
+
+te:Vijayawada	O
+te:పర్వతనేని	B-PER
+te:ఉపేంద్ర	I-PER
+te:INC	O
+
+te:తర్వాత	O
+te:తన	O
+te:కుటుంబంతో	O
+te:కలిసి	O
+te:ముంబైకి	B-LOC
+te:మకాం	O
+te:మార్చాడు	O
+te:.	O
+
+te:ప్రాథమిక	O
+te:విద్యాభ్యాసాన్ని	O
+te:స్వగ్రామంలోనూ	O
+te:మరియు	O
+te:ఉన్నత	O
+te:విద్యాభ్యాసాన్ని	O
+te:బెంగుళూరు	B-LOC
+te:లోనూ	O
+te:పూర్తి	O
+te:చేశాడు	O
+te:.	O
+
+te:అనేక	O
+te:నేత్రములతో	O
+te:చూస్తుంటాడు	O
+te:కనుక	O
+te:అతడిని	O
+te:సర్వ	O
+te:చక్షువు	B-ORG
+te:అని	O
+te:అంటారు	O
+te:.	O
+
+te:తాజ్	B-ORG
+te:మహల్	I-ORG
+te:చిత్రం	O
+te:ద్వారా	O
+te:సినీరంగ	O
+te:ప్రవేశం	O
+te:చేశాడు	O
+te:.	O
+
+te:ఇండోర్	B-ORG
+te:-	I-ORG
+te:భింద్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:ఒకానొక	O
+te:సమయములో	O
+te:సిరిసింగరాజు	O
+te:అలంపూరు	O
+te:నుండి	O
+te:శ్రీశైలం	B-LOC
+
+te:రష్యా	B-LOC
+te:,	O
+te:కజఖస్తాన్	B-LOC
+te:మరియు	O
+te:అజార్బైజాన్	B-LOC
+te:ఈ	O
+te:విభాగాలపై	O
+te:పరిష్కారానికి	O
+te:అంగీకరించాయి	O
+te:.	O
+
+te:పాండవుల	O
+te:తర్వాత	O
+te:సింహాసనాన్ని	O
+te:అధిష్టించాల్సిన	O
+te:పరీక్షిత్తు	B-PER
+te:.	O
+
+te:'	O
+te:''	O
+te:రమేష్	B-ORG
+te:నాయుడు	I-ORG
+te:''	O
+te:'	O
+te:''	O
+
+te:'	O
+te:''	O
+te:నరమువారిగూడెం	O
+te:''	O
+te:'	O
+te:,	O
+te:ఖమ్మం	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:అశ్వారావుపేట	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+
+te:ప్రసిద్ధి	O
+te:చెందిన	O
+te:పైథాగరస్	B-PER
+te:సిద్ధాంతం]]	O
+te:ఈ	O
+te:విధమైన	O
+te:త్రికోణానికి	O
+te:వర్తిస్తుంది	O
+te:.	O
+
+te:1929లో	O
+te:వావిళ్ల	B-ORG
+te:రామస్వామి	I-ORG
+te:శాస్త్రులు	I-ORG
+te:అండ్	I-ORG
+te:సన్స్	I-ORG
+te:,	O
+te:మద్రాసువారు	O
+te:ఈ	O
+te:పుస్తకాన్ని	O
+te:దోషాలను	O
+te:సవరించి	O
+te:ప్రకటించారు	O
+te:.	O
+
+te:12615	O
+te:చెన్నై	B-ORG
+te:-	I-ORG
+te:న్యూ	I-ORG
+te:ఢిల్లీ	I-ORG
+te:గ్రాండ్	I-ORG
+te:ట్రంక్	I-ORG
+te:సూపర్‌ఫాస్ట్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:దీంతో	O
+te:వెంకట	B-PER
+te:రాఘవన్	I-PER
+te:ను	O
+te:పక్కనపెట్టాల్సి	O
+te:వచ్చింది	O
+te:.	O
+
+te:భువన	O
+te:విజయమ్	O
+te:పబ్లికేషన్స్	O
+te:,	O
+te:విజయవాడ	B-LOC
+
+te:'	O
+te:''	O
+te:ఉత్తర	B-LOC
+te:కొరియా	I-LOC
+te:''	O
+te:'	O
+
+te:కానీ	O
+te:IPL	B-ORG
+te:రెండవ	O
+te:సీజన్	O
+te:లో	O
+te:అతను	O
+te:కొద్దిగా	O
+te:మెరుగయ్యాడు	O
+te:.	O
+
+te:వారిని	O
+te:చూసి	O
+te:అశ్వత్థామ	B-PER
+te:,	O
+te:కృపాచార్యుడు	B-PER
+te:,	O
+te:కృతవర్మ	B-PER
+te:అక్కడ	O
+te:నుండి	O
+te:తప్పుకుని	O
+te:దాక్కున్నారు	O
+te:.	O
+
+te:ఈ	O
+te:దేవాలయ	O
+te:నిర్మాణం	O
+te:కోసం	O
+te:ద్వాపరయుగం	B-ORG
+te:నాటి	O
+te:ఆధారాలు	O
+te:లభిస్తాయి	O
+te:.	O
+
+te:కాని	O
+te:ఆస్ట్రేలియా	B-LOC
+te:,	O
+te:ఇంగ్లాండులతో	B-LOC
+te:జరిగిన	O
+te:పోటీలలో	O
+te:ప్రతిభను	O
+te:చూపలేకపోయాడు	O
+te:.	O
+
+te:పాల్కురికి	B-PER
+te:సోమనాథుడు	I-PER
+te:,	O
+te:వచనానువాదం	O
+te:.	O
+
+te:ఫలదీకరణం	O
+te:తరువాత	O
+te:ప్రారంభ	O
+te:దశను	O
+te:పిండం	B-PER
+te:'	O
+te:అంటారు	O
+te:.	O
+
+te:భారత	B-ORG
+te:జాతీయ	I-ORG
+te:కాంగ్రెస్	I-ORG
+te:–	O
+te:145	O
+
+te:'	O
+te:''	O
+te:యాత్రాస్మృతి	O
+te:''	O
+te:'	O
+te:దాశరథి	B-PER
+te:కృష్ణమాచార్య	I-PER
+te:రాసిన	O
+te:ఆత్మకథాత్మక	O
+te:రచన	O
+te:.	O
+
+te:ముంబై	B-ORG
+te:ఎల్‌టీటీ	I-ORG
+te:-	I-ORG
+te:గోరఖ్‌పూర్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:జనచైతన్య	O
+te:ఆధ్మిత	O
+te:కేంద్రం	O
+te:,	O
+te:గుంటూరు	B-LOC
+
+te:దారిమార్పు	O
+te:ఇంటర్నెట్	B-ORG
+te:విజ్ఞాన	I-ORG
+te:సర్వస్వము	I-ORG
+
+te:ఈ	O
+te:క్షేత్రమునకు	O
+te:పశ్చిమముగా	O
+te:10	O
+te:కి.మీ	O
+te:దూరంలో	O
+te:``	O
+te:తిరుక్కణ్ణంగుడి	B-ORG
+te:''	O
+te:యను	O
+te:క్షేత్రము	O
+te:ఉంది	O
+te:.	O
+
+te:'	O
+te:''	O
+te:వహీదా	B-PER
+te:రెహమాన్	I-PER
+te:''	O
+te:'	O
+te:''	O
+
+te:విశాఖ	B-ORG
+te:నక్షత్రములో	I-ORG
+te:పితృకార్యం	O
+te:నిర్వహించిన	O
+te:'	O
+te:''	O
+te:సంతాన	O
+te:ప్రాప్తి	O
+te:''	O
+te:'	O
+te:కలుగుతుంది	O
+te:.	O
+
+te:'	O
+te:''	O
+te:హంసలేఖ	B-PER
+te:''	O
+te:'	O
+te:''	O
+
+te:యువన్	B-PER
+te:శంకర్	I-PER
+te:రాజా	I-PER
+te:ఈ	O
+te:సినిమాకి	O
+te:సంగీతం	O
+te:అందించారు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:అఖిల	B-ORG
+te:భారత	I-ORG
+te:వైద్య	I-ORG
+te:విజ్ఞాన	I-ORG
+te:సంస్థ	I-ORG
+
+te:'	O
+te:''	O
+te:ఆకారం	O
+te:''	O
+te:'	O
+te:,	O
+te:నల్గొండ	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:శాలిగౌరారం	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+te:.	O
+
+te:మా	B-ORG
+te:తెలుగు	I-ORG
+te:తల్లికి	I-ORG
+te:మల్లె	I-ORG
+te:పూదండ	I-ORG
+
+te:అనీ	B-PER
+te:బిసెంట్	I-PER
+te:దానికి	O
+te:అధ్యక్షురాలు	O
+te:.	O
+
+te:దూరంలోనూ	O
+te:హనుమకొండ	B-LOC
+te:నగరం	O
+te:నడిబొడ్డున	O
+te:కలదు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:భారత	B-ORG
+te:జాతీయ	I-ORG
+te:కాంగ్రెస్	I-ORG
+
+te:బాణుడు	B-PER
+te:,	O
+te:అనువాదం	O
+te:,	O
+te:రూపకల్పన	O
+te:.	O
+
+te:పదవీ	O
+te:విరమణ	O
+te:తరువాత	O
+te:,	O
+te:అతను	O
+te:మౌంట్	B-LOC
+te:ఆబు	I-LOC
+te:,	O
+te:రాజస్థాన్	B-LOC
+te:లో	O
+te:శిక్షణ	O
+te:శిబిరాలలో	O
+te:శిక్షణ	O
+te:ఇచ్చే	O
+te:వాడు	O
+te:.	O
+
+te:రచయిత	O
+te:,	O
+te:[[రామతీర్థసేవాశ్రమము	O
+te:,	O
+te:గుంటూరుజిల్లా	B-LOC
+
+te:నాథూరామ్	B-PER
+te:గాడ్సేతో	I-PER
+te:పాటు	O
+te:ఇతను	O
+te:కూడా	O
+te:ఉరి	O
+te:తియ్యబడ్డాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:శ్రీ	B-ORG
+te:వెంకటేశ్వర	I-ORG
+te:జంతుప్రదర్శన	I-ORG
+te:శాల	I-ORG
+
+te:ఆ	O
+te:శంఖధ్వని	O
+te:విని	O
+te:ధర్మరాజు	B-ORG
+te:వెలుపలకు	O
+te:వచ్చి	O
+te:ఒకే	O
+te:సారి	O
+te:వారిద్దరిని	O
+te:కౌగలించుకొని	O
+te:ఆనందభాష్పాలు	O
+te:రాల్చి	O
+te:``	O
+te:అర్జునా	O
+te:!	O
+
+te:తిరువనంతపురం	B-ORG
+te:-	I-ORG
+te:ఇండోర్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:అప్పుడు	O
+te:పాచికలు	O
+te:అందుకున్న	O
+te:ధర్మరాజు	B-ORG
+te:ద్రౌపది	B-PER
+te:ని	O
+te:ఫణంగా	O
+te:పెట్టి	O
+te:ఓడి	O
+te:పోయాడు	O
+te:.	O
+
+te:స్టాలిన్	B-PER
+te:(	O
+te:2006	O
+te:)	O
+te:(	O
+te:అతిధి	O
+te:పాత్ర	O
+te:)	O
+
+te:శ్రీ	B-ORG
+te:లక్ష్మీప్రసన్న	I-ORG
+te:పిక్చర్స్	I-ORG
+
+te:యునైటెడ్	B-LOC
+te:కింగ్డం	I-LOC
+te:నందు	O
+te:పాలిమర్	O
+te:అనేది	O
+te:సాధారణంగా	O
+te:'	O
+te:''	O
+te:పాలిథిన్	O
+te:''	O
+te:'	O
+te:గా	O
+te:పిలువబడుతుంది	O
+te:.	O
+
+te:'	O
+te:''	O
+te:కోరట్పల్లి	O
+te:'	O
+te:''	O
+te:,	O
+te:నిజామాబాదు	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:ధర్‌పల్లి	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+
+te:కర్ణుడు	B-PER
+te:బెదరక	O
+te:అర్జునుడిమీద	O
+te:శరవర్షం	O
+te:కురిపించసాగాడు	O
+te:.	O
+
+te:అక్బరుద్దీన్	B-PER
+te:ఒవైసీ	I-PER
+te:ఆయన	O
+te:రెండవ	O
+te:కుమారుడు	O
+te:.	O
+
+te:చైనా	B-LOC
+te:లో	O
+te:నేటి	O
+te:అక్షరాలు	O
+te:వరుసగా	O
+te:సరళీకృత	O
+te:.	O
+
+te:ధర్మరాజు	B-ORG
+te:భీష్ముడితో	O
+te:``	O
+te:పితామహా	O
+te:!	O
+
+te:క్రీ.శ.225	O
+te:నుండి	O
+te:క్రీ.శ.300	O
+te:వరకు	O
+te:ఇక్ష్వాకులు	B-ORG
+te:పరిపాలించారు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:జాన్	B-PER
+te:ఎలియట్	I-PER
+te:డ్రింక్‌వాటర్	I-PER
+te:బెథూన్	I-PER
+
+te:ఈ	O
+te:గ్రామము	O
+te:ఖమ్మం	B-LOC
+te:పట్టణానికి	O
+te:12	O
+te:కి.మీ	O
+te:.	O
+
+te:మహబూబ్‌నగర్	B-ORG
+te:లోకసభ	I-ORG
+te:నియోజకవర్గం	I-ORG
+
+te:తరువాత	O
+te:ధర్మరాజు	B-ORG
+te:నిధికి	O
+te:బలులు	O
+te:సమర్పించి	O
+te:పూజలు	O
+te:చేసాడు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:నర్సంపేట్	O
+te:''	O
+te:'	O
+te:,	O
+te:వరంగల్	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:నర్సంపేట	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+
+te:విజయనగరం	B-LOC
+te:,	O
+te:భీమునిపట్నం	B-LOC
+te:,	O
+te:గాజువాక	B-LOC
+te:,	O
+te:అనకాపల్లి	B-LOC
+te:పట్టణాలకు	O
+te:,	O
+te:ప్రాంతీయ	O
+te:అభివృద్ధి	O
+te:ప్రణాళిక	O
+te:(	O
+te:జోనల్	O
+te:డెవలప్	O
+te:మెంట్	O
+te:ప్లాన్	O
+te:)	O
+te:లకు	O
+te:ఆం.ప్ర	O
+te:.	O
+
+te:1994లో	O
+te:,	O
+te:న్యూ	B-LOC
+te:యార్క్	I-LOC
+te:సిటీ	I-LOC
+te:హోటల్	O
+te:గదికు	O
+te:తీవ్రమైన	O
+te:నష్టాన్ని	O
+te:కలిగించారనే	O
+te:ఆరోపణ	O
+te:మీద	O
+te:డెప్‌ను	O
+te:పోలీసులు	O
+te:అరెస్టు	O
+te:చేసి	O
+te:ప్రశ్నించారు	O
+te:.	O
+
+te:సీతాపహరణను	O
+te:గురించి	O
+te:తెలిపి	O
+te:జటాయువు	B-PER
+te:మరణించాడు	O
+te:.	O
+
+te:ఐక్యరాజ్య	B-ORG
+te:సమితి	I-ORG
+te:;	O
+te:కోఫీ	B-PER
+te:అన్నన్	I-PER
+
+te:యయాతి	B-PER
+te:సాహచర్యంతో	O
+te:పుణ్యం	O
+te:కలిగి	O
+te:అతని	O
+te:మనుమలు	O
+te:అష్టకుడు	O
+te:మొదలైన	O
+te:వారు	O
+te:తిరిగి	O
+te:యయాతితో	B-PER
+te:పుణ్యలోకాలకు	O
+te:వెళ్ళారు	O
+te:.	O
+
+te:భీష్ముడు	B-PER
+te:ఇంకా	O
+te:ఇలా	O
+te:చెప్పాడు	O
+te:``	O
+te:కుబేరుడు	B-PER
+te:పురోహితుడు	O
+te:ఎలా	O
+te:ఉండాలన్న	O
+te:విషయం	O
+te:'	O
+te:''	O
+te:ముచికుందుడు	O
+te:'	O
+te:''	O
+te:తో	O
+te:ఇలా	O
+te:చెప్పాడు	O
+te:.	O
+
+te:రవితేజ]]	O
+te:,	O
+te:రక్షిత	B-PER
+te:,	O
+te:ప్రకాష్	B-PER
+te:రాజ్	I-PER
+
+te:విజయ	B-ORG
+te:నగర	I-ORG
+te:రాజ్య	I-ORG
+te:పతనానంతరం	O
+te:పాలెగాళ్ల	O
+te:పాలన	O
+te:ప్రారంభమైంది	O
+te:.	O
+
+te:ఫ్రెంచ్	B-LOC
+te:ఓపెన్‌లో	I-LOC
+te:సఫీన	O
+te:తన	O
+te:వృత్తి	O
+te:జీవితంలో	O
+te:మొదటి	O
+te:సారి	O
+te:గ్రాండ్‌స్లాంలో	O
+te:క్వార్టర్	O
+te:ఫైనల్స్	O
+te:చేరుకుంది	O
+te:.	O
+
+te:మండల	O
+te:వ్యాసం	O
+te:కొరకు	O
+te:'	O
+te:''	O
+te:కుల్కచర్ల	B-LOC
+te:''	O
+te:'	O
+te:చూడండి	O
+te:.	O
+
+te:తుంగతుర్తి	B-LOC
+te:(	I-LOC
+te:నల్గొండ	I-LOC
+te:జిల్లా	I-LOC
+te:మండలం	I-LOC
+te:)	I-LOC
+
+te:ముఖ్యంగా	O
+te:,	O
+te:1497లో	O
+te:వాస్కో	B-PER
+te:డ	I-PER
+te:గామ	I-PER
+te:భారతదేశం	B-LOC
+te:కొరకు	O
+te:బయలుదేరిన	O
+te:స్థలము	O
+te:ఇదే	O
+te:.	O
+
+te:కర్ణుడు	B-PER
+te:దానిని	O
+te:కూడా	O
+te:తన	O
+te:బాణ్ములతో	O
+te:ముక్కలు	O
+te:చేసాడు	O
+te:.	O
+
+te:ద్రౌపది	B-PER
+te:''సైరంధ్రి	O
+te:''	O
+te:గా	O
+te:విరాటరాజు	O
+te:భార్య	O
+te:సుధేష్ణాదేవి	O
+te:పరిచారిక	O
+te:అవుతుంది	O
+te:.	O
+
+te:ధర్మరాజు	B-ORG
+te:తోమరము	O
+te:అనే	O
+te:ఆయుధాన్ని	O
+te:తీసుకున్నాడు	O
+te:.	O
+
+te:కాసు	B-ORG
+te:బ్రహ్మానంద	I-ORG
+te:రెడ్డి	I-ORG
+te:జాతీయ	I-ORG
+te:వనం	I-ORG
+
+te:గ్రామము..	O
+te:ఈ	O
+te:గ్రామం	O
+te:తణుకు	B-LOC
+te:తాలూకా	O
+te:కిందకు	O
+te:వస్తుంది.ఈ	O
+te:గ్రామ	O
+te:టెలిఫోను	O
+te:కోడు	O
+te:నంబరు	O
+te:08819	O
+te:(	O
+te:958819	O
+te:)	O
+te:.	O
+
+te:సుయోధనుడు	B-PER
+te:గెలుస్తాడు	O
+te:అనుకోవడం	O
+te:ఇక	O
+te:అడియాస	O
+te:కదా	O
+te:!	O
+
+te:నల్గొండ	B-LOC
+te:జిల్లాలోని	O
+te:ఇదే	O
+te:ఫేరున్న	O
+te:గ్రామం+మండలం	O
+te:కోసం	O
+te:'	O
+te:''	O
+te:ఆలేరు	B-LOC
+te:''	O
+te:'	O
+te:చూడండి	O
+
+te:శ్రీ	B-ORG
+te:అనంతపద్మనాభస్వామి	I-ORG
+te:దేవాలయం	I-ORG
+te:(	I-ORG
+te:కేరళ	I-ORG
+te:)	I-ORG
+
+te:క్లూసెనర్	O
+te:బౌలర్‌గా	O
+te:ఆడుతున్నప్పుడు	O
+te:,	O
+te:మొహమ్మద్	B-PER
+te:అజహరుద్దీన్‌కు	I-PER
+te:విపరీతమైన	O
+te:పరుగులను	O
+te:అందించాడు	O
+te:,	O
+te:అతని	O
+te:తొలి	O
+te:ఆటలోని	O
+te:మొదటి	O
+te:ఇన్నింగ్స్‌లో	O
+te:ఒక	O
+te:సందర్భంలో	O
+te:అతను	O
+te:ఐదు	O
+te:వరుస	O
+te:నాలుగులను	O
+te:చేశాడు	O
+te:,	O
+te:కానీ	O
+te:రెండవ	O
+te:దానిలో	O
+te:అతని	O
+te:క్రీడా	O
+te:జీవితంలో	O
+te:ఉత్తమమైన	O
+te:64	O
+te:పరుగులకు	O
+te:ఎనిమిది	O
+te:వికెట్లను	O
+te:తీసుకున్నాడు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:కువైట్	B-LOC
+te:''	O
+te:'	O
+
+te:ఇది	O
+te:బీహార్లోని	B-LOC
+te:పెద్ద	O
+te:నగరాల్లో	O
+te:మూడవది	O
+te:.	O
+
+te:వీరిలో	O
+te:కొందరు	O
+te:ఐలోయిస్‌లతోపాటు	O
+te:ఫిలిప్పీన్స్	B-LOC
+te:మరియు	O
+te:మారిషష్‌లకు	O
+te:చెందిన	O
+te:కొందరు	O
+te:ఒప్పంద	O
+te:ఉద్యోగులు	O
+te:కూడా	O
+te:ఉన్నారు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:పశర్లపాడు	O
+te:''	O
+te:'	O
+te:,	O
+te:గుంటూరు	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:రెంటచింతల	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+te:.	O
+
+te:ఈశ్వర్	B-PER
+te:చంద్ర	I-PER
+te:విద్యాసాగర్	I-PER
+te:(	O
+te:1820–1891	O
+te:)	O
+
+te:ఉదాహరణకు	O
+te:ఢిల్లీ	B-LOC
+te:,	O
+te:ఢిల్లీ-జైపూర్‌	O
+te:,	O
+te:వదోదర	B-LOC
+te:,	O
+te:ముంబై	B-LOC
+te:ముంబై-సూరత్‌	O
+te:,	O
+te:బెంగళూరు	B-LOC
+te:,	O
+te:చెన్నై	B-LOC
+te:,	O
+te:తడ	B-LOC
+te:,	O
+te:ఢిల్లీ-మీరట్‌	O
+te:,	O
+te:విజయవాడ	B-LOC
+te:,	O
+te:గుంటూరు-విజయవాడ	B-LOC
+te:వంటి	O
+te:మార్గాలు	O
+te:.	O
+
+te:,	O
+te:కొడకండ్ల	B-LOC
+te:(	O
+te:14.5	O
+te:k.m	O
+te:.	O
+te:)	O
+
+te:ఈ	O
+te:పురస్కారాన్ని	O
+te:ఈమె	O
+te:,	O
+te:విశాఖపట్నంలో	B-LOC
+te:2015	O
+te:,	O
+te:సెప్టెంబరు-20వ	O
+te:తేదీనాడు	O
+te:అందుకుంటారు	O
+te:.	O
+
+te:ఇది	O
+te:భృగు	B-ORG
+te:మహర్షి	I-ORG
+te:తపస్సు	O
+te:చేసిన	O
+te:ప్రదేశమని	O
+te:వినికిడి	O
+te:.	O
+
+te:ఇతనికి	O
+te:జర్మనీ	B-LOC
+te:లోనె	O
+te:గాక	O
+te:విదేశ	O
+te:కంపెనీలలో	O
+te:కూడా	O
+te:మంచి	O
+te:అనుభవం	O
+te:ఉండేది	O
+te:.	O
+
+te:ఆ	O
+te:తర్వాత	O
+te:అదే	O
+te:సం.లో	O
+te:జింబాబ్వే	B-LOC
+te:పై	O
+te:97	O
+te:పరుగులు	O
+te:సాధించాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:చార్లెస్	B-PER
+te:ఫిలిప్	I-PER
+te:బ్రౌన్	I-PER
+
+te:విస్సన్నపేట	B-LOC
+te:మండల	O
+te:కేంద్రానికి	O
+te:8	O
+te:కి.మీ	O
+te:.	O
+
+te:దారిమార్పు	O
+te:విజయనగరం	B-LOC
+te:(	I-LOC
+te:కర్ణాటక	I-LOC
+te:)	I-LOC
+
+te:ఆమెకు	O
+te:పుట్టిన	O
+te:కుమారుడు	O
+te:పరీక్షిత్తు	B-PER
+te:.	O
+
+te:'	O
+te:''	O
+te:అల్బేనియా	B-LOC
+te:''	O
+te:'	O
+
+te:'	O
+te:''	O
+te:ఆటోమోవైల్స్	O
+te:లంబోర్ఘిని	O
+te:లాటినోఅమెరికా	O
+te:S.A.	O
+te:''	O
+te:'	O
+te:,	O
+te:ఒక	O
+te:మెక్సికోకి	B-LOC
+te:చెందిన	O
+te:సంస్థ	O
+te:.	O
+
+te:'	O
+te:''	O
+te:ఆఫ్ఘనిస్తాన్	B-LOC
+te:''	O
+te:'	O
+
+te:దారిమార్పు	O
+te:ఆసియా	B-ORG
+te:మరియు	I-ORG
+te:ఆస్ట్రలేషియాలోని	I-ORG
+te:ప్రపంచ	I-ORG
+te:వారసత్వ	I-ORG
+te:ప్రదేశాల	I-ORG
+te:జాబితా	I-ORG
+
+te:హైదరాబాదు	B-LOC
+te:,	O
+te:విజయవాడ	B-LOC
+te:నగరాలను	O
+te:కలుపుతున్న	O
+te:N.H	O
+te:9	O
+te:కు	O
+te:,	O
+te:ఈ	O
+te:గ్రామము	O
+te:5	O
+te:కి.మీ	O
+te:దూరంలో	O
+te:ఉన్నది	O
+te:.	O
+
+te:ఈమని	B-PER
+te:శంకరశాస్త్రిగారు	I-PER
+te:వీరికి	O
+te:మేనమామ	O
+te:.	O
+
+te:దారిమార్పు	O
+te:దేశాల	B-ORG
+te:జాబితా	I-ORG
+te:–	I-ORG
+te:వైశాల్యం	I-ORG
+te:క్రమంలో	I-ORG
+
+te:పాములపర్తి	B-PER
+te:వెంకట	I-PER
+te:నరసింహారావు	I-PER
+
+te:దారిమార్పు	O
+te:శ్రీపతి	B-PER
+te:పండితారాధ్యుల	I-PER
+te:బాలసుబ్రహ్మణ్యం	I-PER
+
+te:వాటికి	O
+te:పశ్చిమాన	O
+te:కొంకణ్	B-LOC
+te:తీరభూమి	O
+te:మైదానం	O
+te:ఉంది	O
+te:.	O
+
+te:ధర్మము	O
+te:అర్ధము	O
+te:గొప్పవి	O
+te:``	O
+te:అని	O
+te:భీష్ముడు	B-PER
+te:చెప్పాడు	O
+te:.	O
+
+te:దక్షిణ	B-ORG
+te:మధ్య	I-ORG
+te:రైల్వే	I-ORG
+te:రైళ్ళు	I-ORG
+
+te:దారిమార్పు	O
+te:ఇంటర్నెట్	B-ORG
+te:విజ్ఞాన	I-ORG
+te:సర్వస్వము	I-ORG
+
+te:ప్రాథమిక	O
+te:ఆరోగ్యకేంధ్రము	O
+te:లేదు	O
+te:అనారోగ్యం	O
+te:తలెత్తితే	O
+te:పాలకొల్లు	B-LOC
+te:వరకూ	O
+te:పరుగులు	O
+te:తీయాలి	O
+te:.	O
+
+te:నటుడు	O
+te:రేలంగి	B-ORG
+te:తో	O
+te:జతగా	O
+te:అనేక	O
+te:చిత్రాలలో	O
+te:హాస్యం	O
+te:పండించింది	O
+te:.	O
+
+te:పల్నాడులో	B-LOC
+te:వీరభాగవతక్షేత్రమని	O
+te:విఖ్యాతి	O
+te:పొందిన	O
+te:'	O
+te:''	O
+te:సత్రశాల	O
+te:''	O
+te:'	O
+te:గుంటూరుజిల్లాలో	B-LOC
+te:ప్రముఖ	O
+te:శైవ	O
+te:క్షేత్రంగా	O
+te:వెలుగొందుతుంది	O
+te:.	O
+
+te:ఇది	O
+te:పాండవులు	B-PER
+te:అజ్ఞాతవాసంలో	O
+te:తమ	O
+te:ఆయుధాలను	O
+te:ఉంచిన	O
+te:స్థలం	O
+te:.	O
+
+te:ఈమె	O
+te:ఆవుల	B-PER
+te:సాంబశివరావు	I-PER
+te:గారి	O
+te:భార్య	O
+te:.	O
+
+te:ప్రసిద్ధి	O
+te:చెందిన	O
+te:చిలుకూరు	B-ORG
+te:బాలాజీ	I-ORG
+te:దేవాలయం	I-ORG
+te:ఇక్కడ	O
+te:ఉంది	O
+
+te:ఈ	O
+te:చిత్రం	O
+te:ద్వారా	O
+te:అంజలీదేవి	B-PER
+te:కథానాయకి‌గా	O
+te:పరిచయమయ్యారు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:అడుగు	B-ORG
+te:(	I-ORG
+te:కొలమానం	I-ORG
+te:)	I-ORG
+
+te:ప్రపంచ	B-ORG
+te:ఆరోగ్య	I-ORG
+te:సంస్థ	I-ORG
+te:ప్రపంచవ్యాప్తంగా	O
+te:సుమారు	O
+te:140	O
+te:మిలియన్	O
+te:మంది	O
+te:మద్య	O
+te:వ్యసనంతో	O
+te:బాధపడుతున్నట్లు	O
+te:అంచనా	O
+te:వేసింది	O
+te:.	O
+
+te:'	O
+te:''	O
+te:మహారాష్ట్ర	B-LOC
+te:''	O
+te:'	O
+
+te:న్యూ	B-LOC
+te:మెక్సికో	I-LOC
+te:నగర	O
+te:జనసంఖ్యకు	O
+te:సమం	O
+te:.	O
+
+te:వివిధ	O
+te:రకాల	O
+te:క్రూట్జ్‌ఫెల్ట్‌	O
+te:జాకబ్‌	O
+te:వ్యాధులను	O
+te:అరికట్టడానికి	O
+te:ప్రపంచ	B-ORG
+te:ఆరోగ్య	I-ORG
+te:సంస్థ	I-ORG
+te:రూపొందించిన	O
+te:నియమాళను	O
+te:ఉల్లంఘించడంతో	O
+te:ఇది	O
+te:పెద్ద	O
+te:వివాదానికి	O
+te:దారి	O
+te:తీసింది	O
+te:.	O
+
+te:లిస్బన్	O
+te:యొక్క	O
+te:నగర	O
+te:ప్రాంతము	O
+te:దాని	O
+te:యొక్క	O
+te:పరిపాలనా	O
+te:సరిహద్దులను	O
+te:దాటి	O
+te:,	O
+te:2.4	O
+te:మిలియన్ల	O
+te:జనాభాతో	O
+te:,	O
+te:,	O
+te:వైశాల్యం	O
+te:ఉన్న	O
+te:ప్రదేశములో	O
+te:యురోపియన్	B-ORG
+te:యూనియన్	I-ORG
+te:లోనే	O
+te:చాలా	O
+te:పేరు	O
+te:పొందిన	O
+te:నగర	O
+te:ప్రాంతములలో	O
+te:12వ	O
+te:దానిగా	O
+te:ఉన్నది	O
+te:.	O
+
+te:14వ	O
+te:శతాబ్దపు	O
+te:ద్వితీయార్థములో	O
+te:ఇది	O
+te:విజయనగర	B-ORG
+te:సామ్రాజ్యము	I-ORG
+te:లో	O
+te:భాగమైనది	O
+te:.	O
+
+te:దుశ్శాసనుడు	B-PER
+te:భీష్ముని	O
+te:రక్షకదళానికి	O
+te:అధిపతి	O
+te:.	O
+
+te:ఎస్.	B-PER
+te:పి.	I-PER
+te:వై.	I-PER
+te:రెడ్డి	I-PER
+
+te:వెంటనే	O
+te:కర్ణుడు	B-PER
+te:కృపాచార్యుని	O
+te:దూషించానన్న	O
+te:సిగ్గు	O
+te:వదిలి	O
+te:పక్కనే	O
+te:ఉన్న	O
+te:అతడి	O
+te:రధము	O
+te:ఎక్కి	O
+te:తలదాచుకున్నాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:హైదరాబాద్	B-ORG
+te:పబ్లిక్	I-ORG
+te:స్కూల్	I-ORG
+
+te:కామంతోగాని	O
+te:ధనంతోగానీ	O
+te:,	O
+te:భయంతోగానీ	O
+te:ధర్మం	O
+te:తప్పనివాడు	O
+te:ధర్మరాజు	B-ORG
+te:.	O
+
+te:ఇటీవల	O
+te:సహారన్పూర్‌కు	O
+te:10	O
+te:కిమీ	O
+te:దూరంలో	O
+te:బెహాత్	O
+te:రోడ్డుపై	O
+te:సాయిబాబా	B-PER
+te:ఆలయాన్ని	O
+te:నిర్మించారు	O
+te:.	O
+
+te:నీ	O
+te:మేనల్లుడి	O
+te:కుమారుడిని	O
+te:చంపకలిగిన	O
+te:సామర్ధ్యము	O
+te:అశ్వత్థామకు	B-PER
+te:ఉందా	O
+te:!	O
+
+te:ఆ	O
+te:సమయంలో	O
+te:కర్ణాటకలో	B-LOC
+te:హైదర్‌అలీ	O
+te:పరిపాలన	O
+te:,	O
+te:నెల్లూరులో	B-LOC
+te:నవాబుల	O
+te:పరిపాలన	O
+te:ఉండేది	O
+te:.	O
+
+te:ధర్మరాజు	B-ORG
+te:భీష్ముడితో	O
+te:``	O
+te:పితామహా	O
+te:!	O
+
+te:ధర్మరాజు	B-ORG
+te:లోకోత్తరమైన	O
+te:యాగము	O
+te:చేస్తున్నాడని	O
+te:విని	O
+te:ఇక్కడకు	O
+te:వచ్చాను	O
+te:కాని	O
+te:ఇక్కడ	O
+te:ఉన్న	O
+te:నీటిలో	O
+te:ఎంత	O
+te:పొర్లినా	O
+te:నా	O
+te:శరీరము	O
+te:నా	O
+te:మిగిలిన	O
+te:శరీరము	O
+te:సువర్ణము	O
+te:కాలేదు	O
+te:.	O
+
+te:ఈ	O
+te:రచనలో	O
+te:ఎక్కువగా	O
+te:,	O
+te:సోక్రటీస్	B-PER
+te:దేవుళ్ల	O
+te:పేర్లు	O
+te:సహా	O
+te:పలు	O
+te:పదాల	O
+te:యొక్క	O
+te:మూలాల	O
+te:గురించి	O
+te:ఊహించాడు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:పంజాబ్	B-LOC
+te:''	O
+te:'	O
+
+te:శకుని	B-PER
+te:తన	O
+te:సేనలతో	O
+te:ధర్మరాజును	B-ORG
+te:ఎదుర్కొన్నాడు	O
+te:.	O
+
+te:అది	O
+te:విని	O
+te:ధర్మరాజు	B-ORG
+te:ఆనందసాగరంలో	O
+te:మునిగాడు	O
+te:.	O
+
+te:ల	O
+te:దూరంలో	O
+te:కొమురవెల్లి	B-ORG
+te:మల్లన్న	I-ORG
+te:స్వామి	I-ORG
+te:దేవాలయం	I-ORG
+te:ఉంది	O
+te:.	O
+
+te:ధర్మరాజు	B-ORG
+te:యుయుత్సుడిని	O
+te:కురుసామ్రాజ్యానికి	O
+te:పట్టభిషిక్తుడిని	O
+te:చేసాడు	O
+te:.	O
+
+te:భమిడిపాటి	B-PER
+te:కామేశ్వరరావు	I-PER
+te:,	O
+te:ప్రముఖ	O
+te:రచయిత	O
+te:,	O
+te:హాస్యబ్రహ్మ	O
+te:.	O
+
+te:విస్తరించిన-దూలం	O
+te:శైలిని	O
+te:జర్మన్	B-LOC
+te:సంస్థ	O
+te:ALWEG	O
+te:ప్రజాదరణ	O
+te:వచ్చేలా	O
+te:చేసింది	O
+te:.	O
+
+te:గుంటూరు	B-LOC
+te:నుండి	O
+te:మాచెర్ల	B-LOC
+te:వరకు	O
+
+te:తలైచ్చంగనాణ్మదియమ్	B-ORG
+te:(	O
+te:తలైచ్చగాడ్	O
+te:)	O
+
+te:సస్యవిప్లవం	O
+te:ప్రభావం	O
+te:వల్ల	O
+te:పంజాబ్	B-LOC
+te:లో	O
+te:గోధుమల	O
+te:ఉత్పత్తి	O
+te:గణనీయంగా	O
+te:పెర్గింది	O
+te:.	O
+
+te:కాని	O
+te:పెద్ద	O
+te:మొత్తంలోని	O
+te:నీటి	O
+te:ఉపరితలం	O
+te:గురుత్వాకర్షణ	B-ORG
+te:బలాల	O
+te:కారణంగా	O
+te:ఒక	O
+te:నున్నని	O
+te:సమతలంగా	O
+te:ఏర్పడుతుంది	O
+te:.	O
+
+te:కొత్తపేట	B-LOC
+te:(	I-LOC
+te:తూర్పు	I-LOC
+te:గోదావరి	I-LOC
+te:జిల్లా	I-LOC
+te:)	I-LOC
+
+te:వీరు	O
+te:ఖమ్మం	B-LOC
+te:జిల్లా	I-LOC
+te:లో	O
+te:స్థిరపడ్డారు	O
+te:.	O
+
+te:యూరోపియన్	B-ORG
+te:యూనియన్	I-ORG
+te:అనేది	O
+te:ప్రపంచంలో	O
+te:అత్యధిక	O
+te:శాతంలో	O
+te:పాల	O
+te:ఉత్పత్తి	O
+te:చేస్తుంది	O
+te:,	O
+te:ఇది	O
+te:2003లో	O
+te:143.7	O
+te:మిలియన్	O
+te:టన్నుల	O
+te:పాలను	O
+te:ఉత్పత్తి	O
+te:చేసింది	O
+te:.	O
+
+te:దారిమార్పు	O
+te:జాతీయ	B-ORG
+te:రహదారి	I-ORG
+te:63	I-ORG
+te:(	I-ORG
+te:భారతదేశం	I-ORG
+te:)	I-ORG
+
+te:రాహుల్	B-PER
+te:దేవ్	I-PER
+te:బర్మన్	I-PER
+
+te:నిజానికి	O
+te:ఈ	O
+te:రెండూ	O
+te:విభిన్నమైన	O
+te:బలాలు	O
+te:కావనీ	O
+te:,	O
+te:ఒకే	O
+te:శక్తి	O
+te:యొక్క	O
+te:రెండు	O
+te:విభిన్న	O
+te:రూపాలనీ	O
+te:జేమ్స్	B-PER
+te:క్లర్క్	I-PER
+te:మాక్స్‌వెల్	I-PER
+te:సా	O
+te:.	O
+
+te:ఆయన	O
+te:బాల్యమంతా	O
+te:భీమడోలు	B-LOC
+te:యందు	O
+te:గల	O
+te:తాతగారింట్లో	O
+te:గడిచింది	O
+te:.	O
+
+te:దారిమార్పు	O
+te:ఉండవల్లి	B-PER
+te:అరుణ	I-PER
+te:కుమార్	I-PER
+
+te:అది	O
+te:చూసిన	O
+te:యుధామన్యుడు	O
+te:అశ్వత్థామను	B-PER
+te:ఎదుర్కొన్నాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:జాతీయ	B-ORG
+te:రహదారి	I-ORG
+te:18	I-ORG
+te:(	I-ORG
+te:భారతదేశం	I-ORG
+te:)	I-ORG
+
+te:అప్పుడు	O
+te:కృష్ణవంశీ	B-PER
+te:ఆయనకు	O
+te:ఫోన్‌	O
+te:చేసి	O
+te:అందులో	O
+te:ఒక	O
+te:పోలీసాఫీసర్‌	O
+te:పాత్ర	O
+te:ఉంది	O
+te:చేయమని	O
+te:అడిగాడు	O
+te:.	O
+
+te:ఇందు	O
+te:వలన	O
+te:నేను	O
+te:కీటకంగా	O
+te:జన్మించినా	O
+te:బాధపడను	O
+te:``	O
+te:అని	O
+te:అంటూనే	O
+te:రథం	O
+te:ఎక్కాడు	O
+te:అశ్వత్థామ	B-PER
+te:``	O
+
+te:ఒక	O
+te:రకం	O
+te:అయిన	O
+te:'	O
+te:''	O
+te:పొనుకు	O
+te:''	O
+te:'	O
+te:(	O
+te:గైరోకాపస్	O
+te:జాక్విని	O
+te:)	O
+te:అని	O
+te:పిలువబడే	O
+te:తేలికపాటి	O
+te:రకమయిన	O
+te:కొండపల్లి	B-LOC
+te:కొండలు	O
+te:ప్రాంతము	O
+te:నందు	O
+te:కనిపిస్తుంది	O
+te:.	O
+
+te:''	O
+te:దీక్షా	B-PER
+te:సేథ్	I-PER
+te:''	O
+
+te:బ్రహ్మ	B-PER
+te:సకల	O
+te:జీవకోటిని	O
+te:సృష్టించాడు	O
+te:.	O
+
+te:నోకియా	B-ORG
+te:మూసివేసే	O
+te:పరిస్థితికి	O
+te:వచ్చినప్పుడు	O
+te:దాదాపు	O
+te:90	O
+te:మంది	O
+te:ఉద్యోగులు	O
+te:దాని	O
+te:నుంచి	O
+te:బయటకు	O
+te:వచ్చారు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:శ్రీ	B-ORG
+te:కృష్ణ	I-ORG
+te:దేవరాయాంధ్ర	I-ORG
+te:భాషా	I-ORG
+te:నిలయం	I-ORG
+
+te:పశ్చిమ	B-LOC
+te:బెంగాల్	I-LOC
+te:(	O
+te:77	O
+te:)	O
+
+te:ఇవి	O
+te:ఈస్టిండియా	B-ORG
+te:కంపెనీ	I-ORG
+te:కాలంలో	O
+te:ఇక్కడ	O
+te:పనులు	O
+te:చేయడానికి	O
+te:దేశాంతరాలనుండి	O
+te:వచ్చి	O
+te:స్థిరపడిన	O
+te:పౌరుల	O
+te:నివాసాలు	O
+te:.	O
+
+te:సావిత్రి	B-PER
+te:(	I-PER
+te:నటి	I-PER
+te:)	I-PER
+
+te:చెన్నై	B-ORG
+te:ఎగ్మోర్	I-ORG
+te:-	I-ORG
+te:మంగళూరు	I-ORG
+te:సెంట్రల్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+te:.	O
+
+te:కొత్త	B-PER
+te:రఘురామయ్యతో	I-PER
+te:కొన్నేళ్ళు	O
+te:కలసి	O
+te:పనిచేశాడు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:దోనేకళ్	O
+te:''	O
+te:'	O
+te:,	O
+te:అనంతపురం	B-ORG
+te:జిల్లా	I-ORG
+te:,	O
+te:విడపనకళ్	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+
+te:రచయితలుగా	O
+te:పరుచూరి	B-PER
+te:బ్రదర్స్	I-PER
+te:,	O
+te:పాటల	O
+te:రచయితగా	O
+te:సిరివెన్నెల	B-ORG
+te:సీతారామశాస్త్రి	I-ORG
+te:బాగా	O
+te:రాణించారు	O
+te:.	O
+
+te:దీని	O
+te:కార్యక్రమాలు	O
+te:పీస్	B-ORG
+te:టీవీ	I-ORG
+te:ద్వారా	O
+te:ప్రసారం	O
+te:కాబడుతున్నాయి	O
+te:.	O
+
+te:గఱ్ఱెవారి	O
+te:చారిటబుల్	O
+te:ట్రస్టు	O
+te:,	O
+te:విజయవాడ	B-LOC
+
+te:వ్యాసుడు	B-PER
+te:సమస్త	O
+te:ధర్మాలూ	O
+te:తెలిసిన	O
+te:వాడు	O
+te:.	O
+
+te:టిప్పు	B-PER
+te:సుల్తాన్	I-PER
+te:కాలంలో	O
+te:దీన్ని	O
+te:నిర్మించారు	O
+te:.	O
+
+te:ప్రస్తుతం	O
+te:ఈవిడ	O
+te:చెన్నై	B-LOC
+te:నుంగంబాక్కంలోని	O
+te:వల్లువర్‌కోట్టం	O
+te:కాలనీలో	O
+te:నివసిస్తున్నారు	O
+te:.	O
+
+te:ధర్మరాజు	B-ORG
+te:భీష్ముడిని	O
+te:``	O
+te:పితామహా	O
+te:!	O
+
+te:సాలూరుకు	O
+te:చెందిన	O
+te:పట్రాయని	B-PER
+te:సీతారామశాస్త్రి	I-PER
+te:ఆ	O
+te:చుట్టుపక్కల	O
+te:ఊళ్ళల్లో	O
+te:పేరొందిన	O
+te:విద్వాంసుడు	O
+te:.	O
+
+te:అది	O
+te:చూసిన	O
+te:వారంతా	O
+te:ఈ	O
+te:రోజు	O
+te:ద్రోణుని	O
+te:చేతిలో	O
+te:ధర్మరాజు	B-ORG
+te:బంధీ	O
+te:అయ్యాడు	O
+te:అనుకున్నారు	O
+te:.	O
+
+te:ఈ	O
+te:ప్రాంతం	O
+te:ఒకప్పుడు	O
+te:శ్రీనగర్	B-LOC
+te:జిల్లాలోని	O
+te:2	O
+te:తెహసిల్స్‌గా	O
+te:ఉండేవి	O
+te:.	O
+
+te:'	O
+te:''	O
+te:థాయిలాండ్	B-LOC
+te:''	O
+te:'	O
+
+te:అది	O
+te:చూసిన	O
+te:బ్రహ్మదేవుడు	B-PER
+te:మహాభీషుని	O
+te:మానవలోకంలో	O
+te:జన్మించమని	O
+te:శపించాడు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:ప్రియమణి	B-PER
+te:''	O
+te:'	O
+te:''	O
+
+te:రావు	B-PER
+te:బాలసరస్వతీ	I-PER
+te:దేవి	I-PER
+
+te:దారిమార్పు	O
+te:మొన్కొంబు	B-PER
+te:సాంబశివన్	I-PER
+te:స్వామినాథన్	I-PER
+
+te:శాంతి	B-PER
+te:స్వరూప్	I-PER
+te:భట్నాగర్	I-PER
+
+te:వారిలో	O
+te:నేదునూరి	B-PER
+te:కృష్ణమూర్తి	I-PER
+te:ఒకరు	O
+te:.	O
+
+te:ప్రారంభ	O
+te:దశాబ్దాలలోని	O
+te:ఇతర	O
+te:కార్యకలాపాలలో	O
+te:కు	B-ORG
+te:క్లక్స్	I-ORG
+te:క్లాన్	I-ORG
+te:యొక్క	O
+te:పరిధిని	O
+te:మరియు	O
+te:ప్రభావాన్ని	O
+te:తగ్గించడంలోని	O
+te:నిర్ణాయక	O
+te:పాత్ర	O
+te:కూడా	O
+te:ఉంది	O
+te:.	O
+
+te:''	O
+te:జెనీలియా	B-PER
+te:డిసౌజా	I-PER
+te:''	O
+
+te:రెండవ	O
+te:సూర్యునిలా	O
+te:ప్రకాశిస్తున్నాడు	O
+te:అభిమన్యుడు	B-PER
+te:``	O
+te:అన్నాడు	O
+te:ధృతరాష్ట్రునితో	O
+te:సంజయుడు	B-PER
+te:.	O
+
+te:ఆరంభంలో	O
+te:,	O
+te:ఆమె	O
+te:పాటలను	O
+te:రికార్డు	O
+te:చేసేవారు	O
+te:మరియు	O
+te:లతా	B-PER
+te:మంగేష్కర్	I-PER
+te:ఇంకా	O
+te:ఆశా	B-PER
+te:భోంస్లే	I-PER
+te:పాడబోయే	O
+te:పాటలను	O
+te:ఈమె	O
+te:ముందస్తుగా	O
+te:పాడి	O
+te:వినిపించేవారు	O
+te:.	O
+
+te:(	O
+te:నేషనల్	B-ORG
+te:కౌన్సిల్	I-ORG
+te:ఫర్	I-ORG
+te:ప్రమోషన్	I-ORG
+te:ఆఫ్	I-ORG
+te:ఉర్దూ	I-ORG
+te:లాంగ్వేజ్	I-ORG
+te:)	O
+te:సంయుక్తంగా	O
+te:అభివృద్ధి	O
+te:పరచారు	O
+te:.	O
+
+te:16వ	O
+te:శతాబ్దంలో	O
+te:ఎలిజెబెత్‌-1	B-PER
+te:హయాంలో	O
+te:ఇది	O
+te:ప్రజల	O
+te:సందర్శనకు	O
+te:అనుమతించబడింది	O
+te:.	O
+
+te:చివరి	O
+te:కథలో	O
+te:బేతాళుడి	O
+te:ప్రశ్నలకు	O
+te:విక్రమార్కుడు	B-ORG
+te:జవాబులు	O
+te:చెప్పలేకపోతాడట	O
+te:.	O
+
+te:ఇది	O
+te:దక్షిణాసియా	B-LOC
+te:లో	O
+te:చాలా	O
+te:ప్రాచుర్యం	O
+te:పొందినది	O
+te:.	O
+
+te:రౌతు	O
+te:బుక్కు	O
+te:డిపో	O
+te:,	O
+te:రాజమండ్రి	B-LOC
+
+te:వరాహమిహిరుడు	B-PER
+te:(	O
+te:క్రీ.శ.505	O
+te:నుండి	O
+te:587	O
+te:)	O
+
+te:శ్రీరాంసాగర్	B-ORG
+te:ప్రాజెక్టు	I-ORG
+te:ఈ	O
+te:మండల	O
+te:పరిధిలోనే	O
+te:ఉంది	O
+te:.	O
+
+te:రాజస్థాన్	B-LOC
+te:లో	O
+te:ఉన్న	O
+te:గొప్ప	O
+te:కోటలలో	O
+te:ఇది	O
+te:ఒకటని	O
+te:భావించబడుతుంది	O
+te:.	O
+
+te:టంగుటూరి	B-PER
+te:ప్రకాశం	I-PER
+te:ఈ	O
+te:పత్రికలో	O
+te:పనిచేసే	O
+te:కార్మికులకు	O
+te:వేతనాలు	O
+te:చెల్లించలేక	O
+te:పోతే	O
+te:ఇతడు	O
+te:కార్మికుల	O
+te:పక్షాన	O
+te:నిలిచాడు	O
+te:.	O
+
+te:పప్పు	B-ORG
+te:(	O
+te:2010	O
+te:)	O
+
+te:పరిక్షిత్తుని	B-PER
+te:యువరాజుగా	O
+te:పట్టభిషిక్తుడిని	O
+te:చేసాడు	O
+te:.	O
+
+te:ధర్మరాజు	B-ORG
+te:విజృంభించి	O
+te:శల్యుడి	O
+te:చక్రరక్షకులను	O
+te:చంపి	O
+te:,	O
+te:సారధిని	O
+te:చంపాడు	O
+te:.	O
+
+te:ఆకాశవాణిలో	B-ORG
+te:ఆయన	O
+te:డిప్యూటీ	O
+te:ఛీఫ్	O
+te:ప్రొడ్యూసర్	O
+te:గా	O
+te:పనిచేశారు	O
+te:.	O
+
+te:వీరి	O
+te:అన్న	O
+te:పేరు	O
+te:హసన్	B-PER
+te:ఇబ్న్	I-PER
+te:అలీ	I-PER
+te:.	O
+
+te:నాగార్జునసాగర్	B-ORG
+te:నీటి	O
+te:వసతి	O
+te:ఉంది	O
+te:.	O
+
+te:ఉత్తరాఖండ్	B-LOC
+te:నైరుతీ	O
+te:భాగంలో	O
+te:ఉంది	O
+te:.	O
+
+te:గోదావరికి	O
+te:పాయలలో	O
+te:ఒకటైన	O
+te:'గౌతమి	O
+te:'	O
+te:,	O
+te:కాకినాడ	B-LOC
+te:కి	O
+te:దక్షిణంగా	O
+te:బంగళాఖాతంలో	O
+te:కలుస్తోంది	O
+te:.	O
+
+te:ఈయన	O
+te:ఆర్యభట్టు	B-PER
+te:మరియు	O
+te:బ్రహ్మగుప్తుడు	B-PER
+te:కృషిచేసిన	O
+te:విషయములపైనే	O
+te:కృషిచేశాడు	O
+te:.	O
+
+te:ఈ	O
+te:శాపం	O
+te:గురించి	O
+te:తెలియని	O
+te:తృణబిందుని	O
+te:కూతురు	O
+te:ఒకనాడు	O
+te:ఆశ్రమంలో	O
+te:ప్రవేశించి	O
+te:,	O
+te:పులస్త్యుడుని	B-ORG
+te:చూడటం	O
+te:తటస్థించింది	O
+te:.	O
+
+te:వారిలో	O
+te:విశ్వబ్రాహ్మణ	B-ORG
+te:కులస్తులు	O
+te:ఒకరు	O
+te:.	O
+
+te:ప్రముఖ	O
+te:దర్శకుడు	O
+te:కృష్ణవంశీ	B-PER
+te:కి	O
+te:దర్శకుడిగా	O
+te:ఇది	O
+te:మొదటి	O
+te:చిత్రం	O
+te:.	O
+
+te:వ్యక్తిగతంగా	O
+te:తెలుగుదేశం	B-ORG
+te:పార్టీ	I-ORG
+te:అభిమాని	O
+te:.	O
+
+te:ఆమె	O
+te:కోపించి	O
+te:సీతను	B-LOC
+te:తినివేయబోయింది	O
+te:.	O
+
+te:తెలంగాణఉద్యమము	B-LOC
+te:తీవ్రముగా	O
+te:ఉన్న	O
+te:ఈరోజులలో	O
+te:ఇది	O
+te:వివాదాస్పదము	O
+te:అయ్యే	O
+te:సూచనలు	O
+te:ఉన్నాయి	O
+te:.	O
+
+te:'	O
+te:''	O
+te:చీమలపాడూ	O
+te:''	O
+te:'	O
+te:,	O
+te:కృష్ణా	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:ఏ.కొండూరు	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+
+te:**	O
+te:ఓర్నేట్	B-LOC
+te:లోరికీట్	I-LOC
+te:,	O
+te:''ట్రైకోగ్లోస్సస్	O
+te:ఓర్నేటస్	O
+te:''	O
+
+te:రావు	B-PER
+te:గోపాలరావు	I-PER
+te:నటనలో	O
+te:ఒక	O
+te:కలికితురాయి	O
+te:.	O
+
+te:నార్త్	B-ORG
+te:జోన్	I-ORG
+te:క్రికెట్	I-ORG
+te:జట్టు	I-ORG
+
+te:దక్షిణ	B-ORG
+te:మధ్య	I-ORG
+te:రైల్వే	I-ORG
+te:రైళ్ళు	I-ORG
+
+te:రంపంతో	B-ORG
+te:దుంగలను	O
+te:కోసేటప్పుడు	O
+te:ఒక్కసారిగా	O
+te:దుంగ	O
+te:తెగి	O
+te:పడక	O
+te:చాలాసేపు	O
+te:పదునైన	O
+te:రంపపు	O
+te:పళ్లు	O
+te:కోతకు	O
+te:గురవుతుంటాయి	O
+te:.	O
+
+te:తనికెళ్ళ	B-PER
+te:భరణి	I-PER
+te:...	O
+te:...	O
+te:.	O
+te:బాపివీడు	O
+
+te:హీట్‌సింక్లు	O
+te:దాదాపు	O
+te:అన్ని	O
+te:కంప్యూటర్లలో	B-LOC
+te:కనిపిస్తాయి	O
+te:.	O
+
+te:ధర్మరాజు	B-ORG
+te:వ్యాసుడితో	O
+te:``	O
+te:ఓ	O
+te:మహర్షీ	O
+te:!	O
+
+te:EU	O
+te:DK	O
+te:DNK	O
+te:208	O
+te:డెన్మార్క్	B-LOC
+
+te:ఘంటసాల	B-PER
+te:వెంకటేశ్వరరావు	I-PER
+te:,	O
+te:ఎస్	O
+te:.	O
+
+te:చివరకు	O
+te:అమెరికా	B-LOC
+te:సంయుక్త	I-LOC
+te:రాష్ట్రాలకు	I-LOC
+te:మకాం	O
+te:మార్చారు	O
+te:.	O
+
+te:ఆమె	O
+te:విద్యాభ్యాసాన్ని	O
+te:తణుకులోని	B-LOC
+te:సీతామహాలక్ష్మి	O
+te:జిల్లాపరిషత్	O
+te:బాలికోన్నత	O
+te:పాఠశాలలో	O
+te:పూర్తిచేశారు	O
+te:.	O
+
+te:రాయలసీమ	B-LOC
+te:,	O
+te:కర్ణాటక	B-LOC
+te:ప్రాంతాలలో	O
+te:ఎక్కువగా	O
+te:చేయబడుతుంది	O
+te:.	O
+
+te:భీష్ముడు	B-PER
+te:``	O
+te:ధర్మనందనా	O
+te:ఏమిటీ	O
+te:వెర్రి	O
+te:.	O
+
+te:అతడు	O
+te:చెన్నై	B-ORG
+te:సూపర్	I-ORG
+te:కింగ్స్	I-ORG
+te:తరుఫున	O
+te:ఇండియన్	B-ORG
+te:ప్రీమియర్	I-ORG
+te:లీగ్లో	I-ORG
+te:ఆడుతున్నాడు	O
+te:.	O
+
+te:వెల్దుర్తి	B-LOC
+te:అనంతపురం	B-ORG
+te:జిల్లా	I-ORG
+te:కు	O
+te:చెందిన	O
+te:చెన్నే	B-LOC
+te:కొత్తపల్లె	I-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+te:.	O
+
+te:==ఇంటా	O
+te:బయటా	O
+te:పేరు	O
+te:పొందిన	O
+te:ఆదిభట్ల	B-PER
+te:నారాయణదాసు	I-PER
+
+te:శోభన్	B-PER
+te:బాబు	I-PER
+te:సుమారు	O
+te:300	O
+te:పైగా	O
+te:చిత్రాలలో	O
+te:నటించారు	O
+te:.	O
+
+te:1950లో	O
+te:మలికిపురం	B-LOC
+te:హైస్కూలులో	O
+te:హిందీపండిట్‌గా	O
+te:ఉద్యోగం	O
+te:చేస్తూ	O
+te:మెట్రిక్యులేషన్	O
+te:పూర్తి	O
+te:చేశారు	O
+te:.	O
+
+te:ఇంతకు	O
+te:ముందు	O
+te:సునీల్	B-PER
+te:గవాస్కర్	I-PER
+te:,	O
+te:దిలీప్	B-PER
+te:వెంగ్‌సర్కార్	I-PER
+te:,	O
+te:సచిన్	B-PER
+te:టెండుల్కర్	I-PER
+te:లు	O
+te:మాత్రమే	O
+te:ఈ	O
+te:ఘనత	O
+te:సాధించారు	O
+te:.	O
+
+te:ఈ	O
+te:తరహా	O
+te:ఛోళీలు	O
+te:రాజస్థాన్	B-LOC
+te:లో	O
+te:ఇంకనూ	O
+te:సాధారణంగా	O
+te:వాడుతూ	O
+te:ఉన్నారు	O
+te:.	O
+
+te:ఇతడు	O
+te:బెనారస్	B-ORG
+te:హిందూ	I-ORG
+te:విశ్వవిద్యాలయం	I-ORG
+te:నుండి	O
+te:ఎం.ఎ	O
+te:.	O
+
+te:దారిమార్పు	O
+te:జవహర్	B-ORG
+te:లాల్	I-ORG
+te:నెహ్రూ	I-ORG
+te:సాంకేతిక	I-ORG
+te:విశ్వవిద్యాలయం	I-ORG
+te:,	I-ORG
+te:అనంతపురం	I-ORG
+
+te:నాగమనాయకుని	O
+te:''గా	O
+te:''	O
+te:శివాజీ	B-PER
+te:గణేశన్	I-PER
+
+te:ముకేష్	B-PER
+te:రిషి	I-PER
+te:-వసుమతి	O
+te:తండ్రి	O
+
+te:దారిమార్పు	O
+te:అండమాన్	B-LOC
+te:నికోబార్	I-LOC
+te:దీవులు	I-LOC
+
+te:అయితే	O
+te:అప్పటికి	O
+te:దర్శకుడు	O
+te:సి.పుల్లయ్య	B-PER
+te:ఆరోగ్యం	O
+te:క్షీణించింది	O
+te:.	O
+
+te:భారత	B-ORG
+te:సైనిక	I-ORG
+te:దళం	I-ORG
+
+te:చెన్నై	B-LOC
+te:నుండి	O
+te:218	O
+te:మైళ్ళ	O
+te:దూరంలో	O
+te:ఉన్నది	O
+te:.	O
+
+te:'	O
+te:''	O
+te:కామెరూన్	B-LOC
+te:''	O
+te:'	O
+
+te:ఆర్కిమెడిస్	B-PER
+te:సూత్రం	O
+te:ప్రకారం	O
+te:ఒక	O
+te:వస్తువు	O
+te:ద్రవంలో	O
+te:పూర్తిగా	O
+te:మునిగినపుడు	O
+te:వస్తువుపై	O
+te:కలుగజెయబడిన	O
+te:ఊర్థ్వ	O
+te:ఒత్తిడి	O
+te:ఆ	O
+te:వస్తువు	O
+te:కోల్పోయిన	O
+te:ద్రవ	O
+te:భారవుతో	O
+te:సమానంగా	O
+te:ఉంటుంది	O
+te:.	O
+
+te:ఇండోర్	B-ORG
+te:-	I-ORG
+te:భింద్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:మిధిలాపుర	O
+te:నాయకుడైన	O
+te:జనక	B-PER
+te:మహారాజు	I-PER
+te:యాగము	O
+te:చేయుచూ	O
+te:భూమిని	O
+te:దున్నుచుండగా	O
+te:నాగలికి	O
+te:ఒక	O
+te:పెట్టె	O
+te:అడ్డుపడింది	O
+te:.	O
+
+te:'	O
+te:''	O
+te:కెనడా	B-LOC
+te:''	O
+te:'	O
+
+te:కేతుమాలం	O
+te:(	O
+te:ఇరాన్	B-LOC
+te:,	O
+te:టర్కీ	B-LOC
+te:)	O
+te:పశ్చిమం	O
+
+te:1949-50	O
+te:లో	O
+te:ఐక్యరాజ్య	B-ORG
+te:సమితి	I-ORG
+te:సాంఘిక	O
+te:కార్యకలాపాల	O
+te:కార్యాలయంలోను	O
+te:మరియు	O
+te:1951-52	O
+te:లో	O
+te:యునెస్కో	B-ORG
+te:యొక్క	O
+te:సాంఘికశాస్త్రాల	O
+te:విభాగానికి	O
+te:డైరెక్టర్‌గా	O
+te:పనిచేసింది	O
+te:.	O
+
+te:బెళ్లందూరు	B-LOC
+te:చెరువు	I-LOC
+te:కూడా	O
+te:ఒక	O
+te:ముఖ్య	O
+te:నీటి	O
+te:వనరు	O
+te:.	O
+
+te:జామా	B-ORG
+te:మస్జిద్	I-ORG
+te:,	O
+te:ఢిల్లీ	B-LOC
+te:.	O
+
+te:ఇండియన్	B-ORG
+te:ఇన్స్టిట్యూట్	I-ORG
+te:ఆఫ్	I-ORG
+te:టెక్నాలజీ	I-ORG
+te:ఢిల్లీ	I-ORG
+
+te:దీనిని	O
+te:త్వరలో	O
+te:పెదకాకాని	B-LOC
+te:గ్రామం	O
+te:నుంచి	O
+te:ప్రారంభించనున్నారు	O
+te:.	O
+
+te:అర్జునుడు	B-PER
+te:యాగాశ్వాన్ని	O
+te:వెంబడిస్తూ	O
+te:ఆయారాజులను	O
+te:జయిస్తూ	O
+te:దిగ్విజయయాత్ర	O
+te:చేస్తున్న	O
+te:విషయము	O
+te:ఎప్పటికప్పుడు	O
+te:చారులద్వారా	O
+te:వింటూ	O
+te:ధర్మరాజు	B-ORG
+te:పరమాందభరితుడు	O
+te:అవుతున్నాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:చైతన్య	B-ORG
+te:భారతి	I-ORG
+te:ఇన్‌స్టిట్యూట్	I-ORG
+te:ఆఫ్	I-ORG
+te:టెక్నాలజీ	I-ORG
+
+te:'	O
+te:''	O
+te:బద్దెనవోలు	O
+te:''	O
+te:'	O
+te:,	O
+te:కడప	B-LOC
+te:జిల్లాలోని	O
+te:ఒక	O
+te:ముఖ్య	O
+te:పట్టణము	O
+te:.	O
+
+te:స్పిన్	O
+te:దిగ్గజం	O
+te:షేన్	B-PER
+te:వార్న్	I-PER
+te:మ్యాచ్	O
+te:ఆఖర్లో	O
+te:స్వయంకృతంగా	O
+te:గాయపడ్డాడు	O
+te:.	O
+
+te:|	O
+te:సాలూరు	B-PER
+te:రాజేశ్వరరావు	I-PER
+te:,	O
+te:రావు	B-PER
+te:బాలసరస్వతీ	I-PER
+te:దేవి	I-PER
+
+te:శ్రీ	B-PER
+te:కృష్ణదేవ	I-PER
+te:రాయలు	I-PER
+te:మృతి	O
+te:.	O
+
+te:పొగాకుల	B-LOC
+te:సారాన్ని	O
+te:(	O
+te:ఎక్స్‌ట్రాక్టుని	O
+te:)	O
+te:వడపోసిన	O
+te:తర్వాత	O
+te:కూడా	O
+te:ఆ	O
+te:ఎక్స్‌ట్రాక్టుకు	O
+te:వ్యాధిని	O
+te:ప్రబలింపజేసే	O
+te:గుణం	O
+te:ఉన్నదని	O
+te:ఆయన	O
+te:తన	O
+te:పరిశోధనల	O
+te:ద్వారా	O
+te:తెలియజేసాడు	O
+te:.	O
+
+te:ఈ	O
+te:గ్రామములో	O
+te:శివుడు	B-ORG
+te:,	O
+te:కోటిలింగేశ్వరస్వామిగా	O
+te:కొలువుదీరియున్నాడు	O
+te:.	O
+
+te:చివరకు	O
+te:నా	O
+te:భార్య	O
+te:గాంధారి	B-PER
+te:కూడా	O
+te:నన్ను	O
+te:నిందించింది	O
+te:.	O
+
+te:ధర్మరాజు	B-ORG
+te:భీష్మునితో	O
+te:``	O
+te:పితామహా	O
+te:!	O
+
+te:అర్జునుడు	B-PER
+te:త్రిగర్త	O
+te:వీరులను	O
+te:చీల్చి	O
+te:చెండాడుతున్నాడు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:విశాఖ	B-ORG
+te:ఉక్కు	I-ORG
+te:కర్మాగారం	I-ORG
+
+te:ఇది	O
+te:108	O
+te:వైష్ణవ	B-ORG
+te:దివ్యదేశాలు	I-ORG
+te:లో	O
+te:ఒకటి	O
+te:.	O
+
+te:పెబ్బేరు	B-LOC
+te:నుండి	O
+te:కూడా	O
+te:ఇక్కడికి	O
+te:చేరుకోవచ్చు	O
+te:.	O
+
+te:కర్ణుడు	B-PER
+te:,	O
+te:సైంధవుడు	B-PER
+te:ఆనందంతో	O
+te:ఒకరి	O
+te:ముఖాలు	O
+te:ఒకరు	O
+te:చూసుకున్నారు	O
+te:.	O
+
+te:దారిమార్పు	O
+te:తిరుమల	B-ORG
+te:తిరుపతి	I-ORG
+te:దేవస్థానములు	I-ORG
+
+te:దారిమార్పు	O
+te:తూర్పు	B-LOC
+te:గోదావరి	I-LOC
+te:జిల్లా	I-LOC
+
+te:రంగారెడ్డి	B-LOC
+te:జిల్లా	I-LOC
+te:జడ్పీ	O
+te:కార్యాలయము	O
+te:.	O
+
+te:దారిమార్పు	O
+te:అల్	B-ORG
+te:అక్సా	I-ORG
+te:మస్జిద్	I-ORG
+
+te:ఐక్య	B-LOC
+te:రాజ్య	I-LOC
+te:సమితి	I-LOC
+te:సభ్యదేశాల	I-LOC
+te:జాబితా	I-LOC
+
+te:'	O
+te:''	O
+te:భూటాన్	B-LOC
+te:''	O
+te:'	O
+
+te:గుంటూరు	B-LOC
+te:నుండి	O
+te:దొనకొండ	B-LOC
+te:నుండి	O
+te:నంద్యాల	B-LOC
+te:వరకు	O
+
+te:'	O
+te:''	O
+te:రైకూర్	O
+te:''	O
+te:'	O
+te:,	O
+te:నిజామాబాదు	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:కోటగిరి	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+
+te:గ్రామంలో	O
+te:ఎక్కువగా	O
+te:కమ్మ	B-ORG
+te:వారు	O
+te:మిగతావారు	O
+te:బి.సి.	O
+te:,	O
+te:యస్.సీ	O
+te:.	O
+
+te:దారిమార్పు	O
+te:సర్దార్	B-PER
+te:గౌతు	I-PER
+te:లచ్చన్న	I-PER
+
+te:కృతవర్మ	B-PER
+te:కృష్ణార్జునుల	O
+te:మీద	O
+te:ఇరవై	O
+te:అయిదు	O
+te:బాణములు	O
+te:వేసాడు	O
+te:.	O
+
+te:కాశీలో	B-LOC
+te:వలే	O
+te:ఈ	O
+te:ఆలయం	O
+te:పడమర	O
+te:ముఖంగా	O
+te:ఉండడం	O
+te:విశేషం	O
+te:.	O
+
+te:శివుడు	B-ORG
+te:కాలకూట	O
+te:విషము	O
+te:మింగాడు	O
+te:.	O
+
+te:వృద్ధుడను	O
+te:,	O
+te:అల్ప	O
+te:బుద్ధిని	O
+te:మీ	O
+te:తల్లి	O
+te:గాంధారి	B-PER
+te:ముఖం	O
+te:చూసి	O
+te:దుర్యోధనాదులు	O
+te:మీ	O
+te:పట్ల	O
+te:చేసిన	O
+te:అపచారం	O
+te:క్షమించండి	O
+te:.	O
+
+te:దీనికి	O
+te:అధిపతి	O
+te:'జానపద	O
+te:బ్రహ్మ'గా	O
+te:ప్రసిద్ధిగాంచిన	O
+te:బి.విఠలాచార్య	B-PER
+te:.	O
+
+te:ఆరాత్రి	O
+te:ధర్మరాజు	B-ORG
+te:మొదటి	O
+te:రోజునే	O
+te:తమకు	O
+te:ఓటమి	O
+te:సంభవించి	O
+te:నందుకు	O
+te:దుఃఖిస్తూ	O
+te:తమ్ములతో	O
+te:సహా	O
+te:శ్రీకృష్ణుని	O
+te:వద్దకు	O
+te:వెళ్ళాడు	O
+te:.	O
+
+te:తరువాత	O
+te:కొన్ని	O
+te:రోజులకు	O
+te:పాండవుల	O
+te:వద్దకు	O
+te:వ్యాసుడువచ్చాడు	B-PER
+te:.	O
+
+te:దానితో	O
+te:కాళ్ళ	B-LOC
+te:గ్రామానికి	O
+te:చెందిన	O
+te:శిల్పి	O
+te:తాతవోలు	O
+te:నాగభూషణాచార్యులు	O
+te:అనే	O
+te:శిల్పి	O
+te:ద్వారా	O
+te:అమ్మవారి	O
+te:పునర్నిర్మాణం	O
+te:జరిగింది	O
+te:.	O
+
+te:దీనికా	O
+te:పేరు	O
+te:అబ్దుల్	B-PER
+te:ఖాదిర్	I-PER
+te:జీలాని	I-PER
+te:పేరుమీద	O
+te:ఏర్పడింది	O
+te:.	O
+
+te:మొదటి	O
+te:స్థానంలో	O
+te:అల్జీరియా	B-LOC
+te:ఉంది	O
+te:.	O
+
+te:ధర్మరాజు	B-ORG
+te:అర్జునుడితో	O
+te:``	O
+te:అర్జునా	O
+te:!	O
+
+te:దారిమార్పు	O
+te:ఆత్మకూరు	B-LOC
+te:(	I-LOC
+te:నెల్లూరు	I-LOC
+te:)	I-LOC
+
+te:చివరకు	O
+te:ఈ	O
+te:విషయమై	O
+te:భారత	B-ORG
+te:పార్లమెంటు	I-ORG
+te:జోక్యం	O
+te:కలుగజేసుకొనవలసిన	O
+te:దుర్దశ	O
+te:వచ్చినందుకు	O
+te:బాధను	O
+te:వ్యక్తం	O
+te:చేసినది	O
+te:.	O
+
+te:సైన్యంలో	O
+te:దూర్జయ	O
+te:,	O
+te:బోయ	B-PER
+te:,	O
+te:పల్లీలు	O
+te:వంటి	O
+te:కులాలవారిని	O
+te:సైనికులుగా	O
+te:,	O
+te:సైన్యాధ్యక్షులుగా	O
+te:,	O
+te:సామంతులుగా	O
+te:నియమించుకొనేవారు	O
+te:.	O
+
+te:రావణాసురుడు	B-PER
+te:,	O
+te:శివు	B-ORG
+te:ని	O
+te:గురించి	O
+te:అకుంఠిత	O
+te:తపస్సు	O
+te:చేసి	O
+te:మెప్పించి	O
+te:ఆత్మలింగాన్ని	O
+te:భూలోకానికి	O
+te:తెస్తాడు	O
+te:.	O
+
+te:'	O
+te:''	O
+te:ముకేష్	B-PER
+te:''	O
+te:'	O
+te:''	O
+
+te:దారిమార్పు	O
+te:సిద్ధి	B-ORG
+te:వినాయక	I-ORG
+te:దేవాలయం	I-ORG
+te:,	I-ORG
+te:ముంబై	I-ORG
+
+te:శకుని	B-PER
+te:,	O
+te:సుశర్ముడు	O
+te:అర్జునుడిని	O
+te:సుదర్శనుడు	O
+te:భీమసేనుడిని	O
+te:సుయోధనుడు	O
+te:సహదేవుని	O
+te:ఎదుర్కొన్నారు	O
+te:.	O
+
+te:అల్బేనియా	B-LOC
+te:దేశ	O
+te:జనసంఖ్యకు	O
+te:సమానం	O
+te:.	O
+
+te:దారిమార్పు	O
+te:కిబుల్	B-ORG
+te:లామ్జావో	I-ORG
+te:జాతీయ	I-ORG
+te:వనము	I-ORG
+
+te:ప్రపంచ	B-ORG
+te:మస్జిద్	I-ORG
+te:ల	I-ORG
+te:జాబితా	I-ORG
+
+te:శ్రీ	B-ORG
+te:కృష్ణ	I-ORG
+te:దేవరాయాంధ్ర	I-ORG
+te:భాషా	I-ORG
+te:నిలయం	I-ORG
+te:(	O
+te:1901-1962	O
+te:)	O
+
+te:'	O
+te:''	O
+te:మొజాంబిక్	B-LOC
+te:''	O
+te:'	O
+
+te:పింగళి	B-PER
+te:లక్ష్మీకాంతం	I-PER
+te:ఈ	O
+te:విషయంపై	O
+te:ఇలా	O
+te:పరిశీలించాడు	O
+te:.	O
+
+te:కమ్యూనిస్టు	B-ORG
+te:పార్టీ	I-ORG
+te:ఆఫ్	I-ORG
+te:ఇండియా	I-ORG
+te:(	I-ORG
+te:మార్కిస్టు	I-ORG
+te:)	I-ORG
+
+te:పి	O
+te:శర	O
+te:మైదానం]]	O
+te:,	O
+te:కొలంబో	B-LOC
+
+te:'	O
+te:''	O
+te:పెదబల్లి	O
+te:''	O
+te:'	O
+te:,	O
+te:అనంతపురం	B-ORG
+te:జిల్లా	I-ORG
+te:,	O
+te:నంబులిపులికుంట	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+te:.	O
+
+te:బాంబే	B-ORG
+te:స్టాక్	I-ORG
+te:ఎక్స్ఛేంజ్	I-ORG
+te:సూచి	O
+te:సెన్సెక్స్	O
+te:లో	O
+te:2050	O
+te:పాయింట్ల	O
+te:భారీ	O
+te:పతనం	O
+te:.	O
+
+te:స్పెయిన్‌లో	B-LOC
+te:జనాభా	O
+te:గణనను	O
+te:INE	O
+te:ప్రతి	O
+te:పదేళ్లకు	O
+te:ఒకసారి	O
+te:నిర్వహించనుంది	O
+te:.	O
+
+te:తమిళనాడులో	B-LOC
+te:BJP	O
+te:పోటీచేసే	O
+te:క్రమములో	O
+te:లేదు	O
+te:.	O
+
+te:తిరువనంతపురం	B-ORG
+te:-	I-ORG
+te:ఇండోర్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:ఇది	O
+te:శాతవాహనుల	B-ORG
+te:కాలం	O
+te:నాటి	O
+te:గ్రామం	O
+te:.	O
+
+te:అబూబక్ర్	B-PER
+te:''	O
+te:రజి	O
+te:''	O
+
+te:దారిమార్పు	O
+te:భారతీయ	B-ORG
+te:అంతరిక్ష	I-ORG
+te:పరిశోధనా	I-ORG
+te:సంస్థ	I-ORG
+
+te:శ్రీలక్ష్మినరసింహస్వామి	O
+te:పుణ్యక్షేత్రం	O
+te:అనంతపురం	B-LOC
+te:జిల్లాలో	O
+te:బళ్లారి-అనంతపురం	O
+te:ప్రధానరహదారిలో	O
+te:ఉరవకొండకు	B-LOC
+te:10కి.మీ	O
+te:దూరంలోఉంది	O
+te:.	O
+
+te:దారిమార్పు	O
+te:భారతీయ	B-ORG
+te:అంతరిక్ష	I-ORG
+te:పరిశోధనా	I-ORG
+te:సంస్థ	I-ORG
+
+te:ముంబై	B-ORG
+te:ఎల్‌టీటీ	I-ORG
+te:-	I-ORG
+te:గోరఖ్‌పూర్	I-ORG
+te:ఎక్స్‌ప్రెస్	I-ORG
+
+te:'	O
+te:''	O
+te:నంగయగడ్డ	O
+te:''	O
+te:'	O
+te:,	O
+te:కృష్ణా	B-LOC
+te:జిల్లా	I-LOC
+te:,	O
+te:నాగాయలంక	B-LOC
+te:మండలానికి	O
+te:చెందిన	O
+te:గ్రామము	O
+
+te:'	O
+te:''	O
+te:డల్లాస్	B-LOC
+te:''	O
+te:'	O
+
+te:ఇది	O
+te:దక్షిణ	B-LOC
+te:అమెరికా	I-LOC
+te:మరియు	O
+te:ఉత్తర	B-LOC
+te:అమెరికా	I-LOC
+te:ఖండాలను	O
+te:కలుపుతున్న	O
+te:సన్నని	O
+te:భూభాగం	O
+te:.	O
+
+te:యునెస్కో	B-ORG
+te:ఈ	O
+te:సంగ్రహాలయానికి	O
+te:ఒక	O
+te:స్థాయ	O
+te:గుర్తింపుని	O
+te:ఇచ్చింది	O
+te:.	O
+

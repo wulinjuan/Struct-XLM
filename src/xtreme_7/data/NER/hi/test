@@ -1,0 +1,7005 @@
+hi:नन्दा	B-LOC
+hi:देवी	I-LOC
+hi:पर्वत	I-LOC
+
+hi:===	O
+hi:आगरा	B-LOC
+hi:में	O
+hi:आमंत्रण	O
+hi:और	O
+hi:पलायन	O
+hi:===	O
+
+hi:'	O
+hi:''	O
+hi:अटलांटा	B-ORG
+hi:फाल्कन्स	I-ORG
+hi:''	O
+hi:'	O
+
+hi:कोटा	B-LOC
+hi:,	I-LOC
+hi:राजस्थान	I-LOC
+
+hi:संयुक्त	B-ORG
+hi:राष्ट्र	I-ORG
+hi:खाद्य	I-ORG
+hi:एवं	I-ORG
+hi:कृषि	I-ORG
+hi:संगठन	I-ORG
+
+hi:किसकी	O
+hi:आजादी	O
+hi:,	O
+hi:किसका	O
+hi:जश्न	O
+hi:दैनिक	B-ORG
+hi:जागरण	I-ORG
+hi:का	O
+hi:एक	O
+hi:लेख।	O
+
+hi:राधा	B-ORG
+hi:कृष्ण	I-ORG
+hi:मंदिर	I-ORG
+hi:,	I-ORG
+hi:कानपुर	I-ORG
+
+hi:रोहतक	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:प्लाज़्मा	B-PER
+hi:(	I-PER
+hi:भौतिकी	I-PER
+hi:)	I-PER
+
+hi:इम्फाल	B-LOC
+hi:पूर्व	I-LOC
+hi:जिला	I-LOC
+
+hi:अनुप्रेषित	O
+hi:2014	B-ORG
+hi:राष्ट्रमण्डल	I-ORG
+hi:खेल	I-ORG
+
+hi:अनुप्रेषित	O
+hi:के॰	B-PER
+hi:जे॰	I-PER
+hi:येशुदास	I-PER
+
+hi:पुनर्प्रेषित	O
+hi:अलेक्जेण्डर	B-PER
+hi:वॉन	I-PER
+hi:हम्बोल्ट	I-PER
+
+hi:'	O
+hi:''	O
+hi:गुजरात	B-LOC
+hi:''	O
+hi:'	O
+
+hi:विदर्भ	B-LOC
+hi:क्रिकेट	I-LOC
+hi:एसोसिएशन	I-LOC
+hi:ग्राउंड	I-LOC
+hi:,	O
+hi:नागपुर	B-LOC
+
+hi:'	O
+hi:''	O
+hi:टेन	B-ORG
+hi:स्पोर्ट्स	I-ORG
+hi:''	O
+hi:'	O
+
+hi:अनुप्रेषित	O
+hi:रिओ	B-LOC
+hi:दे	I-LOC
+hi:ला	I-LOC
+hi:प्लाता	I-LOC
+
+hi:उधम	B-LOC
+hi:सिंह	I-LOC
+hi:नगर	I-LOC
+hi:जिला	I-LOC
+
+hi:अनुप्रेषित	O
+hi:मिस्र	B-ORG
+hi:के	I-ORG
+hi:सशस्त्र	I-ORG
+hi:बल	I-ORG
+
+hi:''	O
+hi:छत्तीसगढ़	B-LOC
+hi:''	O
+hi:'	O
+
+hi:राष्ट्रीय	B-ORG
+hi:तापविद्युत	I-ORG
+hi:निगम	I-ORG
+hi:लिमिटेड	I-ORG
+
+hi:डबिंग]]	O
+hi:(	O
+hi:श्रेय	O
+hi:दिया	O
+hi:डीवीडी	B-ORG
+hi:रिलीज	O
+hi:पर	O
+hi:)	O
+
+hi:अनुप्रेषित	O
+hi:हिमालय	B-LOC
+hi:का	I-LOC
+hi:रामचकोर	I-LOC
+
+hi:भारत	B-LOC
+hi:के	I-LOC
+hi:अभयारण्य	I-LOC
+
+hi:हेमवती	B-PER
+hi:नंदन	I-PER
+hi:बहुगुणा	I-PER
+
+hi:कोरिया	B-LOC
+hi:में	O
+hi:सोया	O
+hi:दूध	O
+hi:शब्द	O
+hi:का	O
+hi:प्रतिनिधित्व	O
+hi:करने	O
+hi:के	O
+hi:लिए	O
+hi:,	O
+hi:''	O
+hi:두유	O
+hi:(	O
+hi:豆乳	O
+hi:)	O
+hi:''	O
+hi:है।	O
+hi:``	O
+hi:두	O
+hi:''	O
+hi:और	O
+hi:``	O
+hi:유	O
+hi:''	O
+hi:क्रमशः	O
+hi:सोया	O
+hi:और	O
+hi:दूध	O
+hi:का	O
+hi:प्रतिनिधित्व	O
+hi:करते	O
+hi:हैं।	O
+
+hi:२५३	O
+hi:,	O
+hi:३३६	O
+hi:कि.मी२	O
+hi:--	O
+hi:वायोमिंग	B-LOC
+
+hi:पुनर्प्रेषित	O
+hi:पॅन्हा	B-LOC
+hi:दि	I-LOC
+hi:फ़्रांका	I-LOC
+hi:,	I-LOC
+hi:गोवा	I-LOC
+
+hi:'	O
+hi:''	O
+hi:चेन्नई	B-LOC
+hi:''	O
+hi:'	O
+
+hi:रश्मि	B-PER
+hi:देसाई	I-PER
+hi:-	O
+hi:शादी	O
+
+hi:राजा	B-ORG
+hi:रामन्ना	I-ORG
+hi:प्रगत	I-ORG
+hi:प्रौद्योगिकी	I-ORG
+hi:केन्द्र	I-ORG
+hi:,	O
+hi:इन्दौर	B-LOC
+
+hi:जो	B-ORG
+hi:बीवी	I-ORG
+hi:से	I-ORG
+hi:करे	I-ORG
+hi:प्यार	I-ORG
+
+hi:'	O
+hi:''	O
+hi:अवैरो	O
+hi:''	O
+hi:'	O
+hi:,	O
+hi:पुर्तगाल	B-LOC
+
+hi:अनुप्रेषित	O
+hi:गृह	B-ORG
+hi:मंत्रालय	I-ORG
+hi:,	I-ORG
+hi:भारत	I-ORG
+hi:सरकार	I-ORG
+
+hi:सेबेस्तियन	B-PER
+hi:लारूह	I-PER
+hi:एलेक्स	B-PER
+hi:ओ	I-PER
+hi:ब्रायन	I-PER
+
+hi:मणिपुर	B-LOC
+hi:(	O
+hi:इम्फाल	B-LOC
+hi:)	O
+
+hi:'मानसेहरा	O
+hi:'	O
+hi:का	O
+hi:नाम	O
+hi:मुग़ल	B-LOC
+hi:सम्राट	I-LOC
+hi:अकबर	B-PER
+hi:के	O
+hi:मशहूर	O
+hi:सिपहसलार	O
+hi:राजा	B-PER
+hi:मान	I-PER
+hi:सिंह	I-PER
+hi:पर	O
+hi:रखा	O
+hi:गया	O
+hi:था।	O
+
+hi:नंद	B-LOC
+hi:वंश	I-LOC
+hi:(	O
+hi:424	O
+hi:–	O
+hi:321	O
+hi:BCE	O
+hi:)	O
+
+hi:राष्ट्रीय	B-ORG
+hi:राजमार्ग	I-ORG
+hi:१२	I-ORG
+
+hi:नवीन	B-PER
+hi:निश्चल	I-PER
+hi:-	O
+hi:श्यामलाल	O
+
+hi:किमी	B-PER
+hi:काटकर	I-PER
+hi:-	O
+hi:बिजली	O
+
+hi:'	O
+hi:''	O
+hi:एडमंड	B-PER
+hi:प्रथम	I-PER
+hi:''	O
+hi:'	O
+hi:(	O
+hi:''Eadmund	O
+hi:''	O
+hi:)	O
+hi:28	O
+hi:अक्टूबर939–946	O
+
+hi:अनुप्रेषित	O
+hi:सैयद	B-PER
+hi:सिब्ते	I-PER
+hi:रज़ी	I-PER
+
+hi:इफ़्तेख़ार	B-PER
+hi:-	O
+hi:डॉ॰	O
+hi:डेनिएल	O
+
+hi:चीन	B-ORG
+hi:की	I-ORG
+hi:विशाल	I-ORG
+hi:दीवार	I-ORG
+
+hi:अनुप्रेषित	O
+hi:प्रोफेसर	B-PER
+hi:राममूर्ति	I-PER
+hi:नायडू	I-PER
+hi:(	I-PER
+hi:पहलवान	I-PER
+hi:)	I-PER
+
+hi:'	O
+hi:''	O
+hi:एंडी	B-PER
+hi:मरे	I-PER
+hi:''	O
+hi:'	O
+
+hi:नुसरत	B-PER
+hi:फतह	I-PER
+hi:अली	I-PER
+hi:खान	I-PER
+
+hi:निल	B-PER
+hi:पैट्रिक	I-PER
+hi:हैरिस	I-PER
+
+hi:१९८८	B-ORG
+hi:विम्बलडन	I-ORG
+hi:टेनिस	I-ORG
+hi:प्रतियोगिता	I-ORG
+
+hi:शिमला	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:''गीतकार	O
+hi:''	O
+hi:-	O
+hi:आनंद	B-PER
+hi:बख्शी	I-PER
+
+hi:पूजा	B-PER
+hi:भट्ट	I-PER
+hi:-	O
+hi:पूजा	O
+
+hi:अनिल	B-PER
+hi:कपूर	I-PER
+hi:,	O
+hi:माधुरी	B-PER
+hi:दीक्षित	I-PER
+hi:,	O
+hi:जैकी	B-PER
+hi:श्रॉफ	I-PER
+hi:,	O
+hi:नाना	B-PER
+hi:पाटेकर	I-PER
+
+hi:गुलशन	B-PER
+hi:बावरा	I-PER
+hi:-	O
+hi:अतिथि	O
+hi:भूमिका	O
+
+hi:अररिया	B-LOC
+hi:,	O
+hi:बिहार	B-LOC
+hi:का	O
+hi:एक	O
+hi:प्रखण्ड।	O
+
+hi:प्रतिलोम	B-ORG
+hi:त्रिकोणमितीय	I-ORG
+hi:फलन	I-ORG
+
+hi:दिल्ली	B-ORG
+hi:प्रौद्योगिकी	I-ORG
+hi:विश्वविद्यालय	I-ORG
+
+hi:अनुप्रेषित	O
+hi:ग्रैंड	B-ORG
+hi:ट्रंक	I-ORG
+hi:रोड	I-ORG
+
+hi:बांके	B-ORG
+hi:बिहारी	I-ORG
+hi:जी	I-ORG
+hi:मन्दिर	I-ORG
+
+hi:रामकृष्ण	B-ORG
+hi:मिशन	I-ORG
+hi:विवेकानंद	I-ORG
+hi:विश्वविद्यालय	I-ORG
+
+hi:पदार्थ	B-LOC
+hi:-	O
+hi:कोई	O
+hi:भी	O
+hi:पदार्थ	O
+hi:,	O
+
+hi:'	O
+hi:''	O
+hi:भीष्मपर्व	B-ORG
+hi:''	O
+hi:'	O
+
+hi:भाभा	B-ORG
+hi:परमाणु	I-ORG
+hi:अनुसंधान	I-ORG
+hi:केन्द्र	I-ORG
+
+hi:'	O
+hi:''	O
+hi:लक्षद्वीप	B-LOC
+hi:''	O
+hi:'	O
+
+hi:बेनिटो	B-PER
+hi:मुसोलिनी	I-PER
+
+hi:अररिया	B-LOC
+hi:,	O
+hi:बिहार	B-LOC
+hi:का	O
+hi:एक	O
+hi:प्रखण्ड।	O
+
+hi:द्रवस्थैतिकी	B-ORG
+hi:(	O
+hi:Fluid	O
+hi:statics	O
+hi:)	O
+
+hi:महाराजा	B-PER
+hi:सूरज	I-PER
+hi:मल	I-PER
+
+hi:रियो	B-LOC
+hi:ग्रांडे	I-LOC
+hi:दो	I-LOC
+hi:नोर्टे	I-LOC
+
+hi:संघ-शासित	B-LOC
+hi:जनजातीय	I-LOC
+hi:क्षेत्र	I-LOC
+
+hi:सतीश	B-PER
+hi:शाह	I-PER
+hi:-	O
+hi:प्रोफेसर	O
+hi:रसई	O
+
+hi:बासप्पा	B-ORG
+hi:दनप्पा	I-ORG
+hi:जत्ती	I-ORG
+hi:(	O
+hi:१९१२–२००२	O
+hi:)	O
+
+hi:अमिताभ	B-PER
+hi:बच्चन	I-PER
+hi:,	O
+hi:हेमा	B-PER
+hi:मालिनी	I-PER
+
+hi:नीतू	B-PER
+hi:सिंह	I-PER
+hi:-	O
+hi:कोमल	O
+
+hi:टीकू	B-PER
+hi:तलसानिया	I-PER
+hi:-	O
+hi:पुलिस	O
+hi:इंस्पेक्टर	O
+
+hi:ब्रिटेन]]	O
+hi:''	O
+hi:प्रतियोगी	O
+hi:''	O
+hi:बीबी2	O
+hi:(	O
+hi:BB2	O
+hi:)	O
+hi:भारत	B-LOC
+
+hi:'	O
+hi:''	O
+hi:नुएवितास	O
+hi:,	O
+hi:'	O
+hi:''	O
+hi:कामागुए	O
+hi:,	O
+hi:क्यूबा	B-LOC
+
+hi:यह	O
+hi:पर्यावरण	B-LOC
+hi:को	O
+hi:बिना	O
+hi:नुकसान	O
+hi:पहुँचाये	O
+hi:सफाई	O
+hi:का	O
+hi:काम	O
+hi:करने	O
+hi:के	O
+hi:लिये	O
+hi:उपयुक्त	O
+hi:है।	O
+
+hi:शिरडी	B-PER
+hi:के	I-PER
+hi:सांई	I-PER
+hi:बाबा	I-PER
+
+hi:'	O
+hi:''	O
+hi:फ्लोरेंस	B-LOC
+hi:''	O
+hi:'	O
+hi:इटली	B-LOC
+
+hi:विष्णुकान्त	B-PER
+hi:शास्त्री	I-PER
+hi:(	O
+hi:पू	O
+hi:.	O
+
+hi:'	O
+hi:''	O
+hi:पाकिस्तानी	B-LOC
+hi:खाना	I-LOC
+hi:''	O
+hi:'	O
+
+hi:शारदा	B-LOC
+hi:(	I-LOC
+hi:नगर	I-LOC
+hi:)	I-LOC
+
+hi:मात्सुओ	B-PER
+hi:बाशो	I-PER
+hi:(	O
+hi:1644–1694	O
+hi:)	O
+
+hi:केन्द्रीय	B-ORG
+hi:औषधीय	I-ORG
+hi:एवं	I-ORG
+hi:सगंध	I-ORG
+hi:पौधा	I-ORG
+hi:संस्थान	I-ORG
+
+hi:बिएन	B-ORG
+hi:दे	I-ORG
+hi:इंतेरेस	I-ORG
+hi:कल्चरल	I-ORG
+
+hi:राष्ट्रीय	B-ORG
+hi:राजमार्ग	I-ORG
+hi:२	I-ORG
+
+hi:अनुप्रेषित	O
+hi:एम॰	B-PER
+hi:एस॰	I-PER
+hi:सुब्बुलक्ष्मी	I-PER
+
+hi:नजफ़	B-LOC
+hi:(	O
+hi:इराक़	B-LOC
+hi:)	O
+hi:2009	O
+hi:से	O
+
+hi:'	O
+hi:''	O
+hi:पाकिस्तानी	B-ORG
+hi:स्टेट	I-ORG
+hi:बैंक	I-ORG
+hi:''	O
+hi:'	O
+
+hi:केवलादेव	B-LOC
+hi:राष्ट्रीय	I-LOC
+hi:उद्यान	I-LOC
+
+hi:क्रास्लावा	O
+hi:,	O
+hi:डौगावपिल्स	O
+hi:,	O
+hi:लीवानि	O
+hi:,	O
+hi:जीकाब्पिल्स	O
+hi:,	O
+hi:प्लाविनास	O
+hi:,	O
+hi:ऐज़्क्रौक्ले	O
+hi:,	O
+hi:जौन्जेल्गावा	O
+hi:,	O
+hi:लिएल्वार्दे	O
+hi:,	O
+hi:कीगम्स	O
+hi:,	O
+hi:ओर्जी	O
+hi:,	O
+hi:इक्स्किले	O
+hi:,	O
+hi:सालास्पिल्स	O
+hi:और	O
+hi:रीगा।	B-LOC
+
+hi:माधव	B-PER
+hi:सदाशिव	I-PER
+hi:गोलवलकर	I-PER
+
+hi:'	O
+hi:''	O
+hi:पार्सेम	O
+hi:''	O
+hi:'	O
+hi:भारत	B-LOC
+hi:के	O
+hi:गोवा	B-LOC
+hi:राज्य	B-ORG
+hi:के	O
+hi:उत्तर	B-LOC
+hi:गोवा	I-LOC
+hi:जिले	I-LOC
+hi:में	O
+hi:स्थित	O
+hi:एक	O
+hi:जनगणना	B-LOC
+hi:नगर	I-LOC
+hi:है।	O
+
+hi:'	O
+hi:''	O
+hi:हिन्दी	B-LOC
+hi:रूपांतर	O
+hi:''	O
+hi:'	O
+
+hi:भारतीय	B-ORG
+hi:पशुचिकित्सा	I-ORG
+hi:अनुसंधान	I-ORG
+hi:संस्थान	I-ORG
+
+hi:)	O
+hi:के	O
+hi:अलगाव	O
+hi:के	O
+hi:बावजूद	O
+hi:इन्हें	O
+hi:हार्वर्ड	B-ORG
+hi:विश्वविद्यालय	I-ORG
+hi:में	O
+hi:प्राध्यापक	O
+hi:पद	O
+hi:नहीं	O
+hi:दिया	O
+hi:गया।	O
+hi:.	O
+
+hi:अंतर	B-ORG
+hi:अमेरिकी	I-ORG
+hi:विकास	I-ORG
+hi:बैंक	I-ORG
+
+hi:ट्वेण्टिएथ	B-ORG
+hi:सॅञ्चुरी	I-ORG
+hi:फ़ॉक्स	I-ORG
+
+hi:'	O
+hi:''	O
+hi:वैटिकन	B-LOC
+hi:सिटी	I-LOC
+hi:''	O
+hi:'	O
+
+hi:कुरुक्षेत्र	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:अण्डमान	B-LOC
+hi:और	I-LOC
+hi:निकोबार	I-LOC
+hi:द्वीपसमूह	I-LOC
+
+hi:विनायक	B-PER
+hi:दामोदर	I-PER
+hi:सावरकर	I-PER
+
+hi:सलमान	B-PER
+hi:ख़ान	I-PER
+hi:,	O
+hi:रवीना	B-PER
+hi:टंडन	I-PER
+
+hi:*1987	O
+hi:के	O
+hi:बाद	O
+hi:उपाध्यक्ष	O
+hi:,	O
+hi:भारतीय	B-ORG
+hi:जनता	I-ORG
+hi:पार्टी	I-ORG
+hi:,	O
+hi:राजस्थान।	B-LOC
+
+hi:मुग़ल	B-ORG
+hi:सराय	I-ORG
+hi:जंक्शन	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:जयन्त	B-PER
+hi:विष्णु	I-PER
+hi:नार्लीकर	I-PER
+
+hi:हैरी	B-LOC
+hi:पॉटर	I-LOC
+hi:और	I-LOC
+hi:हाफ़-ब्लड	I-LOC
+hi:प्रिंस	I-LOC
+
+hi:वर्जीनिया	B-PER
+hi:रुआनो	I-PER
+hi:पास्कुआल	I-PER
+hi:पाओला	B-PER
+hi:सुआरेज़	I-PER
+
+hi:नालंदा	B-LOC
+hi:,	O
+hi:बिहार	B-LOC
+hi:का	O
+hi:एक	O
+hi:प्रखण्ड।	O
+
+hi:यह	O
+hi:टेक्सस	B-LOC
+hi:राज्य	O
+hi:(	O
+hi:संयुक्त	B-LOC
+hi:राज्य	I-LOC
+hi:अमेरिका	I-LOC
+hi:)	O
+hi:में	O
+hi:चलने	O
+hi:वाली	O
+hi:शुष्क	O
+hi:तथा	O
+hi:शीतल	O
+hi:हवा	O
+hi:हैं	O
+hi:|	O
+
+hi:बंबई	B-ORG
+hi:स्टॉक	I-ORG
+hi:एक्सचेंज	I-ORG
+
+hi:पुनर्प्रेषित	O
+hi:ज्वालामुखी	B-LOC
+hi:विस्फोटों	I-LOC
+hi:के	I-LOC
+hi:प्रकार	I-LOC
+
+hi:मदन	B-PER
+hi:पुरी	I-PER
+hi:-	O
+hi:गिरधारी	O
+
+hi:अलेक्सान्द्र	B-PER
+hi:एम	I-PER
+hi:प्रोखोरोफ	I-PER
+
+hi:बड़ी	B-ORG
+hi:दूर	I-ORG
+hi:से	I-ORG
+hi:आये	I-ORG
+hi:हैं	I-ORG
+
+hi:अनुप्रेषित	O
+hi:हम्मीर	B-PER
+hi:सिंह	I-PER
+hi:द्वितीय	I-PER
+
+hi:लीडर	B-ORG
+hi:(	I-ORG
+hi:1964	I-ORG
+hi:फ़िल्म	I-ORG
+hi:)	I-ORG
+
+hi:पुनर्प्रेषित	O
+hi:खासी	B-LOC
+hi:एवं	I-LOC
+hi:जयंतिया	I-LOC
+hi:पहाड़ियाँ	I-LOC
+
+hi:फेडरल	B-ORG
+hi:ब्यूरो	I-ORG
+hi:ऑफ	I-ORG
+hi:इन्वेस्टिगेशन	I-ORG
+
+hi:अबू	B-LOC
+hi:धाबी	I-LOC
+hi:,	O
+hi:संयुक्त	B-LOC
+hi:अरब	I-LOC
+hi:अमीरात	I-LOC
+
+hi:राष्ट्रीय	B-ORG
+hi:रक्षा	I-ORG
+hi:अकादमी	I-ORG
+hi:(	I-ORG
+hi:भारत	I-ORG
+hi:)	I-ORG
+
+hi:''	O
+hi:डब्ल्यूडब्ल्यूई	B-ORG
+hi:''	O
+hi:'	O
+
+hi:पुनर्प्रेषित	O
+hi:बड़ी	B-ORG
+hi:दूर	I-ORG
+hi:से	I-ORG
+hi:आये	I-ORG
+hi:हैं	I-ORG
+
+hi:एक	B-ORG
+hi:वीर	I-ORG
+hi:की	I-ORG
+hi:अरदास	I-ORG
+hi:...	I-ORG
+hi:वीरा	I-ORG
+
+hi:10	O
+hi:km	O
+hi:दूर	O
+hi:भोपाल	B-LOC
+hi:केंद्र	I-LOC
+hi:से	O
+hi:और	O
+
+hi:अनुप्रेषित	O
+hi:मध्य	B-LOC
+hi:प्रांत	I-LOC
+hi:और	I-LOC
+hi:बरार	I-LOC
+
+hi:राजभवन	B-ORG
+hi:(	I-ORG
+hi:हरियाणा	I-ORG
+hi:)	I-ORG
+
+hi:'	O
+hi:''	O
+hi:सुरेश	B-PER
+hi:रैना	I-PER
+hi:''	O
+hi:'	O
+
+hi:जॉर्ज	B-PER
+hi:हर्बर्ट	I-PER
+hi:वॉकर	I-PER
+hi:बुश	I-PER
+
+hi:श्रीनगर	B-LOC
+hi:,	I-LOC
+hi:जम्मू	I-LOC
+hi:और	I-LOC
+hi:कश्मीर	I-LOC
+
+hi:'	O
+hi:''	O
+hi:दिल्ली	B-LOC
+hi:''	O
+hi:'	O
+
+hi:ब्रह्मा	B-PER
+hi:और	O
+hi:प्रकृति	O
+hi:को	O
+hi:कोसना	O
+
+hi:मधेपुरा	B-LOC
+hi:,	O
+hi:बिहार	B-LOC
+hi:का	O
+hi:एक	O
+hi:प्रखण्ड।	O
+
+hi:+1	O
+hi:कनाडा	B-LOC
+hi:(	O
+hi:;	O
+hi:also	O
+hi:cnac.ca	O
+hi:(	O
+hi:external	O
+hi:site	O
+hi:)	O
+hi:)	O
+
+hi:अनुप्रेषित	O
+hi:भातखंडे	B-ORG
+hi:संगीत	I-ORG
+hi:विश्वविद्यालय	I-ORG
+
+hi:नवीन	B-PER
+hi:निश्चल	I-PER
+hi:-	O
+hi:जज	O
+
+hi:११६	O
+hi:,	O
+hi:०९६	O
+hi:कि.मी२	O
+hi:--	O
+hi:ओहायो	B-LOC
+
+hi:सैफ़	B-PER
+hi:अली	I-PER
+hi:ख़ान	I-PER
+hi:-	O
+hi:विशेष	O
+hi:भूमिका	O
+
+hi:'	O
+hi:''	O
+hi:கண்டந்திப்பிலி	O
+hi:''	O
+hi:'	O
+hi:(	O
+hi:''kandanthippili	O
+hi:''	O
+hi:)	O
+hi:तमिल	B-ORG
+hi:में	O
+
+hi:लाहौल	B-LOC
+hi:और	I-LOC
+hi:स्पीति	I-LOC
+hi:जिला	I-LOC
+
+hi:''INC	O
+hi:''	O
+hi:भारतीय	B-ORG
+hi:राष्ट्रीय	I-ORG
+hi:कांग्रेस	I-ORG
+
+hi:१९४३	B-ORG
+hi:का	I-ORG
+hi:बंगाल	I-ORG
+hi:का	I-ORG
+hi:अकाल	I-ORG
+
+hi:अनुप्रेषित	O
+hi:पाकिस्तानी	B-LOC
+hi:मानक	I-LOC
+hi:समय	I-LOC
+
+hi:अनुप्रेषित	O
+hi:राष्‍ट्रीय	B-ORG
+hi:अपराध	I-ORG
+hi:रिकॉर्ड	I-ORG
+hi:ब्‍यूरो	I-ORG
+
+hi:लंदन	B-LOC
+hi:,	O
+hi:संयुक्त	B-LOC
+hi:राजशाही	I-LOC
+
+hi:शिमला	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:नम्रता	B-PER
+hi:शिरोडकर	I-PER
+hi:-	O
+hi:रक्षा	O
+
+hi:सांगली	B-LOC
+hi:जिला	I-LOC
+hi:,	O
+hi:महाराष्ट्र	B-LOC
+hi:,	O
+hi:भारत	B-LOC
+
+hi:विश्वजीत	B-PER
+hi:—	O
+hi:भगवान	B-PER
+hi:श्री	I-PER
+hi:रामचन्द्र	I-PER
+hi:'राम	I-PER
+hi:'	I-PER
+
+hi:'	O
+hi:''	O
+hi:राजधानी	B-LOC
+hi:''	O
+hi:'	O
+
+hi:साँची	B-ORG
+hi:का	I-ORG
+hi:स्तूप	I-ORG
+
+hi:प्रेम	B-PER
+hi:चोपड़ा	I-PER
+hi:-	O
+hi:कज़ान।	O
+
+hi:उनका	O
+hi:मूल	O
+hi:नाम	O
+hi:‘राहुलभद्र’	O
+hi:था	O
+hi:और	O
+hi:उनके	O
+hi:‘सरोजवज्र’	O
+hi:,	O
+hi:‘शरोरुहवज्र’	O
+hi:,	O
+hi:‘पद्म‘	O
+hi:तथा	O
+hi:‘पद्मवज्र’	O
+hi:नाम	O
+hi:भी	O
+hi:मिलते	O
+hi:हैं।	O
+hi:वे	O
+hi:पालशासक	O
+hi:धर्मपाल	B-PER
+hi:(	O
+hi:770-810	O
+hi:ई	O
+hi:.	O
+
+hi:पर्यावरण	B-LOC
+hi:/	O
+hi:पारिस्थितिकी	B-LOC
+hi:और	O
+hi:इससे	O
+hi:जुड़े	O
+hi:अन्य	O
+hi:क्षेत्रों	O
+hi:में	O
+
+hi:भारतीय	B-ORG
+hi:वाणिज्य	I-ORG
+hi:एंव	I-ORG
+hi:उद्योग	I-ORG
+hi:मंडल	I-ORG
+hi:(	I-ORG
+hi:एसोचेम	I-ORG
+hi:)	I-ORG
+hi:,	O
+
+hi:भारतीय	B-ORG
+hi:राष्ट्रीय	I-ORG
+hi:कांग्रेस	I-ORG
+
+hi:५२७	B-ORG
+hi:ईसा	I-ORG
+hi:पूर्व	I-ORG
+
+hi:सेठ	B-ORG
+hi:एम	I-ORG
+hi:आर	I-ORG
+hi:जयपुरिया	I-ORG
+hi:स्कूल	I-ORG
+
+hi:अनुप्रेषित	O
+hi:तपीश्वर	B-PER
+hi:नारायण	I-PER
+hi:रैना	I-PER
+
+hi:भूमध्य	B-LOC
+hi:सागर	I-LOC
+hi:(	O
+hi:साइप्रस	B-LOC
+hi:)	O
+
+hi:केन्द्रीय	B-ORG
+hi:लोक	I-ORG
+hi:निर्माण	I-ORG
+hi:विभाग	I-ORG
+hi:,	I-ORG
+hi:भारत	I-ORG
+
+hi:आम	B-ORG
+hi:बजट	I-ORG
+hi:(	I-ORG
+hi:2013-14	I-ORG
+hi:)	I-ORG
+
+hi:राकेश	B-PER
+hi:बेदी	I-PER
+hi:-	O
+hi:गुलु	O
+
+hi:अयोध्या	B-LOC
+hi:--	O
+hi:167	O
+hi:किमी	O
+hi:,	O
+
+hi:इंडियन	B-ORG
+hi:प्रीमियर	I-ORG
+hi:लीग	I-ORG
+
+hi:अरुणा	B-PER
+hi:ईरानी	I-PER
+hi:-	O
+hi:नर्स	O
+
+hi:'	O
+hi:''	O
+hi:लीज़ेल	B-PER
+hi:ह्यूबर	I-PER
+hi:''	O
+hi:'	O
+hi:'	O
+hi:''	O
+hi:बॉब	B-PER
+hi:ब्रायन	I-PER
+hi:''	O
+hi:'	O
+
+hi:सम	B-ORG
+hi:स्रोत	I-ORG
+hi:निर्धारक	I-ORG
+hi:(	I-ORG
+hi:स्रोनि	I-ORG
+hi:)	I-ORG
+
+hi:श्रीनगर	B-LOC
+hi:,	I-LOC
+hi:जम्मू	I-LOC
+hi:और	I-LOC
+hi:कश्मीर	I-LOC
+
+hi:जिन	B-LOC
+hi:राजवंश	I-LOC
+hi:(	I-LOC
+hi:१११५–१२३४	I-LOC
+hi:)	I-LOC
+
+hi:फ्लोरेंट	B-PER
+hi:सेर्रा	I-PER
+hi:ने	O
+hi:इगोर	B-PER
+hi:आन्द्रीव	I-PER
+hi:को	O
+hi:6–3	O
+hi:,	O
+hi:6–4	O
+hi:से	O
+hi:हराया।	O
+
+hi:भारतीय	B-ORG
+hi:स्टेट	I-ORG
+hi:बैंक	I-ORG
+
+hi:अनुप्रेषित	O
+hi:बर्कली	B-LOC
+hi:,	I-LOC
+hi:कैलिफ़ोर्निया	I-LOC
+
+hi:'	O
+hi:''	O
+hi:भारत	B-LOC
+hi:''	O
+hi:'	O
+
+hi:अण्डमान	B-LOC
+hi:और	I-LOC
+hi:निकोबार	I-LOC
+hi:द्वीपसमूह	I-LOC
+hi:''	O
+
+hi:थन्ठई	O
+hi:पेरियार	B-PER
+hi:ई.वी.	I-PER
+hi:रामासामी	I-PER
+hi:के	O
+hi:वे	O
+hi:एक	O
+hi:विशिष्ट	O
+hi:अनुयायी	O
+hi:हैं।	O
+hi:उन्होंने	O
+hi:अक्सर	O
+hi:अपनी	O
+hi:फिल्मों	O
+hi:में	O
+hi:भगवान	O
+hi:के	O
+hi:बारे	O
+hi:में	O
+hi:अपने	O
+hi:विचारों	O
+hi:को	O
+hi:व्यक्त	O
+hi:किया	O
+hi:है।	O
+hi:इस	O
+hi:प्रेरणा	O
+hi:के	O
+hi:कारण	O
+hi:,	O
+hi:उन्होंने	O
+hi:पेरियार	B-ORG
+hi:नामक	O
+hi:फिल्म	O
+hi:में	O
+hi:भी	O
+hi:ई.वी.आर	O
+hi:के	O
+hi:रूप	O
+hi:में	O
+hi:मुख्य	O
+hi:भूमिका	O
+hi:निभाई	O
+hi:.	O
+
+hi:गुलिरमो	B-PER
+hi:विलास	I-PER
+hi:ने	O
+hi:ब्रायन	B-PER
+hi:गॉटफ्राइड	I-PER
+hi:को	O
+hi:6-4	O
+hi:,	O
+hi:7-5	O
+hi:से	O
+hi:हराया।	O
+
+hi:जवाहरलाल	B-LOC
+hi:नेहरू	I-LOC
+hi:स्टेडियम	I-LOC
+hi:,	I-LOC
+hi:दिल्ली	I-LOC
+
+hi:इनका	O
+hi:एक	O
+hi:न्याय-ग्रन्थ	O
+hi:'सार-संग्रह	O
+hi:'	O
+hi:रहा	O
+hi:है	O
+hi:,	O
+hi:जिसका	O
+hi:उल्लेख	O
+hi:आचार्य	B-PER
+hi:वीरसेन	I-PER
+hi:ने	O
+hi:किया	O
+hi:है	O
+hi:और	O
+hi:उनमें	O
+hi:दिये	O
+hi:गये	O
+hi:नयलक्षण	O
+hi:को	O
+hi:धवला-टीका	O
+hi:में	O
+hi:उद्धृत	O
+hi:किया	O
+hi:है।	O
+
+hi:डिम्पल	B-PER
+hi:कपाड़िया	I-PER
+hi:-	O
+hi:पूजा	O
+
+hi:**	O
+hi:दमिश्क	B-LOC
+hi:(	O
+hi:दूतावास	O
+hi:)	O
+
+hi:वीनस	B-PER
+hi:विलियम्स	I-PER
+hi:ने	O
+hi:लिंडसे	B-PER
+hi:डेवनपोर्ट	I-PER
+hi:को	O
+hi:6–2	O
+hi:,	O
+hi:7–5	O
+hi:से	O
+hi:हराया।	O
+
+hi:नेपाल	B-ORG
+hi:के	I-ORG
+hi:प्रधानमन्त्री	I-ORG
+
+hi:२००८	B-ORG
+hi:विम्बलडन	I-ORG
+hi:टेनिस	I-ORG
+hi:प्रतियोगिता	I-ORG
+
+hi:अनुप्रेषित	O
+hi:लाँगफ़र्ड	B-LOC
+hi:,	I-LOC
+hi:लंदन	I-LOC
+
+hi:'	O
+hi:''	O
+hi:यूटीवी	B-ORG
+hi:एक्शन	I-ORG
+hi:''	O
+hi:'	O
+
+hi:अनुप्रेषित	O
+hi:सांतीआगो	B-ORG
+hi:दे	I-ORG
+hi:कोमपोसतेला	I-ORG
+hi:बड़ा	I-ORG
+hi:गिरजाघर	I-ORG
+
+hi:विल्टशायर	B-ORG
+hi:''मध्य-वेसेक्स	O
+hi:''	O
+hi:है	O
+hi:,	O
+
+hi:श्रीलंका	B-LOC
+hi:(	O
+hi:तब	O
+hi:''सीलोन	O
+hi:''	O
+hi:)	O
+
+hi:मेघालय	B-LOC
+hi:(	O
+hi:184	O
+hi:)	O
+hi:,	O
+hi:असम	B-LOC
+hi:(	O
+hi:111	O
+hi:)	O
+hi:,	O
+hi:त्रिपुरा	B-LOC
+hi:(	O
+hi:335	O
+hi:)	O
+
+hi:सारन	B-LOC
+hi:,	O
+hi:बिहार	B-LOC
+hi:का	O
+hi:एक	O
+hi:प्रखण्ड।	O
+
+hi:मधुकर	B-PER
+hi:दत्तात्रेय	I-PER
+hi:देवरस	I-PER
+
+hi:सूचना	B-ORG
+hi:का	I-ORG
+hi:अधिकार	I-ORG
+hi:अधिनियम	I-ORG
+hi:,	I-ORG
+hi:२००५	I-ORG
+
+hi:बुसान	B-LOC
+hi:(	O
+hi:부산	O
+hi:/	O
+hi:釜山	O
+hi:)	O
+
+hi:अण्डमान	B-LOC
+hi:और	I-LOC
+hi:निकोबार	I-LOC
+hi:द्वीपसमूह	I-LOC
+hi:''	O
+
+hi:उत्तर	B-LOC
+hi:प्रदेश	I-LOC
+hi:(	O
+hi:25	O
+hi:)	O
+
+hi:अनुप्रेषित	O
+hi:टाइन	B-LOC
+hi:एंड	I-LOC
+hi:वेयर	I-LOC
+
+hi:उत्तराखण्ड	B-LOC
+hi:(	O
+hi:देहरादून	B-LOC
+hi:)	O
+
+hi:मधेपुरा	B-LOC
+hi:,	O
+hi:बिहार	B-LOC
+hi:का	O
+hi:एक	O
+hi:प्रखण्ड।	O
+
+hi:अनुप्रेषित	O
+hi:कृष्णराज	B-PER
+hi:वोडेयार	I-PER
+hi:चतुर्थ	I-PER
+
+hi:भारतीय	B-ORG
+hi:कम्युनिस्ट	I-ORG
+hi:पार्टी	I-ORG
+hi:(	I-ORG
+hi:मार्क्सवादी	I-ORG
+hi:)	I-ORG
+
+hi:राष्ट्रीय	B-ORG
+hi:तापविद्युत	I-ORG
+hi:निगम	I-ORG
+hi:लिमिटेड	I-ORG
+
+hi:संयुक्त	B-ORG
+hi:प्रगतिशील	I-ORG
+hi:गठबंधन	I-ORG
+
+hi:ब्रिटिश	B-ORG
+hi:फिज़िकल	I-ORG
+hi:लैबोरेटरीज़	I-ORG
+hi:समूह	I-ORG
+
+hi:असम	B-LOC
+hi:(	O
+hi:20	O
+hi:)	O
+hi:,	O
+hi:अरुणाचल	B-LOC
+hi:प्रदेश	I-LOC
+hi:(	O
+hi:40	O
+hi:)	O
+
+hi:पाकिस्तान	B-PER
+hi:के	I-PER
+hi:गवर्नर	I-PER
+hi:जनरल	I-PER
+
+hi:ली	B-LOC
+hi:नदी	I-LOC
+hi:(	I-LOC
+hi:गुआंगशी	I-LOC
+hi:प्रान्त	I-LOC
+hi:)	I-LOC
+
+hi:शिमला	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:सूचना	B-ORG
+hi:और	I-ORG
+hi:प्रसारण	I-ORG
+hi:मंत्रालय	I-ORG
+
+hi:दिल्ली	B-ORG
+hi:सराय	I-ORG
+hi:रोहिल्ला	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:शाहरुख़	B-PER
+hi:ख़ान	I-PER
+hi:-	O
+hi:डॉन।	O
+
+hi:''	O
+hi:राजस्थान	B-LOC
+hi:''	O
+hi:'	O
+
+hi:दो	B-ORG
+hi:दिल	I-ORG
+hi:बंधे	I-ORG
+hi:इक	I-ORG
+hi:डोरी	I-ORG
+hi:से	I-ORG
+
+hi:मालवीय	B-ORG
+hi:राष्ट्रीय	I-ORG
+hi:प्रौद्योगिकी	I-ORG
+hi:संस्थान	I-ORG
+hi:,	I-ORG
+hi:जयपुर	I-ORG
+
+hi:''निर्माता	O
+hi:''	O
+hi:-	O
+hi:ऋषिकेश	B-PER
+hi:मुखर्जी	I-PER
+
+hi:दिल्ली	B-LOC
+hi:(	O
+hi:13	O
+hi:)	O
+hi:,	O
+hi:हरियाणा	B-LOC
+hi:(	O
+hi:101	O
+hi:)	O
+hi:,	O
+hi:राजस्थान	B-LOC
+hi:(	O
+hi:688	O
+hi:)	O
+hi:,	O
+hi:गुजरात	B-LOC
+hi:(	O
+hi:498	O
+hi:)	O
+hi:,	O
+hi:महाराष्ट्र	B-LOC
+hi:(	O
+hi:128	O
+hi:)	O
+
+hi:[[गुजरात	O
+hi:में	O
+hi:सौराष्ट्र	B-LOC
+hi:के	O
+hi:जिले]]	O
+
+hi:''निर्देशक	O
+hi:''	O
+hi:-	O
+hi:बासु	B-PER
+hi:चटर्जी	I-PER
+
+hi:विवेकानन्द	B-ORG
+hi:केन्द्र	I-ORG
+hi:,	O
+hi:कन्याकुमारी	B-LOC
+
+hi:सूचना	B-ORG
+hi:और	I-ORG
+hi:प्रसारण	I-ORG
+hi:मंत्रालय	I-ORG
+
+hi:रति	B-PER
+hi:अग्निहोत्री	I-PER
+hi:-	O
+hi:डॉक्टर	O
+
+hi:संयुक्त	B-PER
+hi:राज्य	I-PER
+hi:अमेरिका	I-PER
+hi:के	I-PER
+hi:राष्ट्रपिता	I-PER
+
+hi:अनुप्रेषित	O
+hi:झारखण्ड	B-ORG
+hi:के	I-ORG
+hi:मुख्यमन्त्रियों	I-ORG
+hi:की	I-ORG
+hi:सूची	I-ORG
+
+hi:पूर्वी	B-LOC
+hi:दिल्ली	I-LOC
+hi:लोकसभा	I-LOC
+hi:निर्वाचन	I-LOC
+hi:क्षेत्र	I-LOC
+
+hi:शिवाजी	B-PER
+hi:साटम	I-PER
+hi:एसीपी	O
+hi:प्रद्युमन	O
+hi:(	O
+hi:१९९८-वर्तमान	O
+hi:)	O
+
+hi:पुनर्प्रेषित	O
+hi:बाजीराव	B-ORG
+hi:मस्तानी	I-ORG
+hi:(	I-ORG
+hi:फ़िल्म	I-ORG
+hi:)	I-ORG
+
+hi:सेण्ट्रल	B-ORG
+hi:बैंक	I-ORG
+hi:ऑफ़	I-ORG
+hi:इण्डिया	I-ORG
+
+hi:हालांकि	O
+hi:पच्चीस	O
+hi:बरस	O
+hi:पहले	O
+hi:के	O
+hi:अकालों	O
+hi:के	O
+hi:मुकाबले	O
+hi:आमतौर	O
+hi:पर	O
+hi:इनकी	O
+hi:गंभीरता	O
+hi:काफी	O
+hi:कम	O
+hi:थी	O
+hi:,	O
+hi:लेकिन	O
+hi:फिर	O
+hi:भी	O
+hi:कई	O
+hi:इलाकों	O
+hi:में	O
+hi:इन्होने	O
+hi:काफी	O
+hi:गंभीर	O
+hi:रूप	O
+hi:धारण	O
+hi:कर	O
+hi:लिया	O
+hi:था।	O
+hi:1696	O
+hi:का	O
+hi:फिनलैंड	B-LOC
+hi:का	O
+hi:भीषण	O
+hi:अकाल	O
+hi:,	O
+hi:जो	O
+hi:सन	O
+hi:1600	O
+hi:के	O
+hi:बाद	O
+hi:का	O
+hi:संभवतः	O
+hi:सबसे	O
+hi:विनाशकारी	O
+hi:अकाल	O
+hi:था	O
+hi:,	O
+hi:ने	O
+hi:उस	O
+hi:देश	O
+hi:की	O
+hi:एक-तिहाई	O
+hi:आबादी	O
+hi:को	O
+hi:मौत	O
+hi:के	O
+hi:मुंह	O
+hi:में	O
+hi:धकेल	O
+hi:दिया	O
+hi:था।	O
+
+hi:उडुपी	B-PER
+hi:राजगोपालाचार्य	I-PER
+hi:अनंतमूर्ति	I-PER
+
+hi:यह	O
+hi:एक	O
+hi:10	O
+hi:वर्षीय	O
+hi:हाथी	B-LOC
+hi:है	O
+hi:जो	O
+hi:बहुत	O
+hi:छोटा	O
+hi:,	O
+hi:उत्साही	O
+hi:और	O
+hi:दृढ़निश्चयी	O
+hi:है	O
+hi:.	O
+
+hi:हरिद्वार	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:जोनाथन	B-PER
+hi:एलरिच	I-PER
+hi:/	O
+hi:एंडी	B-PER
+hi:रैम	I-PER
+
+hi:भारतीय	B-ORG
+hi:राज्यों	I-ORG
+hi:के	I-ORG
+hi:राज्यपालों	I-ORG
+hi:की	I-ORG
+hi:सूची	I-ORG
+
+hi:अनुप्रेषित	O
+hi:आदिप्ररूप	B-ORG
+hi:द्रुत	I-ORG
+hi:प्रजनक	I-ORG
+hi:रिएक्टर	I-ORG
+
+hi:सीकर	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:रीमा	B-PER
+hi:सेन	I-PER
+hi:-	O
+hi:सुखमणी	O
+
+hi:श्याम	B-PER
+hi:चरण	I-PER
+hi:गुप्ता	I-PER
+
+hi:2012	B-LOC
+hi:ब्रिक्स	I-LOC
+hi:शिखर	I-LOC
+hi:सम्मेलन	I-LOC
+
+hi:प्राची	B-PER
+hi:देसाई	I-PER
+hi:-	O
+hi:नौरीन	O
+
+hi:'	O
+hi:''	O
+hi:अगरतला	B-LOC
+hi:''	O
+hi:'	O
+
+hi:टाटा	B-ORG
+hi:मूलभूत	I-ORG
+hi:अनुसंधान	I-ORG
+hi:संस्थान	I-ORG
+
+hi:दिल्ली	B-ORG
+hi:मेट्रो	I-ORG
+hi:रेल	I-ORG
+
+hi:सिटी	B-LOC
+hi:ऑफ़	I-LOC
+hi:वेस्टमिंस्टर	I-LOC
+
+hi:पुनर्प्रेषित	O
+hi:जॉर्ज़	B-PER
+hi:३	I-PER
+hi:,	I-PER
+hi:युनाइटेड	I-PER
+hi:किंगडम	I-PER
+hi:का	I-PER
+hi:महाराजा	I-PER
+
+hi:दिल्ली	B-ORG
+hi:नौयडा	I-ORG
+hi:टॉल	I-ORG
+hi:ब्रिज	I-ORG
+
+hi:भारतीय	B-ORG
+hi:मसाला	I-ORG
+hi:अनुसंधान	I-ORG
+hi:संस्थान	I-ORG
+
+hi:ज़िवन्को	O
+hi:पोप्विच्	O
+hi:(	O
+hi:स्विट्ज़रलैण्ड	B-LOC
+hi:)	O
+
+hi:'	O
+hi:''	O
+hi:डेविड	B-PER
+hi:कैमरन	I-PER
+hi:''	O
+hi:'	O
+hi:2	O
+
+hi:दिनेश	B-PER
+hi:ठाकुर	I-PER
+hi:-	O
+hi:डॉक्टर	O
+
+hi:राजा	B-ORG
+hi:रामन्ना	I-ORG
+hi:प्रगत	I-ORG
+hi:प्रौद्योगिकी	I-ORG
+hi:केन्द्र	I-ORG
+
+hi:चेन्नई	B-ORG
+hi:एगमोर	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:सूचना	B-ORG
+hi:और	I-ORG
+hi:प्रसारण	I-ORG
+hi:मंत्रालय	I-ORG
+
+hi:ए	B-PER
+hi:के	I-PER
+hi:हंगल	I-PER
+hi:—	O
+hi:संत	B-PER
+hi:रईदास	I-PER
+
+hi:अनुप्रेषित	O
+hi:पृथीपाल	B-PER
+hi:सिंह	I-PER
+hi:मैनी	I-PER
+
+hi:पुनर्प्रेषित	O
+hi:मक्का	B-LOC
+hi:(	I-LOC
+hi:शहर	I-LOC
+hi:)	I-LOC
+
+hi:ओम	B-PER
+hi:शिवपुरी	I-PER
+hi:-	O
+hi:जग्गू	O
+
+hi:बालसमंद	B-LOC
+hi:झील	I-LOC
+hi:(	O
+hi:14.5	O
+hi:किमी	O
+hi:लगभग	O
+hi:)	O
+hi:,	O
+
+hi:जनता	B-ORG
+hi:दल	I-ORG
+hi:(	I-ORG
+hi:यूनाइटेड	I-ORG
+hi:)	I-ORG
+
+hi:'	O
+hi:''	O
+hi:डौआला	O
+hi:''	O
+hi:'	O
+hi:,	O
+hi:कैमरून	B-LOC
+
+hi:कमल	B-PER
+hi:सदाना	I-PER
+hi:-	O
+hi:विशाल	O
+
+hi:दीप्ती	B-PER
+hi:नवल	I-PER
+hi:,	O
+hi:नसीरुद्दीन	B-PER
+hi:शाह	I-PER
+hi:,	O
+hi:परेश	B-PER
+hi:रावल	I-PER
+hi:,	O
+hi:रघुवीर	B-PER
+hi:यादव	I-PER
+
+hi:सुनील	B-PER
+hi:दत्त	I-PER
+hi:,	O
+hi:नूतन	B-PER
+hi:,	O
+hi:ललिता	B-PER
+hi:पवार	I-PER
+
+hi:विक्रम	B-PER
+hi:गोखले	I-PER
+hi:-	O
+hi:सिनेमाघर	O
+hi:प्रबंधक	O
+
+hi:राष्ट्रीय	B-ORG
+hi:भौतिक	I-ORG
+hi:प्रयोगशाला	I-ORG
+hi:,	I-ORG
+hi:भारत	I-ORG
+
+hi:प्रमोद	B-PER
+hi:मुथु	I-PER
+hi:-	O
+hi:डॉक्टर	O
+
+hi:चूरू	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:**	O
+hi:बर्मिंघम	B-LOC
+hi:(	O
+hi:जनरल-वाणिज्य	O
+hi:दूतावास	O
+hi:)	O
+
+hi:दक्षिण	B-LOC
+hi:अफ़्रीका	I-LOC
+hi:के	I-LOC
+hi:प्रान्त	I-LOC
+
+hi:भारतीय	B-ORG
+hi:प्रौद्योगिकी	I-ORG
+hi:संस्थान	I-ORG
+hi:मुम्बई	I-ORG
+
+hi:शुभा	B-PER
+hi:खोटे	I-PER
+hi:-	O
+hi:गणिका	O
+
+hi:सी	B-PER
+hi:एस	I-PER
+hi:दुबे	I-PER
+hi:-	O
+hi:रामू	O
+
+hi:मध्य	B-LOC
+hi:प्रदेश	I-LOC
+hi:(	O
+hi:280	O
+hi:)	O
+hi:,	O
+hi:राजस्थान	B-LOC
+hi:(	O
+hi:220	O
+hi:)	O
+
+hi:''गीत	O
+hi:''	O
+hi:–	O
+hi:आनंद	B-PER
+hi:बख्शी	I-PER
+
+hi:आपकी	O
+hi:कृपा	O
+hi:है	O
+hi:विष्णु	B-PER
+hi:प्रभाकर	I-PER
+hi:द्वारा	O
+hi:रचित	O
+hi:लघुकथा	O
+hi:संग्रह	O
+hi:है।	O
+
+hi:मध्य	B-LOC
+hi:प्रदेश	I-LOC
+hi:–	O
+hi:545,446	O
+
+hi:उत्तर	B-LOC
+hi:प्रदेश	I-LOC
+hi:(	O
+hi:लखनऊ	B-LOC
+hi:)	O
+
+hi:30px	O
+hi:,	O
+hi:राष्ट्रीय	B-ORG
+hi:जनता	I-ORG
+hi:दल	I-ORG
+
+hi:अनुप्रेषित	O
+hi:दलीप	B-PER
+hi:सिंह	I-PER
+hi:(	I-PER
+hi:महाराजा	I-PER
+hi:)	I-PER
+
+hi:भारतीय	B-ORG
+hi:सशस्‍त्र	I-ORG
+hi:सेनाएँ	I-ORG
+
+hi:मोहन	B-PER
+hi:जोशी	I-PER
+hi:-	O
+hi:लुक्का	O
+
+hi:मुकेश	B-PER
+hi:तिवारी	I-PER
+hi:-	O
+hi:पुलिस	O
+hi:इंस्पेक्टर	O
+
+hi:अनुप्रेषित	O
+hi:वी॰	B-PER
+hi:एस॰	I-PER
+hi:रमादेवी	I-PER
+
+hi:'	O
+hi:''	O
+hi:पांडुरंग	B-PER
+hi:वामन	I-PER
+hi:काणे	I-PER
+hi:''	O
+hi:'	O
+
+hi:सपने	B-ORG
+hi:सुहाने	I-ORG
+hi:लड़कपन	I-ORG
+hi:के	I-ORG
+hi:''	O
+
+hi:अनुप्रेषित	O
+hi:बलराम	B-PER
+hi:दास	I-PER
+hi:टंडन	I-PER
+
+hi:यह	B-ORG
+hi:रिश्ता	I-ORG
+hi:क्या	I-ORG
+hi:कहलाता	I-ORG
+hi:है	I-ORG
+
+hi:शुभा	B-PER
+hi:खोटे	I-PER
+hi:-	O
+hi:चंचल	O
+
+hi:तेल	B-ORG
+hi:एवं	I-ORG
+hi:प्राकृतिक	I-ORG
+hi:गैस	I-ORG
+hi:निगम	I-ORG
+hi:लिमिटेड	I-ORG
+
+hi:उस्ताद	B-PER
+hi:अलाउद्दीन	I-PER
+hi:खान	I-PER
+
+hi:बिपाशा	B-PER
+hi:बसु	I-PER
+hi:,	O
+hi:माराडोना	O
+hi:रिबेलो	O
+hi:,	O
+hi:महेश	B-PER
+hi:मांजरेकर	I-PER
+hi:,	O
+hi:रॉनित	B-PER
+hi:रॉय	I-PER
+hi:संजीदा	B-PER
+hi:शेख	I-PER
+
+hi:अनुप्रेषित	O
+hi:माधव	B-PER
+hi:विट्ठल	I-PER
+hi:कामत	I-PER
+
+hi:झलक	B-ORG
+hi:दिखला	I-ORG
+hi:जा	I-ORG
+hi:''	O
+
+hi:रिलायंस	B-ORG
+hi:अनिल	I-ORG
+hi:धीरूभाई	I-ORG
+hi:अंबानी	I-ORG
+hi:समूह	I-ORG
+
+hi:'	O
+hi:''	O
+hi:हुआन	B-PER
+hi:कार्लोस	I-PER
+hi:फरेरो	I-PER
+hi:''	O
+hi:'	O
+
+hi:शक्ति	B-PER
+hi:कपूर	I-PER
+hi:-	O
+hi:आदर्शवर्धन	O
+
+hi:'	O
+hi:''	O
+hi:ऋषिकेश	B-LOC
+hi:''	O
+hi:'	O
+
+hi:परवरिश	B-ORG
+hi:–	I-ORG
+hi:कुछ	I-ORG
+hi:खट्टी	I-ORG
+hi:कुछ	I-ORG
+hi:मीठी	I-ORG
+hi:–	O
+hi:गिन्नी	O
+
+hi:2,500,000	O
+hi:km2	O
+hi:--	O
+hi:भूमध्य	B-LOC
+hi:सागर	I-LOC
+
+hi:ओम	B-PER
+hi:शिवपुरी	I-PER
+hi:-	O
+hi:पुलिस	O
+hi:कमिश्नर	O
+
+hi:हैरी	B-PER
+hi:एस	I-PER
+hi:ट्रूमैन	I-PER
+
+hi:''कांग्रेस	O
+hi:''	O
+hi:भारतीय	B-ORG
+hi:राष्ट्रीय	I-ORG
+hi:कांग्रेस	I-ORG
+
+hi:जिस	B-ORG
+hi:देश	I-ORG
+hi:में	I-ORG
+hi:गंगा	I-ORG
+hi:बहती	I-ORG
+hi:है	I-ORG
+hi:''	O
+
+hi:वर्जीनिया	B-PER
+hi:रुआनो	I-PER
+hi:पास्कुआल	I-PER
+hi:पाओला	B-PER
+hi:सुआरेज़	I-PER
+
+hi:अनुप्रेषित	O
+hi:देव	B-PER
+hi:राय	I-PER
+hi:द्वितीय	I-PER
+
+hi:केप	B-LOC
+hi:ऑफ़	I-LOC
+hi:गुड	I-LOC
+hi:होप	I-LOC
+
+hi:बिली	B-PER
+hi:जीन	I-PER
+hi:किंग	I-PER
+hi:मार्टिना	B-PER
+hi:नवरातिलोवा	I-PER
+
+hi:वीरभद्र	B-PER
+hi:सिंह	I-PER
+hi:(	O
+hi:2	O
+hi:)	O
+
+hi:पूर्णिया	B-LOC
+hi:,	O
+hi:बिहार	B-LOC
+hi:का	O
+hi:एक	O
+hi:प्रखण्ड।	O
+
+hi:इलाहाबाद	B-ORG
+hi:विश्वविद्यालय	I-ORG
+hi:,	I-ORG
+hi:इलाहाबाद	B-LOC
+
+hi:अमिताभ	B-PER
+hi:बच्चन	I-PER
+hi:,	O
+hi:अमृता	B-PER
+hi:सिंह	I-PER
+
+hi:लाचित	O
+hi:ने	O
+hi:मुग़लों	O
+hi:के	O
+hi:कब्ज़े	O
+hi:से	O
+hi:गुवाहाटी	B-LOC
+hi:पुनः	O
+hi:प्राप्त	O
+hi:कर	O
+hi:लिया	O
+hi:और	O
+hi:सराईघाट	O
+hi:की	O
+hi:लड़ाई	O
+hi:में	O
+hi:वे	O
+hi:इसकी	O
+hi:रक्षा	O
+hi:करने	O
+hi:में	O
+hi:सफल	O
+hi:रहे	O
+hi:.	O
+
+hi:पुनर्प्रेषित	O
+hi:पाकिस्तान	B-ORG
+hi:के	I-ORG
+hi:प्रधानमंत्री	I-ORG
+
+hi:लोकमान्य	B-ORG
+hi:तिलक	I-ORG
+hi:टर्मिनस	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:भारत	B-ORG
+hi:का	I-ORG
+hi:उच्चतम	I-ORG
+hi:न्यायालय	I-ORG
+
+hi:===	O
+hi:हिन्दुस्तान	B-ORG
+hi:कॉपर	I-ORG
+hi:लिमिटेड	I-ORG
+hi:===	O
+
+hi:'	O
+hi:''	O
+hi:लंदन	B-LOC
+hi:''	O
+hi:'	O
+
+hi:दक्षिण	B-ORG
+hi:दिल्ली	I-ORG
+hi:लोकसभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:==	O
+hi:टिहरी	B-LOC
+hi:गढ़वाल	I-LOC
+hi:जिला	I-LOC
+hi:==	O
+
+hi:दक्षिण	B-ORG
+hi:दिल्ली	I-ORG
+hi:लोकसभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:''न्यू	B-LOC
+hi:जर्सी	I-LOC
+hi:''	I-LOC
+hi:(	O
+hi:1988	O
+hi:)	O
+
+hi:अल्लाहुद्दीन	O
+hi:या	O
+hi:अलाउद्दीन	B-PER
+hi:खिलजी	I-PER
+
+hi:तेरके	B-LOC
+hi:(	O
+hi:Terque	O
+hi:)	O
+
+hi:चू	B-LOC
+hi:राज्य	I-LOC
+hi:(	I-LOC
+hi:प्राचीन	I-LOC
+hi:चीन	I-LOC
+hi:)	I-LOC
+
+hi:भारतीय	B-ORG
+hi:प्रशासनिक	I-ORG
+hi:सेवा	I-ORG
+hi:.	O
+
+hi:आगरा	B-ORG
+hi:छावनी	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:पुनर्प्रेषित	O
+hi:कार्ल	B-PER
+hi:ऑरटविन	I-PER
+hi:सावर	I-PER
+
+hi:सारन	B-LOC
+hi:,	O
+hi:बिहार	B-LOC
+hi:का	O
+hi:एक	O
+hi:प्रखण्ड।	O
+
+hi:अखिल	B-ORG
+hi:भारतीय	I-ORG
+hi:आयुर्विज्ञान	I-ORG
+hi:संस्थान	I-ORG
+
+hi:पूर्वी	B-LOC
+hi:दिल्ली	I-LOC
+hi:लोकसभा	I-LOC
+hi:निर्वाचन	I-LOC
+hi:क्षेत्र	I-LOC
+
+hi:११२	O
+hi:,	O
+hi:६२०	O
+hi:कि.मी२	O
+hi:--	O
+hi:बेनिन	B-LOC
+
+hi:**	O
+hi:हनोई	B-LOC
+hi:(	O
+hi:दूतावास	O
+hi:)	O
+
+hi:पसीर	O
+hi:रिस	O
+hi:सिंगापुर	B-LOC
+hi:के	O
+hi:उतत्र	O
+hi:में	O
+hi:स्थित	O
+hi:एक	O
+hi:स्थान	O
+hi:है	O
+hi:।	O
+
+hi:में	O
+hi:मुंबई	B-ORG
+hi:विश्वविद्यालय	I-ORG
+hi:ने	O
+hi:उन्हें	O
+hi:एल.एल.डी	O
+hi:.	O
+
+hi:तोला	B-ORG
+hi:(	I-ORG
+hi:वज़न	I-ORG
+hi:का	I-ORG
+hi:माप	I-ORG
+hi:)	I-ORG
+
+hi:पुनर्प्रेषित	O
+hi:वल्लभ	B-PER
+hi:भाई	I-PER
+hi:पटेल	I-PER
+
+hi:रियल	B-ORG
+hi:मैड्रिड	I-ORG
+hi:सी.	I-ORG
+hi:एफ़	I-ORG
+
+hi:सजन	B-ORG
+hi:रे	I-ORG
+hi:झूठ	I-ORG
+hi:मत	I-ORG
+hi:बोलो	I-ORG
+
+hi:हिंदी	B-LOC
+hi:की	I-LOC
+hi:विभिन्न	I-LOC
+hi:बोलियाँ	I-LOC
+hi:और	I-LOC
+hi:उनका	I-LOC
+hi:साहित्य	I-LOC
+
+hi:'	O
+hi:''	O
+hi:लाइफ	B-ORG
+hi:ओके	I-ORG
+hi:''	O
+hi:'	O
+
+hi:'	O
+hi:''	O
+hi:डैग	B-PER
+hi:हैमरस्क्जोंल्ड	I-PER
+hi:''	O
+hi:'	O
+
+hi:सलमान	B-PER
+hi:ख़ान	I-PER
+hi:,	O
+hi:सुहेल	B-PER
+hi:ख़ान	I-PER
+hi:और	O
+hi:अरबाज़	B-PER
+hi:ख़ान	I-PER
+
+hi:|	O
+hi:align=	O
+hi:''	O
+hi:left	O
+hi:''	O
+hi:|	O
+hi:जर्मनी	B-LOC
+
+hi:भारत	B-LOC
+hi:द्वारा	O
+hi:पाकिस्तान	B-LOC
+hi:के	O
+hi:इंटर	B-ORG
+hi:इंटेलिजेंस	I-ORG
+hi:सर्विसेज	I-ORG
+hi:द्वारा	O
+hi:जम्मू	B-LOC
+hi:और	I-LOC
+hi:कश्मीर	I-LOC
+hi:में	O
+hi:लड़ने	O
+hi:के	O
+hi:लिए	O
+hi:मुज़ाहिद्दीनका	O
+hi:समर्थन	O
+hi:करने	O
+hi:और	O
+hi:प्रशिक्षण	O
+hi:देने	O
+hi:के	O
+hi:लिए	O
+hi:दोषी	O
+hi:ठहराया	O
+hi:जाता	O
+hi:रहा	O
+hi:है।	O
+
+hi:अमिताभ	B-PER
+hi:बच्चन	I-PER
+hi:,	O
+hi:ज़ीनत	B-PER
+hi:अमान	I-PER
+hi:,	O
+hi:ओम	B-PER
+hi:शिवपुरी	I-PER
+
+hi:'	O
+hi:''	O
+hi:आइज़ोल	B-LOC
+hi:''	O
+hi:'	O
+
+hi:ला	B-ORG
+hi:असंकशन	I-ORG
+hi:का	I-ORG
+hi:गिरजाघर	I-ORG
+hi:,	I-ORG
+hi:(	I-ORG
+hi:लेतूर	I-ORG
+hi:)	I-ORG
+
+hi:लोकमान्य	B-ORG
+hi:तिलक	I-ORG
+hi:टर्मिनस	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:पुनर्प्रेषित	O
+hi:कोटर	B-LOC
+hi:(	I-LOC
+hi:कस्बा	I-LOC
+hi:)	I-LOC
+
+hi:भारत	B-PER
+hi:के	I-PER
+hi:गवर्नर	I-PER
+hi:जनरल	I-PER
+
+hi:गोलियों	B-ORG
+hi:की	I-ORG
+hi:रासलीला	I-ORG
+hi:रामलीला	I-ORG
+hi:''	O
+
+hi:ऋषि	B-PER
+hi:कपूर	I-PER
+hi:,	O
+hi:अमज़द	B-PER
+hi:ख़ान	I-PER
+
+hi:भारत	B-ORG
+hi:पाकिस्तान	I-ORG
+hi:युद्ध	I-ORG
+
+hi:क्योंकि	B-ORG
+hi:सास	I-ORG
+hi:भी	I-ORG
+hi:कभी	I-ORG
+hi:बहू	I-ORG
+hi:थी	I-ORG
+
+hi:स्तानिस्लास	B-PER
+hi:वावरिन्का	I-PER
+hi:''	O
+hi:(	O
+hi:चौथा	O
+hi:दौर	O
+hi:)	O
+
+hi:गढ़वाल	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:लेक	B-ORG
+hi:पैलेस	I-ORG
+hi:यह	O
+hi:अब	O
+hi:वर्तमान	O
+hi:में	O
+hi:एक	O
+hi:लग्ज़री	O
+hi:होटल	O
+hi:है	O
+hi:जो	O
+hi:उदयपुर	B-LOC
+hi:में	O
+hi:स्थित	O
+hi:है	O
+hi:।	O
+
+hi:ट्वेण्टिएथ	B-ORG
+hi:सॅञ्चुरी	I-ORG
+hi:फ़ॉक्स	I-ORG
+
+hi:'	O
+hi:''	O
+hi:फॉक्स	B-ORG
+hi:क्राइम	I-ORG
+hi:''	O
+hi:'	O
+
+hi:पुनर्प्रेषित	O
+hi:ह्यूबर्ट	B-ORG
+hi:ब्लेन	I-ORG
+hi:वोल्फ़श्लेगलस्टीनहाॅज़नबर्गरडाॅर्फ़	I-ORG
+hi:,	I-ORG
+hi:सीनियर	I-ORG
+
+hi:सैन	B-LOC
+hi:क्रिस्टोबाल	I-LOC
+hi:(	I-LOC
+hi:गैलापागोस	I-LOC
+hi:)	I-LOC
+
+hi:टुन	B-PER
+hi:टुन	B-PER
+hi:-	O
+hi:माँ	O
+
+hi:दीपा	B-PER
+hi:साही	I-PER
+hi:...	O
+hi:करमो	O
+
+hi:न्यूटन	B-ORG
+hi:का	I-ORG
+hi:शीतलन	I-ORG
+hi:का	I-ORG
+hi:नियम	I-ORG
+
+hi:'	O
+hi:''	O
+hi:न्यू	B-ORG
+hi:ओरलीएन्स	I-ORG
+hi:सेन्ट्स	I-ORG
+hi:''	O
+hi:'	O
+
+hi:'	O
+hi:''	O
+hi:सेंट	B-ORG
+hi:लुईस	I-ORG
+hi:रैम्स	I-ORG
+hi:''	O
+hi:'	O
+
+hi:'	O
+hi:''	O
+hi:लिस्बन	B-LOC
+hi:''	O
+hi:'	O
+
+hi:केंद्रीय	B-LOC
+hi:प्रांतों	I-LOC
+hi:,	I-LOC
+hi:प्रशासन	I-LOC
+
+hi:जॉर्ज	B-PER
+hi:ई	I-PER
+hi:स्मिथ	I-PER
+
+hi:अनुप्रेषित	O
+hi:कुर्अतुल	B-PER
+hi:ऐन	I-PER
+hi:हैदर	I-PER
+
+hi:हजरत	B-ORG
+hi:निजामुद्दीन	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:एक	O
+hi:आसमान	O
+hi:के	O
+hi:नीचे	O
+hi:विष्णु	B-PER
+hi:प्रभाकर	I-PER
+hi:द्वारा	O
+hi:रचित	O
+hi:कहानी	O
+hi:संग्रह	O
+hi:है।	O
+
+hi:साओ	B-LOC
+hi:तोमे	I-LOC
+hi:और	I-LOC
+hi:प्रिन्सिपी	I-LOC
+
+hi:दिल्ली	B-LOC
+hi:--	O
+hi:643	O
+hi:किमी	O
+hi:,	O
+
+hi:और	O
+hi:कुछ	O
+hi:देर	O
+hi:मोहम्मद	B-PER
+hi:रफ़ी	I-PER
+
+hi:उदयपुर	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:अनुप्रेषित	O
+hi:ऋणात्मक	B-ORG
+hi:दाब	I-ORG
+hi:श्वासयंत्र	I-ORG
+
+hi:१६३	O
+hi:,	O
+hi:२७०	O
+hi:कि.मी२	O
+hi:--	O
+hi:सूरीनाम	B-LOC
+
+hi:१२	O
+hi:'	O
+hi:''	O
+hi:माशों	O
+hi:''	O
+hi:'	O
+hi:का	O
+hi:एक	O
+hi:'	O
+hi:''	O
+hi:तोला	B-ORG
+hi:''	O
+hi:'	O
+hi:बनता	O
+hi:है	O
+
+hi:उत्तर	B-LOC
+hi:प्रान्त	I-LOC
+hi:(	I-LOC
+hi:लेबनान	I-LOC
+hi:)	I-LOC
+
+hi:'	O
+hi:''	O
+hi:बर्लिन	B-LOC
+hi:''	O
+hi:'	O
+
+hi:अकिलन्देश्वरी	B-LOC
+hi:मन्दिर	I-LOC
+hi:,	I-LOC
+hi:तिरुवनैकवल	I-LOC
+
+hi:कनकपुरा	B-LOC
+hi:;	O
+hi:हसन	B-PER
+hi:,	O
+hi:कर्नाटक	B-LOC
+
+hi:मध्य	B-LOC
+hi:अफ़्रीकी	I-LOC
+hi:गणराज्य	I-LOC
+
+hi:अंजुमल्लिगे	O
+hi:-	O
+hi:रानावि	O
+hi:के	O
+hi:लिए	O
+hi:प्रसन्ना	B-PER
+hi:द्वारा	O
+hi:निर्देशन।	O
+
+hi:पश्चिम	B-LOC
+hi:बंगाल	I-LOC
+hi:(	O
+hi:443	O
+hi:)	O
+
+hi:सतीश	B-ORG
+hi:धवन	I-ORG
+hi:अंतरिक्ष	I-ORG
+hi:केंद्र	I-ORG
+
+hi:''कथा	O
+hi:''	O
+hi:-	O
+hi:सलिल	B-PER
+hi:चौधरी	I-PER
+
+hi:आतंकविरोधी	O
+hi:दस्ते	O
+hi:के	O
+hi:प्रमुख	O
+hi:हेमंत	B-PER
+hi:करकरे	I-PER
+hi:,	O
+
+hi:श्रीराम	B-PER
+hi:लागू	I-PER
+hi:-	O
+hi:मि	O
+hi:.	O
+
+hi:जन्म	O
+hi:1937	O
+hi:इटली	B-LOC
+hi:में	O
+hi:,	O
+
+hi:अरविन्द	B-PER
+hi:गौड़	I-PER
+hi:-	O
+hi:विशिष्ट	O
+hi:उपस्थिति	O
+
+hi:केन्द्रीय	B-ORG
+hi:रेल	I-ORG
+hi:विद्युतीकरण	I-ORG
+hi:संगठन	I-ORG
+
+hi:इण्डियन	B-ORG
+hi:ऑयल	I-ORG
+hi:कॉर्पोरेशन	I-ORG
+hi:लिमिटेड	I-ORG
+
+hi:विलार्ड	B-PER
+hi:स्टर्लिंग	I-PER
+hi:बॉयल	I-PER
+
+hi:अनुप्रेषित	O
+hi:कोपेन	B-LOC
+hi:का	I-LOC
+hi:जलवायु	I-LOC
+hi:वर्गीकरण	I-LOC
+
+hi:जॉन	B-PER
+hi:अब्राहम	I-PER
+hi:,	O
+hi:श्रुति	B-PER
+hi:हासन	I-PER
+
+hi:महाराष्ट्र	B-LOC
+hi:,	O
+hi:कर्नाटक	B-LOC
+hi:,	O
+hi:मध्य	B-LOC
+hi:प्रदेश	I-LOC
+hi:,	O
+hi:गुजरात	B-LOC
+hi:और	O
+hi:गोवा	B-LOC
+
+hi:पुनर्प्रेषित	O
+hi:इसाबेला	B-LOC
+hi:द्वीप	I-LOC
+hi:(	I-LOC
+hi:गैलापागोस	I-LOC
+hi:)	I-LOC
+
+hi:वोल्फ़गांक	B-PER
+hi:आमडेयुस	I-PER
+hi:मोत्सार्ट	I-PER
+
+hi:जगन्नाथ	B-ORG
+hi:मन्दिर	I-ORG
+hi:,	I-ORG
+hi:पुरी	I-ORG
+
+hi:मुम्बई	B-LOC
+hi:--	O
+hi:1444	O
+hi:किमी	O
+hi:,	O
+
+hi:भारत	B-ORG
+hi:का	I-ORG
+hi:उच्चतम	I-ORG
+hi:न्यायालय	I-ORG
+
+hi:पुनर्प्रेषित	O
+hi:विश्‍वविद्यालय	B-ORG
+hi:अनुदान	I-ORG
+hi:आयोग	I-ORG
+hi:(	I-ORG
+hi:भारत	I-ORG
+hi:)	I-ORG
+
+hi:जेपी	B-ORG
+hi:सूचना	I-ORG
+hi:तकनीक	I-ORG
+hi:विश्वविद्यालय	I-ORG
+
+hi:एस.	B-PER
+hi:शंकर	I-PER
+hi:इसका	O
+hi:निर्देशन	O
+hi:करेंगे	O
+hi:.	O
+
+hi:वल्लभ	B-PER
+hi:भाई	I-PER
+hi:पटेल	I-PER
+
+hi:'	O
+hi:''	O
+hi:अल्मोड़ा	B-LOC
+hi:''	O
+hi:'	O
+
+hi:होमी	B-PER
+hi:जहांगीर	I-PER
+hi:भाभा	I-PER
+
+hi:भारतीय	B-ORG
+hi:प्रौद्योगिकी	I-ORG
+hi:संस्थान	I-ORG
+hi:रुड़की	I-ORG
+
+hi:अनुप्रेषित	O
+hi:भारतीय	B-ORG
+hi:विज्ञान	I-ORG
+hi:संस्थान	I-ORG
+
+hi:चारबाग	B-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:जॉनी	B-PER
+hi:लीवर	I-PER
+hi:-	O
+hi:हवलदार	O
+
+hi:अनुप्रेषित	O
+hi:वी॰	B-PER
+hi:एस॰	I-PER
+hi:संपत	I-PER
+
+hi:अल्ताई	B-LOC
+hi:पर्वत	I-LOC
+hi:शृंखला	I-LOC
+
+hi:सूर्यकान्त	B-PER
+hi:त्रिपाठी	I-PER
+hi:'निराला	I-PER
+hi:'	I-PER
+
+hi:किम	B-PER
+hi:क्लाइतज़र्स	I-PER
+hi:ने	O
+hi:मैरी	B-PER
+hi:पियर्स	I-PER
+hi:को	O
+hi:63	O
+hi:61	O
+hi:से	O
+hi:हराया।	O
+
+hi:अनुप्रेषित	O
+hi:बिड़ला	B-ORG
+hi:प्रौद्योगिकी	I-ORG
+hi:एवं	I-ORG
+hi:विज्ञान	I-ORG
+hi:संस्थान	I-ORG
+hi:,	I-ORG
+hi:पिलानी	I-ORG
+
+hi:अखिलेश	B-PER
+hi:यादव	I-PER
+hi:,	O
+hi:मुख्यमंत्री	B-ORG
+hi:,	I-ORG
+hi:उत्तर	I-ORG
+hi:प्रदेश	I-ORG
+
+hi:अनुप्रेषित	O
+hi:फ़िरोज़	B-PER
+hi:शाह	I-PER
+hi:तुग़लक़	I-PER
+
+hi:राष्ट्रीय	B-ORG
+hi:ओलम्पिक	I-ORG
+hi:समिति	I-ORG
+hi:!	O
+hi:!	O
+
+hi:भारतीय	B-ORG
+hi:प्रतिभूति	I-ORG
+hi:और	I-ORG
+hi:विनिमय	I-ORG
+hi:बोर्ड	I-ORG
+hi:(	O
+hi:सेबी	O
+hi:)	O
+
+hi:बृज	B-PER
+hi:नारायण	I-PER
+hi:चकबस्त	I-PER
+
+hi:गुरुकुल	B-ORG
+hi:कांगड़ी	I-ORG
+hi:विश्वविद्यालय	I-ORG
+hi:,	I-ORG
+hi:हरिद्वार	B-LOC
+
+hi:मिले	B-ORG
+hi:जब	I-ORG
+hi:हम	I-ORG
+hi:तुम	I-ORG
+
+hi:रीना	B-PER
+hi:रॉय	I-PER
+hi:-	O
+hi:कल्पना	O
+
+hi:''निर्माता	O
+hi:''	O
+hi:-	O
+hi:यश	B-PER
+hi:चोपड़ा	I-PER
+
+hi:अनुप्रेषित	O
+hi:केरल	B-ORG
+hi:के	I-ORG
+hi:मुख्यमंत्रियों	I-ORG
+hi:की	I-ORG
+hi:सूची	I-ORG
+
+hi:'	O
+hi:''	O
+hi:चण्डीगढ़	B-LOC
+hi:''	O
+hi:'	O
+
+hi:कोटा	B-PER
+hi:शिवराम	I-PER
+hi:कारन्त	I-PER
+
+hi:मध्य	B-ORG
+hi:रेल	I-ORG
+hi:(	I-ORG
+hi:भारत	I-ORG
+hi:)	I-ORG
+
+hi:आइल	B-LOC
+hi:ऑफ़	I-LOC
+hi:मैन	I-LOC
+
+hi:आई	B-ORG
+hi:एन	I-ORG
+hi:ए	I-ORG
+hi:कालोनी	I-ORG
+
+hi:महाभारत	B-ORG
+hi:(	I-ORG
+hi:२०१३	I-ORG
+hi:धारावाहिक	I-ORG
+hi:)	I-ORG
+hi:(	O
+hi:दुशासन	O
+hi:)	O
+
+hi:खिलौने	O
+hi:विष्णु	B-PER
+hi:प्रभाकर	I-PER
+hi:द्वारा	O
+hi:रचित	O
+hi:कहानी	O
+hi:संग्रह	O
+hi:है।	O
+
+hi:बिली	B-PER
+hi:जीन	I-PER
+hi:किंग	I-PER
+hi:रोसमैरी	B-PER
+hi:कैसल्स	I-PER
+
+hi:ईश्वर	B-PER
+hi:चन्द्र	I-PER
+hi:विद्यासागर	I-PER
+
+hi:मजापहित	B-ORG
+hi:साम्राज्य	I-ORG
+hi:,	O
+hi:इंडोनेशिया	B-LOC
+hi:का	O
+hi:सम्राट।	O
+
+hi:जगदीप	B-PER
+hi:-	O
+hi:विद्यालय	O
+hi:अध्यापक	O
+
+hi:सूखबातर	B-LOC
+hi:(	I-LOC
+hi:शहर	I-LOC
+hi:)	I-LOC
+
+hi:पर	O
+hi:प्रसारित	O
+hi:निकलोडियन	B-ORG
+hi:भारत	I-ORG
+hi:,	O
+hi:एक	O
+hi:बाद	O
+hi:की	O
+hi:रिलीज	O
+hi:पर।	O
+
+hi:पुनर्प्रेषित	O
+hi:ऑस्ट्रेलिया	B-ORG
+hi:राष्ट्रीय	I-ORG
+hi:क्रिकेट	I-ORG
+hi:टीम	I-ORG
+
+hi:**	O
+hi:हवाना	B-LOC
+hi:(	O
+hi:दूतावास	O
+hi:)	O
+
+hi:पुनर्प्रेषित	O
+hi:भारतीय	B-ORG
+hi:रेलवे	I-ORG
+hi:खानपान	I-ORG
+hi:एवं	I-ORG
+hi:पर्यटन	I-ORG
+hi:निगम	I-ORG
+hi:(	I-ORG
+hi:IRCTC	I-ORG
+hi:)	I-ORG
+
+hi:पुनर्प्रेषित	O
+hi:डी॰	B-PER
+hi:पी॰	I-PER
+hi:अग्रवाल	I-PER
+hi:(	I-PER
+hi:शिक्षा	I-PER
+hi:)	I-PER
+
+hi:(	O
+hi:उत्तरी	B-LOC
+hi:आयरलैंड	I-LOC
+hi:में	O
+hi:सुना	O
+hi:जाता	O
+hi:है	O
+hi:)	O
+
+hi:बीरबल	B-ORG
+hi:साहनी	I-ORG
+hi:पुरावनस्पतिविज्ञान	I-ORG
+hi:संस्थान	I-ORG
+
+hi:गिजेला	O
+hi:के	O
+hi:रुप	O
+hi:में	O
+hi:एमी	B-PER
+hi:एडम्स	I-PER
+hi:.	O
+
+hi:खुशियों	B-ORG
+hi:की	I-ORG
+hi:गुल्लक	I-ORG
+hi:आशी	I-ORG
+
+hi:)	O
+hi:ने	O
+hi:सत्वोद्रैक	O
+hi:के	O
+hi:कारण	O
+hi:ममत्व-परत्व-हीन	O
+hi:दशा	O
+hi:,	O
+hi:अभिनवगुप्त	B-PER
+hi:(	O
+hi:11वीं	O
+hi:शती	O
+hi:ई	O
+hi:.	O
+
+hi:राष्ट्रीय	B-ORG
+hi:राजमार्ग	I-ORG
+hi:५०	I-ORG
+
+hi:सारन	B-LOC
+hi:,	O
+hi:बिहार	B-LOC
+hi:का	O
+hi:एक	O
+hi:प्रखण्ड।	O
+
+hi:नैनीताल-ऊधमसिंह	B-ORG
+hi:नगर	I-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:राष्ट्रीय	B-ORG
+hi:तापविद्युत	I-ORG
+hi:निगम	I-ORG
+hi:लिमिटेड	I-ORG
+
+hi:मुकेश	B-PER
+hi:ऋषि	I-PER
+hi:-	O
+hi:भाई	O
+
+hi:वान	B-ORG
+hi:डर	I-ORG
+hi:वाल्स	I-ORG
+hi:बल	I-ORG
+
+hi:इल्या	B-PER
+hi:इलिच	I-PER
+hi:मेखनिकोव	I-PER
+
+hi:तबु	B-PER
+hi:,	O
+hi:शर्मन	B-PER
+hi:जोशी	I-PER
+hi:,	O
+hi:वत्सल	B-PER
+hi:शेठ	I-PER
+
+hi:विश्व	B-ORG
+hi:की	I-ORG
+hi:प्रमुख	I-ORG
+hi:वायुयान	I-ORG
+hi:सेवाओं	I-ORG
+hi:की	I-ORG
+hi:सूची	I-ORG
+
+hi:लक्षद्वीप	B-LOC
+hi:(	O
+hi:कवरत्ती	B-LOC
+hi:)	O
+
+hi:चीन	B-ORG
+hi:का	I-ORG
+hi:अंतरिक्ष	I-ORG
+hi:कार्यक्रम	I-ORG
+
+hi:कांगड़ा	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:राष्ट्रीय	B-ORG
+hi:राजमार्ग	I-ORG
+hi:८२	I-ORG
+
+hi:+	O
+hi:''	O
+hi:राष्ट्रीय	B-ORG
+hi:राजमार्ग	I-ORG
+hi:३	I-ORG
+hi:''	O
+hi:'	O
+
+hi:हंगरी	B-LOC
+hi:''Jazmin	O
+hi:pakóca	O
+hi:''	O
+
+hi:दिल्ली	B-LOC
+hi:(	O
+hi:7	O
+hi:)	O
+hi:===	O
+
+hi:ललितपुर	B-LOC
+hi:(	O
+hi:पाटन	B-LOC
+hi:)	O
+
+hi:आन्ध्र	B-LOC
+hi:प्रदेश	I-LOC
+hi:(	O
+hi:42	O
+hi:)	O
+hi:===	O
+
+hi:पुनर्प्रेषित	O
+hi:ज़ुल्फ़िक़ार	B-PER
+hi:अली	I-PER
+hi:भुट्टो	I-PER
+
+hi:राजन	B-ORG
+hi:एवं	I-ORG
+hi:साजन	I-ORG
+hi:मिश्र	I-ORG
+
+hi:कढ़ी	B-LOC
+hi:पत्ते	I-LOC
+hi:का	I-LOC
+hi:पेड़	I-LOC
+
+hi:नई	B-ORG
+hi:दिल्ली	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:रेमो	B-PER
+hi:डीसूजा	I-PER
+hi:,	O
+hi:माधुरी	B-PER
+hi:दीक्षित	I-PER
+hi:एवं	O
+hi:करण	B-PER
+hi:जौहर	I-PER
+hi:निरीक्षक	O
+hi:की	O
+hi:भूमिका	O
+hi:निभा	O
+hi:रहे	O
+hi:है।	O
+
+hi:3,225,000	O
+hi:km2	O
+hi:--	O
+hi:मिसिसिप्पी	B-LOC
+hi:नदी	I-LOC
+hi:का	I-LOC
+hi:जल	I-LOC
+hi:निकासी	I-LOC
+hi:क्षेत्र	I-LOC
+
+hi:मक्का	B-LOC
+hi:(	I-LOC
+hi:शहर	I-LOC
+hi:)	I-LOC
+
+hi:मूल	O
+hi:रूप	O
+hi:से	O
+hi:'नुक़्ता	O
+hi:'	O
+hi:अरबी	B-ORG
+hi:भाषा	I-ORG
+hi:का	O
+hi:शब्द	O
+hi:है	O
+hi:और	O
+hi:इसका	O
+hi:मतलब	O
+hi:'बिंदु	O
+hi:'	O
+hi:होता	O
+hi:है।	O
+hi:साधारण	O
+hi:हिन्दी	B-LOC
+hi:में	O
+hi:इसका	O
+hi:अर्थ	O
+hi:'बिंदु	O
+hi:'	O
+hi:ही	O
+hi:होता	O
+hi:है।	O
+
+hi:बर्लिन	B-ORG
+hi:की	I-ORG
+hi:दीवार	I-ORG
+
+hi:'	O
+hi:''	O
+hi:करोरा	O
+hi:,	O
+hi:'	O
+hi:''	O
+hi:वेनेजुएला	B-LOC
+
+hi:दिल्ली	B-ORG
+hi:जंक्शन	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+hi:,	O
+hi:एवं	O
+
+hi:1602	O
+hi:–	O
+hi:पहली	O
+hi:संयुक्त-स्टॉक	O
+hi:कंपनी	O
+hi:-	O
+hi:डच	B-ORG
+hi:इस्ट	I-ORG
+hi:इंडिया	I-ORG
+hi:कंपनी	I-ORG
+hi:की	O
+hi:स्थापना	O
+
+hi:उत्तर	B-ORG
+hi:पश्चिम	I-ORG
+hi:दिल्ली	I-ORG
+hi:लोकसभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:बार्नी	B-ORG
+hi:एंड	I-ORG
+hi:फ्रेंड्स	I-ORG
+
+hi:अनुप्रेषित	O
+hi:एम	B-PER
+hi:सी	I-PER
+hi:छागला	I-PER
+
+hi:द्वारा	O
+hi:द्रौपदीजीति	B-PER
+hi:जाने	O
+hi:पर	O
+hi:,	O
+hi:‘एक	O
+
+hi:चाँदनी	B-ORG
+hi:चौक	I-ORG
+hi:लोकसभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:विनोद	B-PER
+hi:खन्ना	I-PER
+hi:के	O
+hi:साथ	O
+hi:अभिनीत	O
+
+hi:अनुप्रेषित	O
+hi:पुर्वांचल	B-LOC
+hi:विकास	I-LOC
+hi:क्षेत्र	I-LOC
+
+hi:आन्ध्र	B-LOC
+hi:प्रदेश	I-LOC
+hi:(	O
+hi:244	O
+hi:)	O
+hi:,	O
+hi:छत्तीसगढ़	B-LOC
+hi:(	O
+hi:36	O
+hi:)	O
+
+hi:कर्नाटक	B-LOC
+hi:राज्य	O
+hi:में	O
+hi:181	O
+hi:वर्ग	O
+hi:किमी	O
+hi:.	O
+
+hi:शारजाह	B-LOC
+hi:(	I-LOC
+hi:नगर	I-LOC
+hi:)	I-LOC
+
+hi:फ़रीदा	B-PER
+hi:जलाल	I-PER
+hi:(	O
+hi:विहान	O
+hi:की	O
+hi:दादी	O
+hi:माँ	O
+hi:)	O
+
+hi:अनुप्रेषित	O
+hi:राष्ट्रीय	B-ORG
+hi:राजमार्ग	I-ORG
+hi:५६बी	I-ORG
+
+hi:इंजीनियरी	B-ORG
+hi:में	I-ORG
+hi:स्नातक	I-ORG
+hi:अभिरुचि	I-ORG
+hi:परीक्षा	I-ORG
+
+hi:इमरान	B-PER
+hi:हाशमी	I-PER
+hi:-	O
+hi:अब्राहम।	O
+
+hi:दरभंगा	B-LOC
+hi:,	O
+hi:बिहार	B-LOC
+hi:का	O
+hi:एक	O
+hi:प्रखण्ड।	O
+
+hi:यहां	O
+hi:अन्य	O
+hi:व्यावसायिक	O
+hi:विकास	O
+hi:में	O
+hi:उन्मत्त	O
+hi:संस्थानों	O
+hi:में	O
+hi:कॉन्फेडरेशन	B-ORG
+hi:ऑफ	I-ORG
+hi:इंडियन	I-ORG
+hi:इंडस्ट्री	I-ORG
+hi:(	O
+hi:सीआईआई	O
+hi:)	O
+hi:एवं	O
+hi:एन्टरप्रेन्योर	B-ORG
+hi:डवलपमेंट	I-ORG
+hi:इंस्टीट्यूट	I-ORG
+hi:ऑफ	I-ORG
+hi:इंडिया	I-ORG
+hi:(	O
+hi:ईडीआईआई	O
+hi:)	O
+hi:हैं।	O
+
+hi:भारत	B-ORG
+hi:का	I-ORG
+hi:उच्चतम	I-ORG
+hi:न्यायालय	I-ORG
+
+hi:अनुप्रेषित	O
+hi:इंदिरा	B-ORG
+hi:गांधी	I-ORG
+hi:राष्ट्रीय	I-ORG
+hi:कला	I-ORG
+hi:केन्द्र	I-ORG
+
+hi:भारतीय	B-ORG
+hi:लघु	I-ORG
+hi:उद्योग	I-ORG
+hi:विकास	I-ORG
+hi:बैंक	I-ORG
+
+hi:आशा	B-PER
+hi:भोंसले	I-PER
+hi:,	O
+hi:किशोर	B-PER
+hi:कुमार	I-PER
+
+hi:'	O
+hi:''	O
+hi:पीट	B-PER
+hi:सेमप्रास	I-PER
+hi:''	O
+hi:'	O
+
+hi:सवाई	B-LOC
+hi:मान	I-LOC
+hi:सिंह	I-LOC
+hi:स्टेडियम	I-LOC
+
+hi:सुखानंदनाथ	O
+hi:ने	O
+hi:भी	O
+hi:चार	O
+hi:जिल्दों	O
+hi:में	O
+hi:एक	O
+hi:बृहदाकार	O
+hi:संस्कृतकोश	O
+hi:आगरा	B-LOC
+hi:और	O
+hi:उदयपुर	B-LOC
+hi:से	O
+hi:(	O
+hi:ई०	O
+hi:१८७३-८३	O
+hi:में	O
+hi:)	O
+hi:प्रकाशित	O
+hi:किया	O
+hi:जिसपर	O
+hi:'शब्दकल्पद्रुम	O
+hi:'	O
+hi:का	O
+hi:पर्याप्त	O
+hi:प्रभाव	O
+hi:है।	O
+
+hi:प्राचीन	B-ORG
+hi:मिस्री	I-ORG
+hi:भार	I-ORG
+hi:एवं	I-ORG
+hi:मापन	I-ORG
+
+hi:प्रेम	B-PER
+hi:चोपड़ा	I-PER
+hi:-	O
+hi:होटल	O
+hi:मैने्जर	O
+
+hi:फिरोज	B-LOC
+hi:शाह	I-LOC
+hi:कोटला	I-LOC
+hi:ग्राउंड	I-LOC
+
+hi:आशा	B-PER
+hi:भोंसले	I-PER
+hi:,	O
+hi:मन्ना	B-PER
+hi:डे	I-PER
+hi:,	O
+hi:महेन्द्र	B-PER
+hi:कपूर	I-PER
+
+hi:ख़ान	B-PER
+hi:अब्दुल	I-PER
+hi:ग़फ़्फ़ार	I-PER
+hi:ख़ान	B-PER
+
+hi:दादा	B-PER
+hi:भाई	I-PER
+hi:नौरोजी	I-PER
+
+hi:|	O
+hi:यो	B-PER
+hi:यो	B-PER
+hi:हनी	I-PER
+hi:सिंह	I-PER
+
+hi:मीनाक्षी	B-PER
+hi:शेषाद्रि	I-PER
+hi:-	O
+hi:सपना	O
+
+hi:'	O
+hi:''	O
+hi:भारत	B-LOC
+hi:''	O
+hi:'	O
+
+hi:शिल्पा	B-PER
+hi:शेट्टी	I-PER
+hi:एक	O
+hi:आयटम	O
+hi:गीत	O
+hi:में।	O
+
+hi:ब्रिटेन	B-PER
+hi:के	I-PER
+hi:प्रधान	I-PER
+hi:मन्त्री	I-PER
+
+hi:सवाई	B-LOC
+hi:मान	I-LOC
+hi:सिंह	I-LOC
+hi:स्टेडियम	I-LOC
+hi:,	O
+hi:जयपुर	B-LOC
+
+hi:टाटा	B-ORG
+hi:मूलभूत	I-ORG
+hi:अनुसंधान	I-ORG
+hi:संस्थान	I-ORG
+
+hi:ममनून	B-PER
+hi:हुसैन	I-PER
+hi:(	O
+hi:1940	O
+hi:-	O
+hi:)	O
+
+hi:अम्बाला	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:अमिताभ	B-PER
+hi:बच्चन	I-PER
+hi:-	O
+hi:विशेष	O
+hi:भूमिका	O
+
+hi:क्योंकि	B-ORG
+hi:सास	I-ORG
+hi:भी	I-ORG
+hi:कभी	I-ORG
+hi:बहू	I-ORG
+hi:थी	I-ORG
+
+hi:ललित	B-ORG
+hi:नारायण	I-ORG
+hi:मिथिला	I-ORG
+hi:विश्वविद्यालय	I-ORG
+
+hi:सुहेल	B-PER
+hi:ख़ान	I-PER
+hi:,	O
+hi:अमृता	B-PER
+hi:अरोड़ा	I-PER
+hi:,	O
+hi:यश	B-PER
+hi:टोंक	I-PER
+
+hi:जीत	O
+hi:(	O
+hi:जॉनी	B-PER
+hi:डेप	I-PER
+hi:)	O
+
+hi:सुनील	B-ORG
+hi:शेट्टी	I-ORG
+hi:-	O
+hi:विशेष	O
+hi:भूमिका	O
+
+hi:'	O
+hi:''	O
+hi:सिडनी	B-LOC
+hi:''	O
+hi:'	O
+
+hi:ए	B-PER
+hi:जे	I-PER
+hi:लेगेट	I-PER
+
+hi:रुख्सना	O
+hi:बैक्ट्रिया	B-LOC
+hi:की	O
+hi:एक	O
+hi:लड़की	O
+hi:थी	O
+hi:और	O
+hi:सिकंदर	B-PER
+hi:महान	I-PER
+hi:की	O
+hi:पत्नी	O
+hi:थी।	O
+
+hi:समुद्री	B-ORG
+hi:राष्ट्रीय	I-ORG
+hi:उद्यान	I-ORG
+hi:,	I-ORG
+hi:मन्नार	I-ORG
+hi:की	I-ORG
+hi:खाड़ी	I-ORG
+
+hi:बर्मिंघम	B-LOC
+hi:,	O
+hi:संयुक्त	B-LOC
+hi:राजशाही	I-LOC
+
+hi:अनुप्रेषित	O
+hi:गुलबर्ग	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:जाल	O
+hi:समेटा	O
+hi:हरिवंश	B-PER
+hi:राय	I-PER
+hi:बच्चन	I-PER
+hi:की	O
+hi:एक	O
+hi:कृति	O
+hi:है।	O
+
+hi:पुनर्प्रेषित	O
+hi:बिलासपुर	B-LOC
+hi:जिला	I-LOC
+hi:(	I-LOC
+hi:छत्तीसगढ़	I-LOC
+hi:)	I-LOC
+
+hi:'	O
+hi:''	O
+hi:गजानन	B-PER
+hi:त्र्यंबक	I-PER
+hi:माडखोलकर	I-PER
+hi:''	O
+hi:'	O
+
+hi:+	O
+hi:''	O
+hi:श्रीलंका	B-LOC
+hi:''	O
+hi:'	O
+
+hi:सन	B-ORG
+hi:डायरेक्ट	I-ORG
+hi:डीटीएच	I-ORG
+
+hi:तक	O
+hi:के	O
+hi:युद्धों	O
+hi:का	O
+hi:वर्णन	O
+hi:किया	O
+hi:है।	O
+hi:उसके	O
+hi:कई	O
+hi:भाग	O
+hi:हैं	O
+hi:जो	O
+hi:समय	O
+hi:समय	O
+hi:पर	O
+hi:अलग	O
+hi:अलग	O
+hi:लिखे	O
+hi:गए।	O
+hi:उसने	O
+hi:लड़ाई	O
+hi:के	O
+hi:संबंध	O
+hi:में	O
+hi:जो	O
+hi:लिखा	O
+hi:सो	O
+hi:है	O
+hi:ही	O
+hi:,	O
+hi:लेकिन	O
+hi:भौगोलिक	O
+hi:संबंध	O
+hi:में	O
+hi:भी	O
+hi:इस	O
+hi:पुस्तक	O
+hi:की	O
+hi:महत्ता	O
+hi:बढ़	O
+hi:जाती	O
+hi:है।	O
+hi:जिन	O
+hi:जिन	O
+hi:देशों	O
+hi:में	O
+hi:वह	O
+hi:फिरा	O
+hi:,	O
+hi:उनका	O
+hi:पूर्ण	O
+hi:रूप	O
+hi:से	O
+hi:वर्णन	O
+hi:किया	O
+hi:है।	O
+hi:उसकी	O
+hi:पुस्तक	O
+hi:के	O
+hi:अंतिम	O
+hi:भाग	O
+hi:में	O
+hi:क्रूसेड	B-ORG
+hi:का	O
+hi:भी	O
+hi:वर्णन	O
+hi:है।	O
+
+hi:कूहिस्तोनी-बदख़्शान	B-LOC
+hi:स्वशासित	I-LOC
+hi:प्रान्त	I-LOC
+
+hi:रॉबिन	B-PER
+hi:सोडरलिंग	I-PER
+hi:ने	O
+hi:ज़ेवियर	B-PER
+hi:मलीस	I-PER
+hi:को	O
+hi:6–2	O
+hi:,	O
+hi:3–6	O
+hi:,	O
+hi:6–4	O
+hi:से	O
+hi:हराया।	O
+
+hi:सिस्तान	B-LOC
+hi:और	I-LOC
+hi:बलूचिस्तान	I-LOC
+
+hi:'	O
+hi:''	O
+hi:गुलिरमो	B-PER
+hi:कैनास	I-PER
+hi:''	O
+hi:'	O
+
+hi:'	O
+hi:''	O
+hi:चण्डीगढ़	B-LOC
+hi:''	O
+hi:'	O
+
+hi:पश्चिम	B-ORG
+hi:बंगाल	I-ORG
+hi:स्वास्थ्य	I-ORG
+hi:विज्ञान	I-ORG
+hi:विश्वविद्यालय	I-ORG
+
+hi:राजभवन	B-ORG
+hi:(	I-ORG
+hi:त्रिपुरा	I-ORG
+hi:)	I-ORG
+
+hi:'	O
+hi:''	O
+hi:न्यूयॉर्क	B-ORG
+hi:जायन्ट्स	I-ORG
+hi:''	O
+hi:'	O
+
+hi:बलूचिस्तान	B-LOC
+hi:(	I-LOC
+hi:पाकिस्तान	I-LOC
+hi:)	I-LOC
+
+hi:संजय	B-PER
+hi:दत्त	I-PER
+hi:,	O
+hi:उर्मिला	B-PER
+hi:मातोंडकर	I-PER
+
+hi:अनुप्रेषित	O
+hi:पी॰	B-PER
+hi:ए॰	I-PER
+hi:संगमा	I-PER
+
+hi:राष्ट्रीय	B-ORG
+hi:राजमार्ग	I-ORG
+hi:१०२	I-ORG
+
+hi:उत्तर	B-LOC
+hi:सिक्किम	I-LOC
+hi:जिला	I-LOC
+
+hi:गोविन्द	B-ORG
+hi:बल्लभ	I-ORG
+hi:पन्त	I-ORG
+hi:अभियान्त्रिकी	I-ORG
+hi:महाविद्यालय	I-ORG
+
+hi:रोहतक	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:प्रनीत	B-PER
+hi:भट्ट	I-PER
+hi:,	O
+hi:एजाज़	B-PER
+hi:खान	I-PER
+hi:,	O
+hi:सोनाली	B-PER
+hi:राऊत	I-PER
+
+hi:अक्षय	B-PER
+hi:खन्ना	I-PER
+hi:,	O
+hi:अरशद	B-PER
+hi:वारसी	I-PER
+hi:,	O
+hi:अमृता	B-PER
+hi:राव	I-PER
+
+hi:**	O
+hi:बर्लिन	B-LOC
+hi:(	O
+hi:दूतावास	O
+hi:)	O
+
+hi:जबल	B-LOC
+hi:लिबनान	I-LOC
+hi:प्रान्त	I-LOC
+
+hi:२	O
+hi:दिसम्बर	O
+hi:–	O
+hi:प्रीति	B-PER
+hi:गाँगुली	I-PER
+
+hi:नूर	B-LOC
+hi:(	I-LOC
+hi:ईरान	I-LOC
+hi:)	I-LOC
+
+hi:''गीतकार	O
+hi:''	O
+hi:-	O
+hi:मजरुह	B-PER
+hi:सुल्तानपुरी	I-PER
+
+hi:अटल	B-PER
+hi:बिहारी	I-PER
+hi:वाजपेयी	I-PER
+
+hi:अमन	B-PER
+hi:वर्मा	I-PER
+hi:(	O
+hi:बाहर	O
+hi:)	O
+
+hi:पश्चिम	B-LOC
+hi:बंगाल	I-LOC
+hi:(	O
+hi:१८	O
+hi:)	O
+
+hi:पूर्वी	B-LOC
+hi:दिल्ली	I-LOC
+hi:लोकसभा	I-LOC
+hi:निर्वाचन	I-LOC
+hi:क्षेत्र	I-LOC
+
+hi:पुनर्प्रेषित	O
+hi:आना	B-LOC
+hi:सागर	I-LOC
+hi:झील	I-LOC
+
+hi:मुम्बई	B-LOC
+hi:स्थित	O
+hi:टाटा	B-ORG
+hi:मूलभूत	I-ORG
+hi:अनुसंधान	I-ORG
+hi:संस्थान	I-ORG
+hi:में	O
+hi:'	O
+hi:''	O
+hi:पेल्ट्रान	O
+hi:''	O
+hi:'	O
+
+hi:अनुप्रेषित	O
+hi:एस	B-PER
+hi:सी	I-PER
+hi:जमीर	I-PER
+
+hi:ओरिएंटल	B-ORG
+hi:बैंक	I-ORG
+hi:ऑफ	I-ORG
+hi:कॉमर्स	I-ORG
+
+hi:अखिल	B-ORG
+hi:भारतीय	I-ORG
+hi:मुस्लिम	I-ORG
+hi:लीग	I-ORG
+
+hi:राष्ट्रीय	B-ORG
+hi:स्वयंसेवक	I-ORG
+hi:संघ	I-ORG
+
+hi:ताजमहल	B-ORG
+hi:पैलेस	I-ORG
+hi:एंड	I-ORG
+hi:टॉवर	I-ORG
+hi:होटल	O
+
+hi:स्पेशल	B-ORG
+hi:फ्रंटियर	I-ORG
+hi:फोर्स	I-ORG
+hi:(	O
+hi:एसएफएफ	O
+hi:)	O
+hi:10,000	O
+hi:कर्मी	O
+
+hi:अजीत	B-PER
+hi:वाच्छानी	I-PER
+hi:-	O
+hi:मामा	O
+hi:(	O
+hi:वकील	O
+hi:)	O
+
+hi:ओम	B-PER
+hi:शिवपुरी	I-PER
+hi:-	O
+hi:जज	O
+
+hi:''गीतकार	O
+hi:''	O
+hi:-	O
+hi:गुलज़ार	B-PER
+
+hi:कर्नाटक	B-LOC
+hi:(	O
+hi:160	O
+hi:)	O
+hi:,	O
+hi:केरल	B-LOC
+hi:(	O
+hi:90	O
+hi:)	O
+
+hi:राष्ट्रीय	B-ORG
+hi:पुरातात्विक	I-ORG
+hi:संग्रहालय	I-ORG
+hi:,	I-ORG
+hi:नई	I-ORG
+hi:दिल्ली	I-ORG
+
+hi:पाकिस्तान	B-LOC
+hi:में	O
+hi:मेहरगढ़	B-LOC
+hi:,	O
+hi:7000	O
+hi:ई.पू	O
+hi:.	O
+
+hi:सिमुलेशन	B-LOC
+hi:(	O
+hi:Simulation	O
+hi:)	O
+
+hi:इवो	B-PER
+hi:कार्लोविच	I-PER
+hi:''	O
+hi:(	O
+hi:तीसरा	O
+hi:दौर	O
+hi:)	O
+
+hi:पुनर्प्रेषित	O
+hi:अबुल	B-PER
+hi:कलाम	I-PER
+hi:आज़ाद	I-PER
+
+hi:लाजपत	B-LOC
+hi:नगर	I-LOC
+hi:,	I-LOC
+hi:दिल्ली	I-LOC
+
+hi:धीरुभाई	O
+hi:गुजरात	B-LOC
+hi:के	O
+hi:ग्रामीण	O
+hi:लोगों	O
+hi:को	O
+hi:आश्वस्त	O
+hi:कर	O
+hi:सके	O
+hi:कि	O
+hi:उनके	O
+hi:कंपनी	O
+hi:के	O
+hi:शेयरधारक	O
+hi:होने	O
+hi:से	O
+hi:उन्हें	O
+hi:अपने	O
+hi:निवेश	O
+hi:पर	O
+hi:केवल	O
+hi:लाभ	O
+hi:ही	O
+hi:मिलेगा	O
+hi:.	O
+
+hi:वत्सल	B-PER
+hi:शेठ	I-PER
+hi:,	O
+hi:तुलिप	B-PER
+hi:जोशी	I-PER
+hi:,	O
+hi:मुकेश	B-PER
+hi:तिवारी	I-PER
+
+hi:बंगलौर]]	O
+hi:,	O
+hi:कर्नाटक	B-LOC
+hi:,	O
+hi:भारत	B-LOC
+
+hi:प्राग	B-LOC
+hi:,	O
+hi:चेक	B-LOC
+hi:गणराज्य	I-LOC
+
+hi:अन्तर्राष्ट्रीय	B-ORG
+hi:नागर	I-ORG
+hi:विमानन	I-ORG
+hi:संगठन	I-ORG
+
+hi:वेन	B-PER
+hi:फरेरा	I-PER
+hi:ने	O
+hi:टॉड	B-PER
+hi:वुडब्रिज	I-PER
+hi:को	O
+hi:6-2	O
+hi:,	O
+hi:6-4	O
+hi:से	O
+hi:हराया।	O
+
+hi:भारतीय	B-ORG
+hi:राष्ट्रीय	I-ORG
+hi:मिलिटरी	I-ORG
+hi:कालेज	I-ORG
+
+hi:मंडी	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:भारतीय	B-ORG
+hi:प्रौद्योगिकी	I-ORG
+hi:संस्थान	I-ORG
+hi:मुम्बई	I-ORG
+
+hi:विजू	B-PER
+hi:खोटे	I-PER
+hi:-	O
+hi:बैरा	O
+
+hi:थॉमस	B-PER
+hi:जोहानसन	I-PER
+hi:ने	O
+hi:निकोलस	B-PER
+hi:कीफर	I-PER
+hi:को	O
+hi:6–4	O
+hi:,	O
+hi:6–2	O
+hi:से	O
+hi:हराया।	O
+
+hi:नोएडा	B-LOC
+hi:49	O
+hi:कि.मी	O
+hi:.	O
+
+hi:महाराणा	B-PER
+hi:जवान	I-PER
+hi:सिंह	I-PER
+hi:(	O
+hi:1828-1838	O
+hi:)	O
+
+hi:अनुप्रेषित	O
+hi:स्टेट	B-ORG
+hi:बैंक	I-ORG
+hi:ऑफ	I-ORG
+hi:बीकानेर	I-ORG
+hi:एण्ड	I-ORG
+hi:जयपुर	I-ORG
+
+hi:शु	B-LOC
+hi:हान	I-LOC
+hi:राज्य	I-LOC
+hi:(	I-LOC
+hi:प्राचीन	I-LOC
+hi:चीन	I-LOC
+hi:)	I-LOC
+
+hi:अखिल	B-ORG
+hi:भारतीय	I-ORG
+hi:आयुर्विज्ञान	I-ORG
+hi:संस्थान	I-ORG
+hi:,	O
+hi:नई	B-LOC
+hi:दिल्ली	I-LOC
+hi:,	O
+hi:वेबसाइट	O
+hi:-	O
+
+hi:==	O
+hi:'	O
+hi:''	O
+hi:चार	B-ORG
+hi:धाम	I-ORG
+hi:''	O
+hi:'	O
+hi:==	O
+
+hi:किंग्स्टन	B-LOC
+hi:अपॉन	I-LOC
+hi:टेम्स	I-LOC
+hi:बरो	I-LOC
+
+hi:मेलबोर्न	B-ORG
+hi:क्रिकेट	I-ORG
+hi:ग्रांउड	I-ORG
+hi:,	O
+hi:मेलबॉर्न	B-LOC
+
+hi:अली	B-PER
+hi:ज़फ़र	I-PER
+hi:,	O
+hi:श्रेया	B-PER
+hi:घोषाल	I-PER
+
+hi:भारतीय	B-ORG
+hi:प्रौद्योगिकी	I-ORG
+hi:संस्थान	I-ORG
+hi:कानपुर	I-ORG
+
+hi:शंकरदेव	B-PER
+hi:(	O
+hi:1499	O
+hi:-	O
+hi:1569	O
+hi:;	O
+hi:असम	B-LOC
+hi:में	O
+hi:)	O
+
+hi:हुमायूँ	B-LOC
+hi:का	I-LOC
+hi:मकबरा	I-LOC
+
+hi:बिली	B-PER
+hi:जीन	I-PER
+hi:किंग	I-PER
+hi:रोसमैरी	B-PER
+hi:कैसल्स	I-PER
+
+hi:दीन	B-ORG
+hi:दयाल	I-ORG
+hi:उपाध्याय	I-ORG
+hi:गोरखपुर	I-ORG
+hi:विश्वविद्यालय	I-ORG
+
+hi:अनुप्रेषित	O
+hi:मालबर	B-LOC
+hi:,	I-LOC
+hi:विल्टशायर	I-LOC
+
+hi:आय-फाय	O
+hi:एक	O
+hi:कंपनी	O
+hi:है	O
+hi:जो	O
+hi:वाय-फाय	O
+hi:वाली	O
+hi:मैमोरी	B-ORG
+hi:कार्ड	I-ORG
+hi:बनती	O
+hi:है।	O
+
+hi:अंतर्राष्ट्रीय	B-ORG
+hi:प्रकृति	I-ORG
+hi:संरक्षण	I-ORG
+hi:संघ	I-ORG
+
+hi:कोविदार	B-LOC
+hi:(	I-LOC
+hi:कचनार	I-LOC
+hi:)	I-LOC
+
+hi:**	O
+hi:थाईलैण्ड	B-LOC
+hi:(	O
+hi:९५	O
+hi:%	O
+hi:जनसंख्या	O
+hi:द्बारा	O
+hi:)	O
+
+hi:गढ़वाल	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:''निर्माता	O
+hi:''	O
+hi:–	O
+hi:यश	B-PER
+hi:चोपड़ा	I-PER
+
+hi:अनुप्रेषित	O
+hi:गोविन्द	B-LOC
+hi:बल्लभ	I-LOC
+hi:पंत	I-LOC
+hi:सागर	I-LOC
+
+hi:१९	O
+hi:नवम्बर	O
+hi:–	O
+hi:टी	B-PER
+hi:एस	I-PER
+hi:अविनाशीलिंगम	I-PER
+hi:चेट्टियार	I-PER
+
+hi:जॉर्जिया	B-LOC
+hi:(	I-LOC
+hi:अमरीकी	I-LOC
+hi:राज्य	I-LOC
+hi:)	I-LOC
+
+hi:वीरभद्र	B-PER
+hi:सिंह	I-PER
+hi:(	O
+hi:3	O
+hi:)	O
+
+hi:वरुण	B-PER
+hi:धवन	I-PER
+hi:,	O
+hi:श्रद्धा	B-PER
+hi:कपूर	I-PER
+hi:,	O
+hi:प्रभु	B-PER
+hi:देवा	I-PER
+
+hi:मधेपुरा	B-LOC
+hi:,	O
+hi:बिहार	B-LOC
+hi:का	O
+hi:एक	O
+hi:प्रखण्ड।	O
+
+hi:बंगलौर	B-ORG
+hi:सिटी	I-ORG
+hi:जंक्शन	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:77°	O
+hi:34	O
+hi:'	O
+hi:E	O
+hi:बंगलौर	B-LOC
+hi:,	O
+
+hi:अनुप्रेषित	O
+hi:केशव	B-PER
+hi:बलिराम	I-PER
+hi:हेडगेवार	I-PER
+
+hi:शान्ति	B-PER
+hi:स्वरूप	I-PER
+hi:भटनागर	I-PER
+
+hi:१९२	O
+hi:,	O
+hi:०००	O
+hi:कि.मी२	O
+hi:--	O
+hi:कर्नाटक	B-LOC
+hi:,	O
+hi:भारत	B-LOC
+hi:का	O
+hi:राज्य	O
+
+hi:'	O
+hi:''	O
+hi:याल्वैक	O
+hi:''	O
+hi:'	O
+hi:टर्की	B-LOC
+
+hi:अनूप	B-PER
+hi:कुमार	I-PER
+hi:-	O
+hi:हवलदार	O
+
+hi:कुणाल	B-PER
+hi:खेमू	I-PER
+hi:,	O
+hi:श्रेयास	B-PER
+hi:तलपडे	I-PER
+hi:,	O
+hi:दीपिका	B-PER
+hi:पादुकोण	I-PER
+
+hi:द्रविड़	B-ORG
+hi:विश्वविद्यालय	I-ORG
+hi:,	O
+hi:कुप्पम-517425	B-LOC
+
+hi:बिपाशा	B-PER
+hi:बसु	I-PER
+hi:-	O
+hi:अतिथि	O
+hi:भूमिका	O
+hi:(	O
+hi:गीत	O
+hi:)	O
+
+hi:अनुप्रेषित	O
+hi:टाइम	B-ORG
+hi:(	I-ORG
+hi:अंग्रेज़ी	I-ORG
+hi:पत्रिका	I-ORG
+hi:)	I-ORG
+
+hi:फलोदी	B-LOC
+hi:(	O
+hi:45	O
+hi:किमी	O
+hi:)	O
+
+hi:तीसरी	O
+hi:लड़ाई	O
+hi:-	O
+hi:1761	O
+hi:(	O
+hi:पानीपत	B-ORG
+hi:का	I-ORG
+hi:तृतीय	I-ORG
+hi:युद्ध	I-ORG
+hi:)	O
+
+hi:मार्क	B-PER
+hi:वुडफोर्ड	I-PER
+hi:/	O
+hi:टॉड	B-PER
+hi:वुडब्रिज	I-PER
+hi:ने	O
+hi:पॉल	B-PER
+hi:हारहुईस	I-PER
+hi:/	O
+hi:सैंडन	B-PER
+hi:स्टोहली	I-PER
+hi:को	O
+hi:7-6	O
+hi:6-4	O
+hi:से	O
+hi:हराया।	O
+
+hi:1985	O
+hi:में	O
+hi:उन्हें	O
+hi:राज्यसभा	B-ORG
+hi:के	O
+hi:लिए	O
+hi:मनोनीत	O
+hi:किया	O
+hi:गया	O
+hi:था।	O
+
+hi:नाना	B-PER
+hi:पालसिकर	I-PER
+hi:-	O
+hi:गिरधारी	O
+
+hi:रीना	B-PER
+hi:रॉय	I-PER
+hi:-	O
+hi:बिजली	O
+
+hi:**	O
+hi:किन्शासा	B-LOC
+hi:(	O
+hi:दूतावास	O
+hi:)	O
+
+hi:'	O
+hi:''	O
+hi:लखनऊ	B-LOC
+hi:''	O
+hi:'	O
+
+hi:महेश	B-PER
+hi:मांजरेकर	I-PER
+hi:-	O
+hi:हरिया	O
+
+hi:अनुप्रेषित	O
+hi:गोविन्द	B-PER
+hi:चन्द्र	I-PER
+hi:पाण्डे	I-PER
+
+hi:सान	B-LOC
+hi:होसे	I-LOC
+hi:चिनान्तेकीला	I-LOC
+
+hi:इस्पात	B-ORG
+hi:मंत्रालय	I-ORG
+hi:–	O
+hi:वीरभद्र	B-PER
+hi:सिंह	I-PER
+
+hi:फ़्रान्स	B-ORG
+hi:राष्ट्रीय	I-ORG
+hi:रग्बी	I-ORG
+hi:यूनियन	I-ORG
+hi:टीम	I-ORG
+
+hi:ज्यूडी	B-PER
+hi:डेंच	I-PER
+hi:-	O
+hi:एम।	O
+
+hi:शोमा	B-PER
+hi:आनन्द	I-PER
+hi:-	O
+hi:सपना	O
+
+hi:इंडियानापोलिस	B-LOC
+hi:,	O
+hi:संयुक्त	B-LOC
+hi:राज्य	I-LOC
+hi:अमेरिका	I-LOC
+
+hi:शोमा	B-PER
+hi:आनन्द	I-PER
+hi:-	O
+hi:चंपा	O
+
+hi:आयरलैण्ड	B-LOC
+hi:नाम	O
+hi:का	O
+hi:देश	O
+
+hi:पुनर्प्रेषित	O
+hi:क़ुतुबुद्दीन	B-PER
+hi:मुबारक़	I-PER
+hi:ख़िलजी	I-PER
+
+hi:परेश	B-PER
+hi:रावल	I-PER
+hi:-	O
+hi:गफ़ूर	O
+hi:भाई	O
+
+hi:राष्ट्रीय	B-ORG
+hi:राजमार्ग	I-ORG
+hi:२५	I-ORG
+
+hi:यह	O
+hi:अजमेर	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+hi:के	O
+hi:अन्तर्गत	O
+hi:आता	O
+hi:है।	O
+
+hi:रद्द	O
+hi:किया	O
+hi:,	O
+hi:चेन्नई	B-ORG
+hi:मेट्रो	I-ORG
+hi:के	O
+hi:कारण	O
+
+hi:शबाना	B-PER
+hi:आज़मी	I-PER
+hi:-	O
+hi:सुनैना	O
+
+hi:अन्तर्राष्ट्रीय	B-ORG
+hi:वायु	I-ORG
+hi:यातायात	I-ORG
+hi:संघ	I-ORG
+
+hi:संयुक्त	B-ORG
+hi:राष्ट्र	I-ORG
+hi:मानवाधिकार	I-ORG
+hi:परिषद	I-ORG
+
+hi:डबिंग]]	O
+hi:(	O
+hi:श्रेय	O
+hi:दिया	O
+hi:डीवीडी	B-ORG
+hi:रिलीज	O
+hi:पर	O
+hi:)	O
+
+hi:नायाग्रा	B-LOC
+hi:जल	I-LOC
+hi:प्रपात	I-LOC
+
+hi:)	O
+hi:छत्तीसगढ़	B-LOC
+hi:राज्य	O
+hi:के	O
+hi:पास	O
+hi:चला	O
+hi:गया।	O
+
+hi:पुरुषोत्तम	B-PER
+hi:दास	I-PER
+hi:टंडन	I-PER
+
+hi:2,645,615	O
+hi:km2	O
+hi:--	O
+hi:पश्चिमी	B-LOC
+hi:ऑस्ट्रेलिया	I-LOC
+
+hi:लिंडसे	B-PER
+hi:डेवनपोर्ट	I-PER
+hi:बनाम	O
+hi:वीनस	B-PER
+hi:विलियम्स	I-PER
+
+hi:मुग़ल	B-ORG
+hi:सराय	I-ORG
+hi:जंक्शन	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:अनुप्रेषित	O
+hi:आर	B-PER
+hi:एल	I-PER
+hi:भाटिया	I-PER
+
+hi:वॉर्नर	B-ORG
+hi:ब्रॉस	I-ORG
+hi:.	I-ORG
+
+hi:अनुप्रेषित	O
+hi:चन्द्र	B-PER
+hi:भानु	I-PER
+hi:गुप्ता	I-PER
+
+hi:राहुल	B-PER
+hi:देव	I-PER
+hi:-	O
+hi:येडा	O
+hi:भाई	O
+
+hi:उत्तराखण्ड	B-ORG
+hi:के	I-ORG
+hi:मुख्यमन्त्रियों	I-ORG
+hi:की	I-ORG
+hi:सूची	I-ORG
+
+hi:यहाँ	O
+hi:तक	O
+hi:कि	O
+hi:उसने	O
+hi:संयुक्त	B-LOC
+hi:राज्य	I-LOC
+hi:अमेरिका	I-LOC
+hi:में	O
+hi:तस्करी	O
+hi:के	O
+hi:एक	O
+hi:सौदे	O
+hi:के	O
+hi:लिए	O
+hi:स्वयं	O
+hi:एक	O
+hi:विमान	O
+hi:उड़ाया	O
+hi:.	O
+
+hi:बिहार	B-LOC
+hi:(	O
+hi:45	O
+hi:)	O
+hi:,	O
+hi:पश्चिम	B-LOC
+hi:बंगाल	I-LOC
+hi:(	O
+hi:55	O
+hi:)	O
+
+hi:17	O
+hi:नवम्बर	O
+hi:सेंट	B-ORG
+hi:जेम्स	I-ORG
+hi:का	I-ORG
+hi:महलउम्र	I-ORG
+hi:42	O
+
+hi:राय	B-PER
+hi:बहादुर	I-PER
+hi:सर	I-PER
+hi:छोटूराम	I-PER
+
+hi:कानपुर	B-LOC
+hi:नगर	I-LOC
+hi:जिला	I-LOC
+
+hi:तमिल	B-LOC
+hi:नाडु	I-LOC
+hi:(	O
+hi:51	O
+hi:)	O
+
+hi:उत्तर	B-ORG
+hi:पश्चिम	I-ORG
+hi:दिल्ली	I-ORG
+hi:लोकसभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:जहाँ	O
+hi:''yi	O
+hi:''	O
+hi:,	O
+hi:''i	O
+hi:''	O
+hi:वें	O
+hi:घटक	O
+hi:का	O
+hi:अणु-अंश	B-ORG
+hi:है।	O
+
+hi:पीटरसन	B-ORG
+hi:हिल	I-ORG
+hi:-	O
+hi:शताब्दी	O
+
+hi:मौसमी	B-PER
+hi:चटर्जी	I-PER
+hi:—	O
+hi:देवी	B-LOC
+hi:माँ	I-LOC
+hi:सीता	I-LOC
+
+hi:अनुप्रेषित	O
+hi:राष्ट्रीय	B-ORG
+hi:राजमार्ग	I-ORG
+hi:१सी	I-ORG
+
+hi:79°	O
+hi:02	O
+hi:'	O
+hi:E	O
+hi:नागपुर	B-LOC
+hi:,	O
+
+hi:नेशनल	B-ORG
+hi:बास्केटबॉल	I-ORG
+hi:असोसिएशन	I-ORG
+
+hi:सुलक्षणा	B-PER
+hi:पंडित	I-PER
+hi:-	O
+hi:चँदा	O
+
+hi:मौनुमेन	O
+hi:नैसनल्	O
+hi:''	O
+hi:,	O
+hi:जकार्ता	B-LOC
+
+hi:दरभंगा	B-LOC
+hi:,	O
+hi:बिहार	B-LOC
+hi:का	O
+hi:एक	O
+hi:प्रखण्ड।	O
+
+hi:महाराजा	B-PER
+hi:रञ्जीत	I-PER
+hi:सिंह	I-PER
+hi:,	O
+hi:1776	O
+hi:-	O
+hi:1805	O
+
+hi:उत्तर	B-LOC
+hi:प्रदेश	I-LOC
+hi:(	O
+hi:19	O
+hi:)	O
+
+hi:सबीना	B-LOC
+hi:पार्क	I-LOC
+hi:,	O
+hi:किंग्सटन	B-LOC
+hi:,	I-LOC
+hi:जमैका	I-LOC
+
+hi:सरदार	B-LOC
+hi:पटेल	I-LOC
+hi:स्टेडियम	I-LOC
+hi:,	O
+hi:अहमदाबाद	B-LOC
+
+hi:लेंगर्हंस	B-ORG
+hi:के	I-ORG
+hi:आइलेट	I-ORG
+
+hi:अनुप्रेषित	O
+hi:भ्रंश	B-ORG
+hi:(	I-ORG
+hi:भूविज्ञान	I-ORG
+hi:)	I-ORG
+
+hi:डॉ॰	B-PER
+hi:रतन	I-PER
+hi:कुमार	I-PER
+hi:सिन्हा	I-PER
+hi:(	O
+hi:2012-2015	O
+hi:)	O
+
+hi:पुनर्प्रेषित	O
+hi:न्यू	B-ORG
+hi:डेवलपमेंट	I-ORG
+hi:बैंक	I-ORG
+
+hi:बहलूल	B-ORG
+hi:खान	I-ORG
+hi:लोधी	I-ORG
+
+hi:'	O
+hi:''	O
+hi:अनुशासनपर्व	B-LOC
+hi:''	O
+hi:'	O
+
+hi:उधम	B-LOC
+hi:सिंह	I-LOC
+hi:नगर	I-LOC
+hi:जिला	I-LOC
+
+hi:पुनर्प्रेषित	O
+hi:अशोक	B-PER
+hi:कुमार	I-PER
+hi:(	I-PER
+hi:राजनीतिज्ञ	I-PER
+hi:)	I-PER
+
+hi:अमिताभ	B-PER
+hi:बच्चन	I-PER
+hi:,	O
+hi:अरशद	B-PER
+hi:वारसी	I-PER
+hi:,	O
+hi:करिश्मा	B-PER
+hi:कपूर	I-PER
+
+hi:शिया	B-PER
+hi:ला	I-PER
+hi:बियौफ	I-PER
+hi:(	O
+hi:1	O
+hi:प्रकरण	O
+hi:)	O
+
+hi:धर्मेन्द्र	B-PER
+hi:,	O
+hi:राजेंद्र	B-PER
+hi:कुमार	I-PER
+hi:,	O
+hi:माला	B-PER
+hi:सिन्हा	I-PER
+
+hi:अनुप्रेषित	O
+hi:झारखण्ड	B-ORG
+hi:के	I-ORG
+hi:मुख्यमन्त्रियों	I-ORG
+hi:की	I-ORG
+hi:सूची	I-ORG
+
+hi:नूर	B-PER
+hi:जहाँ	I-PER
+hi:,	O
+hi:जिसे	O
+hi:अदालत	O
+hi:की	O
+hi:हैसियत	O
+hi:हासिल	O
+hi:थी	O
+hi:,	O
+hi:द्वारा	O
+hi:लिया	O
+hi:गया	O
+hi:यह	O
+hi:वैवाहिक	O
+hi:फैसला	O
+hi:राजनीतिक	O
+hi:माना	O
+hi:जाता	O
+hi:है।	O
+
+hi:पूर्वी	B-LOC
+hi:वू	I-LOC
+hi:राज्य	I-LOC
+hi:(	I-LOC
+hi:प्राचीन	I-LOC
+hi:चीन	I-LOC
+hi:)	I-LOC
+
+hi:वेस्टर्न	B-LOC
+hi:ऑस्ट्रेलिया	I-LOC
+hi:ने	O
+hi:सन	O
+hi:1899	O
+hi:में	O
+hi:महिलाओं	O
+hi:को	O
+hi:मतदान	O
+hi:का	O
+hi:अधिकार	O
+hi:प्रदान	O
+hi:किया।	O
+
+hi:पिन	B-LOC
+hi:घाटी	I-LOC
+hi:राष्ट्रीय	I-LOC
+hi:उद्यान	I-LOC
+hi:,	O
+hi:भारत	B-LOC
+
+hi:1871	O
+hi:-	O
+hi:1885	O
+hi:अलेक्ज़ैंडर	B-PER
+hi:कन्निघम	I-PER
+
+hi:पार्श्वनाथ	B-ORG
+hi:अभियांत्रिकी	I-ORG
+hi:कौलेज	I-ORG
+
+hi:पेनेलोपे	B-PER
+hi:क्रूज़	I-PER
+hi:-	O
+hi:ऐंजेलिका।	O
+
+hi:चारबाग	B-ORG
+hi:(	I-ORG
+hi:बहुविकल्पी	I-ORG
+hi:)	I-ORG
+
+hi:लोकमान्य	B-ORG
+hi:तिलक	I-ORG
+hi:टर्मिनस	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:राष्ट्रीय	B-ORG
+hi:मुक्त	I-ORG
+hi:विद्यालयी	I-ORG
+hi:शिक्षा	I-ORG
+hi:संस्थान	I-ORG
+
+hi:'	O
+hi:''	O
+hi:द्वारका	B-LOC
+hi:''	O
+hi:'	O
+
+hi:लोकमान्य	B-ORG
+hi:तिलक	I-ORG
+hi:टर्मिनस	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:अनुप्रेषित	O
+hi:2010	B-ORG
+hi:राष्ट्रमण्डल	I-ORG
+hi:खेल	I-ORG
+
+hi:बंगलौर	B-ORG
+hi:सिटी	I-ORG
+hi:जंक्शन	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:'	O
+hi:''	O
+hi:कोलकाता	B-LOC
+hi:'	O
+hi:''	O
+
+hi:शीर्ष	O
+hi:10	O
+hi:में	O
+hi:पहुंच	O
+hi:गया	O
+hi:,	O
+hi:आलोचकों	O
+hi:ने	O
+hi:इनकी	O
+hi:विस्तृत	O
+hi:मुखर	O
+hi:रेंज	O
+hi:की	O
+hi:तुलना	O
+hi:मारिया	B-PER
+hi:केरी	I-PER
+hi:से	O
+hi:की।	O
+
+hi:डोरिस	B-PER
+hi:हार्ट	I-PER
+hi:(	O
+hi:1947-48-50-51	O
+hi:)	O
+
+hi:अंतर्राष्ट्रीय	B-ORG
+hi:खगोलिकी	I-ORG
+hi:वर्ष	I-ORG
+
+hi:दिगम्बर	B-PER
+hi:बड़गे	I-PER
+hi:,	O
+hi:सरकारी	O
+hi:गवाह	O
+hi:बनने	O
+hi:के	O
+hi:कारण	O
+hi:बरी	O
+
+hi:सलमान	B-PER
+hi:ख़ान	I-PER
+hi:,	O
+hi:रवीना	B-PER
+hi:टंडन	I-PER
+hi:,	O
+hi:करिश्मा	B-PER
+hi:कपूर	I-PER
+
+hi:जोर्ज	B-PER
+hi:एफ	I-PER
+hi:स्मूट	I-PER
+
+hi:एयरपोर्ट्स	B-ORG
+hi:काउन्सिल	I-ORG
+hi:इन्टरनेशनल	I-ORG
+
+hi:ज़ाकिर	B-PER
+hi:हुसैन	I-PER
+hi:(	I-PER
+hi:संगीतकार	I-PER
+hi:)	I-PER
+
+hi:१९९८	B-ORG
+hi:विम्बलडन	I-ORG
+hi:टेनिस	I-ORG
+hi:प्रतियोगिता	I-ORG
+
+hi:रोजर	B-PER
+hi:फ़ेडरर	I-PER
+hi:ने	O
+hi:फेलिसियानो	B-PER
+hi:लोपेज़	I-PER
+hi:को	O
+hi:4–6	O
+hi:,	O
+hi:6–1	O
+hi:,	O
+hi:6–2	O
+hi:से	O
+hi:हराया।	O
+
+hi:उमरकोट	B-LOC
+hi:,	I-LOC
+hi:नबरंगपुर	I-LOC
+
+hi:राष्ट्रीय	B-ORG
+hi:पुरातात्विक	I-ORG
+hi:संग्रहालय	I-ORG
+hi:,	I-ORG
+hi:नई	I-ORG
+hi:दिल्ली	I-ORG
+
+hi:पुनर्प्रेषित	O
+hi:फ़ैज़	B-PER
+hi:अहमद	I-PER
+hi:फ़ैज़	B-PER
+
+hi:अनुप्रेषित	O
+hi:दक्षिणी	B-LOC
+hi:प्रान्त	I-LOC
+hi:,	I-LOC
+hi:श्रीलंका	I-LOC
+
+hi:राय	B-PER
+hi:बहादुर	I-PER
+hi:सर	I-PER
+hi:गंगाराम	I-PER
+
+hi:'	O
+hi:''	O
+hi:हुमायूँ	B-LOC
+hi:का	I-LOC
+hi:मकबरा	I-LOC
+hi:,	O
+hi:दिल्ली	B-LOC
+hi:''	O
+hi:'	O
+
+hi:''	O
+hi:केरल	B-LOC
+hi:''	O
+hi:'	O
+
+hi:इक्काडु	B-PER
+hi:श्रीनिवासन	I-PER
+hi:लक्ष्मी	I-PER
+hi:नरसिंहन	I-PER
+
+hi:मीनाक्षी	B-PER
+hi:शेषाद्रि	I-PER
+hi:-	O
+hi:सीमा	O
+
+hi:मुंबई]]	O
+hi:,	O
+hi:महाराष्ट्र	B-LOC
+hi:,	O
+hi:भारत	B-LOC
+
+hi:विनोना	B-PER
+hi:रायडर	I-PER
+hi:-	O
+hi:सुसैना	O
+hi:केसेन।	O
+
+hi:पॉवरग्रिड	B-ORG
+hi:कॉरपोरेशन	I-ORG
+hi:ऑफ	I-ORG
+hi:इंडिया	I-ORG
+hi:लिमिटेड	I-ORG
+
+hi:बीमा	B-ORG
+hi:विनियामक	I-ORG
+hi:और	I-ORG
+hi:विकास	I-ORG
+hi:प्राधिकरण	I-ORG
+
+hi:**	O
+hi:मस्क़त	B-LOC
+hi:(	O
+hi:दूतावास	O
+hi:)	O
+
+hi:अनुप्रेषित	O
+hi:गेटवे	B-ORG
+hi:ऑफ़	I-ORG
+hi:इन्डिया	I-ORG
+
+hi:शिवाजी	B-PER
+hi:साटम	I-PER
+hi:-	O
+hi:एसीपी	O
+hi:प्रद्युमान	O
+
+hi:अनुप्रेषित	O
+hi:पौड़ी	B-LOC
+hi:गढ़वाल	I-LOC
+hi:जिला	I-LOC
+
+hi:**	O
+hi:राजभवन	B-ORG
+hi:(	I-ORG
+hi:जम्मू	I-ORG
+hi:और	I-ORG
+hi:कश्मीर	I-ORG
+hi:)	I-ORG
+hi:,	I-ORG
+hi:जम्मू	I-ORG
+
+hi:पोर्टलैंड	B-LOC
+hi:,	I-LOC
+hi:ऑरेगॉन	I-LOC
+
+hi:पुनर्प्रेषित	O
+hi:अश्व	B-ORG
+hi:संचालन	I-ORG
+hi:समस्या	I-ORG
+
+hi:'	O
+hi:''	O
+hi:बी	B-ORG
+hi:फॉर	I-ORG
+hi:यू	I-ORG
+hi:मूवीज	I-ORG
+hi:''	O
+hi:'	O
+
+hi:''	O
+hi:पश्चिम	B-LOC
+hi:बंगाल	I-LOC
+hi:''	O
+hi:'	O
+
+hi:पुनर्प्रेषित	O
+hi:सूचना	B-ORG
+hi:का	I-ORG
+hi:अधिकार	I-ORG
+hi:अधिनियम	I-ORG
+hi:,	I-ORG
+hi:२००५	I-ORG
+
+hi:विल्लुपुरम	B-PER
+hi:चिन्नैया	I-PER
+hi:गणेशन	I-PER
+
+hi:''संवाद	O
+hi:''	O
+hi:–	O
+hi:डॉ॰	B-PER
+hi:राही	I-PER
+hi:मासूम	I-PER
+hi:रज़ा	I-PER
+
+hi:भारत	B-ORG
+hi:का	I-ORG
+hi:उच्चतम	I-ORG
+hi:न्यायालय	I-ORG
+
+hi:मध्य	B-LOC
+hi:प्रदेश	I-LOC
+hi:और	O
+hi:छत्तीसगढ़	B-LOC
+hi:-	O
+hi:3,226,230	O
+
+hi:की	O
+hi:परीक्षा	O
+hi:द	B-ORG
+hi:इंस्टीटयूशन	I-ORG
+hi:आफ	I-ORG
+hi:इंजिनियर्स	I-ORG
+hi:(	I-ORG
+hi:इंडिया	I-ORG
+hi:)	I-ORG
+hi:द्वारा	O
+hi:आयोजित	O
+hi:की	O
+hi:जाती	O
+hi:है।	O
+
+hi:पुर्वांचल	B-LOC
+hi:विकास	I-LOC
+hi:क्षेत्र	I-LOC
+
+hi:कांगड़ा	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:इस	O
+hi:तरह	O
+hi:के	O
+hi:हल	O
+hi:आयलर	B-ORG
+hi:सूत्र	I-ORG
+hi:की	O
+hi:सहायत	O
+hi:से	O
+hi:''x	O
+hi:''	O
+hi:=	O
+hi:''	O
+hi:e	O
+hi:''	O
+hi:''t	O
+hi:''	O
+hi:रखने	O
+hi:पर	O
+hi:प्राप्त	O
+hi:किया	O
+hi:जाता	O
+hi:है।	O
+
+hi:सोनाक्षी	B-PER
+hi:सिन्हा	I-PER
+hi:-	O
+hi:रजो	O
+
+hi:उत्तर	B-LOC
+hi:प्रदेश	I-LOC
+hi:(	O
+hi:26	O
+hi:)	O
+hi:,	O
+hi:राजस्थान	B-LOC
+hi:(	O
+hi:32	O
+hi:)	O
+hi:,	O
+hi:मध्य	B-LOC
+hi:प्रदेश	I-LOC
+hi:(	O
+hi:712	O
+hi:)	O
+hi:,	O
+hi:महाराष्ट्र	B-LOC
+hi:(	O
+hi:391	O
+hi:)	O
+
+hi:अनुप्रेषित	O
+hi:मान्यता	B-ORG
+hi:प्राप्त	I-ORG
+hi:सामाजिक	I-ORG
+hi:स्वास्थ्य	I-ORG
+hi:कार्यकर्ता	I-ORG
+
+hi:भारतीय	B-ORG
+hi:जनता	I-ORG
+hi:पार्टी	I-ORG
+
+hi:-	O
+hi:राल्फ	B-PER
+hi:वाल्डो	I-PER
+hi:एमरसन	I-PER
+hi:का	O
+hi:``	O
+hi:कॉनकॉर्ड	O
+hi:हिम्न	O
+hi:''	O
+
+hi:डीएनए	B-ORG
+hi:फिंगरप्रिंटिंग	I-ORG
+hi:एवं	I-ORG
+hi:निदान	I-ORG
+hi:केन्द्र	I-ORG
+
+hi:'	O
+hi:''	O
+hi:उड़ान	O
+hi:कालीन	O
+hi:''	O
+hi:'	O
+hi:आमतौर	O
+hi:पर	O
+hi:मोटी	O
+hi:कालीन	O
+hi:होते	O
+hi:हैं	O
+hi:,	O
+hi:जो	O
+hi:अक्सर	O
+hi:बहुत	O
+hi:डिजाइनयुक्त	O
+hi:होते	O
+hi:हैं	O
+hi:और	O
+hi:प्रायः	O
+hi:मध्य	B-LOC
+hi:पूर्वी	I-LOC
+hi:भागों	O
+hi:में	O
+hi:बनाये	O
+hi:जाते	O
+hi:हैं	O
+hi:और	O
+hi:जिन्पेर	O
+hi:उड़	O
+hi:सकने	O
+hi:के	O
+hi:लिए	O
+hi:जादू	O
+hi:किया	O
+hi:जाता	O
+hi:है	O
+hi:.	O
+
+hi:अल्ताई	B-LOC
+hi:पर्वत	I-LOC
+hi:शृंखला	I-LOC
+
+hi:मध्य	B-LOC
+hi:प्रदेश	I-LOC
+hi:-	O
+hi:पं.	B-PER
+hi:रविशंकर	I-PER
+hi:शुक्ल	I-PER
+
+hi:महेश	B-PER
+hi:भूपति	I-PER
+hi:/	O
+hi:लिएंडर	B-PER
+hi:पेस	I-PER
+hi:ने	O
+hi:जिम	B-PER
+hi:कोरियर	I-PER
+hi:/	O
+hi:एलेक्स	B-PER
+hi:ओ	I-PER
+hi:ब्रायन	I-PER
+hi:को	O
+hi:7–5	O
+hi:,	O
+hi:7–6	O
+hi:से	O
+hi:हराया।	O
+
+hi:अण्टीगुआ	B-LOC
+hi:और	I-LOC
+hi:बारबूडा	I-LOC
+
+hi:विष्णु	B-PER
+hi:रामकृष्ण	I-PER
+hi:करकरे	I-PER
+
+hi:अमिताभ	B-PER
+hi:बच्चन	I-PER
+hi:,	O
+hi:ऋषि	B-PER
+hi:कपूर	I-PER
+hi:,	O
+hi:डिम्पल	B-PER
+hi:कपाड़िया	I-PER
+
+hi:फ़िलस्तीन	B-ORG
+hi:लोकतांत्रिक	I-ORG
+hi:मुक्ति	I-ORG
+hi:मोर्चा	I-ORG
+
+hi:और	O
+hi:उत्तर	B-LOC
+hi:प्रदेश	I-LOC
+hi:का	O
+hi:सोनभद्र	B-LOC
+hi:जिला	I-LOC
+
+hi:|	O
+hi:यो	B-PER
+hi:यो	B-PER
+hi:हनी	I-PER
+hi:सिंह	I-PER
+
+hi:'	O
+hi:''	O
+hi:रोहित	B-PER
+hi:शर्मा	I-PER
+hi:''	O
+hi:'	O
+
+hi:आर	B-PER
+hi:के	I-PER
+hi:नारायण	I-PER
+
+hi:झंडेवालान	B-ORG
+hi:,	I-ORG
+hi:दिल्ली	I-ORG
+
+hi:'	O
+hi:''	O
+hi:इम्फाल	B-LOC
+hi:''	O
+hi:'	O
+
+hi:वार्नर	B-ORG
+hi:ब्रदर्स	I-ORG
+hi:इंटरएक्टिव	I-ORG
+hi:एंटरटेनमेंट	I-ORG
+
+hi:जॉन	B-PER
+hi:आस्टिन	I-PER
+hi:(	O
+hi:अंग्रेज	O
+hi:न्यायविद]]	O
+
+hi:राजेश	B-PER
+hi:खन्ना	I-PER
+hi:,	O
+hi:जया	B-PER
+hi:बच्चन	I-PER
+
+hi:महानगर	B-ORG
+hi:टेलीफोन	I-ORG
+hi:निगम	I-ORG
+hi:लिमिटेड	I-ORG
+
+hi:पील	B-LOC
+hi:डिस्ट्रिक्ट	I-LOC
+hi:स्कूल	I-LOC
+hi:बोर्ड	I-LOC
+
+hi:'	O
+hi:''	O
+hi:मोंटेवार्ची	O
+hi:''	O
+hi:'	O
+hi:इटली	B-LOC
+
+hi:अनुप्रेषित	O
+hi:गाजर	B-ORG
+hi:का	I-ORG
+hi:हलवा	I-ORG
+
+hi:अमिताभ	B-PER
+hi:बच्चन	I-PER
+hi:,	O
+hi:तनुजा	B-PER
+hi:,	O
+hi:माला	B-PER
+hi:सिन्हा	I-PER
+
+hi:जम्मू	B-LOC
+hi:और	I-LOC
+hi:कश्मीर	I-LOC
+
+hi:जयपुर	B-LOC
+hi:--	O
+hi:673	O
+hi:किमी	O
+hi:,	O
+
+hi:रत्ती	B-ORG
+hi:(	I-ORG
+hi:वज़न	I-ORG
+hi:का	I-ORG
+hi:माप	I-ORG
+hi:)	I-ORG
+
+hi:फिरोज	B-LOC
+hi:शाह	I-LOC
+hi:कोटला	I-LOC
+hi:ग्राउंड	I-LOC
+hi:,	O
+hi:दिल्ली	B-LOC
+
+hi:अनुप्रेषित	O
+hi:महाराष्ट्र	B-ORG
+hi:के	I-ORG
+hi:मुख्यमंत्री	I-ORG
+
+hi:आशा	B-PER
+hi:भोंसले	I-PER
+hi:और	O
+hi:लता	B-PER
+hi:मंगेशकर	I-PER
+
+hi:दिनेश	B-PER
+hi:हिंगू	I-PER
+hi:-	O
+hi:रुस्तम	O
+
+hi:इसका	O
+hi:मुख्यालय	O
+hi:दिल्ली	B-LOC
+hi:में	O
+hi:है।	O
+
+hi:अखिल	B-ORG
+hi:भारतीय	I-ORG
+hi:मुस्लिम	I-ORG
+hi:लीग	I-ORG
+
+hi:मध्य	B-LOC
+hi:प्रदेश	I-LOC
+hi:(	O
+hi:भोपाल	B-LOC
+hi:)	O
+
+hi:नफ़ीसा	B-PER
+hi:अली	I-PER
+hi:-	O
+hi:माँ	O
+
+hi:इमरान	B-PER
+hi:हाशमी	I-PER
+hi:-	O
+hi:मोहम्मद	B-PER
+hi:अजहरुद्दीन	I-PER
+
+hi:जनता	B-ORG
+hi:दल	I-ORG
+hi:(	I-ORG
+hi:यूनाइटेड	I-ORG
+hi:)	I-ORG
+
+hi:अना	B-PER
+hi:चक्वेतादज़ी	I-PER
+hi:ने	O
+hi:सानिया	B-PER
+hi:मिर्ज़ा	I-PER
+hi:को	O
+hi:6–3	O
+hi:,	O
+hi:6–2	O
+hi:से	O
+hi:हराया।	O
+
+hi:धनौल्टी	B-LOC
+hi:(	O
+hi:एससी	O
+hi:)	O
+
+hi:जोधपुर	B-ORG
+hi:राष्ट्रीय	I-ORG
+hi:विश्वविद्यालय	I-ORG
+hi:,	I-ORG
+hi:जोधपुर	B-LOC
+
+hi:कोरोमंडल	B-ORG
+hi:एक्स्प्रेस	I-ORG
+hi:२८४१	I-ORG
+
+hi:इंजेक्शन	B-LOC
+hi:(	I-LOC
+hi:दवा	I-LOC
+hi:)	I-LOC
+
+hi:पुनर्प्रेषित	O
+hi:मैनचेस्टर	B-ORG
+hi:विश्वविद्यालय	I-ORG
+hi:(	I-ORG
+hi:इण्डियाना	I-ORG
+hi:)	I-ORG
+
+hi:टुन	B-PER
+hi:टुन	B-PER
+hi:-	O
+hi:नर्स	O
+
+hi:'	O
+hi:''	O
+hi:कन्सेप्शन	O
+hi:''	O
+hi:'	O
+hi:चिली	B-LOC
+
+hi:लोकमान्य	B-ORG
+hi:तिलक	I-ORG
+hi:टर्मिनस	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:भारतीय	B-ORG
+hi:सशस्‍त्र	I-ORG
+hi:सेनाएँ	I-ORG
+
+hi:ग्रेटर	B-LOC
+hi:कैलाश	I-LOC
+hi:विधानसभा	I-LOC
+hi:निर्वाचन	I-LOC
+hi:क्षेत्र	I-LOC
+hi:,	I-LOC
+hi:दिल्ली	I-LOC
+
+hi:अल्ताई	B-LOC
+hi:पर्वत	I-LOC
+hi:शृंखला	I-LOC
+
+hi:देहरादून	B-LOC
+hi:,	O
+hi:उत्तराखण्ड	B-LOC
+hi:,	O
+hi:भारत	B-LOC
+
+hi:लिंडसे	B-PER
+hi:डेवनपोर्ट	I-PER
+hi:ने	O
+hi:वीनस	B-PER
+hi:विलियम्स	I-PER
+hi:को	O
+hi:7–6	O
+hi:(	O
+hi:4	O
+hi:)	O
+hi:,	O
+hi:5–7	O
+hi:,	O
+hi:7–6	O
+hi:(	O
+hi:4	O
+hi:)	O
+hi:से	O
+hi:हराया।	O
+
+hi:भारत	B-LOC
+hi:के	I-LOC
+hi:अभयारण्य	I-LOC
+
+hi:भुवनेश्वर	B-LOC
+hi:से	O
+hi:75	O
+hi:किमी	O
+hi:.	O
+
+hi:जामिया	B-ORG
+hi:मिलिया	I-ORG
+hi:इस्लामिया	I-ORG
+
+hi:ए	B-PER
+hi:के	I-PER
+hi:हंगल	I-PER
+hi:-	O
+hi:पुजारी	O
+
+hi:rect	O
+hi:227	O
+hi:150	O
+hi:278	O
+hi:237	O
+hi:अवध	B-PER
+hi:के	I-PER
+hi:नवाब	I-PER
+hi:वज़ीर	I-PER
+
+hi:सासाराम	B-LOC
+hi:(	O
+hi:SC	O
+hi:)	O
+hi:मीरा	B-PER
+hi:कुमार	I-PER
+
+hi:अनुप्रेषित	O
+hi:लक्ष्मी	B-PER
+hi:कुमारी	I-PER
+hi:चूड़ावत	I-PER
+
+hi:हिमाचल	B-ORG
+hi:प्रदेश	I-ORG
+hi:के	I-ORG
+hi:मुख्यमन्त्रियों	I-ORG
+hi:की	I-ORG
+hi:सूची	I-ORG
+
+hi:रिवेंज	B-ORG
+hi:(	I-ORG
+hi:टीवी	I-ORG
+hi:शृंखला	I-ORG
+hi:)	I-ORG
+
+hi:बिहार	B-LOC
+hi:(	O
+hi:45	O
+hi:)	O
+hi:,	O
+hi:पश्चिम	B-LOC
+hi:बंगाल	I-LOC
+hi:(	O
+hi:55	O
+hi:)	O
+
+hi:सारन	B-LOC
+hi:,	O
+hi:बिहार	B-LOC
+hi:का	O
+hi:एक	O
+hi:प्रखण्ड।	O
+
+hi:अम्बिका	B-PER
+hi:(	I-PER
+hi:महाभारत	I-PER
+hi:)	I-PER
+
+hi:अनुप्रेषित	O
+hi:राष्ट्रीय	B-ORG
+hi:राजमार्ग	I-ORG
+hi:८बी	I-ORG
+
+hi:''	O
+hi:'जम्मू	O
+hi:एवं	O
+hi:कश्मीर	B-LOC
+hi:''	O
+hi:'	O
+
+hi:टाटा	B-ORG
+hi:कंसल्टेंसी	I-ORG
+hi:सर्विसेज	I-ORG
+
+hi:अफ़्रीका	B-LOC
+hi:के	O
+hi:अधिक्तम्	O
+hi:देश	O
+
+hi:शारजाह]]	O
+hi:,	O
+hi:संयुक्त	B-LOC
+hi:अरब	I-LOC
+hi:अमीरात	I-LOC
+
+hi:हरियाणा	B-LOC
+hi:(	O
+hi:16	O
+hi:)	O
+hi:,	O
+hi:हिमाचल	B-LOC
+hi:प्रदेश	I-LOC
+hi:(	O
+hi:49	O
+hi:)	O
+
+hi:पुनर्प्रेषित	O
+hi:पाट्टाली	B-ORG
+hi:मक्कल	I-ORG
+hi:कॉची	I-ORG
+
+hi:अन्तर्राष्ट्रीय	B-ORG
+hi:नागर	I-ORG
+hi:विमानन	I-ORG
+hi:संगठन	I-ORG
+
+hi:सूचना	B-ORG
+hi:का	I-ORG
+hi:अधिकार	I-ORG
+hi:अधिनियम	I-ORG
+hi:,	I-ORG
+hi:२००५	I-ORG
+
+hi:यह	O
+hi:1992	O
+hi:में	O
+hi:गंजाम	B-LOC
+hi:जिला	I-LOC
+hi:को	O
+hi:तोङकर	O
+hi:बनाया	O
+hi:गया।	O
+
+hi:पुनर्प्रेषित	O
+hi:सिख	B-ORG
+hi:लाइट	I-ORG
+hi:इन्फेंट्री	I-ORG
+
+hi:भारतीय	B-ORG
+hi:विज्ञान	I-ORG
+hi:शिक्षा	I-ORG
+hi:एवं	I-ORG
+hi:अनुसंधान	I-ORG
+hi:संस्थान	I-ORG
+hi:,	I-ORG
+hi:पुणे	I-ORG
+
+hi:विनय	B-PER
+hi:पाठक	I-PER
+hi:,	O
+hi:माही	B-PER
+hi:गिल	I-PER
+hi:,	O
+hi:मोना	B-PER
+hi:सिंह	I-PER
+
+hi:'	O
+hi:''	O
+hi:भारत	B-LOC
+hi:''	O
+hi:'	O
+
+hi:मेघालय	B-LOC
+hi:(	O
+hi:शिलांग	B-LOC
+hi:)	O
+
+hi:सचिन	B-PER
+hi:तेंदुलकर	I-PER
+hi:खेला	O
+hi:जाता	O
+hi:है	O
+hi:की	O
+hi:ऐतिहासिक	O
+hi:पारी	O
+hi:में	O
+hi:मैचों	O
+hi:की	O
+hi:मेजबानी	O
+hi:की	O
+hi:के	O
+hi:द्वारा	O
+hi:अनुवाद	O
+hi:.	O
+
+hi:मध्य	B-LOC
+hi:प्रदेश	I-LOC
+hi:(	O
+hi:152	O
+hi:)	O
+hi:,	O
+hi:छत्तीसगढ़	B-LOC
+hi:(	O
+hi:128	O
+hi:)	O
+hi:,	O
+hi:उत्तर	B-LOC
+hi:प्रदेश	I-LOC
+hi:(	O
+hi:55	O
+hi:)	O
+
+hi:'	O
+hi:''	O
+hi:हिन्दी	B-LOC
+hi:में	O
+hi:''	O
+hi:'	O
+hi:-	O
+
+hi:टाइम्स	B-ORG
+hi:नाऊ	I-ORG
+hi:इंडिया	B-ORG
+hi:टीवी	I-ORG
+hi:-सीवोटर	O
+
+hi:एस	B-PER
+hi:सी	I-PER
+hi:जमीर	I-PER
+
+hi:पुनर्प्रेषित	O
+hi:लल्लन	B-ORG
+hi:जी	I-ORG
+hi:ब्रह्मचारी	I-ORG
+hi:महाविद्यालय	I-ORG
+
+hi:अल्बर्ट	B-PER
+hi:पोर्टास	I-PER
+hi:ने	O
+hi:हुआन	B-PER
+hi:कार्लोस	I-PER
+hi:फरेरो	I-PER
+hi:को	O
+hi:4-6	O
+hi:,	O
+hi:6-2	O
+hi:,	O
+hi:0-6	O
+hi:,	O
+hi:7-6	O
+hi:,	O
+hi:7-5	O
+hi:से	O
+hi:हराया।	O
+
+hi:**	O
+hi:जवाहरलाल	B-PER
+hi:नेहरू	I-PER
+hi:,	O
+hi:भारत	B-LOC
+
+hi:रदरफोर्ड	B-PER
+hi:बर्कर्ड	I-PER
+hi:हेयस	I-PER
+
+hi:मिथुन	B-PER
+hi:चक्रवर्ती	I-PER
+hi:,	O
+hi:महेश	B-PER
+hi:मांजरेकर	I-PER
+hi:,	O
+hi:सीमा	B-PER
+hi:बिस्वास	I-PER
+hi:,	O
+hi:गुलशन	B-PER
+hi:ग्रोवर	I-PER
+
+hi:मुंबई	B-LOC
+hi:शहर	I-LOC
+hi:जिला	I-LOC
+
+hi:पश्चिम	B-ORG
+hi:बंगाल	I-ORG
+hi:मत्स्य	I-ORG
+hi:एवं	I-ORG
+hi:पशुपालन	I-ORG
+hi:विज्ञान	I-ORG
+hi:विश्वविद्यालय	I-ORG
+
+hi:अनुप्रेषित	O
+hi:सुनीति	B-PER
+hi:कुमार	I-PER
+hi:चटर्जी	I-PER
+
+hi:अनुप्रेषित	O
+hi:प्राण	B-PER
+hi:कुमार	I-PER
+hi:शर्मा	I-PER
+
+hi:सांखळी	O
+hi:(	O
+hi:गोवा	B-LOC
+hi:)	O
+
+hi:स्टेट	B-ORG
+hi:बैंक	I-ORG
+hi:ऑफ़	I-ORG
+hi:पटियाला	I-ORG
+
+hi:''	O
+hi:'	O
+hi:(	O
+hi:१	O
+hi:)	O
+hi:संवर्ग	O
+hi:परिवर्तन	O
+hi:''	O
+hi:'	O
+hi:–	O
+hi:जब	O
+hi:एक	O
+hi:संवर्ग	O
+hi:का	O
+hi:कर्मचारी	O
+hi:दूसरे	O
+hi:संवर्ग	O
+hi:में	O
+hi:पदोन्नत	O
+hi:होता	O
+hi:है	O
+hi:तो	O
+hi:यह	O
+hi:'संवर्ग	O
+hi:परिवर्तन	O
+hi:पदोन्नति	O
+hi:'	O
+hi:कहलाती	O
+hi:है।	O
+hi:जैसे–	O
+hi:राजस्थान	B-ORG
+hi:प्रशासनिक	I-ORG
+hi:सेवा	I-ORG
+hi:के	O
+hi:अधिकारियों	O
+hi:की	O
+hi:भारतीय	B-ORG
+hi:प्रशासनिक	I-ORG
+hi:सेवा	I-ORG
+hi:में	O
+hi:पदोन्नति।	O
+
+hi:पुनर्प्रेषित	O
+hi:ग़ज़ह	B-ORG
+hi:मद	I-ORG
+hi:विश्वविद्यालय	I-ORG
+
+hi:सिखों	B-PER
+hi:के	I-PER
+hi:दस	I-PER
+hi:गुरू	I-PER
+
+hi:महादेव	B-PER
+hi:गोविंद	I-PER
+hi:रानडे	I-PER
+
+hi:परिषद	B-ORG
+hi:हिन्दू	I-ORG
+hi:धर्म	I-ORG
+
+hi:;	O
+hi:;	O
+hi:रोबर्ट	B-PER
+hi:कोलमन	I-PER
+hi:रिचार्डसन	I-PER
+
+hi:दिलीप	B-PER
+hi:कुमार	I-PER
+hi:,	O
+hi:सायरा	B-PER
+hi:बानो	I-PER
+
+hi:राहुल	B-PER
+hi:बोस	I-PER
+hi:-	O
+hi:बेटा	O
+
+hi:दयानन्द	B-PER
+hi:शेट्टी	I-PER
+hi:वरिष्ठ	O
+hi:निरीक्षक	O
+hi:दया	O
+hi:(	O
+hi:१९९८-वर्तमान	O
+hi:)	O
+
+hi:अनुप्रेषित	O
+hi:मैसूर	B-PER
+hi:नरसिंहाचार	I-PER
+hi:श्रीनिवास	I-PER
+
+hi:''पटकथा	O
+hi:''	O
+hi:-	O
+hi:बासु	B-PER
+hi:चटर्जी	I-PER
+
+hi:मार्टिना	B-PER
+hi:नवरातीलोवा	I-PER
+hi:(	O
+hi:1983-1984	O
+hi:)	O
+
+hi:भारतीय	B-ORG
+hi:प्रौद्योगिकी	I-ORG
+hi:संस्थान	I-ORG
+hi:कानपुर	I-ORG
+hi:,	I-ORG
+hi:कानपुर	B-LOC
+
+hi:मार्क	B-PER
+hi:नोल्स	I-PER
+hi:/	O
+hi:डेनियल	B-PER
+hi:नेस्तर	I-PER
+hi:''	O
+hi:(	O
+hi:क्वार्टर	O
+hi:फाइनल	O
+hi:)	O
+
+hi:उड़न	B-ORG
+hi:खटोला	I-ORG
+hi:(	I-ORG
+hi:1955	I-ORG
+hi:फ़िल्म	I-ORG
+hi:)	I-ORG
+
+hi:तुषार	B-PER
+hi:कपूर	I-PER
+hi:-	O
+hi:शैख	O
+hi:मुनिर	O
+
+hi:रक्षा	B-ORG
+hi:अनुसंधान	I-ORG
+hi:एवं	I-ORG
+hi:विकास	I-ORG
+hi:संगठन	I-ORG
+
+hi:करिश्मा	B-PER
+hi:तन्ना	I-PER
+hi:-	O
+hi:उन्नति	O
+
+hi:अनुप्रेषित	O
+hi:विष्णु	B-PER
+hi:नारायण	I-PER
+hi:भातखंडे	I-PER
+
+hi:संजय	B-PER
+hi:ख़ान	I-PER
+hi:,	O
+hi:रेखा	B-PER
+hi:,	O
+hi:हेलन	B-PER
+
+hi:अनुप्रेषित	O
+hi:तिण्डुकल	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:'	O
+hi:''	O
+hi:ज़ी	B-ORG
+hi:सिनेमा	I-ORG
+hi:''	O
+hi:'	O
+
+hi:'	O
+hi:''	O
+hi:गिरिजा	B-PER
+hi:प्रसाद	I-PER
+hi:कोइराला	I-PER
+hi:''	O
+hi:'	O
+hi:(	O
+hi:४	O
+hi:/	O
+hi:५	O
+hi:)	O
+hi:(	O
+hi:१९२५-२०१०	O
+hi:)	O
+
+hi:हाउ	B-ORG
+hi:आई	I-ORG
+hi:मेट	I-ORG
+hi:योर	I-ORG
+hi:मदर	I-ORG
+hi:''	O
+
+hi:केन्द्रीय	B-ORG
+hi:कृषि	I-ORG
+hi:अभियांत्रिकी	I-ORG
+hi:संस्थान	I-ORG
+hi:,	O
+hi:भोपाल	B-LOC
+
+hi:'	O
+hi:''	O
+hi:रेड	B-ORG
+hi:स्टार	I-ORG
+hi:बेलग्रेड	I-ORG
+hi:''	O
+hi:'	O
+hi:''	O
+hi:'प्रथम	O
+hi:खिताब	O
+hi:''	O
+hi:'	O
+
+hi:पुनर्प्रेषित	O
+hi:द	B-ORG
+hi:टाइम्स	I-ORG
+hi:ऑफ़	I-ORG
+hi:इण्डिया	I-ORG
+
+hi:विराटनगर	B-LOC
+hi:(	I-LOC
+hi:राजस्थान	I-LOC
+hi:)	I-LOC
+
+hi:मध्य-पश्चिमाञ्चल	B-LOC
+hi:विकास	I-LOC
+hi:क्षेत्र	I-LOC
+
+hi:मार्टिना	B-PER
+hi:नवरातीलोवा	I-PER
+hi:और	O
+hi:पाम	B-PER
+hi:श्राइवर	I-PER
+hi:(	O
+hi:1981-82-83-84	O
+hi:)	O
+
+hi:रोहतास	B-LOC
+hi:,	O
+hi:बिहार	B-LOC
+hi:का	O
+hi:एक	O
+hi:प्रखण्ड।	O
+
+hi:30px]]	O
+hi:'	O
+hi:''	O
+hi:कनाडा	B-LOC
+hi:''	O
+hi:'	O
+
+hi:अनुप्रेषित	O
+hi:सैयद	B-PER
+hi:अहमद	I-PER
+hi:खान	I-PER
+
+hi:हिन्दी	B-LOC
+hi:में	O
+hi:आठ	O
+hi:कारक	O
+hi:होते	O
+hi:हैं।	O
+hi:उन्हें	O
+hi:विभक्ति	O
+hi:चिह्नों	O
+hi:सहित	O
+hi:नीचे	O
+hi:देखा	O
+hi:जा	O
+hi:सकता	O
+hi:है-	O
+
+hi:लिटन	B-LOC
+hi:(	I-LOC
+hi:ब्रिसबेन	I-LOC
+hi:)	I-LOC
+
+hi:बंगलौर	B-ORG
+hi:सिटी	I-ORG
+hi:जंक्शन	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:डाक	B-LOC
+hi:सूचक	I-LOC
+hi:संख्या	I-LOC
+
+hi:दीन	B-ORG
+hi:दयाल	I-ORG
+hi:उपाध्याय	I-ORG
+hi:गोरखपुर	I-ORG
+hi:विश्वविद्यालय	I-ORG
+
+hi:हजरत	B-ORG
+hi:निजामुद्दीन	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:अनुप्रेषित	O
+hi:विरधी	B-PER
+hi:चन्द	I-PER
+hi:जैन	I-PER
+
+hi:पुनर्प्रेषित	O
+hi:टी॰	B-PER
+hi:एस॰	I-PER
+hi:ठाकुर	I-PER
+
+hi:फिरोज	B-LOC
+hi:शाह	I-LOC
+hi:कोटला	I-LOC
+hi:ग्राउंड	I-LOC
+hi:,	O
+hi:दिल्ली	B-LOC
+
+hi:+7	O
+hi:–	O
+hi:रूस	B-LOC
+hi:,	O
+hi:कज़ाख़िस्तान	B-LOC
+hi:.	O
+
+hi:जनता	B-ORG
+hi:दल	I-ORG
+hi:(	I-ORG
+hi:यूनाइटेड	I-ORG
+hi:)	I-ORG
+
+hi:'	O
+hi:''	O
+hi:ईटानगर	B-LOC
+hi:''	O
+hi:'	O
+
+hi:कुरुक्षेत्र	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:'	O
+hi:''	O
+hi:फ्रैंकलिन	B-PER
+hi:पियर्स	I-PER
+hi:''	O
+hi:'	O
+hi:(	O
+hi:1804–1869	O
+hi:)	O
+
+hi:'	O
+hi:''	O
+hi:सनाया	B-PER
+hi:ईरानी	I-PER
+hi:''	O
+hi:'	O
+
+hi:लोकमान्य	B-ORG
+hi:तिलक	I-ORG
+hi:टर्मिनस	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:बंगलौर	B-ORG
+hi:सिटी	I-ORG
+hi:जंक्शन	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:संयुक्त	B-LOC
+hi:राज्य	I-LOC
+hi:वर्जिन	I-LOC
+hi:द्वीपसमूह	I-LOC
+
+hi:१९६	O
+hi:,	O
+hi:१९०	O
+hi:कि.मी२	O
+hi:--	O
+hi:सेनेगल	B-LOC
+
+hi:सतपाल	B-PER
+hi:(	I-PER
+hi:पहलवान	I-PER
+hi:)	I-PER
+
+hi:चेन्नई	B-ORG
+hi:एगमोर	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:द	B-ORG
+hi:टाइम्स	I-ORG
+hi:ऑफ़	I-ORG
+hi:इण्डिया	I-ORG
+
+hi:मालवीय	B-ORG
+hi:राष्ट्रीय	I-ORG
+hi:प्रौद्योगिकी	I-ORG
+hi:संस्थान	I-ORG
+hi:,	I-ORG
+hi:जयपुर	I-ORG
+
+hi:पर	O
+hi:प्रसारित	O
+hi:निकलोडियन	B-ORG
+hi:भारत	I-ORG
+hi:,	O
+hi:एक	O
+hi:बाद	O
+hi:की	O
+hi:रिलीज	O
+hi:पर।	O
+
+hi:11	B-ORG
+hi:सितम्बर	I-ORG
+hi:2001	I-ORG
+hi:के	I-ORG
+hi:हमले	I-ORG
+
+hi:युनुस	B-PER
+hi:परवेज़	I-PER
+hi:-	O
+hi:माँ	O
+hi:वर	O
+
+hi:वैजयन्ती	B-PER
+hi:माला	I-PER
+hi:,	O
+hi:राजेंद्र	B-PER
+hi:कुमार	I-PER
+
+hi:अनुप्रेषित	O
+hi:एक	B-ORG
+hi:ननद	I-ORG
+hi:की	I-ORG
+hi:खुशियो	I-ORG
+hi:की	I-ORG
+hi:चाबी-मेरी	I-ORG
+hi:भाभी	I-ORG
+
+hi:अमिताभ	B-PER
+hi:बच्चन	I-PER
+hi:-	O
+hi:स्वयं	O
+
+hi:हुआन	B-PER
+hi:कार्लोस	I-PER
+hi:फरेरो	I-PER
+hi:,	O
+hi:''	O
+hi:(	O
+hi:क्वार्टर	O
+hi:फाइनल	O
+hi:में	O
+hi:रोजर	B-PER
+hi:फ़ेडरर	I-PER
+hi:से	O
+hi:हारे	O
+hi:)	O
+
+hi:'	O
+hi:''	O
+hi:अरहान	B-PER
+hi:बहल	I-PER
+hi:''	O
+hi:'	O
+
+hi:एडवर्ड	B-PER
+hi:विक्टर	I-PER
+hi:एप्पलटन	I-PER
+
+hi:राष्ट्रीय	B-ORG
+hi:प्रौद्योगिकी	I-ORG
+hi:संस्थान	I-ORG
+hi:,	I-ORG
+hi:दुर्गापुर	I-ORG
+
+hi:बीएमडब्लू	B-ORG
+hi:(	I-ORG
+hi:BMW	I-ORG
+hi:)	I-ORG
+
+hi:एंडी	B-PER
+hi:मरे	I-PER
+hi:ने	O
+hi:आन्द्रेई	B-PER
+hi:गोलुबेव	I-PER
+hi:को	O
+hi:6–1	O
+hi:,	O
+hi:6–1	O
+hi:से	O
+hi:हराया।	O
+
+hi:हेमंत	B-PER
+hi:करकरे	I-PER
+hi:-आतंक	O
+hi:विरोधी	O
+hi:दस्ते	O
+hi:के	O
+hi:प्रमुख	O
+hi:थे	O
+
+hi:भारतीय	B-ORG
+hi:चार्टर्ड	I-ORG
+hi:वित्तीय	I-ORG
+hi:विश्लेषक	I-ORG
+hi:संस्थान	I-ORG
+
+hi:अनुप्रेषित	O
+hi:नवल	B-PER
+hi:किशोर	I-PER
+hi:शर्मा	I-PER
+
+hi:अनुप्रेषित	O
+hi:लैशराम	B-PER
+hi:सरिता	I-PER
+hi:देवी	I-PER
+
+hi:मलेशिया	B-LOC
+hi:(	O
+hi:1957	O
+hi:)	O
+
+hi:पुनर्प्रेषित	O
+hi:महाराणा	B-PER
+hi:फतेह	I-PER
+hi:सिंह	I-PER
+
+hi:अयोध्यासिंह	B-PER
+hi:उपाध्याय	I-PER
+hi:'हरिऔध	I-PER
+hi:'	I-PER
+
+hi:वर्जीनिया	B-PER
+hi:रुआनो	I-PER
+hi:पास्कुआल	I-PER
+hi:पाओला	B-PER
+hi:सुआरेज़	I-PER
+
+hi:हाथी	B-LOC
+hi:की	O
+hi:गायन	O
+hi:आवाजों	O
+hi:के	O
+hi:रूप	O
+hi:में	O
+hi:टेरी-थॉमस	O
+
+hi:टिनपिता	O
+hi:चुन	O
+hi:गाने	O
+hi:ब्रूनो	B-PER
+hi:मार्स	I-PER
+hi:,	O
+hi:वर्षा	O
+hi:होगी	O
+hi:शीर्षक	O
+hi:.	O
+
+hi:वैशाली	B-LOC
+hi:,	O
+hi:बिहार	B-LOC
+hi:का	O
+hi:एक	O
+hi:प्रखण्ड।	O
+
+hi:मॉन्ट्रियल	B-LOC
+hi:/	O
+hi:टोरंटो	B-LOC
+hi:,	O
+hi:कनाडा	B-LOC
+
+hi:महमूद	B-PER
+hi:-	O
+hi:अतिथि	O
+hi:भूमिका	O
+
+hi:गुरु	B-PER
+hi:ग्रन्थ	I-PER
+hi:साहिब	I-PER
+hi:से	O
+hi:मानवता	O
+hi:का	O
+hi:''संदेश	O
+hi:''	O
+hi:प्राप्त	O
+hi:होता	O
+hi:है।	O
+
+hi:;	O
+hi:'	O
+hi:''	O
+hi:मैप्स	B-ORG
+hi:''	O
+hi:'	O
+
+hi:चीनी	B-PER
+hi:साम्यवादी	I-PER
+hi:पार्टी	I-PER
+hi:का	I-PER
+hi:महासचिव	I-PER
+
+hi:'	O
+hi:''	O
+hi:मलेशिया	B-LOC
+hi:''	O
+hi:'	O
+
+hi:भारत	B-ORG
+hi:का	I-ORG
+hi:उच्चतम	I-ORG
+hi:न्यायालय	I-ORG
+
+hi:अरशद	B-PER
+hi:वारसी	I-PER
+hi:-	O
+hi:बल्लू	O
+
+hi:राष्ट्रीय	B-ORG
+hi:राजमार्ग	I-ORG
+hi:२१४	I-ORG
+
+hi:हरियाणा	B-LOC
+hi:,	O
+hi:दिल्ली	B-LOC
+hi:,	O
+hi:छत्तीसगढ़	B-LOC
+hi:,	O
+hi:ओडिशा	B-LOC
+hi:,	O
+hi:मध्य	B-LOC
+hi:प्रदेश	I-LOC
+
+hi:अनुप्रेषित	O
+hi:वसुंधरा	B-ORG
+hi:(	I-ORG
+hi:टीवी	I-ORG
+hi:धारावाहिक	I-ORG
+hi:)	I-ORG
+
+hi:राष्ट्रीय	B-ORG
+hi:राजमार्ग	I-ORG
+hi:१५१	I-ORG
+
+hi:युनुस	B-PER
+hi:परवेज़	I-PER
+hi:-	O
+hi:लालाजी	O
+
+hi:निकरागुआ	B-ORG
+hi:की	I-ORG
+hi:मार्क्सवादी-लेनीनवादी	I-ORG
+hi:पार्टी	I-ORG
+
+hi:सुदेश	B-PER
+hi:बेरी	I-PER
+hi:(	O
+hi:द्रुपद	B-PER
+hi:)	O
+
+hi:'	O
+hi:''	O
+hi:देहरादून	B-LOC
+hi:''	O
+hi:'	O
+
+hi:१००	O
+hi:,	O
+hi:०३२	O
+hi:कि.मी२	O
+hi:--	O
+hi:दक्षिण	B-LOC
+hi:कोरिया	I-LOC
+hi:(	O
+hi:क्षेत्रफ़ल	O
+hi:अनुसार	O
+hi:१०८वें	O
+hi:स्थान	O
+hi:पर	O
+hi:)	O
+
+hi:करमा	B-LOC
+hi:(	I-LOC
+hi:वृक्ष	I-LOC
+hi:)	I-LOC
+
+hi:गिर	B-ORG
+hi:वन्यजीव	I-ORG
+hi:अभ्यारण्य	I-ORG
+
+hi:महिलाओं	O
+hi:से	O
+hi:छेड़छाड़	O
+hi:करने	O
+hi:वालों	O
+hi:के	O
+hi:खिलाफ़	O
+hi:एक	O
+hi:ऐसा	O
+hi:ही	O
+hi:कार्यक्रम	O
+hi:2008	O
+hi:में	O
+hi:मुंबई	B-LOC
+hi:में	O
+hi:आयोजित	O
+hi:किया	O
+hi:गया।	O
+
+hi:रियो	B-LOC
+hi:डि	I-LOC
+hi:जेनेरो	I-LOC
+
+hi:बाड़मेर	B-LOC
+hi:(	O
+hi:165	O
+hi:किमी	O
+hi:)	O
+
+hi:अनुप्रेषित	O
+hi:एम॰	B-PER
+hi:फातिमा	I-PER
+hi:बीबी	I-PER
+
+hi:फैराडे	B-ORG
+hi:का	I-ORG
+hi:विद्युत	I-ORG
+hi:अपघटन	I-ORG
+hi:का	I-ORG
+hi:नियम	I-ORG
+
+hi:वॉशिंगटन	B-LOC
+hi:डी॰	I-LOC
+hi:सी॰	I-LOC
+
+hi:जॉय	B-PER
+hi:मुखर्जी	I-PER
+hi:,	O
+hi:मदन	B-PER
+hi:पुरी	I-PER
+
+hi:अनुप्रेषित	O
+hi:दि	B-ORG
+hi:न्यू	I-ORG
+hi:यॉर्क	I-ORG
+hi:टाइम्स	I-ORG
+
+hi:भारत	B-LOC
+hi:(	O
+hi:1957	O
+hi:)	O
+
+hi:रणबीर	B-PER
+hi:कपूर	I-PER
+hi:केमियो	O
+hi:भूमिका	O
+hi:में।	O
+
+hi:सत्येन्द्र	B-PER
+hi:कपूर	I-PER
+hi:-	O
+hi:मामाजी	O
+
+hi:अनुप्रेषित	O
+hi:मध्य	B-ORG
+hi:प्रदेश	I-ORG
+hi:के	I-ORG
+hi:मुख्यमन्त्रियों	I-ORG
+hi:की	I-ORG
+hi:सूची	I-ORG
+
+hi:किशनगंज	B-LOC
+hi:,	O
+hi:बिहार	B-LOC
+hi:का	O
+hi:एक	O
+hi:प्रखण्ड।	O
+
+hi:बंगलौर	B-ORG
+hi:सिटी	I-ORG
+hi:जंक्शन	I-ORG
+hi:रेलवे	I-ORG
+hi:स्टेशन	I-ORG
+
+hi:ज़ेवियर	B-PER
+hi:पेरिज	I-PER
+hi:डी	I-PER
+hi:कुईयार	I-PER
+
+hi:अण्डमान	B-LOC
+hi:और	I-LOC
+hi:निकोबार	I-LOC
+hi:द्वीपसमूह	I-LOC
+
+hi:अमिताभ	B-PER
+hi:बच्चन	I-PER
+hi:,	O
+hi:सलमान	B-PER
+hi:ख़ान	I-PER
+hi:,	O
+hi:प्रियंका	B-PER
+hi:चोपड़ा	I-PER
+
+hi:इटली	B-LOC
+hi:(	O
+hi:1939	O
+hi:)	O
+
+hi:बिएन	B-ORG
+hi:दे	I-ORG
+hi:इंतेरेस	I-ORG
+hi:कल्चरल	I-ORG
+
+hi:पुनर्प्रेषित	O
+hi:जिन्दल	B-ORG
+hi:स्टील	I-ORG
+hi:एण्ड	I-ORG
+hi:पॉवर	I-ORG
+hi:लिमिटेड	I-ORG
+
+hi:राजगीर	B-LOC
+hi:(	O
+hi:१२	O
+hi:किमी	O
+hi:)	O
+hi:,	O
+
+hi:भारत	B-ORG
+hi:का	I-ORG
+hi:वीर	I-ORG
+hi:पुत्र	I-ORG
+hi:–	I-ORG
+hi:महाराणा	I-ORG
+hi:प्रताप	I-ORG
+hi:''	O
+
+hi:अजय	B-PER
+hi:देवगन	I-PER
+hi:-	O
+hi:वाचक	O
+
+hi:===	O
+hi:स्पेन	B-LOC
+hi:(	O
+hi:40	O
+hi:)	O
+hi:===	O
+
+hi:उत्तर	B-LOC
+hi:ख़ोरासान	I-LOC
+hi:प्रांत	I-LOC
+
+hi:अल्ताई	B-LOC
+hi:(	O
+hi:Республика	O
+hi:Алтай	O
+hi:)	O
+
+hi:अनिल	B-PER
+hi:कुंबले	I-PER
+hi:(	O
+hi:कप्तान	O
+hi:)	O
+
+hi:नेशनल	B-ORG
+hi:स्टॉक	I-ORG
+hi:एक्सचेंज	I-ORG
+
+hi:अंग्रेजों	O
+hi:ने	O
+hi:1920	O
+hi:के	O
+hi:दशक	O
+hi:में	O
+hi:माउंट	B-LOC
+hi:एवरेस्ट	I-LOC
+hi:पर	O
+hi:चढ़ने	O
+hi:के	O
+hi:कई	O
+hi:प्रयास	O
+hi:किए	O
+hi:.	O
+
+hi:पृष्ठभूमि	O
+hi:स्कोर	O
+hi:-	O
+hi:सलीम-सुलेमान	B-PER
+
+hi:भारतीय	B-ORG
+hi:प्रबंध	I-ORG
+hi:संस्थान	I-ORG
+hi:,	I-ORG
+hi:लखनऊ	I-ORG
+
+hi:सबीना	B-LOC
+hi:पार्क	I-LOC
+hi:,	O
+hi:किंग्सटन	B-LOC
+hi:,	I-LOC
+hi:जमैका	I-LOC
+
+hi:भारतीय	B-ORG
+hi:विज्ञान	I-ORG
+hi:शिक्षा	I-ORG
+hi:एवं	I-ORG
+hi:अनुसंधान	I-ORG
+hi:संस्थान	I-ORG
+hi:,	I-ORG
+hi:तिरुवनंतपुरम	I-ORG
+
+hi:वर्षा	B-PER
+hi:उसगांवकर	I-PER
+hi:-	O
+hi:चंचल	O
+
+hi:ऋषिकेश	B-LOC
+hi:-	O
+hi:६७	O
+hi:किमी	O
+
+hi:''	O
+hi:उत्तर	B-LOC
+hi:प्रदेश	I-LOC
+hi:''	O
+hi:'	O
+
+hi:गोमती	B-LOC
+hi:नदी	I-LOC
+hi:(	I-LOC
+hi:राजस्थान	I-LOC
+hi:)	I-LOC
+
+hi:छत्रपति	B-ORG
+hi:शिवाजी	I-ORG
+hi:टर्मिनस	I-ORG
+
+hi:**	O
+hi:नामपेन्ह	B-LOC
+hi:(	O
+hi:दूतावास	O
+hi:)	O
+
+hi:राष्ट्रीय	B-ORG
+hi:राजमार्ग	I-ORG
+hi:९०	I-ORG
+
+hi:ऋषि	B-PER
+hi:कपूर	I-PER
+hi:,	O
+hi:नीतू	B-PER
+hi:सिंह	I-PER
+hi:,	O
+hi:राकेश	B-PER
+hi:रोशन	I-PER
+
+hi:नेशनल	B-ORG
+hi:इंस्टिट्यूट	I-ORG
+hi:ऑफ	I-ORG
+hi:फार्मास्यूटिकल	I-ORG
+hi:एजुकेशन	I-ORG
+hi:एंड	I-ORG
+hi:रिसर्च	I-ORG
+
+hi:५३३	B-ORG
+hi:ईसा	I-ORG
+hi:पूर्व	I-ORG
+
+hi:कुरुक्षेत्र	B-ORG
+hi:लोक	I-ORG
+hi:सभा	I-ORG
+hi:निर्वाचन	I-ORG
+hi:क्षेत्र	I-ORG
+
+hi:जनता	B-ORG
+hi:दल	I-ORG
+hi:(	I-ORG
+hi:यूनाइटेड	I-ORG
+hi:)	I-ORG
+
+hi:अनुप्रेषित	O
+hi:यशपाल	B-PER
+hi:(	I-PER
+hi:वैज्ञानिक	I-PER
+hi:)	I-PER
+
+hi:फेडरल	B-ORG
+hi:ब्यूरो	I-ORG
+hi:ऑफ	I-ORG
+hi:इन्वेस्टिगेशन	I-ORG
+
+hi:अनुप्रेषित	O
+hi:विश्‍वविद्यालय	B-ORG
+hi:अनुदान	I-ORG
+hi:आयोग	I-ORG
+hi:(	I-ORG
+hi:भारत	I-ORG
+hi:)	I-ORG
+

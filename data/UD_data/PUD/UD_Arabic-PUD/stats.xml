@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>1000</sentences><tokens>20747</tokens><words>20747</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>1000</sentences><tokens>20747</tokens><words>20747</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="4785" /><!-- ., هُوَ, ,, فِي, وَ, مِن, بِ, لِ, ", كَان, عَلَى, إِلَى, أَنَّ, الَّذِي, ه`ذا -->
+  <forms unique="6801" /><!-- ., ,, و, في, من, ب, ل, ه, ", أن, ها, على, إلى, عام, كان -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="16">
+    <tag name="ADJ">2026</tag><!-- أَوَّل, كَبِير, خَاصّ, جَدِيد, أَكثَر, آخَر, ثَانِي, أَكبَر, أَمرِيكِيّ, مُتَّحِد -->
+    <tag name="ADP">3576</tag><!-- فِي, مِن, بِ, لِ, عَلَى, إِلَى, أَن, مَعَ, عَن, خِلَالَ -->
+    <tag name="ADV">404</tag><!-- عام, أَيضًا, هُنَاكَ, نَحو, فَقَط, يَوم, جِدًّا, آن, تَقرِيب, عادَة -->
+    <tag name="AUX">186</tag><!-- كَان, لَيس -->
+    <tag name="CCONJ">653</tag><!-- وَ, أَو, بَل, ثُمَّ, حَتَّى, ل`كِنَّ -->
+    <tag name="DET">166</tag><!-- كُلّ, أَحَد, بَعض, أَيّ, عِدَّة, مُعظَم, آخِر, جَمِيع, آخَر, شِبه -->
+    <tag name="NOUN">5578</tag><!-- عَام, شَكل, مِنطَقَة, شَرِكَة, وَقت, عَمَل, مَدِينَة, أَرض, أَمر, اِسم -->
+    <tag name="NUM">371</tag><!-- 1, 10, عشر, ثلاث, مليون, 3, 2014, 2015, أربعة, عشرة -->
+    <tag name="PART">566</tag><!-- و, سَ, لَا, لَم, قَد, غَير, مَا, ف, إِنَّ, ل`كِنَّ -->
+    <tag name="PRON">1299</tag><!-- هُوَ, الَّذِي, ه`ذا, ذ`لِكَ, ما, مِن, أُولائِكَ, ماذا, من, آخَر -->
+    <tag name="PROPN">1728</tag><!-- بَحر, تِشرِين, صِين, سِي, وِلايَة, بِي, ترامب, كانُون, حَرب, نِيسان -->
+    <tag name="PUNCT">2226</tag><!-- ., ,, ", :, (, ), -, ؟, ـ, ... -->
+    <tag name="SCONJ">187</tag><!-- أَنَّ, كَأَنَّ -->
+    <tag name="SYM">30</tag><!-- %, ـ -->
+    <tag name="VERB">1750</tag><!-- كَان, قَال, أَمكَن, بَدَأ, أَصبَح, ظَهَر, تَمّ, عَاد, شَكَّل, عاد -->
+    <tag name="X">1</tag><!-- سُرعانَ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="27">
+    <feat name="Aspect" value="Imp" upos="ADJ,AUX,NOUN,VERB">940</feat><!-- يمكن, يكون, تكون, يكن, يقول, تظهر, تقول, تكن, يعمل, تضم -->
+    <feat name="Aspect" value="Perf" upos="ADJ,AUX,NOUN,VERB">1041</feat><!-- كان, كانت, قال, تم, كانوا, بدأت, قالت, بدأ, بات, أصبح -->
+    <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">1415</feat><!-- ه, ها, هذا, أكثر, الذي, كبيراً, هم, نا, عاماً, كل -->
+    <feat name="Case" value="Gen" upos="ADJ,ADV,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">6550</feat><!-- ه, ها, هم, التي, ذلك, عام, ما, الذي, شكلٍ, كل -->
+    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">1568</feat><!-- هذا, التي, الذي, هو, هذه, كل, هي, الأمر, أحد, أكثر -->
+    <feat name="Definite" value="Def" upos="ADJ,AUX,NOUN,PROPN,VERB">5863</feat><!-- عام, الأول, الخاصة, الوقت, اسم, العديد, القرن, المتحدة, الأمر, البحر -->
+    <feat name="Definite" value="Ind" upos="ADJ,NOUN,PROPN,VERB">2018</feat><!-- أكثر, شكلٍ, كبيرة, أخرى, أول, أكبر, إسترليني, جديدة, جنيه, كبير -->
+    <feat name="Gender" value="Fem" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">4666</feat><!-- ها, التي, كانت, هذه, الخاصة, هي, المتحدة, كبيرة, الحرب, ذات -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">7342</feat><!-- ه, كان, هم, ذلك, هذا, الذي, عام, يمكن, هو, يكون -->
+    <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- ضع -->
+    <feat name="Mood" value="Ind" upos="ADJ,AUX,NOUN,VERB">752</feat><!-- يمكن, يكون, تكون, يقول, تقول, يعمل, تضم, يبدو, تبدأ, تبلغ -->
+    <feat name="Mood" value="Jus" upos="AUX,VERB">57</feat><!-- يكن, تكن, تعد, تظهر, تلق, يتخذ, أعجب, أعرف, أكن, تتجاوز -->
+    <feat name="Mood" value="Sub" upos="AUX,NOUN,VERB">127</feat><!-- يكون, تكون, تصبح, تبقى, توفر, يبدأ, يصبح, يعود, يعيش, ألعب -->
+    <feat name="Number" value="Dual" upos="ADJ,NOUN,NUM,PRON,PROPN,VERB">137</feat><!-- هما, سنتين, عامي, أسبوعين, الاثنين, عينا, قسمين, أستراليان, ألبومين, ألحقا -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">1888</feat><!-- هم, نا, الذين, كانوا, الدول, الناس, الولايات, الأراضي, ثلاث, سنوات -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">10270</feat><!-- ه, ها, كان, التي, ذلك, هذا, كانت, الذي, عام, هذه -->
+    <feat name="NumType" value="Ord" upos="ADJ">7</feat><!-- عشر, الثالث, الثاني, الرابع, السادس -->
+    <feat name="Person" value="1" upos="ADJ,AUX,NOUN,PRON,VERB">134</feat><!-- نا, ي, أنا, أعرف, أحب, كنت, أعتقد, ألعب, بحثت, نحتاج -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">31</feat><!-- ك, تريد, كنت, تستمد, تشاء, تشرع, تعرف, تفعل, تقف, تقول -->
+    <feat name="Person" value="3" upos="ADJ,AUX,NOUN,PRON,VERB">2643</feat><!-- ه, ها, كان, هم, كانت, يمكن, هو, يكون, هي, قال -->
+    <feat name="Polarity" value="Neg" upos="PART">162</feat><!-- لم, لا, غير, لن, ليس, ما -->
+    <feat name="Tense" value="Fut" upos="AUX,VERB">71</feat><!-- يكون, تكون, يؤدي, يخفف, يسمح, يموت, أدخل, أصاب, تتحدث, تتغير -->
+    <feat name="Tense" value="Past" upos="ADJ,AUX,NOUN,VERB">1096</feat><!-- كان, كانت, قال, تم, كانوا, يكن, بدأت, قالت, بدأ, بات -->
+    <feat name="Tense" value="Pres" upos="ADJ,AUX,NOUN,VERB">814</feat><!-- يمكن, يكون, تكون, يقول, تقول, يعمل, تضم, يعود, تبدأ, تظهر -->
+    <feat name="VerbForm" value="Part" upos="ADJ,NOUN">141</feat><!-- الخاصة, الخاص, قائلاً, التابعة, المرتبط, الموجودة, الواردة, الواقعة, خاصة, قائلةً -->
+    <feat name="Voice" value="Act" upos="ADJ,AUX,NOUN,VERB">1920</feat><!-- كان, كانت, يمكن, يكون, قال, الخاصة, تكون, تم, كانوا, يكن -->
+    <feat name="Voice" value="Pass" upos="ADJ,NOUN,VERB">242</feat><!-- تستخدم, يعتقد, أجريت, أطلق, أعيد, أنشئ, الموجودة, تعد, طرحت, موجودة -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="39">
+    <dep name="acl">34</dep>
+    <dep name="acl:relcl">320</dep>
+    <dep name="advcl">316</dep>
+    <dep name="advmod">448</dep>
+    <dep name="amod">1620</dep>
+    <dep name="appos">187</dep>
+    <dep name="aux">91</dep>
+    <dep name="case">3047</dep>
+    <dep name="cc">652</dep>
+    <dep name="cc:preconj">2</dep>
+    <dep name="ccomp">287</dep>
+    <dep name="compound">7</dep>
+    <dep name="compound:prt">379</dep>
+    <dep name="conj">661</dep>
+    <dep name="cop">95</dep>
+    <dep name="csubj">57</dep>
+    <dep name="csubj:pass">7</dep>
+    <dep name="dep">123</dep>
+    <dep name="det">285</dep>
+    <dep name="discourse">1</dep>
+    <dep name="dislocated">6</dep>
+    <dep name="expl">8</dep>
+    <dep name="fixed">199</dep>
+    <dep name="flat">280</dep>
+    <dep name="iobj">10</dep>
+    <dep name="mark">481</dep>
+    <dep name="nmod">3197</dep>
+    <dep name="nsubj">1370</dep>
+    <dep name="nsubj:pass">141</dep>
+    <dep name="nummod">150</dep>
+    <dep name="obj">746</dep>
+    <dep name="obl">1990</dep>
+    <dep name="obl:tmod">143</dep>
+    <dep name="orphan">4</dep>
+    <dep name="parataxis">24</dep>
+    <dep name="punct">2226</dep>
+    <dep name="root">1000</dep>
+    <dep name="vocative">1</dep>
+    <dep name="xcomp">152</dep>
+  </deps>
+</treebank>

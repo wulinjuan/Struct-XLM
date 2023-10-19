@@ -1,0 +1,8293 @@
+ta:**	O
+ta:பேர்ன்	B-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:வழிமாற்று	O
+ta:டி.	B-PER
+ta:என்.	I-PER
+ta:அனந்தநாயகி	I-PER
+
+ta:பாஸ்கரராயர்	B-PER
+ta:,	O
+ta:எழுத்தாளர்	O
+ta:(	O
+ta:இ	O
+ta:.	O
+
+ta:சமன்பாட்டின்]]	O
+ta:மூலம்	O
+ta:,	O
+ta:வளைவுமாற்றுப்	B-ORG
+ta:புள்ளி	I-ORG
+
+ta:1965	B-ORG
+ta:தேர்தலில்	I-ORG
+ta:மீண்டும்	O
+ta:போட்டியிட்டு	O
+ta:18,729	O
+ta:வாக்குகள்	O
+ta:பெற்று	O
+ta:வெற்றி	O
+ta:பெற்றார்	O
+ta:.	O
+
+ta:திரைப்படங்களில்	O
+ta:நடிக்க	O
+ta:தொடங்குவதற்கு	O
+ta:முன்னால்	O
+ta:இவர்	O
+ta:அனைத்திந்திய	B-ORG
+ta:வானொலியில்	I-ORG
+ta:பணியாற்றி	O
+ta:உள்ளார்	O
+ta:.	O
+
+ta:இச்சமயத்தினர்	O
+ta:இறந்தோரைக்	B-ORG
+ta:கழுகுக்கு	I-ORG
+ta:இரையாகத்	I-ORG
+ta:தரும்	I-ORG
+ta:பழக்கத்தைக்	I-ORG
+ta:கொண்டிருக்கின்றனர்	O
+ta:.	O
+
+ta:சிசுன்	O
+ta:பகுதியை	O
+ta:அடையும்	O
+ta:முன்	O
+ta:மாங்கி	O
+ta:இறந்துவிட்ட	O
+ta:தகவல்	O
+ta:கிடைத்த	O
+ta:போதும்	O
+ta:அதை	O
+ta:இரகசியமாக	O
+ta:வைத்திருந்து	O
+ta:யாங்சி	B-LOC
+ta:ஆற்றங்கரையோரமாக	O
+ta:இருந்த	O
+ta:பகுதிகளை	O
+ta:கைப்பற்றினார்	O
+ta:.	O
+
+ta:மலாயா	B-ORG
+ta:கூட்டமைப்பு	I-ORG
+ta:என்பது	O
+ta:வேறு	O
+ta:.	O
+
+ta:இத்திரைப்படம்	O
+ta:குவெண்டின்	B-PER
+ta:டேரண்டினோ	I-PER
+ta:ஆல்	O
+ta:இயக்கப்பட்டது	O
+ta:.	O
+
+ta:சோவியத்தின்	B-LOC
+ta:வீழ்ச்சிக்குப்	O
+ta:பின்னர்	O
+ta:,	O
+ta:இவர்கள்	O
+ta:மீண்டும்	O
+ta:இங்கு	O
+ta:வந்து	O
+ta:குடியேறினர்	O
+ta:.	O
+
+ta:தினேஷ்]]	O
+ta:,	O
+ta:ஆனந்தி	B-PER
+ta:(	I-PER
+ta:நடிகை	I-PER
+ta:)	I-PER
+ta:,	O
+ta:சமுத்திரக்கனி	B-PER
+
+ta:பி.	B-PER
+ta:கே.	I-PER
+ta:எஸ்.	I-PER
+ta:அய்யங்கார்	I-PER
+
+ta:வழிமாற்று	O
+ta:எக்செல்	B-ORG
+ta:பொறியியல்	I-ORG
+ta:கல்லூரி	I-ORG
+
+ta:சோழர்	B-LOC
+ta:,	O
+ta:பாண்டியர்	B-ORG
+ta:,	O
+ta:சேரர்	B-PER
+ta:,	O
+ta:சாதவாகனர்	B-ORG
+
+ta:அட்மிரல்டி	B-ORG
+ta:ரயில்	I-ORG
+ta:நிலையம்	I-ORG
+
+ta:ஆரம்பக்	O
+ta:கல்வியை	O
+ta:தனது	O
+ta:ஊரிலேயே	O
+ta:கற்றவர்	O
+ta:,	O
+ta:பின்பு	O
+ta:திருகோணமலை	B-ORG
+ta:இந்துக்	I-ORG
+ta:கல்லூரியில்	I-ORG
+ta:உயர்கல்வி	O
+ta:பெற்றார்	O
+ta:.	O
+
+ta:தற்போது	O
+ta:தருண்	B-PER
+ta:விஜய்	I-PER
+ta:இதன்	O
+ta:ஆசிரியராக	O
+ta:உள்ளார்	O
+ta:.	O
+
+ta:'	O
+ta:''	O
+ta:பாபா	B-ORG
+ta:அணு	I-ORG
+ta:ஆராய்ச்சி	I-ORG
+ta:மையம்	I-ORG
+ta:''	O
+ta:'	O
+
+ta:லியோனார்டோ	B-PER
+ta:டிகாப்ரியோ	I-PER
+ta:இத்திரைப்படத்தில்	O
+ta:அபாக்னேலாக	O
+ta:நடித்திருந்தார்	O
+ta:.	O
+
+ta:ஐரோப்பாவில்	B-LOC
+ta:அங்கேரியிலும்	B-LOC
+ta:,	O
+ta:ஆப்பிரிக்காவின்	B-LOC
+ta:சில	O
+ta:பகுதிகள்	O
+ta:,	O
+ta:கிழக்காசியாவின்	B-LOC
+ta:பெரும்பாலான	O
+ta:பகுதிகள்	O
+ta:போன்றவற்றிலும்	O
+ta:குடும்பப்	O
+ta:பெயரை	O
+ta:முதலில்	O
+ta:வைத்து	O
+ta:எழுதும்	O
+ta:வழக்கம்	O
+ta:உள்ளது	O
+ta:.	O
+
+ta:பின்னர்	O
+ta:,	O
+ta:சில	O
+ta:ஆண்டுகள்	O
+ta:கழித்து	O
+ta:தாப்பா	B-LOC
+ta:நகருக்கு	O
+ta:இடம்	O
+ta:மாறினார்	O
+ta:.	O
+
+ta:**	O
+ta:டக்கார்	B-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:இக்கோட்டை	O
+ta:பாரிய	O
+ta:கருங்கற்களால்	B-LOC
+ta:ஒரு	O
+ta:தனியான	O
+ta:குன்றைச்	O
+ta:சுற்றிக்	O
+ta:கட்டப்பட்டுள்ளது	O
+ta:.	O
+
+ta:சண்டிகரில்	B-LOC
+ta:அமைந்துள்ள	O
+ta:ஒரு	O
+ta:குறியீடு	O
+ta:ஆகும்	O
+ta:.	O
+
+ta:எந்தவொரு	O
+ta:விகிதமுறு	B-ORG
+ta:சார்புக்கும்	I-ORG
+ta:குறைந்தது	O
+ta:ஒரு	O
+ta:கிடையான	O
+ta:அல்லது	O
+ta:சாய்ந்த	O
+ta:அணுகுகோடும்	O
+ta:உண்டு	O
+ta:.	O
+
+ta:1950களிலிருந்தே	O
+ta:அமேசான்	B-LOC
+ta:ஆற்றின்	I-LOC
+ta:கழிமுகத்தில்	O
+ta:இத்தகைய	O
+ta:பெரிய	O
+ta:பாறையமைப்பு	O
+ta:இருப்பதற்கான	O
+ta:சான்றுகள்	O
+ta:கிடைத்தவாறிருந்தது	O
+ta:.	O
+
+ta:1963ல்	O
+ta:ஐக்கிய	B-LOC
+ta:இராச்சியம்	I-LOC
+ta:இடமிருந்து	O
+ta:பெற்றது	O
+ta:.	O
+
+ta:ஜி.	B-PER
+ta:யு.	I-PER
+ta:போப்	I-PER
+
+ta:தேசிய	B-ORG
+ta:மதிப்பீடு	I-ORG
+ta:மற்றும்	I-ORG
+ta:தரச்சான்று	I-ORG
+ta:அவையின்	I-ORG
+ta:(	O
+ta:NAAC	O
+ta:)	O
+ta:அனுமதியுடன்	O
+ta:செயற்பட்டு	O
+ta:வருகிறது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:மிக்கி	B-PER
+ta:டி	I-PER
+ta:போயர்	I-PER
+
+ta:வழிமாற்று	O
+ta:நடுவுல	B-ORG
+ta:கொஞ்சம்	I-ORG
+ta:திசுட்டர்பு	I-ORG
+ta:பண்ணுவோம்	I-ORG
+
+ta:வழிமாற்று	O
+ta:முதலாம்	B-PER
+ta:தாமசுஸ்	I-PER
+ta:(	I-PER
+ta:திருத்தந்தை	I-PER
+ta:)	I-PER
+
+ta:இவை	O
+ta:பொதுவாக	O
+ta:ஈரோசியா	B-LOC
+ta:பகுதிகளில்	O
+ta:காணப்படுகிறது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:உறையூர்	B-ORG
+ta:அழகிய	I-ORG
+ta:மணவாளர்	I-ORG
+ta:கோயில்	I-ORG
+
+ta:சென்னை	B-ORG
+ta:மாநிலத்தில்	I-ORG
+ta:இந்திய	I-ORG
+ta:நாடாளுமன்றத்	I-ORG
+ta:தேர்தல்	I-ORG
+ta:,	I-ORG
+ta:1952	I-ORG
+
+ta:ரித்தீஷ்	O
+ta:,	O
+ta:சரத்குமார்	B-PER
+ta:போன்றோர்	O
+ta:)	O
+ta:.	O
+
+ta:''	O
+ta:ஆப்ரிக்ட்டோசோரஸ்	B-ORG
+ta:''	O
+ta:''	O
+ta:(	O
+ta:Abrictosaurus	O
+ta:)	O
+ta:''	O
+
+ta:செயின்ட்	B-LOC
+ta:வின்செண்டு	I-LOC
+ta:மற்றும்	I-LOC
+ta:கிரெனடீன்கள்	I-LOC
+
+ta:இது	O
+ta:கங்கை	B-LOC
+ta:ஆற்றுக்கு	I-LOC
+ta:அருகில்	O
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:ஒன்பதாம்	B-PER
+ta:போனிஃபாஸ்	I-PER
+ta:(	O
+ta:1389–1404	O
+ta:)	O
+
+ta:இத்தீவில்	O
+ta:வளரும்	O
+ta:ஊசியிலை	B-LOC
+ta:மரம்	I-LOC
+ta:நாட்டின்	O
+ta:சின்னமாக	O
+ta:அதன்	O
+ta:கொடியில்	O
+ta:வரையப்பட்டுள்ளது	O
+ta:.	O
+
+ta:**	O
+ta:மாஸ்கோ	B-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:வழிமாற்று	O
+ta:ஞாயிறு	B-LOC
+ta:(	I-LOC
+ta:விண்மீன்	I-LOC
+ta:)	I-LOC
+
+ta:எனினும்	O
+ta:தமிழீழ	B-ORG
+ta:விடுதலைப்	I-ORG
+ta:புலிகள்	I-ORG
+ta:அத்தகைய	O
+ta:ஒரு	O
+ta:பிரிவைக்	O
+ta:கொண்டிருந்தார்கள்	O
+ta:.	O
+
+ta:இத்திரைப்படத்தில்	O
+ta:தம்பி	B-PER
+ta:ராமையா	I-PER
+ta:முதல்	O
+ta:முறையாக	O
+ta:முக்கிய	O
+ta:கதாப்பாத்திரமாக	O
+ta:நடித்துள்ளார்	O
+ta:.	O
+
+ta:தற்போதைய	O
+ta:குடியரசுத்தலைவர்	O
+ta:யாக்கோபு	B-PER
+ta:சூமாவும்	I-PER
+ta:இங்கு	O
+ta:சிறையில்	O
+ta:வைக்கப்பட்டிருந்திருக்கிறார்	O
+ta:.	O
+
+ta:இ.எம்.ஜி.	B-ORG
+ta:யாதவர்	I-ORG
+ta:மகளிர்	I-ORG
+ta:கல்லூரி	I-ORG
+
+ta:இரண்டாம்	B-PER
+ta:புக்கா	I-PER
+ta:ராயன்	I-PER
+
+ta:ஹெர்வால்ட்	B-PER
+ta:ராம்ஸ்போத்தம்	I-PER
+ta:,	I-PER
+ta:முதலாம்	I-PER
+ta:சோல்பரி	I-PER
+ta:பிரபு	I-PER
+
+ta:வடக்கில்	O
+ta:,	O
+ta:47-வது	B-ORG
+ta:தேசிய	I-ORG
+ta:நெடுஞ்சாலைக்கு	I-ORG
+ta:அருகில்	O
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:இது	O
+ta:தற்போது	O
+ta:இலண்டனில்	B-LOC
+ta:உள்ள	O
+ta:பிரித்தானிய	B-ORG
+ta:அருங்காட்சியகத்தில்	I-ORG
+ta:உள்ளது	O
+ta:.	O
+
+ta:இவை	O
+ta:சென்னை	B-ORG
+ta:,	O
+ta:குவகாத்தி	B-LOC
+ta:,	O
+ta:கொல்கத்தா	B-LOC
+ta:,	O
+ta:மும்பை	B-LOC
+ta:,	O
+ta:நாக்பூர்	B-LOC
+ta:,	O
+ta:புது	B-LOC
+ta:தில்லி	I-LOC
+ta:நகரங்களில்	O
+ta:அமைந்துள்ளன	O
+ta:.	O
+
+ta:தமிழர்	B-ORG
+ta:விடுதலைக்	I-ORG
+ta:கூட்டணி	I-ORG
+ta:இத்தேர்தலில்	O
+ta:பங்கேற்கவில்லை	O
+ta:.	O
+
+ta:லாக்ராஞ்சியின்	B-ORG
+ta:நான்கு	I-ORG
+ta:வர்க்கத்	I-ORG
+ta:தேற்றம்	I-ORG
+
+ta:கண்டங்கத்தரி	B-LOC
+ta:_	O
+ta:Solanum	O
+ta:Jacquinii	O
+
+ta:இவர்	O
+ta:பாரதிய	B-ORG
+ta:ஜனதா	I-ORG
+ta:கட்சியைச்	I-ORG
+ta:சேர்ந்தவர்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:ராஜலட்சுமி	B-ORG
+ta:தொழில்நுட்பக்	I-ORG
+ta:கல்லூரி	I-ORG
+
+ta:1960-1972	O
+ta:வரையிலான	O
+ta:காலப்பகுதியில்	O
+ta:இலங்கை	B-LOC
+ta:வானொலியில்	I-LOC
+ta:கவியரங்குகளில்	O
+ta:பங்குபற்றி	O
+ta:புகழ்	O
+ta:பெற்றவர்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:தெலுங்குத்	B-ORG
+ta:தாய்	I-ORG
+ta:வாழ்த்து	I-ORG
+
+ta:பட்டுக்கோட்டை	B-LOC
+ta:நகரசபைக்கு	O
+ta:இரண்டு	O
+ta:முறை	O
+ta:தலைவராக	O
+ta:பொறுப்பேற்ற	O
+ta:இவர்	O
+ta:,	O
+ta:பல	O
+ta:நல்ல	O
+ta:திட்டங்களை	O
+ta:செயல்படுத்தினார்	O
+ta:.	O
+
+ta:சிவபுரம்	B-ORG
+ta:–	O
+ta:சண்பகவனம்	O
+ta:ச	O
+ta:,	O
+ta:அ	O
+ta:,	O
+
+ta:இதன்	O
+ta:தலைவராகப்	O
+ta:பழ.	B-PER
+ta:நெடுமாறன்	I-PER
+ta:செயல்படுகிறார்	O
+ta:.	O
+
+ta:Nazeer]]	O
+ta:,	O
+ta:ஜெயபாரதி	B-PER
+ta:(	I-PER
+ta:மலையாள	I-PER
+ta:நடிகர்	I-PER
+ta:)	I-PER
+ta:,	O
+ta:அடூர்	B-PER
+ta:பாசி	I-PER
+
+ta:பெரம்பூர்	B-ORG
+ta:சட்டமன்ற	I-ORG
+ta:தொகுதி	I-ORG
+ta:உறுப்பினராவார்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:கொழும்புப்	B-ORG
+ta:பங்குப்	I-ORG
+ta:பரிவர்த்தனை	I-ORG
+
+ta:டோனி	B-PER
+ta:ஜா	I-PER
+ta:as	O
+ta:Louie	O
+ta:Tran	O
+
+ta:வழிமாற்று	O
+ta:ஓ.	B-PER
+ta:என்.	I-PER
+ta:வி.	I-PER
+ta:குறுப்பு	I-PER
+
+ta:வழிமாற்று	O
+ta:குன்னுவாரங்கோட்டை	B-ORG
+ta:காசி	I-ORG
+ta:விசாலாட்சி	I-ORG
+ta:விசுவநாதர்	I-ORG
+ta:கோயில்	I-ORG
+
+ta:வழிமாற்று	O
+ta:கல்யாண்	B-ORG
+ta:சந்திப்பு	I-ORG
+ta:தொடருந்து	I-ORG
+ta:நிலையம்	I-ORG
+
+ta:1960-களில்	O
+ta:மும்பை	B-ORG
+ta:தொடருந்து	I-ORG
+ta:நிலையத்தில்	I-ORG
+ta:சுமைதூக்குக்	O
+ta:கூலியாக	O
+ta:தன்னுடைய	O
+ta:ஆரம்ப	O
+ta:காலத்தில்	O
+ta:வேலை	O
+ta:செய்தார்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:பன்னாட்டு	B-ORG
+ta:இயற்கைப்	I-ORG
+ta:பாதுகாப்புச்	I-ORG
+ta:சங்கம்	I-ORG
+
+ta:இவர்	O
+ta:பாரதிய	B-ORG
+ta:ஜனதா	I-ORG
+ta:கட்சியைச்	I-ORG
+ta:சேர்ந்தவர்	O
+ta:.	O
+
+ta:இந்த	O
+ta:ஒலிம்பிக்கின்போது	O
+ta:பன்னாட்டு	B-ORG
+ta:ஒலிம்பிக்	I-ORG
+ta:குழுவின்	I-ORG
+ta:தலைவராக	O
+ta:பியர்	B-PER
+ta:தெ	I-PER
+ta:குபர்த்தென்	I-PER
+ta:இருந்தார்	O
+ta:.	O
+
+ta:லுடுவிக்	B-PER
+ta:ஃவான்	I-PER
+ta:பேத்தோவன்	I-PER
+
+ta:லைனஸ்	B-PER
+ta:(	I-PER
+ta:திருத்தந்தை	I-PER
+ta:)	I-PER
+
+ta:அந்த	O
+ta:படத்தை	O
+ta:ஜானு	B-PER
+ta:பருவா	I-PER
+ta:இயக்கினார்	O
+ta:.	O
+
+ta:**	O
+ta:கோலாலம்பூர்	B-LOC
+ta:(	O
+ta:High-Commission	O
+ta:)	O
+
+ta:டி.	B-PER
+ta:ராஜேந்தர்	I-PER
+ta:--	O
+ta:-	O
+ta:--	O
+ta:-	O
+
+ta:சிலர்	O
+ta:,	O
+ta:இவர்	O
+ta:செருமானிய	B-LOC
+ta:வம்சாவளியைச்	O
+ta:சேர்ந்த	O
+ta:போலந்து	B-LOC
+ta:நாட்டவர்	O
+ta:என்றும்	O
+ta:கருதுகிறார்கள்	O
+ta:.	O
+
+ta:இது	O
+ta:பின்னர்	O
+ta:நான்காம்	B-ORG
+ta:அனைத்துலகத்தில்	I-ORG
+ta:இருந்து	O
+ta:நீக்கப்பட்டது	O
+ta:.	O
+
+ta:நிம்பார்க்கர்	B-PER
+ta:(	O
+ta:பொ.பி	O
+ta:13ஆம்	O
+ta:நூற்	O
+ta:.	O
+ta:)	O
+
+ta:இது	O
+ta:பிரான்சு	B-LOC
+ta:நாட்டில்	O
+ta:வழக்கில்	O
+ta:இருந்தது	O
+ta:என்பதற்கு	O
+ta:பல	O
+ta:ஆதாரங்கள்	O
+ta:உள்ளன	O
+ta:.	O
+
+ta:கலிபோர்னியா	B-ORG
+ta:பல்கலைக்கழகம்	I-ORG
+ta:(	I-ORG
+ta:பெர்க்லி	I-ORG
+ta:)	I-ORG
+ta:.	O
+
+ta:இவர்	O
+ta:சமூகநலத்துறை	O
+ta:அமைச்சராக	O
+ta:1996	B-ORG
+ta:தேர்தலுக்குப்பின்	I-ORG
+
+ta:வழிமாற்று	O
+ta:ஹச்.	B-PER
+ta:பி.	I-PER
+ta:அரி	I-PER
+ta:கௌடர்	I-PER
+
+ta:''தண்ணீரும்	O
+ta:கண்ணீரும்	O
+ta:''	O
+ta:-	O
+ta:டொமினிக்	B-PER
+ta:ஜீவா	I-PER
+
+ta:கூடுதலாக	O
+ta:இதுவே	O
+ta:இந்திய	B-ORG
+ta:விவசாய	I-ORG
+ta:ஆராய்ச்சி	I-ORG
+ta:மன்றத்தை	I-ORG
+ta:(	O
+ta:ICAR	O
+ta:)	O
+ta:நிர்வகிக்கிறது	O
+ta:.	O
+
+ta:(	O
+ta:திருப்பாடல்கள்	B-PER
+ta:78:2	O
+ta:)	O
+ta:``	O
+ta:என்	O
+ta:தலைவராகிய	O
+ta:உங்கள்	O
+ta:போதகர்	O
+ta:உங்களுக்கு	O
+ta:இனித்	O
+ta:தம்மை	O
+ta:மறைத்துக்கொள்ள	O
+ta:மாட்டார்	O
+ta:;	O
+ta:உங்கள்	O
+ta:போதகரை	O
+ta:நீங்கள்	O
+ta:கண்ணால்	O
+ta:காண்பீர்கள்	O
+ta:.	O
+
+ta:தாம‌ஸ்	B-PER
+ta:பாரி	I-PER
+ta:என்ப‌வ‌ருக்குப்பின்	O
+ta:இப்பெய‌ர்	O
+ta:பெற்ற‌து	O
+ta:.	O
+
+ta:அங்கு	O
+ta:பாதுகாப்புக்கு	O
+ta:இருந்த	O
+ta:காவற்துறையினர்ர்	O
+ta:அவரைக்	O
+ta:காப்பாற்றி	O
+ta:கீழ்ப்பாக்கம்	B-LOC
+ta:மருத்துவமனைக்கு	O
+ta:கொண்டு	O
+ta:சென்றனர்	O
+ta:.	O
+
+ta:ச.	B-PER
+ta:வெ.	I-PER
+ta:இராமன்	I-PER
+
+ta:அமெரிக்கக்	B-ORG
+ta:காங்கிரசு	I-ORG
+ta:நூலகத்தில்	I-ORG
+ta:''அரிய	O
+ta:புத்தகம்	O
+ta:மற்றும்	O
+ta:சிறப்பு	O
+ta:தொகுப்புகள்	O
+ta:பிரிவில்	O
+ta:''	O
+ta:(	O
+ta:Rare	O
+ta:Book	O
+ta:and	O
+ta:Special	O
+ta:Collections	O
+ta:Division	O
+ta:)	O
+ta:இவரின்	O
+ta:புத்தகங்கள்	O
+ta:காட்சிப்படுத்தப்படுள்ளது	O
+ta:.	O
+
+ta:அந்தச்	O
+ta:சமயத்தில்	O
+ta:,	O
+ta:குறிப்பாக	O
+ta:டேவிட்	B-PER
+ta:பெக்காம்	I-PER
+ta:போன்ற	O
+ta:பிரபலமான	O
+ta:இளம்	O
+ta:வீரர்களின்	O
+ta:வருகையின்	O
+ta:காரணமாக	O
+ta:,	O
+ta:கிக்ஸின்	O
+ta:ஊடகத்	O
+ta:தோற்றம்	O
+ta:மெல்ல	O
+ta:குறையத்	O
+ta:தொடங்கியது	O
+ta:என்பதுடன்	O
+ta:,	O
+ta:பெக்காம்	O
+ta:ஆடுகளத்தில்	O
+ta:இருந்தாலும்	O
+ta:இல்லாவிட்டாலும்	O
+ta:அதுவரை	O
+ta:இல்லாத	O
+ta:அளவிற்கு	O
+ta:ஊடகங்களின்	O
+ta:கவனத்திற்கு	O
+ta:உள்ளானார்	O
+ta:.	O
+
+ta:முசிறி	B-LOC
+ta:(	I-LOC
+ta:திருச்சி	I-LOC
+ta:மாவட்டம்	I-LOC
+ta:)	I-LOC
+
+ta:இவற்றின்	O
+ta:தொழிற்பாடு	O
+ta:தொற்றுநோய்களின்	B-ORG
+ta:கடத்தல்	O
+ta:அல்லது	O
+ta:பரவலுக்கு	O
+ta:உதவும்	O
+ta:காரணிகளுள்	O
+ta:ஒன்றாக	O
+ta:இருக்கிறது	O
+ta:.	O
+
+ta:இக்கருத்து	O
+ta:இரு	O
+ta:நூற்றாண்டுகளுக்குப்	O
+ta:பிறகே	O
+ta:யூலியசு	B-PER
+ta:சீசர்	I-PER
+ta:காலத்தில்	O
+ta:நடைமுறைப்படுத்தப்பட்டது	O
+ta:.	O
+
+ta:﻿	O
+ta:''	O
+ta:'	O
+ta:''	O
+ta:'	O
+ta:,	O
+ta:ஆந்திரப்	B-LOC
+ta:பிரதேசத்தின்	I-LOC
+ta:மேற்கு	B-LOC
+ta:கோதாவரி	I-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:உள்ள	O
+ta:46	O
+ta:மண்டலங்களில்	O
+ta:ஒன்று	O
+ta:.	O
+
+ta:இவர்	O
+ta:பரதுவாஜரின்	B-PER
+ta:புதல்வர்	O
+ta:ஆவார்	O
+ta:.	O
+
+ta:கேப்	B-LOC
+ta:வர்டி	I-LOC
+ta:(	O
+ta:Portugal	O
+ta:)	O
+
+ta:வின்டு	B-PER
+ta:செர்ப்பு	I-PER
+ta:,	O
+ta:திம்	B-PER
+ta:பேர்னேர்சு-லீ	I-PER
+ta:,	O
+ta:இரிச்சர்டு	B-PER
+ta:சிட்டால்மேன்	I-PER
+ta:,	O
+ta:இலினசு	B-PER
+ta:தோர்வால்டுசு	I-PER
+ta:முதலியோர்	O
+ta:இதன்	O
+ta:தொடக்க	O
+ta:உறுப்பினர்களுள்	O
+ta:சிலர்	O
+ta:.	O
+
+ta:பாக்காத்தான்	B-ORG
+ta:ராக்யாட்	I-ORG
+ta:மக்கள்	B-ORG
+ta:நீதிக்	I-ORG
+ta:கட்சி	I-ORG
+
+ta:கிழக்குக்கூட்டத்தை	O
+ta:வெற்றிபெற்ற	O
+ta:பாஸ்டன்	B-ORG
+ta:செல்டிக்ஸ்	I-ORG
+ta:அணியும்	O
+ta:மேற்குக்கூட்டத்தை	O
+ta:வெற்றிபெற்ற	O
+ta:லாஸ்	B-ORG
+ta:ஏஞ்சலஸ்	I-ORG
+ta:லேகர்ஸ்	I-ORG
+ta:அணியும்	O
+ta:இப்போட்டிகளில்	O
+ta:மோதின	O
+ta:.	O
+
+ta:இப்பாம்புகள்	O
+ta:ஈரான்	B-LOC
+ta:,	O
+ta:பாக்கித்தான்	B-LOC
+ta:,	O
+ta:இந்தியா	B-LOC
+ta:.	O
+
+ta:அனைத்திந்திய	B-ORG
+ta:அண்ணா	I-ORG
+ta:திராவிட	I-ORG
+ta:முன்னேற்றக்	I-ORG
+ta:கழகம்	I-ORG
+
+ta:பிரித்தானியப்	B-LOC
+ta:பேரரசு	I-LOC
+ta:(	O
+ta:1583–1997	O
+ta:)	O
+
+ta:ஜெயராம்	B-PER
+ta:(	I-PER
+ta:நடிகர்	I-PER
+ta:)	I-PER
+ta:-	O
+ta:மாத்ருபூதம்	O
+
+ta:இவர்	O
+ta:1977	B-ORG
+ta:நாடாளுமன்றத்	I-ORG
+ta:தேர்தலில்	I-ORG
+ta:,	O
+ta:தமிழர்	B-ORG
+ta:விடுதலைக்	I-ORG
+ta:கூட்டணியின்	I-ORG
+ta:வேட்பாளராக	O
+ta:இரட்டை-அங்கத்தவர்	O
+ta:தொகுதியான	O
+ta:பொத்துவிலில்	B-LOC
+ta:போட்டியிட்டு	O
+ta:இரண்டாவதாகத்	O
+ta:தெரிவாகி	O
+ta:நாடாளுமன்றம்	B-ORG
+ta:சென்றார்	O
+ta:.	O
+
+ta:இது	O
+ta:கோசைன்	B-ORG
+ta:விதி	I-ORG
+ta:என	O
+ta:அழைக்கப்படும்	O
+ta:.	O
+
+ta:இத்திரைப்படத்தில்	O
+ta:சுரேஷ்	B-PER
+ta:கோபி	I-PER
+ta:,	O
+ta:லைலா	B-PER
+ta:போன்றோர்	O
+ta:முன்னணிக்	O
+ta:கதாப்பாத்திரங்களில்	O
+ta:நடித்துள்ளனர்	O
+ta:.	O
+
+ta:'	O
+ta:''	O
+ta:அடம்	B-PER
+ta:கில்கிறிஸ்ற்	I-PER
+ta:''	O
+ta:'	O
+
+ta:தமிழர்	B-ORG
+ta:விடுதலைக்	I-ORG
+ta:கூட்டணி	I-ORG
+ta:(	O
+ta:ஆனந்தசங்கரி	B-PER
+ta:குழு	O
+ta:)	O
+
+ta:ரசிய	B-LOC
+ta:கதையொன்றில்	O
+ta:வரும்	O
+ta:கதாப்பாத்திரமான	O
+ta:மிஷ்கின்	B-PER
+ta:என்ற	O
+ta:பெயரை	O
+ta:தனக்கு	O
+ta:சூட்டிக்	O
+ta:கொண்டார்	O
+ta:.	O
+
+ta:சிங்களம்	B-ORG
+ta:–	O
+ta:ஐயோ	O
+ta:என்பதை	O
+ta:அந்தோ	O
+ta:என்பர்	O
+
+ta:இது	O
+ta:கன்னியாகுமரி	B-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:அதிகம்	O
+ta:விளைகிறது	O
+ta:.	O
+
+ta:வாணியம்பாடி	B-ORG
+ta:(	I-ORG
+ta:சட்டமன்றத்	I-ORG
+ta:தொகுதி	I-ORG
+ta:)	I-ORG
+
+ta:திரு.	B-PER
+ta:வி.	I-PER
+ta:கலியாணசுந்தரனார்	I-PER
+
+ta:தொடக்கத்தில்	O
+ta:மாதம்	O
+ta:இருமுறை	O
+ta:வெளியிடப்பட்ட	O
+ta:இது	O
+ta:பின்னர்	O
+ta:வாரத்துக்கு	O
+ta:ஒரு	O
+ta:முறை	O
+ta:தெல்லிப்பழையில்	B-LOC
+ta:அச்சிட்டு	O
+ta:வெளிவந்தது	O
+ta:.	O
+
+ta:மேலும்	O
+ta:,	O
+ta:அவர்	O
+ta:பெண்களின்	O
+ta:33	O
+ta:சதவித	O
+ta:மகளிர்	B-ORG
+ta:இட	I-ORG
+ta:ஒதுக்கீடு	I-ORG
+ta:சட்டத்தை	I-ORG
+ta:இயற்றவேண்டும்	O
+ta:தொடர்ந்து	O
+ta:வலியுறுத்தி	O
+ta:வருகிறார்	O
+ta:.	O
+
+ta:இவனின்	O
+ta:பின்னர்	O
+ta:இவனது	O
+ta:சகோதரனான	O
+ta:மூன்றாம்	B-PER
+ta:தப்புலன்	I-PER
+ta:ஆட்சிபீடம்	O
+ta:ஏறினான்	O
+ta:.	O
+
+ta:வட்டப்பாதை	B-ORG
+ta:வழித்தடத்தில்	I-ORG
+ta:இது	O
+ta:ஐந்தாவது	O
+ta:தொடருந்துநிலையமாகும்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:தேசிய	B-ORG
+ta:நெடுஞ்சாலை	I-ORG
+ta:45சி	I-ORG
+ta:(	I-ORG
+ta:இந்தியா	I-ORG
+ta:)	I-ORG
+
+ta:மேலும்	O
+ta:இது	O
+ta:உலகப்	B-ORG
+ta:பாரம்பரியக்	I-ORG
+ta:களம்	I-ORG
+ta:என்பதிலும்	O
+ta:அறிவிக்கப்பட	O
+ta:,	O
+ta:முன்மொழியப்பட்டுள்ளது	O
+ta:.	O
+
+ta:அக்பர்	B-PER
+ta:அவர்களை	O
+ta:மகிழ்ச்சியுடன்	O
+ta:வரவேற்பதையும்	O
+ta:கண்டனர்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:காயுஸ்	B-PER
+ta:(	I-PER
+ta:திருத்தந்தை	I-PER
+ta:)	I-PER
+
+ta:பண்ருட்டி	B-PER
+ta:இராமச்சந்திரன்	I-PER
+ta:முன்னாள்	O
+ta:அமைச்சர்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:காஞ்சிபுரம்	B-ORG
+ta:ஏகாம்பரநாதர்	I-ORG
+ta:கோயில்	I-ORG
+
+ta:அதற்குப்	O
+ta:பின்	O
+ta:இவன்	O
+ta:வழியினரான	O
+ta:ஆரியச்	B-ORG
+ta:சக்கரவர்த்திகள்	I-ORG
+ta:யாழ்பாணத்தை	O
+ta:கி.பி	O
+ta:.	O
+
+ta:Post	O
+ta:Office	O
+ta:Road	O
+ta:,	O
+ta:சாவகச்சேரி	B-LOC
+
+ta:இது	O
+ta:கோடா	B-ORG
+ta:மக்களவைத்	I-ORG
+ta:தொகுதிக்கு	I-ORG
+ta:உட்பட்டது	O
+ta:.	O
+
+ta:இதை	O
+ta:இந்திய	B-ORG
+ta:இரயில்வே	I-ORG
+ta:இயக்குகிறது	O
+ta:.	O
+
+ta:திருச்சிராப்பள்ளியில்	B-LOC
+ta:பிறந்த	O
+ta:இவர்	O
+ta:தனது	O
+ta:உடன்பிறவா	O
+ta:சகோதரர்	O
+ta:பி	O
+ta:.	O
+
+ta:``	O
+ta:மச்சான்..	O
+ta:''	O
+ta:-	O
+ta:எஸ்.	B-PER
+ta:பி.	I-PER
+ta:பாலசுப்பிரமணியம்	I-PER
+ta:,	O
+ta:எஸ்.	B-PER
+ta:ஜானகி	I-PER
+
+ta:பேச்சியாக	O
+ta:-	O
+ta:சரண்யா	B-PER
+ta:பொன்வண்ணன்	I-PER
+
+ta:இது	O
+ta:சோன்	B-LOC
+ta:ஆற்றங்கரைக்கு	I-LOC
+ta:அருகில்	O
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:தேசிய	B-ORG
+ta:நெடுஞ்சாலை	I-ORG
+ta:49	I-ORG
+ta:உடன்	O
+ta:நதிப்பாலம்	O
+ta:மூலமாக	O
+ta:இக்கிராமம்	O
+ta:இணைக்கப்பட்டுள்ளது	O
+ta:.	O
+
+ta:இவ்விழா	O
+ta:டால்பி	O
+ta:திரையரங்கு	O
+ta:,	O
+ta:ஹாலிவுட்	B-LOC
+ta:,	O
+ta:லாஸ்	B-LOC
+ta:ஏஞ்சலஸ்	I-LOC
+ta:,	O
+ta:கலிபோர்னியாவில்	B-LOC
+ta:நடந்தது	O
+ta:.	O
+
+ta:கார்டுராய்	O
+ta:சாலைகள்	O
+ta:இங்கிலாந்து	B-LOC
+ta:,	O
+ta:கிளாஸ்டான்புரியில்	O
+ta:கி.மு	O
+ta:.	O
+
+ta:killanur	O
+ta:Gram	O
+ta:Panchayat	O
+ta:''	O
+ta:)	O
+ta:,	O
+ta:தமிழ்நாட்டின்	B-LOC
+ta:விழுப்புரம்	B-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:உள்ள	O
+ta:உளுந்தூர்பேட்டை	B-LOC
+ta:வட்டாரத்தில்	O
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:1912ல்	O
+ta:உதுமானியப்	B-LOC
+ta:பேரரசு	I-LOC
+ta:இடமிருந்து	O
+ta:பெற்றது	O
+ta:.	O
+
+ta:மந்திரம்	B-ORG
+ta:(	I-ORG
+ta:இந்து	I-ORG
+ta:சமயம்	I-ORG
+ta:)	I-ORG
+
+ta:'	O
+ta:''	O
+ta:சுப்ரமணியம்	B-PER
+ta:பத்ரிநாத்	I-PER
+ta:''	O
+ta:'	O
+
+ta:வழிமாற்று	O
+ta:ராயபாடி	B-PER
+ta:சாம்பசிவ	I-PER
+ta:ராவ்	I-PER
+
+ta:தொழிற்	B-ORG
+ta:கட்சி	I-ORG
+ta:(	I-ORG
+ta:ஆஸ்திரேலியா	I-ORG
+ta:)	I-ORG
+
+ta:வழிமாற்று	O
+ta:வால்ட்	B-ORG
+ta:டிஸ்னி	I-ORG
+ta:உலகம்	I-ORG
+
+ta:'	O
+ta:''	O
+ta:3	B-LOC
+ta::	I-LOC
+ta:குயின்சு	I-LOC
+ta:''	O
+ta:'	O
+ta:,	O
+
+ta:வழிமாற்று	O
+ta:யொகான்னசு	B-PER
+ta:வி.	I-PER
+ta:யென்சென்	I-PER
+
+ta:வழிமாற்று	O
+ta:ஆங்	B-PER
+ta:சான்	I-PER
+ta:சூச்சி	I-PER
+
+ta:திருவானைக்காவில்	O
+ta:அகிலாண்டேஸ்வரி	B-ORG
+ta:உடனாய	I-ORG
+ta:ஜெம்புகேசுவரர்	I-ORG
+ta:கோயில்	I-ORG
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:ஒராயன்	B-ORG
+ta:(	I-ORG
+ta:விண்கலம்	I-ORG
+ta:)	I-ORG
+
+ta:டேவிட்	B-PER
+ta:ஹேமேன்ஆல்	I-PER
+ta:இத்திரைப்படம்	O
+ta:தயாரிக்கப்பட்டது	O
+ta:.	O
+
+ta:தமிழர்	B-ORG
+ta:விடுதலைக்	I-ORG
+ta:கூட்டணி	I-ORG
+ta:இத்தேர்தலில்	O
+ta:பங்கேற்கவில்லை	O
+ta:.	O
+
+ta:இது	O
+ta:தெற்கு	B-LOC
+ta:ஐரோப்பாவின்	I-LOC
+ta:அங்கமாகும்	O
+ta:.	O
+
+ta:சிவதொண்டர்	O
+ta:,	O
+ta:சிவனைப்	B-ORG
+ta:பணிசெய்ய	O
+ta:ஏவும்	O
+ta:பிழை	O
+ta:புரிவரேனும்	O
+ta:அவர்	O
+ta:சிவபக்தியிற்	O
+ta:சிறந்தோரால்	O
+ta:பத்தி	O
+ta:செய்தற்குரியவர்	O
+ta:.	O
+
+ta:மிச்சிகன்	B-ORG
+ta:பல்கலைக்கழக	I-ORG
+ta:சட்டப்பள்ளியில்	O
+ta:வருகைதரு	O
+ta:பேராசிரியராகவும்	O
+ta:பணியாற்றுகின்றார்	O
+ta:.	O
+
+ta:ஒசாவா	O
+ta:ஜப்பான்	B-LOC
+ta:ஹொக்காய்டோவில்	O
+ta:பிறந்தார்	O
+ta:.	O
+
+ta:பக்னரும்	O
+ta:''	O
+ta:,	O
+ta:இங்கிலாந்தைச்	B-LOC
+ta:சேர்ந்த	O
+ta:''டி	O
+ta:.	O
+
+ta:ஹுசைனாபாத்	B-ORG
+ta:சட்டமன்றத்	I-ORG
+ta:தொகுதி	I-ORG
+ta:(	O
+ta:79	O
+ta:)	O
+
+ta:தாதுசேனன்	B-PER
+ta:(	O
+ta:பொ.பி	O
+ta:.	O
+
+ta:இது	O
+ta:அதே	O
+ta:பெயரையுடைய	O
+ta:புத்தளம்	B-LOC
+ta:மாவட்டத்தின்	I-LOC
+ta:தலைநகரமும்	O
+ta:ஆகும்	O
+ta:.	O
+
+ta:முதலாம்	B-PER
+ta:செலஸ்தீன்	I-PER
+ta:(	O
+ta:422–432	O
+ta:)	O
+
+ta:குவாம்	B-LOC
+ta:(	O
+ta:அமெரிக்க	B-LOC
+ta:ஐக்கிய	I-LOC
+ta:நாடு	I-LOC
+ta:)	O
+ta:''	O
+
+ta:'	O
+ta:''	O
+ta:சமோவா	B-LOC
+ta:''	O
+ta:'	O
+
+ta:அதன்	O
+ta:மூலம்	O
+ta:இராவணனும்	B-PER
+ta:வீரமரணம்	O
+ta:அடைந்தார்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:மனோரமா	B-PER
+ta:(	I-PER
+ta:நடிகை	I-PER
+ta:)	I-PER
+
+ta:யாழ்ப்பாண	B-ORG
+ta:பல்கலைக்கழக	I-ORG
+ta:ஆசிரியர்களின்	I-ORG
+ta:மனித	I-ORG
+ta:உரிமைகள்	I-ORG
+ta:அமைப்பு	I-ORG
+
+ta:இவர்	O
+ta:நாடாளுமன்ற	B-PER
+ta:சபாநாயகராகவும்	I-PER
+ta:தென்	B-LOC
+ta:மாகாண	I-LOC
+ta:ஆளுனராகவும்	O
+ta:பணியாற்றியவர்	O
+ta:.	O
+
+ta:பின்னர்	O
+ta:,	O
+ta:திருவனந்தபுரம்	B-LOC
+ta:,	O
+ta:கொச்சி	B-LOC
+ta:,	O
+ta:கோழிக்கோடு	B-LOC
+ta:,	O
+ta:கண்ணூர்	B-LOC
+ta:ஆகிய	O
+ta:பதிப்புகளும்	O
+ta:வெளியாகின்றன..	O
+ta:வி.பி.எம்	O
+ta:.	O
+
+ta:**	O
+ta:வெண்புருவக்	B-LOC
+ta:கொண்டலாத்தி	I-LOC
+ta:,	O
+ta:''Pycnonotus	O
+ta:luteolus	O
+ta:''	O
+
+ta:இத்திரைப்படத்திற்கு	O
+ta:யுவன்	B-PER
+ta:சங்கர்	I-PER
+ta:ராஜா	I-PER
+ta:இசையமைத்திருந்தார்	O
+ta:.	O
+
+ta:''	O
+ta:(	O
+ta:Self-governing	O
+ta:in	O
+ta:free	O
+ta:association	O
+ta:with	O
+ta:நியூசிலாந்து	B-LOC
+ta:''	O
+
+ta:வடமேற்கில்	O
+ta:நேபாளம்	B-LOC
+ta:,	O
+ta:சிக்கிம்	B-LOC
+
+ta:மட்டஞ்சேரி	B-ORG
+ta:அரண்மனை	I-ORG
+ta:அருங்காட்சியகம்	I-ORG
+ta:,	I-ORG
+ta:கொச்சி	I-ORG
+
+ta:சண்முக	B-PER
+ta:ராஜேஸ்வர	I-PER
+ta:சேதுபதி	I-PER
+ta:(	O
+ta:1929–1967	O
+ta:)	O
+
+ta:ஐரோப்பியப்	B-LOC
+ta:பண்பாட்டின்	O
+ta:தாக்கத்தால்	O
+ta:இந்நகரம்	O
+ta:தென்	B-LOC
+ta:அமெரிக்காவின்	I-LOC
+ta:பாரிஸ்	B-LOC
+ta:என்று	O
+ta:அழைக்கப்படுகிறது	O
+ta:.	O
+
+ta:இதுவே	O
+ta:பின்னர்	O
+ta:யாழ்ப்பாணப்	B-ORG
+ta:பொது	I-ORG
+ta:நூலகம்	I-ORG
+ta:ஆனது	O
+ta:.	O
+
+ta:228	O
+ta:)	O
+ta:வாங்கின்	O
+ta:''லூன்கெங்	O
+ta:''	O
+ta:நூற்படியை	O
+ta:வாங்கி	O
+ta:,	O
+ta:அதை	O
+ta:198	O
+ta:ஆம்	O
+ta:ஆண்டுப்	O
+ta:பயணத்தின்போது	O
+ta:தன்னுடன்	O
+ta:சியூசாங்கில்	O
+ta:முதன்மை	O
+ta:அமைச்சர்	O
+ta:சாவோ	B-PER
+ta:சாவோவால்	I-PER
+ta:(	O
+ta:155–220	O
+ta:)	O
+ta:நிறுவப்பட்ட	O
+ta:அவைக்குக்	O
+ta:கொண்டு	O
+ta:வந்துள்ளார்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:ஐக்கிய	B-ORG
+ta:நாடுகள்	I-ORG
+ta:அவை	I-ORG
+
+ta:பிர்லா	B-ORG
+ta:தொழில்நுட்பம்	I-ORG
+ta:மற்றும்	I-ORG
+ta:அறிவியல்	I-ORG
+ta:கழகம்	I-ORG
+
+ta:விட்டுணுவோ	O
+ta:தன்னில்	O
+ta:குறை	O
+ta:எதுவும்	O
+ta:இல்லையென்றும்	O
+ta:,	O
+ta:படைப்புக்	O
+ta:கடவுளான	O
+ta:பிரமன்	B-PER
+ta:படைத்தவற்றுள்	O
+ta:அவ்வாறான	O
+ta:ஒன்று	O
+ta:இல்லையென்றும்	O
+ta:பணிவுடன்	O
+ta:கூறினாராம்	O
+ta:.	O
+
+ta:'	O
+ta:''	O
+ta:பெர்லிஸ்	B-LOC
+ta:''	O
+ta:'	O
+
+ta:வழிமாற்று	O
+ta:உயிரணு	B-ORG
+ta:மற்றும்	I-ORG
+ta:மூலக்கூறு	I-ORG
+ta:உயிரியல்	I-ORG
+ta:மையம்	I-ORG
+
+ta:யுவன்	B-PER
+ta:சங்கர்	I-PER
+ta:ராஜா	I-PER
+
+ta:இது	O
+ta:வட	B-ORG
+ta:சென்னை	I-ORG
+ta:மக்களவைத்	I-ORG
+ta:தொகுதியுள்	I-ORG
+ta:அடங்குகிறது	O
+ta:.	O
+
+ta:கோ.	B-PER
+ta:சாரங்கபாணியின்	I-PER
+ta:தமிழ்த்தொண்டு	O
+ta:ஓர்	O
+ta:ஆய்வு	O
+
+ta:தஞ்சாவூர்	B-LOC
+ta:மாவட்ட	I-LOC
+ta:செயலாளராக	O
+ta:பொறுப்புவகித்துள்ளார்	O
+ta:.	O
+
+ta:அன்னை	B-PER
+ta:தெரேசா	I-PER
+ta:(	O
+ta:Mother	O
+ta:Teresa	O
+ta:)	O
+
+ta:இங்கிருந்து	O
+ta:10	O
+ta:கி.மீ	O
+ta:தொலைவில்	O
+ta:பட்னா	B-LOC
+ta:உள்ளது	O
+ta:.	O
+
+ta:இறுதி	O
+ta:மூன்று	O
+ta:தினங்களும்	O
+ta:முறையே	O
+ta:அருச்சுனன்	B-PER
+ta:பாசுபதம்	B-ORG
+ta:பெறுதல்	O
+ta:(	O
+ta:தவநிலை	O
+ta:)	O
+ta:மற்றும்	O
+ta:தீமிதிப்பு	O
+ta:என்பன	O
+ta:நடைபெறும்	O
+ta:.	O
+
+ta:சூர்யா	B-PER
+ta:இரட்டை	O
+ta:வேடத்தில்	O
+ta:நடிக்க	O
+ta:,	O
+ta:இவருக்கு	O
+ta:ஜோடியாக	O
+ta:சமந்தா	B-PER
+ta:நடித்துள்ளார்	O
+ta:.	O
+
+ta:மகாபாரதத்தின்படி	O
+ta:இவன்	O
+ta:மகத	B-LOC
+ta:நாட்டின்	I-LOC
+ta:அரசனாக	O
+ta:இருந்தவன்	O
+ta:.	O
+
+ta:அவை	O
+ta:குறுக்கிடக்கூடாது	O
+ta:என்றும்	O
+ta:ஐக்கிய	B-ORG
+ta:நாடுகள்	I-ORG
+ta:அவையில்	I-ORG
+ta:பேசினார்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:செ.	B-PER
+ta:எ.	I-PER
+ta:ஆனந்தராஜன்	I-PER
+
+ta:வழிமாற்று	O
+ta:இரண்டாம்	B-PER
+ta:அகாப்பெட்டஸ்	I-PER
+ta:(	I-PER
+ta:திருத்தந்தை	I-PER
+ta:)	I-PER
+
+ta:பொதுவாக	O
+ta:,	O
+ta:யூக்ளிடிய	B-ORG
+ta:வெளியிலுள்ள	I-ORG
+ta:ஏதேனுமொரு	O
+ta:புள்ளிக்கும்	O
+ta:அவ்வெளியில்	O
+ta:உட்பதிந்த	O
+ta:எந்தவொரு	O
+ta:செவ்வகத்துக்கும்	O
+ta:இத்தேற்றம்	O
+ta:பொருந்தும்	O
+ta:.	O
+
+ta:'ஆகமமாகி	O
+ta:நின்று	O
+ta:அண்ணிப்பான்	O
+ta:'	O
+ta:என	O
+ta:வரும்	O
+ta:மாணிக்கவாசகர்	B-PER
+ta:கூற்றிலே	O
+ta:'ஆகம	O
+ta:வழி	O
+ta:நிற்பார்க்கு	O
+ta:இறைவன்	O
+ta:அணுகி	O
+ta:வந்து	O
+ta:அருள்புரிவான்	O
+ta:'	O
+ta:என்னும்	O
+ta:பொருள்	O
+ta:பெறப்படுகின்றது	O
+ta:.	O
+
+ta:மலேசியா	B-PER
+ta:வாசுதேவன்	I-PER
+ta:,	O
+ta:எஸ்.	B-PER
+ta:ஜானகி	I-PER
+
+ta:மலையக	B-ORG
+ta:மக்கள்	I-ORG
+ta:முன்னணி	I-ORG
+ta:ஆகியனவும்	O
+ta:போட்டியிடுகின்றன	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:இலங்கை	B-ORG
+ta:சனநாயகக்	I-ORG
+ta:கட்சி	I-ORG
+
+ta:வழிமாற்று	O
+ta:காமரூப்	B-LOC
+ta:பெருநகர்	I-LOC
+ta:மாவட்டம்	I-LOC
+
+ta:இவன்	O
+ta:தனது	O
+ta:சகோதரனான	O
+ta:மூன்றாம்	B-PER
+ta:காசியப்பனின்	I-PER
+ta:பின்னர்	O
+ta:ஆட்சிபீடம்	O
+ta:ஏறினான்	O
+ta:.	O
+
+ta:முதலாக	O
+ta:லியோனார்டோ	B-PER
+ta:டிகாப்ரியோ	I-PER
+ta:நடிக்க	O
+ta:தேர்வு	O
+ta:செய்யப்பட்டார்	O
+ta:.	O
+
+ta:அந்தநேர்த்தியான	O
+ta:குரலால்	O
+ta:கதைசொல்பவர்	O
+ta:,	O
+ta:பின்ணணிப்பாடகர்	B-PER
+ta:,	O
+ta:நிகழ்ச்சி	O
+ta:வழங்குநர்	O
+ta:ஆகிய	O
+ta:பலபணிகளை	O
+ta:மேற்கொண்டார்	O
+ta:.	O
+
+ta:காட்டாக	O
+ta:ஐக்கிய	B-LOC
+ta:இராச்சியம்	I-LOC
+ta:வழங்கும்	O
+ta:''ஈஈஏ	O
+ta:குடும்ப	O
+ta:அனுமதி	O
+ta:''	O
+ta:(	O
+ta:EEA	O
+ta:family	O
+ta:permit	O
+ta:)	O
+ta:ஆகும்	O
+ta:.	O
+
+ta:இந்த	O
+ta:திரைப்படத்தில்	O
+ta:விஷாலுக்கு	B-PER
+ta:ஜோடியாக	O
+ta:லட்சுமி	B-PER
+ta:மேனன்	I-PER
+ta:மற்றும்	O
+ta:இனியா	B-PER
+ta:நடிதுள்ளார்கள்	O
+ta:.	O
+
+ta:இங்கே	O
+ta:இயேசு	B-ORG
+ta:பிறப்பின்	I-ORG
+ta:முன்னறிவிப்பு	I-ORG
+ta:நிகழ்ந்ததாக	O
+ta:நம்பப்படுகின்றது	O
+ta:.	O
+
+ta:இவற்றுள்	O
+ta:7	O
+ta:சதுர	B-ORG
+ta:கிலோமீட்டர்	I-ORG
+ta:பரப்பளவு	O
+ta:உள்ளடங்கியுள்ளது	O
+ta:.	O
+
+ta:இன்றைய	O
+ta:சாதனை	O
+ta:9.58	O
+ta:நொடிகளாக	O
+ta:உசேன்	B-PER
+ta:போல்ட்டினால்	I-PER
+ta:நிகழ்த்தப்பட்டது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:எட்டாம்	B-PER
+ta:ஸ்தேவான்	I-PER
+ta:(	I-PER
+ta:திருத்தந்தை	I-PER
+ta:)	I-PER
+
+ta:rect	O
+ta:727	O
+ta:63	O
+ta:780	O
+ta:86	O
+ta:வெர்மான்ட்	B-LOC
+
+ta:டி.	B-PER
+ta:எம்.	I-PER
+ta:சௌந்தரராஜன்	I-PER
+ta:,	O
+ta:பி.	B-PER
+ta:சுசீலா	I-PER
+
+ta:கொழும்பு	B-LOC
+ta:மத்தி	I-LOC
+ta:தேர்தல்	I-LOC
+ta:தொகுதி	I-LOC
+
+ta:தீவிரபோக்குடையோர்	O
+ta:பால	B-PER
+ta:கங்காதர	I-PER
+ta:திலகர்	I-PER
+ta:தலைமையிலும்	O
+ta:,	O
+ta:மிதபோக்குடையோர்	O
+ta:கோபால	B-PER
+ta:கிருஷ்ண	I-PER
+ta:கோகலே	I-PER
+ta:தலைமையிலும்	O
+ta:இயங்கினர்	O
+ta:.	O
+
+ta:இது	O
+ta:பிரேசிலைத்	B-LOC
+ta:தாயகமாகக்	O
+ta:கொண்டது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:முல்லையாறு	B-LOC
+ta:(	I-LOC
+ta:கேரளா	I-LOC
+ta:)	I-LOC
+
+ta:**	O
+ta:அஸ்மாரா	B-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:பாபநாசம்	B-PER
+ta:சிவன்	I-PER
+ta:பாடல்களை	O
+ta:எழுதியிருந்தார்	O
+ta:.	O
+
+ta:இதன்	O
+ta:தலைமையகம்	O
+ta:,	O
+ta:மலப்புறத்தில்	B-LOC
+ta:உள்ளது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:இரியோ	B-LOC
+ta:டி	I-LOC
+ta:செனீரோ	I-LOC
+
+ta:'	O
+ta:''	O
+ta:புதுப்பாதை	O
+ta:''	O
+ta:'	O
+ta:இலங்கை	B-LOC
+ta:கொழும்பிலிருந்து	B-LOC
+ta:1964ம்	O
+ta:ஆண்டில்	O
+ta:வெளிவந்த	O
+ta:ஒரு	O
+ta:மாத	O
+ta:இதழாகும்	O
+ta:.	O
+
+ta:இது	O
+ta:இந்தியாவின்	B-LOC
+ta:மும்பையில்	B-LOC
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:இடார்வினின்	B-LOC
+ta:மரப்பட்டைச்	I-LOC
+ta:சிலந்தி	I-LOC
+
+ta:வழிமாற்று	O
+ta:எம்.	B-PER
+ta:டி.	I-PER
+ta:இராமநாதன்	I-PER
+
+ta:பக்தி	B-ORG
+ta:யோகத்தை	I-ORG
+ta:கடைப்பிடிப்பவர்கள்	O
+ta:உறுதியாக	O
+ta:பகவானை	O
+ta:அடைகிறார்கள்	O
+ta:.	O
+
+ta:அங்கே	O
+ta:அவர்கள்	O
+ta:பல	O
+ta:வருடங்களாக	O
+ta:போராடியதோடு	O
+ta:வேலை	O
+ta:தேடி	O
+ta:மும்பை	B-LOC
+ta:சினிமா	O
+ta:ஸ்டுடியோக்களுக்கு	O
+ta:தொடர்ந்து	O
+ta:சென்ற	O
+ta:வண்ணம்	O
+ta:இருந்தனர்	O
+ta:.	O
+
+ta:ஈரான்	B-LOC
+ta:-	O
+ta:ஆசிரியர்	B-PER
+ta:நாள்	I-PER
+
+ta:பாபநாசம்	B-PER
+ta:சிவன்	I-PER
+ta:அனைத்துப்	O
+ta:பாடல்களையும்	O
+ta:இயற்றியிருக்கிறார்	O
+ta:.	O
+
+ta:மு.	B-PER
+ta:சி.	I-PER
+ta:பூரணலிங்கம்	I-PER
+ta:பிள்ளை	I-PER
+
+ta:தமிழ்நாடு	B-ORG
+ta:முஸ்லிம்	I-ORG
+ta:முன்னேற்றக்	I-ORG
+ta:கழகம்	I-ORG
+
+ta:''	O
+ta:அனு	B-PER
+ta:மோகன்	I-PER
+ta:''	O
+ta:'	O
+
+ta:வழிமாற்று	O
+ta:இரண்டாம்	B-PER
+ta:சிக்ஸ்துஸ்	I-PER
+ta:(	I-PER
+ta:திருத்தந்தை	I-PER
+ta:)	I-PER
+
+ta:ஐக்கிய	B-LOC
+ta:இராச்சியத்தில்	I-LOC
+ta:இப்	O
+ta:பைகள்	O
+ta:வாழ்நாள்	O
+ta:பைகள்	O
+ta:அல்லது	O
+ta:Bag	O
+ta:for	O
+ta:Life	O
+ta:என	O
+ta:அறியப்படுகின்றன	O
+ta:.	O
+
+ta:இப்படத்திற்கு	O
+ta:ஜி.	B-PER
+ta:வி.	I-PER
+ta:பிரகாஷ்	I-PER
+ta:குமார்	I-PER
+ta:இசையமைத்திருந்தார்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:குமரகுரு	B-ORG
+ta:பொறியியல்	I-ORG
+ta:கல்லூரி	I-ORG
+
+ta:இதனை	O
+ta:கே.	B-PER
+ta:எஸ்.	I-PER
+ta:ரவிக்குமார்	I-PER
+ta:இயக்கியிருந்தார்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:தாராப்பூர்	B-ORG
+ta:அணுமின்	I-ORG
+ta:நிலையம்	I-ORG
+
+ta:மாஸ்கோ	B-LOC
+ta:(	O
+ta:'	O
+ta:''	O
+ta:'	O
+ta:)	O
+
+ta:வழிமாற்று	O
+ta:ஆதிலாபாத்	B-ORG
+ta:மக்களவைத்	I-ORG
+ta:தொகுதி	I-ORG
+
+ta:வழிமாற்று	O
+ta:யோர்தானின்	B-PER
+ta:ரானியா	I-PER
+ta:அல்-அப்துல்லா	I-PER
+
+ta:வீ.	B-PER
+ta:தி.	I-PER
+ta:சம்பந்தன்	I-PER
+ta:,	O
+ta:மலேசிய	B-ORG
+ta:இந்திய	I-ORG
+ta:காங்கிரசு	I-ORG
+ta:(	O
+ta:MIC	O
+ta:)	O
+ta:5-ஆவது	O
+ta:தலைவர்.மலேசிய	O
+ta:அரசாங்கத்தின்	O
+ta:முக்கிய	O
+ta:அமைச்சுகளில்	O
+ta:,	O
+ta:அமைச்சர்	O
+ta:பதவியை	O
+ta:அலங்கரித்தவர்	O
+
+ta:செக்கரியா	B-ORG
+ta:(	I-ORG
+ta:நூல்	I-ORG
+ta:)	I-ORG
+
+ta:சென்னையில்	B-LOC
+ta:சாலிகிராமத்தில்	B-LOC
+ta:வசித்து	O
+ta:வந்தார்	O
+ta:.	O
+
+ta:கருணாநிதியின்	B-PER
+ta:,	O
+ta:மூத்த	O
+ta:சகோதரி	O
+ta:சண்முகத்தம்மாளின்	O
+ta:மற்றொரு	O
+ta:மகன்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:பண்டர்	B-LOC
+ta:செரி	I-LOC
+ta:பெகாவான்	I-LOC
+
+ta:மகிந்த	B-ORG
+ta:ராசபக்ச	I-ORG
+ta:பன்னாட்டுத்	I-ORG
+ta:துடுப்பாட்ட	I-ORG
+ta:அரங்கம்	I-ORG
+
+ta:இதனை	O
+ta:இந்தியக்	B-ORG
+ta:கடற்படை	I-ORG
+ta:,	O
+ta:பாபா	B-ORG
+ta:அணு	I-ORG
+ta:ஆராய்ச்சி	I-ORG
+ta:மையம்	I-ORG
+ta:,	O
+ta:பாதுகாப்பு	B-ORG
+ta:ஆராய்ச்சி	I-ORG
+ta:அமைப்பு	I-ORG
+ta:,	O
+ta:இந்திய	B-ORG
+ta:அணுவாற்றல்	I-ORG
+ta:துறை	I-ORG
+ta:ஆகியவை	O
+ta:இணைந்து	O
+ta:உருவாக்கி	O
+ta:உள்ளன	O
+ta:.	O
+
+ta:பிறகு	O
+ta:துச்சாதனனை	B-PER
+ta:கீழே	O
+ta:தரையில்	O
+ta:தள்ளி	O
+ta:தன்	O
+ta:கரங்களால்	O
+ta:அவனது	O
+ta:குடலை	O
+ta:உருவினான்	O
+ta:,	O
+ta:திரௌபதியின்	B-PER
+ta:சபதத்தை	O
+ta:நிறைவேற்ற	O
+ta:அவளை	O
+ta:அழைத்து	O
+ta:துச்சாதனனின்	B-PER
+ta:ரத்தத்தை	O
+ta:அவளது	O
+ta:கூந்தலில்	O
+ta:தோய்க்கச்	O
+ta:சொன்னான்	O
+ta:.	O
+
+ta:எஸ்.	B-PER
+ta:பி.	I-PER
+ta:பாலசுப்பிரமணியம்	I-PER
+ta:,	O
+ta:சித்ரா	B-PER
+
+ta:**	O
+ta:புது	B-LOC
+ta:தில்லி	I-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:திரிபுரா	B-LOC
+ta:-	O
+ta:'	O
+ta:''	O
+ta:TR	O
+ta:''	O
+ta:'	O
+
+ta:இந்த	O
+ta:திரைப்படத்தில்	O
+ta:இவருக்கு	O
+ta:ஜோடியாக	O
+ta:நயன்தாரா	B-ORG
+ta:நடித்துள்ளார்	O
+ta:.	O
+
+ta:இது	O
+ta:ஹோமகமையில்	O
+ta:தெற்கு	B-ORG
+ta:அதிவேக	I-ORG
+ta:நெடுஞ்சாலையைக்	I-ORG
+ta:கடந்து	O
+ta:அவிசாவளையைச்	B-LOC
+ta:சென்றடைகிறது	O
+ta:.	O
+
+ta:ஐசாக்	B-PER
+ta:நியூட்டன்	I-PER
+ta:தனது	O
+ta:''Opticks	O
+ta:''	O
+ta:நூலை	O
+ta:வெளியிட்டார்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:நல்லூர்	B-ORG
+ta:கந்தசுவாமி	I-ORG
+ta:கோவில்	I-ORG
+
+ta:மாநிலக்	B-ORG
+ta:கல்லூரி	I-ORG
+ta:,	I-ORG
+ta:சென்னை	I-ORG
+
+ta:ஆனாலும்	O
+ta:,	O
+ta:இந்த	O
+ta:பொது	O
+ta:வாக்கெடுப்பை	O
+ta:ஒத்திவைக்க	O
+ta:இலங்கை	B-ORG
+ta:அரசுத்தலைவருக்கு	I-ORG
+ta:அதிகாரம்	O
+ta:அளிக்கப்பட்டது	O
+ta:.	O
+
+ta:``	O
+ta:Atlas	O
+ta:of	O
+ta:Korea	O
+ta:with	O
+ta:a	O
+ta:World	O
+ta:Map	O
+ta:''	O
+ta:from	O
+ta:the	O
+ta:மிங்	B-LOC
+ta:அரசமரபு	I-LOC
+
+ta:இவர்கள்	O
+ta:அனைவரும்	O
+ta:ரோமில்	B-LOC
+ta:இராணுவ	O
+ta:அதிகாரியாக	O
+ta:இருந்த	O
+ta:ஒருவருக்கு	O
+ta:ஒரே	O
+ta:பிரசவத்தில்	O
+ta:பிறந்த	O
+ta:ஒன்பது	O
+ta:குழந்தைகளாவர்	O
+ta:.	O
+
+ta:**	O
+ta:அம்மான்	B-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:வழிமாற்று	O
+ta:அனைத்துலக	B-ORG
+ta:குற்றவியல்	I-ORG
+ta:நீதிமன்றம்	I-ORG
+
+ta:2013	O
+ta:பொருளியல்	B-ORG
+ta:கூட்டுறவு	I-ORG
+ta:மற்றும்	I-ORG
+ta:வளர்ச்சிக்கான	I-ORG
+ta:அமைப்பு	I-ORG
+ta:(	O
+ta:''OECD	O
+ta:''	O
+ta:)	O
+ta:தரவினை	O
+ta:அடிப்படையாகக்	O
+ta:கொண்டு	O
+ta:இது	O
+ta:உருவாக்கப்பட்டுள்ளது	O
+ta:.	O
+
+ta:சென்யாங்	B-LOC
+ta:(	O
+ta:துணைத்	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:**	O
+ta:துபாய்	B-LOC
+ta:(	O
+ta:துணைத்	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:ஆனந்த்	B-PER
+ta:ராஜ்	I-PER
+ta:(	I-PER
+ta:நடிகர்	I-PER
+ta:)	I-PER
+
+ta:இதன்	O
+ta:தலைமையகம்	O
+ta:கட்சிரோலியில்	B-LOC
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:சிதம்பரம்	B-ORG
+ta:நடராசர்	I-ORG
+ta:கோயில்	I-ORG
+
+ta:வழிமாற்று	O
+ta:செருமனி	B-ORG
+ta:தேசிய	I-ORG
+ta:காற்பந்து	I-ORG
+ta:அணி	I-ORG
+
+ta:முத்துசுவாமி	B-PER
+ta:தீட்சிதர்	I-PER
+ta:பாரம்பரியத்தில்	O
+ta:42வது	O
+ta:இராகத்திற்கு	O
+ta:''ரவிகிரியா	O
+ta:''	O
+ta:என்ற	O
+ta:பெயர்	O
+ta:.	O
+
+ta:கராச்சி	B-LOC
+ta:முக்கிய	O
+ta:துறைமுகமும்	O
+ta:தொழில்	O
+ta:நகரமும்	O
+ta:ஆகும்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:இ-01	B-ORG
+ta:அதிவேக	I-ORG
+ta:நெடுஞ்சாலை	I-ORG
+ta:(	I-ORG
+ta:இலங்கை	I-ORG
+ta:)	I-ORG
+
+ta:இவர்	O
+ta:பாரிஸ்	B-LOC
+ta:நகரத்திலேயே	O
+ta:நீண்ட	O
+ta:காலம்	O
+ta:வசித்தார்	O
+ta:.	O
+
+ta:இதனைத்	O
+ta:தொடர்ந்து	O
+ta:குழந்தைகளுக்காக	O
+ta:சுஜாதாவின்	B-PER
+ta:''பூக்குட்டி	O
+ta:''	O
+ta:மற்றும்	O
+ta:''மடிசார்	O
+ta:மாமி	O
+ta:''	O
+ta:ஆகிய	O
+ta:தொடர்கதைகளுக்கு	O
+ta:இவர்	O
+ta:வரைந்த	O
+ta:ஓவியங்களும்	O
+ta:பரவலான	O
+ta:பாராட்டுக்களைப்	O
+ta:பெற்றவை	O
+ta:.	O
+
+ta:'	O
+ta:''	O
+ta:பொகோட்டா	B-LOC
+ta:''	O
+ta:'	O
+
+ta:**	O
+ta:மொண்ட்ரியால்	B-LOC
+ta:(	O
+ta:துணைத்	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:'	O
+ta:''	O
+ta:சென்னை	B-ORG
+ta:சூப்பர்	I-ORG
+ta:கிங்ஸ்	I-ORG
+ta:''	O
+ta:'	O
+
+ta:பு.	B-PER
+ta:உ.	I-PER
+ta:சின்னப்பா	I-PER
+ta:,	O
+ta:டி.	B-PER
+ta:ஆர்.	I-PER
+ta:ராஜகுமாரி	I-PER
+
+ta:(	O
+ta:שופטים	O
+ta:/	O
+ta:Shophtim	O
+ta:)	O
+ta:–	O
+ta:நீதித்	B-ORG
+ta:தலைவர்கள்	I-ORG
+
+ta:குறைந்த	O
+ta:ஆழமுள்ள	O
+ta:துறைமுகமாக	O
+ta:வடக்கில்	O
+ta:யாழ்ப்பாணத்தில்	B-LOC
+ta:உள்ள	O
+ta:காங்கேசன்துறை	B-LOC
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:கூடுதல்	O
+ta:அலுவலகங்கள்	O
+ta:டெல்	B-LOC
+ta:அவீவ்	I-LOC
+ta:,	O
+ta:யூட்டாவின்	B-LOC
+ta:லெகி	O
+ta:,	O
+ta:கலிபோர்னியாவின்	B-LOC
+ta:பர்பேங்கில்	O
+ta:உள்ளன	O
+ta:.	O
+
+ta:திருவனந்தபுரம்	B-LOC
+ta:-	O
+ta:அங்கமாலி	B-LOC
+ta:எம்.சி.ரோடு	O
+ta:,	O
+ta:சங்கனாச்சேரி	B-LOC
+ta:-	O
+ta:குமுளி	B-LOC
+ta:(	O
+ta:சி.வி	O
+ta:.	O
+
+ta:இது	O
+ta:கடப்பா	B-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:உள்ள	O
+ta:10	O
+ta:தொகுதிகளில்	O
+ta:ஒன்று	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:தி.	B-PER
+ta:சே.	I-PER
+ta:சௌ.	I-PER
+ta:ராஜன்	I-PER
+
+ta:Every	O
+ta:part	O
+ta:of	O
+ta:mainland	O
+ta:நியூசிலாந்து	B-LOC
+ta:is	O
+ta:part	O
+ta:of	O
+ta:either	O
+ta:a	O
+ta:``	O
+ta:city	O
+ta:''	O
+ta:(	O
+ta:mostly	O
+ta:urban	O
+ta:)	O
+ta:or	O
+ta:a	O
+ta:``	O
+ta:district	O
+ta:''	O
+ta:(	O
+ta:mostly	O
+ta:rural	O
+ta:)	O
+ta:.	O
+
+ta:தலைநகரான	O
+ta:போர்ட்பிளேரில்	B-LOC
+ta:இருந்து	O
+ta:,	O
+ta:தெற்கில்	O
+ta:305	O
+ta:கி.மீ	O
+ta:.	O
+
+ta:அது	O
+ta:இப்பொழுது	O
+ta:பிட்ச்புர்க்	B-LOC
+ta:என்ற	O
+ta:இடத்தின்	O
+ta:ஒரு	O
+ta:பகுதியாக	O
+ta:உள்ளது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:நேரியல்	B-ORG
+ta:சமன்பாடுகளின்	I-ORG
+ta:தொகுப்பு	I-ORG
+
+ta:தர்மபுரியில்	B-LOC
+ta:பணியாற்றிய	O
+ta:காலத்தில்	O
+ta:வால்டர்	B-PER
+ta:தேவாரத்துடன்	I-PER
+ta:இணைந்து	O
+ta:பணியாற்றினார்	O
+ta:.	O
+
+ta:கண்டாவளை	B-LOC
+ta:பிரதேசச்	I-LOC
+ta:செயலாளர்	I-LOC
+ta:பிரிவு	I-LOC
+
+ta:புரந்தரதாசர்	B-PER
+ta:(	O
+ta:1494-1564	O
+ta:)	O
+
+ta:தேசியப்	B-ORG
+ta:பாடசாலையான	I-ORG
+ta:இக்கல்லூரி	O
+ta:கண்டி	B-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:2013	O
+ta:பெப்ரவரியில்	O
+ta:ஜாக்	B-PER
+ta:கலிஸ்	I-PER
+ta:காயமடைந்ததை	O
+ta:அடுத்து	O
+ta:தென்னாபிரிக்கத்	B-ORG
+ta:துடுப்பாட்ட	I-ORG
+ta:அணியில்	I-ORG
+ta:இணைத்துக்	O
+ta:கொள்ளப்பட்டார்	O
+ta:.	O
+
+ta:வங்கிபுரப்பு	B-PER
+ta:வெங்கட	I-PER
+ta:சாய்	I-PER
+ta:லட்சுமண்	I-PER
+
+ta:'	O
+ta:''	O
+ta:கிரிஸ்	B-PER
+ta:பால்	I-PER
+ta:''	O
+ta:'	O
+
+ta:முக்தி	B-LOC
+ta:தரும்	I-LOC
+ta:ஏழு	I-LOC
+ta:நகரங்களில்	I-LOC
+ta:கயையும்	O
+ta:ஒன்றாகும்	O
+ta:.	O
+
+ta:ஆற்காடு	B-ORG
+ta:நவாபுகளின்	I-ORG
+ta:ஆட்சித்தொடரில்	O
+ta:சிறந்த	O
+ta:ஆட்சி	O
+ta:அமைத்து	O
+ta:பற்பல	O
+ta:சிறந்த	O
+ta:சேவைகளை	O
+ta:செய்த	O
+ta:அன்வருத்தீன்	O
+ta:என்பவரின்	O
+ta:அமைச்சரவையில்	O
+ta:இருந்த	O
+ta:``	O
+ta:லால்கான்	O
+ta:''	O
+ta:என்பவரே	O
+ta:இந்த	O
+ta:லால்பேட்டை	O
+ta:என்ற	O
+ta:ஊரை	O
+ta:வளர்த்தெடுத்தவர்	O
+ta:.	O
+
+ta:அமுது	O
+ta:பதிப்பகம்	O
+ta:,	O
+ta:புதுச்சேரி	B-LOC
+ta:.	O
+
+ta:இதனுடைய	O
+ta:எல்லை	O
+ta:காலத்துக்குக்	O
+ta:காலம்	O
+ta:மாறி	O
+ta:வந்துள்ளது	O
+ta:ஆயினும்	O
+ta:,	O
+ta:இதனுடைய	O
+ta:தலைமை	O
+ta:இடமும்	O
+ta:,	O
+ta:மக்கட்செறிவும்	O
+ta:யாழ்ப்பாணக்	B-LOC
+ta:குடாநாட்டுக்கு	I-LOC
+ta:உள்ளேயே	O
+ta:இருந்து	O
+ta:வந்திருக்கிறது	O
+ta:.	O
+
+ta:இவரின்	O
+ta:கல்லறை	O
+ta:புனித	B-ORG
+ta:பேதுரு	I-ORG
+ta:பேராலயத்தில்	I-ORG
+ta:உள்ளது	O
+ta:.	O
+
+ta:சீனக்	B-LOC
+ta:கலையான	O
+ta:``	O
+ta:பென்ஜிங்	O
+ta:''	O
+ta:என்பதும்	O
+ta:இது	O
+ta:போன்றதே	O
+ta:.	O
+
+ta:ஐக்கிய	B-ORG
+ta:மக்கள்	I-ORG
+ta:சுதந்திரக்	I-ORG
+ta:கூட்டணி	I-ORG
+
+ta:முன்னதாக	O
+ta:பாரதிய	B-ORG
+ta:ஜனதா	I-ORG
+ta:கட்சியின்	I-ORG
+ta:துணைத்	O
+ta:தலைவராக	O
+ta:இருந்துள்ளார்	O
+ta:.	O
+
+ta:பிரேம்	B-PER
+ta:நசீர்	I-PER
+ta:,	O
+ta:ஷீலா	B-PER
+ta:(	I-PER
+ta:நடிகை	I-PER
+ta:)	I-PER
+
+ta:''	O
+ta:(	O
+ta:Self-governing	O
+ta:in	O
+ta:free	O
+ta:association	O
+ta:with	O
+ta:நியூசிலாந்து	B-LOC
+ta:)	O
+
+ta:இது	O
+ta:சகாரன்பூர்	B-ORG
+ta:பாராளுமன்றத்	I-ORG
+ta:தொகுதிக்கு	I-ORG
+ta:உட்பட்டது	O
+ta:.	O
+
+ta:ஏ.	B-PER
+ta:வி.	I-PER
+ta:பி.	I-PER
+ta:ஆசைத்தம்பி	I-PER
+
+ta:நடுக்கோடு	B-ORG
+ta:(	I-ORG
+ta:வடிவவியல்	I-ORG
+ta:)	I-ORG
+
+ta:சீன	B-ORG
+ta:வங்கிக்	I-ORG
+ta:கட்டிடம்	I-ORG
+ta:கட்டி	O
+ta:முடிக்கப்படும்வரை	O
+ta:இந்தப்	O
+ta:பெருமையை	O
+ta:இது	O
+ta:தக்கவைத்திருந்தது	O
+ta:.	O
+
+ta:கட்டபொம்மன்	B-PER
+ta:(	O
+ta:1760–1799	O
+ta:)	O
+
+ta:வழிமாற்று	O
+ta:சிம்ப்ளீசியுஸ்	B-PER
+ta:(	I-PER
+ta:திருத்தந்தை	I-PER
+ta:)	I-PER
+
+ta:பிரேம்	B-PER
+ta:நசீர்	I-PER
+ta:,	O
+ta:ஜெயபாரதி	B-PER
+ta:(	I-PER
+ta:மலையாள	I-PER
+ta:நடிகர்	I-PER
+ta:)	I-PER
+
+ta:அம்ரோகா	B-LOC
+ta:மாவட்டம்	I-LOC
+ta:(	O
+ta:பகுதி	O
+ta:)	O
+
+ta:'	O
+ta:''	O
+ta:இர்பான்	B-PER
+ta:பதான்	I-PER
+ta:''	O
+ta:'	O
+
+ta:கஜபதி	B-LOC
+ta:பேரரசு	I-LOC
+ta:முடிவுக்கு	O
+ta:வந்தது	O
+ta:.	O
+
+ta:ம.	B-PER
+ta:பொ.	I-PER
+ta:சிவஞானம்	I-PER
+
+ta:''	O
+ta:'522	O
+ta:''	O
+ta:'	O
+ta:-	O
+ta:இலக்னோ	B-LOC
+ta:,	O
+ta:உத்தரப்	B-LOC
+ta:பிரதேசம்	I-LOC
+
+ta:பவானி	B-ORG
+ta:(	I-ORG
+ta:சட்டமன்றத்	I-ORG
+ta:தொகுதி	I-ORG
+ta:)	I-ORG
+
+ta:6ஆம்	O
+ta:நூற்றாண்டில்	O
+ta:மகாவீரரால்	B-PER
+ta:தோற்றுவிக்கப்பட்டது	O
+ta:.	O
+
+ta:பிரான்சிஸ்கோ	B-PER
+ta:பிசாரோ	I-PER
+ta:இன்கா	B-ORG
+ta:பேரரசை	I-ORG
+ta:வீழ்த்தினார்	O
+ta:.	O
+
+ta:'	O
+ta:''	O
+ta:உலகம்	B-ORG
+ta:''	O
+ta:'	O
+
+ta:உலகப்	B-ORG
+ta:பார்வை	I-ORG
+ta:(	I-ORG
+ta:அமைப்பு	I-ORG
+ta:)	I-ORG
+
+ta:இது	O
+ta:பீகாரில்	B-LOC
+ta:உள்ள	O
+ta:40	O
+ta:தொகுதிகளில்	O
+ta:ஒன்றாகும்	O
+ta:.	O
+
+ta:ஜார்ஜ்	B-PER
+ta:பக்லி	I-PER
+ta:(	I-PER
+ta:துடுப்பாட்டக்காரர்	I-PER
+ta:,	I-PER
+ta:பிறப்பு	I-PER
+ta:1889	I-PER
+ta:)	I-PER
+
+ta:வாஸ்கோ	B-PER
+ta:ட	I-PER
+ta:காமா	I-PER
+ta:,	O
+ta:(	O
+ta:இ	O
+ta:.	O
+
+ta:கோ.	B-PER
+ta:நடேசையர்	I-PER
+ta:,	O
+ta:தெரிவு	O
+ta:(	O
+ta:1924-	O
+ta:)	O
+
+ta:மத்திய	B-ORG
+ta:தொழிற்சாலை	I-ORG
+ta:பாதுகாப்புப்	I-ORG
+ta:படை	I-ORG
+
+ta:டி.காசுடர்]]	O
+ta:மற்றும்	O
+ta:ஜியார்ஜ்	B-PER
+ta:டி	I-PER
+ta:கிவிசி	I-PER
+
+ta:அமெரிக்க	B-LOC
+ta:மாநிலங்களின்	I-LOC
+ta:கூட்டமைப்பு	I-LOC
+
+ta:இவ்வறிக்கை	O
+ta:இலண்டன்	B-ORG
+ta:பொருளியல்	I-ORG
+ta:பள்ளி	I-ORG
+ta:இயக்குனர்	O
+ta:,	O
+ta:கொலம்பியா	B-ORG
+ta:பல்கலைக்கழகம்	I-ORG
+ta:இயக்குனர்	O
+ta:,	O
+ta:ஐக்கிய	B-LOC
+ta:நாடுகள்	I-LOC
+ta:சபையின்	I-LOC
+ta:பொதுச்	I-LOC
+ta:செயலாளர்	I-LOC
+ta:இயக்குனர்	O
+ta:உட்பட்ட	O
+ta:சிலரினால்	O
+ta:தொகுக்கப்பட்டது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:பெ.	B-PER
+ta:வரதராஜுலு	I-PER
+ta:நாயுடு	I-PER
+
+ta:**	O
+ta:அக்ரா	B-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:மேலும்	O
+ta:,	O
+ta:அண்மைக்காலங்களில்	O
+ta:இங்கிலாந்துடனும்	B-ORG
+ta:போட்டிப்	O
+ta:பகைமையைக்	O
+ta:கொண்டிருக்கிறது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:திரிபுரா	B-ORG
+ta:உயர்	I-ORG
+ta:நீதிமன்றம்	I-ORG
+
+ta:கிளின்ட்	B-PER
+ta:ஈஸ்ட்வுட்	I-PER
+ta:ஆல்	O
+ta:தயாரித்து	O
+ta:இயக்கப்பட்டது	O
+ta:.	O
+
+ta:தியாகராசர்	B-ORG
+ta:பொறியியல்	I-ORG
+ta:கல்லூரி	I-ORG
+
+ta:ராமசாமியாலும்	O
+ta:ஆர்.	B-PER
+ta:கே.	I-PER
+ta:சண்முகம்	I-PER
+ta:செட்டியாராலும்	I-PER
+ta:கடுமையாக	O
+ta:எதிர்க்கப்பட்டதால்	O
+ta:தோல்வியடைந்தது	O
+ta:.	O
+
+ta:பாக்காத்தான்	B-ORG
+ta:ராக்யாட்	I-ORG
+ta:ஜனநாயக	B-ORG
+ta:செயல்	I-ORG
+ta:கட்சி	I-ORG
+
+ta:'	O
+ta:''	O
+ta:லட்சுமிகாந்த்	B-PER
+ta:பர்சேகர்	I-PER
+ta:''	O
+ta:'	O
+
+ta:ரோனி	B-PER
+ta:கோல்மன்	I-PER
+ta:(	O
+ta:1998–2005	O
+ta:)	O
+ta:ஆவார்கள்	O
+ta:.	O
+
+ta:மூன்றாம்	B-PER
+ta:சிக்ஸ்துஸ்	I-PER
+ta:(	O
+ta:432–440	O
+ta:)	O
+
+ta:இது	O
+ta:நீளமுடைய	O
+ta:ஏதண்டத்தை	B-ORG
+ta:பெய்ஜிங்-சாங்காய்	B-LOC
+ta:அதிவேக	O
+ta:தண்டவாளத்தில்	O
+ta:கொண்டுள்ளது..	O
+
+ta:இயக்குநர்	O
+ta:அவிச்சி	B-PER
+ta:மெய்யப்பச்	I-PER
+ta:செட்டியார்	I-PER
+ta:,	O
+ta:பி	O
+ta:.	O
+
+ta:மீனா	B-PER
+ta:-	O
+ta:பசுபதியின்	O
+ta:மனைவி	O
+
+ta:மணிக்கொடி	B-ORG
+ta:(	I-ORG
+ta:இதழ்	I-ORG
+ta:)	I-ORG
+
+ta:துலத்தன்	B-PER
+ta:மற்றும்	O
+ta:லஞ்ச	B-PER
+ta:திச்சன்	I-PER
+ta:ஆகியோரின்	O
+ta:தம்பியும்	O
+ta:ஆவான்	O
+ta:.	O
+
+ta:பாபா	B-ORG
+ta:அணு	I-ORG
+ta:ஆராய்ச்சி	I-ORG
+ta:மையம்	I-ORG
+ta:(	O
+ta:பிஏஆர்சி	O
+ta:)	O
+ta:யின்	O
+ta:தலைவராகவும்	O
+ta:இந்திய	B-ORG
+ta:அணுசக்திப்	I-ORG
+ta:பேரவையின்	I-ORG
+ta:முன்னாள்	O
+ta:குழுமத்தலைவராகவும்	O
+ta:இருந்துள்ளார்	O
+ta:.	O
+
+ta:கண்சாட்சியங்களின்	O
+ta:அறிக்கைகள்	O
+ta:,	O
+ta:இயற்பியல்	B-LOC
+ta:சான்றுகள்	O
+ta:இரண்டையும்	O
+ta:வைத்துக்கொண்டு	O
+ta:ஒர்	O
+ta:யூகத்தின்	O
+ta:பேரில்	O
+ta:அவைகள்	O
+ta:சக்திவாய்ந்த	O
+ta:வாகனங்கள்	O
+ta:என்ற	O
+ta:நிலையில்	O
+ta:ஆய்வுகள்	O
+ta:நடைபெற்றன	O
+ta:.	O
+
+ta:பன்னாட்டு	B-ORG
+ta:ஒலிம்பிக்	I-ORG
+ta:குழு	I-ORG
+ta:இதற்கு	O
+ta:ஒப்புதல்	O
+ta:அளித்துத்	O
+ta:தன்	O
+ta:குழுவில்	O
+ta:இணைத்துக்கொண்டுள்ளது	O
+ta:.	O
+
+ta:'	O
+ta:''	O
+ta:இரவு	O
+ta:''	O
+ta:'	O
+ta:ஜெயமோகன்	B-PER
+ta:எழுதிய	O
+ta:சிறிய	O
+ta:நாவல்	O
+ta:.	O
+
+ta:கலைவாணி	B-ORG
+ta:தொழில்நுட்பக்	I-ORG
+ta:கல்லூரி	I-ORG
+ta:,	I-ORG
+ta:கோயம்புத்தூர்	I-ORG
+
+ta:வழிமாற்று	O
+ta:எம்டன்	B-LOC
+ta:(	I-LOC
+ta:இடாய்ச்சுலாந்து	I-LOC
+ta:)	I-LOC
+
+ta:ஆனால்	O
+ta:இன்று	O
+ta:8	O
+ta:சதவீதத்தினர்	O
+ta:பாதிக்கப்பட்டுள்ளனர்	O
+ta:என்று	O
+ta:உலக	B-ORG
+ta:சுகாதார	I-ORG
+ta:அமைப்பு	I-ORG
+ta:(	O
+ta:WHO	O
+ta:)	O
+ta:தெரிவித்துள்ளது	O
+ta:.	O
+
+ta:ரூத்து	B-PER
+ta:(	I-PER
+ta:நூல்	I-PER
+ta:)	I-PER
+
+ta:வழிமாற்று	O
+ta:சுந்தர்	B-PER
+ta:சி	I-PER
+ta:.	I-PER
+
+ta:இந்த	O
+ta:வழக்கின்	O
+ta:விசாரணையை	O
+ta:சி.பி.ஐ.க்கு	B-ORG
+ta:மாற்ற	O
+ta:வேண்டும்	O
+ta:என்று	O
+ta:பாதிக்கப்பட்டோர்	O
+ta:தரப்பில்	O
+ta:இருந்து	O
+ta:வற்புறுத்தப்பட்டது	O
+ta:.	O
+
+ta:வடக்குப்	B-ORG
+ta:பாதையின்	I-ORG
+ta:ஓர்	O
+ta:அங்கமாக	O
+ta:உள்ள	O
+ta:இந்நிலையம்	O
+ta:வடக்கையும்	B-LOC
+ta:தலைநகர்	O
+ta:கொழும்பையும்	B-LOC
+ta:இணைக்கிறது	O
+ta:.	O
+
+ta:மரகத	B-ORG
+ta:மர	I-ORG
+ta:போவா	I-ORG
+
+ta:இந்த	O
+ta:சாலை	O
+ta:இருப்பது	O
+ta:கோயம்புத்தூர்	B-LOC
+ta:மாவட்டம்	I-LOC
+ta:ஆகும்	O
+ta:.	O
+
+ta:இது	O
+ta:பிரித்தானியப்	B-LOC
+ta:பேரரசு	I-LOC
+ta:முழுதும்	O
+ta:அலுவல்முறையாகக்	O
+ta:கடைபிடிக்கப்பட்டது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:நாலந்தா	B-ORG
+ta:மகா	I-ORG
+ta:வித்தியாலயம்	I-ORG
+ta:,	I-ORG
+ta:எல்பிட்டிய	I-ORG
+
+ta:நாகேச்சரம்	B-ORG
+ta:அ	O
+ta:,	O
+ta:ச	O
+ta:,	O
+ta:சு	O
+ta:,	O
+
+ta:பாக்காத்தான்	B-ORG
+ta:ராக்யாட்	I-ORG
+ta:ஜனநாயக	B-ORG
+ta:செயல்	I-ORG
+ta:கட்சி	I-ORG
+
+ta:மேலும்	O
+ta:தென்கிழக்காசிய	B-LOC
+ta:நாடுகளிலும்	O
+ta:தற்போது	O
+ta:வளர்கிறது	O
+ta:.	O
+
+ta:இவர்	O
+ta:குவைத்தைப்	B-LOC
+ta:பிறப்பிடமாகக்	O
+ta:கொண்டவர்	O
+ta:.	O
+
+ta:இது	O
+ta:பாங்கா	B-ORG
+ta:மக்களவைத்	I-ORG
+ta:தொகுதிக்கு	I-ORG
+ta:உட்பட்டது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:இந்திய	B-ORG
+ta:வானூர்தி	I-ORG
+ta:நிலையங்கள்	I-ORG
+ta:ஆணையம்	I-ORG
+
+ta:என்றீக்கசைப்	O
+ta:போலன்றி	O
+ta:இராபர்ட்	B-PER
+ta:தெ	I-PER
+ta:நோபிலி	I-PER
+ta:போர்த்துகீசியத்திலிருந்து	O
+ta:தமிழிற்கு	O
+ta:மொழிபெயர்க்காமல்	O
+ta:தாமே	O
+ta:தமது	O
+ta:நூலைப்	O
+ta:புதியதாக	O
+ta:எழுதினார்	O
+ta:.	O
+
+ta:ஜெயம்	B-PER
+ta:ரவி	I-PER
+ta:,	O
+ta:லட்சுமி	B-PER
+ta:மேனன்	I-PER
+
+ta:பார்ப்போலாவிற்கு	O
+ta:இவ்விருது	O
+ta:உலகத்தமிழ்ச்	B-LOC
+ta:செம்மொழி	I-LOC
+ta:மாநாட்டின்	I-LOC
+ta:போது	O
+ta:அளிக்கப்படும்..	O
+
+ta:ஆஸ்திரியாவில்	B-LOC
+ta:,	O
+ta:2004ஆம்	O
+ta:வருடம்	O
+ta:சாத்தியமான	O
+ta:திவாலா	O
+ta:சட்ட	O
+ta:நடைமுறைகளில்	O
+ta:பாதிக்கும்	O
+ta:மேலானவை	O
+ta:,	O
+ta:நிதிப்	O
+ta:பற்றாக்குறையின்	O
+ta:காரணமாக	O
+ta:,	O
+ta:மேற்கொண்டு	O
+ta:நடத்தப்படவில்லை	O
+ta:.	O
+
+ta:மக்களிடையே	O
+ta:பெரும்	O
+ta:வரவேற்பைப்பெற்ற	O
+ta:இந்நிகழ்ச்சியை	O
+ta:கே.	B-PER
+ta:எஸ்.	I-PER
+ta:ராஜா	I-PER
+ta:,	O
+ta:பி.	B-PER
+ta:எச்.	I-PER
+ta:அப்துல்	I-PER
+ta:ஹமீட்	I-PER
+ta:போன்றோர்	O
+ta:தயாரித்து	O
+ta:வழங்கியிருந்தார்கள்	O
+ta:.	O
+
+ta:விஜய்	B-PER
+ta:ஆண்டனி	I-PER
+ta:,	O
+ta:திரை	O
+ta:இசையமைப்பாளர்	O
+
+ta:பி.	B-PER
+ta:வாசு	I-PER
+ta:இயக்கத்தில்	O
+ta:வெளிவந்த	O
+ta:இத்திரைப்படத்தில்	O
+ta:பிரதாப்	B-PER
+ta:போத்தன்	I-PER
+ta:,	O
+ta:சுஹாசினி	B-PER
+ta:மற்றும்	O
+ta:பலரும்	O
+ta:நடித்துள்ளனர்	O
+ta:.	O
+
+ta:இது	O
+ta:தோராயமாக	O
+ta:லாத்வியா	B-LOC
+ta:நாட்டின்	O
+ta:மக்கட்தொகைக்கு	O
+ta:சமமானதாகும்	O
+ta:.	O
+
+ta:இதனைக்	O
+ta:கண்டறிந்தவர்	O
+ta:அமேடியோ	B-PER
+ta:அவகாதரோ	I-PER
+ta:.	O
+
+ta:நந்திதா]]	O
+ta:,	O
+ta:பசுபதி	B-PER
+ta:(	I-PER
+ta:நடிகர்	I-PER
+ta:)	I-PER
+
+ta:இதன்	O
+ta:தலைவர்	O
+ta:இளவரசர்	B-PER
+ta:இரண்டாம்	I-PER
+ta:ஆல்பர்ட்	I-PER
+ta:என்பவராவார்	O
+ta:.	O
+
+ta:ஐக்கிய	B-LOC
+ta:நாடுகள்	I-LOC
+ta:சபையின்	I-LOC
+ta:பொதுச்	I-LOC
+ta:செயலாளர்	I-LOC
+
+ta:சுகாசினி	B-PER
+ta:மணிரத்தினம்	I-PER
+ta:இதற்கு	O
+ta:உரையாடல்	O
+ta:எழுதினார்	O
+ta:.	O
+
+ta:புனித	B-ORG
+ta:வளனார்	I-ORG
+ta:கல்லூரி	I-ORG
+ta:,	I-ORG
+ta:திருச்சிராப்பள்ளி	I-ORG
+
+ta:**	O
+ta:கேப்	B-LOC
+ta:டவுன்	I-LOC
+ta:(	O
+ta:துணைத்	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:பாலி	B-LOC
+ta:தீவிற்கு	O
+ta:கிழக்கில்	O
+ta:,	O
+ta:சும்பாவா	B-LOC
+ta:தீவிற்கு	O
+ta:மேற்கில்	O
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:ஈ.	B-PER
+ta:வெ.	I-PER
+ta:இராமசாமி	I-PER
+
+ta:**	O
+ta:ஜெனீவா	B-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:'	O
+ta:''	O
+ta:இந்திய	B-ORG
+ta:விண்வெளி	I-ORG
+ta:ஆய்வு	I-ORG
+ta:மையம்	I-ORG
+ta:''	O
+ta:'	O
+
+ta:இரண்டாம்	B-PER
+ta:குலோத்துங்க	I-PER
+ta:சோழன்	I-PER
+
+ta:பாக்காத்தான்	B-ORG
+ta:ராக்யாட்	I-ORG
+ta:ஜனநாயக	B-ORG
+ta:செயல்	I-ORG
+ta:கட்சி	I-ORG
+
+ta:இது	O
+ta:ஆரணி	B-ORG
+ta:மக்களவைத்	I-ORG
+ta:தொகுதியுள்	I-ORG
+ta:அடங்குகிறது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:சாக்சுட்டன்	B-LOC
+ta:ஓவல்	I-LOC
+ta:அரங்கம்	I-LOC
+
+ta:இதனைத்தொடர்ந்து	O
+ta:மட்டக்களப்பு	B-LOC
+ta:தெற்கிலும்	O
+ta:(	O
+ta:அக்கரைப்பற்று	B-LOC
+ta:)	O
+ta:பூண்டுலோயாவிலும்	O
+ta:கிளைகள்	O
+ta:ஆரம்பிக்கப்பட்டன	O
+ta:.	O
+
+ta:சீதாநகரம்	B-LOC
+ta:,	I-LOC
+ta:விஜயநகரம்	I-LOC
+ta:மாவட்டம்	I-LOC
+
+ta:யாழ்ப்பாணத்	B-LOC
+ta:தமிழரிடையே	O
+ta:பேச்சு	O
+ta:வழக்கில்	O
+ta:தகப்பனை	O
+ta:``	O
+ta:ஐயா	O
+ta:''	O
+ta:என்று	O
+ta:அழைக்கும்	O
+ta:வழக்கு	O
+ta:உள்ளது	O
+ta:.	O
+
+ta:'	O
+ta:''	O
+ta:அசுக்கொட்	B-PER
+ta:தொப்பி	I-PER
+ta:''	O
+ta:'	O
+
+ta:அருச்சுனன்	B-PER
+ta:``	O
+ta:ஏன்	O
+ta:?	O
+ta:''	O
+
+ta:குசல்	B-PER
+ta:பெரேரா	I-PER
+ta:(	O
+ta:wk	O
+ta:)	O
+
+ta:பேராதனைப்	B-ORG
+ta:பல்கலைக்கழகத்	I-ORG
+ta:தமிழ்த்துறைத்	O
+ta:தலைவராக	O
+ta:இருந்தவர்	O
+ta:.	O
+
+ta:ஐக்கிய	B-ORG
+ta:நாடுகளின்	I-ORG
+ta:உணவு	I-ORG
+ta:மற்றும்	I-ORG
+ta:வேளாண்மை	I-ORG
+ta:அமைப்பு	I-ORG
+
+ta:இக்கல்லூரி	O
+ta:தமிழ்நாடு	B-ORG
+ta:முனைவர்	I-ORG
+ta:அம்பேத்கர்	I-ORG
+ta:சட்டப்	I-ORG
+ta:பல்கலைக்கழகத்தின்	I-ORG
+ta:மேற்பார்வையில்	O
+ta:இயங்குகிறது	O
+ta:.	O
+
+ta:இப்பறவை	O
+ta:ஆசியக்கண்டத்தில்	B-LOC
+ta:பரவலாகக்	O
+ta:காணப்படுகிறது	O
+ta:.	O
+
+ta:ஆல்பிரட்	B-PER
+ta:நார்த்	I-PER
+ta:வொய்ட்ஹெட்	I-PER
+
+ta:தொமஸ்	B-PER
+ta:அல்வா	I-PER
+ta:எடிசன்	I-PER
+
+ta:இந்த	O
+ta:சாலை	O
+ta:இருப்பது	O
+ta:மதுரை	B-LOC
+ta:மாவட்டம்	I-LOC
+ta:ஆகும்	O
+ta:.	O
+
+ta:பின்னர்	O
+ta:1960	B-ORG
+ta:சூலை	I-ORG
+ta:தேர்தலில்	I-ORG
+ta:போட்டியிட்டு	O
+ta:மீண்டும்	O
+ta:வெற்றி	O
+ta:பெற்றார்	O
+ta:.	O
+
+ta:இது	O
+ta:வடமேற்கு	B-ORG
+ta:தில்லி	I-ORG
+ta:மக்களவைத்	I-ORG
+ta:தொகுதிக்கு	I-ORG
+ta:உட்பட்டது	O
+ta:.	O
+
+ta:குலோத்துங்க	B-PER
+ta:சிங்கையாரியன்	I-PER
+ta:(	O
+ta:1256–1279	O
+ta:)	O
+
+ta:எழில்முருகன்	O
+ta:பதிப்பகம்	O
+ta:,	O
+ta:சென்னை	B-LOC
+ta:.	O
+
+ta:**	O
+ta:பிரசெல்சு	B-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:இது	O
+ta:இடுக்கி	B-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:உள்ளது	O
+ta:.	O
+
+ta:எனவே	O
+ta:பாஞ்சியா	B-ORG
+ta:ஓர்	O
+ta:மீப்பெருங்கண்டமாகும்	O
+ta:.	O
+
+ta:இங்கிலாந்தின்	B-PER
+ta:முதலாம்	I-PER
+ta:எலிசபெத்	I-PER
+ta:,	O
+ta:1581-இல்	O
+ta:டிராக்கை	O
+ta:படைத்தளபதியாக	O
+ta:நியமித்தார்	O
+ta:.	O
+
+ta:இது	O
+ta:திருப்பதி	B-ORG
+ta:மக்களவைத்	I-ORG
+ta:தொகுதிக்கு	I-ORG
+ta:உட்பட்டது	O
+ta:.	O
+
+ta:ஏதென்ஸ்	B-LOC
+ta:(	O
+ta:'	O
+ta:''	O
+ta:'	O
+ta:)	O
+
+ta:இது	O
+ta:தோராயமாக	O
+ta:குவைத்	B-LOC
+ta:நாட்டின்	O
+ta:மக்கட்தொகைக்கு	O
+ta:சமமானதாகும்	O
+ta:.	O
+
+ta:இது	O
+ta:சிரோஹி	B-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:Oldest	O
+ta:world	O
+ta:leader	O
+ta:currently	O
+ta:in	O
+ta:power]]	O
+ta:,	O
+ta:ராபர்ட்	B-PER
+ta:முகாபே	I-PER
+ta:,	O
+ta:at	O
+ta:age	O
+ta:91	O
+
+ta:பிரிட்டனில்	O
+ta:...	O
+ta:-	O
+ta:நெ.	B-PER
+ta:து.	I-PER
+ta:சுந்தரவடிவேலு	I-PER
+
+ta:ஆர்.	B-PER
+ta:ஆறுமுகம்	I-PER
+ta:,	O
+ta:விளையாட்டாளர்	O
+
+ta:வழிமாற்று	O
+ta:சுபாஷ்	B-PER
+ta:சந்திர	I-PER
+ta:போஸ்	I-PER
+
+ta:இவர்களுடன்	O
+ta:விவேக்	B-PER
+ta:இணைந்து	O
+ta:நடித்தார்	O
+ta:.	O
+
+ta:Fastest	O
+ta:man]]	O
+ta:,	O
+ta:உசேன்	B-PER
+ta:போல்ட்	I-PER
+ta:,	O
+ta:12.42	O
+ta:m	O
+ta:/	O
+ta:s	O
+
+ta:மயிலாப்பூர்	B-ORG
+ta:(	I-ORG
+ta:சட்டமன்றத்	I-ORG
+ta:தொகுதி	I-ORG
+ta:)	I-ORG
+
+ta:இது	O
+ta:இந்தியாவில்	B-LOC
+ta:பரவலாகக்	O
+ta:காணப்படும்	O
+ta:குளிர்கால-வரவி	O
+ta:(	O
+ta:''winter	O
+ta:visitor	O
+ta:''	O
+ta:)	O
+ta:ஆகும்	O
+ta:;	O
+ta:மேலும்	O
+ta:இது	O
+ta:ஒரு	O
+ta:வழிசெல்	O
+ta:இடம்பெயர்வி	O
+ta:(	O
+ta:''passage	O
+ta:migrant	O
+ta:''	O
+ta:)	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:கெர்மிட்	B-PER
+ta:த	I-PER
+ta:ஃபுராக்	I-PER
+
+ta:இவனுக்குப்	O
+ta:பின்	O
+ta:இவனுடைய	O
+ta:மகனான	O
+ta:சந்தமுகன்	B-PER
+ta:ஆட்சிபீடம்	O
+ta:ஏறினான்	O
+ta:.	O
+
+ta:அமைச்சரவைக்கான	O
+ta:உறுப்பினர்களை	O
+ta:அரசுத்தலைவர்	B-ORG
+ta:நியமிப்பார்	O
+ta:.	O
+
+ta:ஜான்	B-PER
+ta:எயர்	I-PER
+ta:(	I-PER
+ta:துடுப்பாட்டக்காரர்	I-PER
+ta:,	I-PER
+ta:பிறப்பு	I-PER
+ta:1885	I-PER
+ta:)	I-PER
+
+ta:பாரதிதாசன்	B-PER
+ta:மீது	O
+ta:தீவிர	O
+ta:அபிமானம்	O
+ta:கொண்டிருந்தவர்	O
+ta:.	O
+
+ta:25px	O
+ta:சீபூத்தீ	B-LOC
+ta:(	I-LOC
+ta:நகரம்	I-LOC
+ta:)	I-LOC
+
+ta:இப்பிரதேசம்	O
+ta:வடக்கு	B-LOC
+ta:ஐரோப்பாவில்	I-LOC
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:பிரான்சின்	B-PER
+ta:பதினான்காம்	I-PER
+ta:லூயி	I-PER
+
+ta:இதனால்	O
+ta:,	O
+ta:பிற்காலத்தில்	O
+ta:இவை	O
+ta:சிவன்	B-ORG
+ta:கோயில்களாக	O
+ta:மாறிவிட்டன	O
+ta:.	O
+
+ta:பின்னர்	O
+ta:லயோலாக்	B-ORG
+ta:கல்லூரியில்	I-ORG
+ta:படித்தார்	O
+ta:.	O
+
+ta:அனைத்திந்திய	B-ORG
+ta:அண்ணா	I-ORG
+ta:திராவிட	I-ORG
+ta:முன்னேற்றக்	I-ORG
+ta:கழகம்	I-ORG
+
+ta:இது	O
+ta:திருவனந்தபுரம்	B-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:உள்ளது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:சீமெய்	B-ORG
+ta:தொடருந்து	I-ORG
+ta:நிலையம்	I-ORG
+
+ta:நாசர்	B-PER
+ta:(	I-PER
+ta:நடிகர்	I-PER
+ta:)	I-PER
+
+ta:ஜோர்ஜெஸ்	B-PER
+ta:பிராக்	I-PER
+ta:(	O
+ta:''Georges	O
+ta:Braque	O
+ta:''	O
+ta:)	O
+
+ta:*1977-80	O
+ta:–	O
+ta:பா.	B-PER
+ta:ராமச்சந்திரன்	I-PER
+ta:–	O
+ta:ஜனதா	B-ORG
+ta:கட்சி	I-ORG
+
+ta:நாசர்	B-PER
+ta:(	I-PER
+ta:நடிகர்	I-PER
+ta:)	I-PER
+
+ta:சென்னையில்	B-LOC
+ta:வசித்து	O
+ta:வரும்	O
+ta:இவர்	O
+ta:வரலாற்றுப்	O
+ta:பேராசிரியையாகப்	O
+ta:பணியாற்றியவர்	O
+ta:.	O
+
+ta:**	O
+ta:கரிச்சான்	B-LOC
+ta:,	O
+ta:''Dicrurus	O
+ta:leucophaeus	O
+ta:''	O
+
+ta:ஊழல்	B-ORG
+ta:எதிர்ப்பு	I-ORG
+ta:சுதந்திர	I-ORG
+ta:ஆணையம்	I-ORG
+ta:ஏழாவது	O
+ta:ஒழுக்கப்பணியாக	O
+ta:நடைமுறையில்	O
+ta:கருதப்படுகிறது	O
+ta:.	O
+
+ta:இது	O
+ta:ஈரோடு	B-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:பெருந்துறை	B-LOC
+ta:தாலூகாவில்	O
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:கோயம்புத்தூர்	B-LOC
+ta:-	O
+ta:35	O
+ta:கி.மீ	O
+ta:.	O
+
+ta:ஜெனிஃபர்	B-PER
+ta:லோபஸ்	I-PER
+ta:,	O
+ta:ஜோன்	B-PER
+ta:கோர்பெட்	I-PER
+ta:,	O
+ta:ஆடம்	B-PER
+ta:ஹிக்ஸ்	I-PER
+ta:,	O
+ta:இயன்	B-PER
+ta:நெல்சன்	I-PER
+ta:,	O
+ta:ஆடம்	B-PER
+ta:ஹிக்ஸ்	I-PER
+
+ta:இலங்கை	B-LOC
+ta:வானொலியில்	I-LOC
+ta:பணி	O
+ta:புரிந்தவர்	O
+ta:.	O
+
+ta:Alcalá	O
+ta:de	O
+ta:Henares	O
+ta:and	O
+ta:its	O
+ta:Famous	O
+ta:University	O
+ta:–	O
+ta:தி	B-ORG
+ta:கார்டியன்	I-ORG
+ta:''	O
+
+ta:வழிமாற்று	O
+ta:108	B-ORG
+ta:வைணவத்	I-ORG
+ta:திருத்தலங்கள்	I-ORG
+
+ta:இர்சாத்	B-PER
+ta:(	I-PER
+ta:நடிகர்	I-PER
+ta:)	I-PER
+
+ta:அபக்கூக்கு	B-ORG
+ta:(	I-ORG
+ta:நூல்	I-ORG
+ta:)	I-ORG
+
+ta:இலயோலாக்	B-ORG
+ta:கல்லூரி	I-ORG
+ta:,	I-ORG
+ta:சென்னை	I-ORG
+
+ta:இரா.	B-PER
+ta:நெடுஞ்செழியன்	I-PER
+ta:(	O
+ta:தற்காலிக	O
+ta:முதல்வர்	O
+ta:)	O
+
+ta:பெர்முடா	B-LOC
+ta:(	O
+ta:ஐக்கிய	B-LOC
+ta:இராச்சியம்	I-LOC
+ta:)	O
+
+ta:இக்கோயில்	O
+ta:கும்பகோணம்	B-LOC
+ta:உப்புக்காரத்	O
+ta:தெருவில்	O
+ta:உள்ளது	O
+ta:.	O
+
+ta:புகாரா	B-LOC
+ta:becomes	O
+ta:a	O
+ta:vassal	O
+ta:state	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:தேசிய	B-ORG
+ta:ஜனநாயகக்	I-ORG
+ta:கூட்டணி	I-ORG
+
+ta:இந்தியப்	B-LOC
+ta:பிரிவினைக்குப்	I-LOC
+ta:பின்னர்	O
+ta:,	O
+ta:இருநாடுகளுக்குமான	O
+ta:போக்குவரத்தில்	O
+ta:விரிசல்	O
+ta:விழுந்தது	O
+ta:.	O
+
+ta:'	O
+ta:''	O
+ta:கிலோ	O
+ta:''	O
+ta:'	O
+ta:அனைத்துலக	B-ORG
+ta:முறையலகுகளில்	I-ORG
+ta:முறையில்	O
+ta:103	O
+ta:அல்லது	O
+ta:1000	O
+ta:ஐக்	O
+ta:குறிப்பிடுகின்றது	O
+ta:.	O
+
+ta:சிவனடியார்	O
+ta:கோவணத்தை	O
+ta:மறையும்படி	O
+ta:செய்து	O
+ta:மழையில்	B-ORG
+ta:நனைந்தவராய்	O
+ta:வந்தார்	O
+ta:.	O
+
+ta:அதன்பிறகு	O
+ta:சந்தனமரக்	O
+ta:கடத்தல்	O
+ta:வீரப்பன்	B-PER
+ta:உடன்	O
+ta:நடந்த	O
+ta:உரையாடல்கள்	O
+ta:,	O
+ta:நேர்காணல்கள்	O
+ta:காரணமாக	O
+ta:இவ்விதழ்	O
+ta:பிரபலமானது	O
+ta:.	O
+
+ta:ஜூனியஸ்	B-PER
+ta:ரிச்சட்	I-PER
+ta:ஜயவர்தனா	I-PER
+
+ta:வழிமாற்று	O
+ta:திருப்புறம்பியம்	B-ORG
+ta:சாட்சிநாதேஸ்வரர்	I-ORG
+ta:கோயில்	I-ORG
+
+ta:எஸ்.	B-PER
+ta:பி.	I-PER
+ta:பாலசுப்பிரமணியம்	I-PER
+ta:,	O
+ta:வாணி	B-PER
+ta:ஜெயராம்	I-PER
+
+ta:**	O
+ta:பெர்லின்	B-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:மடு	B-ORG
+ta:மரியாள்	I-ORG
+ta:ஆலயம்	I-ORG
+
+ta:இதன்	O
+ta:வரலாற்று	O
+ta:மையங்கள்	O
+ta:யுனெசுக்கோவால்	B-ORG
+ta:உலகப்	B-ORG
+ta:பாரம்பரியக்	I-ORG
+ta:களங்களாக	I-ORG
+ta:தெரிவுசெய்யப்பட்டுள்ளன	O
+ta:.	O
+
+ta:'	O
+ta:''	O
+ta:பழையார்	O
+ta:''	O
+ta:'	O
+ta:தமிழ்நாட்டில்	B-LOC
+ta:நாகப்பட்டினம்	B-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:அமைந்துள்ள	O
+ta:ஊர்]	O
+ta:ஆகும்	O
+ta:.	O
+
+ta:எஸ்.	B-PER
+ta:ஜே.	I-PER
+ta:சூர்யா	I-PER
+ta:மற்றும்	O
+ta:விஷால்	B-PER
+ta:கௌரவ	O
+ta:வேடங்களில்	O
+ta:நடித்துள்ளனர்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:இலங்கை	B-ORG
+ta:பல்கலைக்கழக	I-ORG
+ta:மானியங்கள்	I-ORG
+ta:ஆணைக்குழு	I-ORG
+
+ta:'	O
+ta:''	O
+ta:ராதா	B-PER
+ta:ஜெயலட்சுமி	I-PER
+ta:''	O
+ta:'	O
+
+ta:**	O
+ta:குவாத்தமாலா	B-LOC
+ta:நகரம்	I-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:(	O
+ta:உ.	B-PER
+ta:வே.	I-PER
+ta:சாமிநாதையர்	I-PER
+ta:குறிப்புடன்	O
+ta:அவரது	O
+ta:மகன்	O
+ta:பதிப்பு	O
+ta:.	O
+
+ta:கருணாஸ்	B-PER
+ta:,	O
+ta:கோவை	B-PER
+ta:சரளா	I-PER
+ta:ஆகியோர்	O
+ta:நடிக்கிறார்கள்	O
+ta:.	O
+
+ta:யூதித்து	B-PER
+ta:(	I-PER
+ta:நூல்	I-PER
+ta:)	I-PER
+
+ta:வழிமாற்று	O
+ta:தூசி	B-LOC
+ta:,	I-LOC
+ta:திருவண்ணாமலை	I-LOC
+ta:மாவட்டம்	I-LOC
+
+ta:வழிமாற்று	O
+ta:வ.	B-PER
+ta:வே.	I-PER
+ta:சுப்பிரமணியம்	I-PER
+
+ta:வழிமாற்று	O
+ta:ஜெ.	B-PER
+ta:எப்.	I-PER
+ta:ஆர்.	I-PER
+ta:ஜேக்கப்	I-PER
+
+ta:இம்மாவட்டப்	O
+ta:பகுதியில்	O
+ta:அச்சனக்மர்	B-LOC
+ta:வனவிலங்கு	I-LOC
+ta:சரணாலயம்	I-LOC
+ta:உள்ளது	O
+ta:.	O
+
+ta:ஜான்	B-PER
+ta:கிரீன்வூட்	I-PER
+ta:(	I-PER
+ta:துடுப்பாட்டக்காரர்	I-PER
+ta:பிறப்பு	I-PER
+ta:1800	I-PER
+ta:)	I-PER
+
+ta:இதை	O
+ta:பயன்படுத்துவதில்	O
+ta:இந்தியா	B-LOC
+ta:மிகப்பெரிய	O
+ta:வாடிக்கையாளராக	O
+ta:உள்ளது	O
+ta:.	O
+
+ta:வைத்திலிங்கம்	B-PER
+ta:துரைசுவாமி	I-PER
+ta:-	O
+ta:இலங்கை	B-ORG
+ta:அரசாங்க	I-ORG
+ta:சபை	I-ORG
+ta:சபாநாயகர்	B-PER
+ta:.	O
+
+ta:மொரோக்கோ	B-LOC
+ta:-	O
+ta:23,000	O
+ta:ச.கி.மீ	O
+
+ta:ஏற்கனவே	O
+ta:கனராவங்கியிடம்	B-ORG
+ta:பெறப்பட்ட	O
+ta:கடன்கள்	O
+ta:நிலுவையில்	O
+ta:இருப்பதும்	O
+ta:அதற்குரிய	O
+ta:காரணமாக	O
+ta:அமைந்தது	O
+ta:.	O
+
+ta:இக்காரணங்களால்	O
+ta:''b	O
+ta:''	O
+ta:இன்	O
+ta:மதிப்பு	O
+ta:0	O
+ta:ஐ	O
+ta:அணுகும்போது	O
+ta:''a	O
+ta:''	O
+ta:/	O
+ta:''b	O
+ta:''	O
+ta:இன்	O
+ta:எல்லையாக	B-ORG
+ta:''a	O
+ta:''	O
+ta:/	O
+ta:0	O
+ta:ஐ	O
+ta:வரையறுக்க	O
+ta:முடியாது	O
+ta:என்பதை	O
+ta:அறிந்து	O
+ta:கொள்ளலாம்	O
+ta:.	O
+
+ta:நியூயார்க்	B-ORG
+ta:பங்குச்	I-ORG
+ta:சந்தை	I-ORG
+
+ta:இங்கு	O
+ta:அனைத்திந்திய	B-ORG
+ta:வானொலியின்	I-ORG
+ta:கிளை	O
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:ஜப்பான்	B-LOC
+ta:(	O
+ta:ஓக்கினாவா	B-LOC
+ta:மாகாணம்	I-LOC
+ta:மற்றும்	O
+ta:யோரோன்	O
+ta:)	O
+
+ta:18-5-1974	O
+ta:அன்று	O
+ta:இங்கு	O
+ta:முதல்	O
+ta:அணுககரு	O
+ta:வெடிப்புப்	O
+ta:பரிசோதனை	O
+ta:(	O
+ta:சிரிக்கும்	B-ORG
+ta:புத்தர்	I-ORG
+ta:)	O
+ta:நடந்தேறியது	O
+ta:.	O
+
+ta:மாட்டேன்	O
+ta:என	O
+ta:வாக்குறுதி	O
+ta:தந்தார்	O
+ta:துரோணர்	B-PER
+ta:.	O
+
+ta:அனைத்திந்திய	B-ORG
+ta:அண்ணா	I-ORG
+ta:திராவிட	I-ORG
+ta:முன்னேற்றக்	I-ORG
+ta:கழகம்	I-ORG
+
+ta:2001ல்	B-ORG
+ta:ஆண்டிமடம்	B-ORG
+ta:சட்டமன்றத்	I-ORG
+ta:தொகுதியிலிருந்தும்	I-ORG
+ta:மற்றும்	O
+ta:2011ல்	B-ORG
+ta:ஜெயங்கொண்டம்	B-ORG
+ta:சட்டமன்றத்	I-ORG
+ta:தொகுதியிலிருந்தும்	I-ORG
+ta:வெற்றி	O
+ta:பெற்று	O
+ta:தமிழக	B-ORG
+ta:சட்டபேரவை	I-ORG
+ta:உறுப்பினராக	O
+ta:பணியாற்றி்வருகிறார்	O
+ta:.	O
+
+ta:2005	O
+ta:ஃபெண்டாஸ்டிக்	B-ORG
+ta:ஃபோர்	I-ORG
+ta:-	O
+ta:(	O
+ta:குரல்	O
+ta:மட்டும்	O
+ta:)	O
+
+ta:''	O
+ta:மணிவண்ணன்	B-PER
+ta:''	O
+ta:'	O
+
+ta:இலங்கை	B-LOC
+ta:வானொலியில்	I-LOC
+ta:நீண்ட	O
+ta:காலம்	O
+ta:அறிவிப்பாளராக	O
+ta:பணியாற்றியவர்	O
+ta:.	O
+
+ta:104.0	O
+ta:MHz	O
+ta:கொழும்பு	B-LOC
+ta:93.5	O
+ta:MHz	O
+
+ta:கிளின்ட்	B-PER
+ta:ஈஸ்ட்வுட்	I-PER
+ta:ஆல்	O
+ta:தயாரித்து	O
+ta:இயக்கப்பட்டது	O
+ta:.	O
+
+ta:மேலும்	O
+ta:நெய்வேலி	B-LOC
+ta:நகரியமும்	O
+ta:இம்மாவட்டத்தில்	O
+ta:உள்ளது	O
+ta:.	O
+
+ta:இதன்	O
+ta:விளைவாக	O
+ta:,	O
+ta:அசோகரது	B-PER
+ta:சொந்த	O
+ta:தமையனையே	O
+ta:ஒரு	O
+ta:கும்பல்	O
+ta:தவறாக	O
+ta:நிர்கரந்தர்	O
+ta:என	O
+ta:நினைத்து	O
+ta:கொன்றனர்	O
+ta:என்றும்	O
+ta:அசோகவதனம்	O
+ta:குறிப்பிடுகிறது	O
+ta:.	O
+
+ta:கிழக்கு	B-LOC
+ta:சிங்பூம்	I-LOC
+ta:மாவட்டம்	I-LOC
+ta:(	O
+ta:பகுதி	O
+ta:)	O
+
+ta:இதன்	O
+ta:தலைமையகம்	O
+ta:புது	B-LOC
+ta:தில்லியில்	I-LOC
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:ஆளும்	O
+ta:இந்திய	B-ORG
+ta:தேசிய	I-ORG
+ta:காங்கிரசு	I-ORG
+ta:தோல்வியடைந்தது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:மியரி	B-PER
+ta:ஜேம்சு	I-PER
+ta:துரைராஜா	I-PER
+ta:தம்பிமுத்து	I-PER
+
+ta:'	O
+ta:''	O
+ta:டொமினிக்கா	B-LOC
+ta:''	O
+ta:'	O
+
+ta:இது	O
+ta:'	O
+ta:''	O
+ta:கல்வாரி	O
+ta:''	O
+ta:'	O
+ta:(	O
+ta:''Calvary	O
+ta:''	O
+ta:)	O
+ta:அல்லது	O
+ta:'	O
+ta:''	O
+ta:கபாலஸ்தலம்	O
+ta:''	O
+ta:'	O
+ta:என்றும்	O
+ta:புதிய	B-ORG
+ta:ஏற்பாட்டில்	I-ORG
+ta:அழைக்கப்படுகிறது	O
+ta:.	O
+
+ta:படை	O
+ta:ஒழுங்கு	O
+ta:சீர்குலைந்த	O
+ta:ஜெர்மானியப்	O
+ta:படைப்பிரிவுகள்	O
+ta:செய்னை	B-LOC
+ta:நோக்கிப்	O
+ta:பின்வாங்கத்	O
+ta:தொடங்கின	O
+ta:.	O
+
+ta:செங்கால்	B-LOC
+ta:நாரை	I-LOC
+ta:(	O
+ta:''White	O
+ta:Stork	O
+ta:''	O
+ta:)	O
+
+ta:1966ல்	O
+ta:ஐக்கிய	B-LOC
+ta:இராச்சியம்	I-LOC
+ta:இடமிருந்து	O
+ta:பெற்றது..	O
+
+ta:வழிமாற்று	O
+ta:சிஜில்	B-ORG
+ta:பெலஜரன்	I-ORG
+ta:மலேசியா	I-ORG
+
+ta:இது	O
+ta:அச்சுவேலி	B-LOC
+ta:பிரதேசப்பை	O
+ta:பிரிவில்	O
+ta:உள்ளது	O
+ta:.	O
+
+ta:சத்தர்பூர்	B-LOC
+ta:சட்டமன்றத்	I-LOC
+ta:தொகுதி	I-LOC
+ta:(	I-LOC
+ta:தில்லி	I-LOC
+ta:)	I-LOC
+
+ta:ஒருவனுக்கு	O
+ta:ஒருத்தி	O
+ta:என்ற	O
+ta:தமிழர்	B-ORG
+ta:பண்பாட்டில்	O
+ta:இத்தத்துவம்	O
+ta:பல	O
+ta:விமர்சனங்களை	O
+ta:உள்வாங்கி	O
+ta:நிற்பதனைக்	O
+ta:காணமுடிகின்றது	O
+ta:.	O
+
+ta:இந்நகரம்	O
+ta:யவ்	B-LOC
+ta:சிம்	I-LOC
+ta:மொங்	I-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:உள்ளது	O
+ta:.	O
+
+ta:'	O
+ta:''	O
+ta:குடை	O
+ta:''	O
+ta:'	O
+ta:(	O
+ta:''Umbrella	O
+ta:''	O
+ta:அல்லது	O
+ta:''parasol	O
+ta:''	O
+ta:)	O
+ta:என்பது	O
+ta:மழை	B-ORG
+ta:,	O
+ta:அல்லது	O
+ta:வெயிலிலிருந்து	O
+ta:பாதுகாக்கும்	O
+ta:ஒரு	O
+ta:கருவியாகும்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:குரு	B-PER
+ta:கோவிந்த்	I-PER
+ta:சிங்	I-PER
+
+ta:கௌதம	B-PER
+ta:புத்தர்	I-PER
+ta:காலத்தில்	O
+ta:வாழ்ந்தவர்	O
+ta:.	O
+
+ta:இத்தலம்	O
+ta:பட்டீச்சுவரத்துக்கு	B-ORG
+ta:மிக	O
+ta:அருகில்	O
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:முதலாவது	O
+ta:கண்ணீர்த்	B-LOC
+ta:தடங்கள்	I-LOC
+ta:பயணத்தை	O
+ta:மேற்கொண்டவர்கள்	O
+ta:சொக்ட்டோக்களே	O
+ta:ஆவர்	O
+ta:.	O
+
+ta:காவ்யா	B-PER
+ta:மாதவன்	I-PER
+ta:,	O
+ta:சுரேஷ்	B-PER
+ta:கோபி	I-PER
+
+ta:எம்.	B-PER
+ta:டி.	I-PER
+ta:வாசுதேவன்	I-PER
+ta:நாயர்	I-PER
+
+ta:நியூ	B-LOC
+ta:கலிடோனியா	I-LOC
+ta:–	O
+ta:252,000	O
+
+ta:இவற்றுள்	O
+ta:பராந்தக	B-PER
+ta:சோழன்	I-PER
+ta:பற்றிய	O
+ta:கல்வெட்டுகளே	O
+ta:மிக	O
+ta:தொன்மையானவை	O
+ta:.	O
+
+ta:இது	O
+ta:544ஆவது	B-ORG
+ta:தேசிய	I-ORG
+ta:நெடுஞ்சாலைக்கு	I-ORG
+ta:அருகிலுள்ளது	O
+ta:.	O
+
+ta:டைம்	B-ORG
+ta:''	O
+ta:stated	O
+ta:that	O
+ta:the	O
+ta:years	O
+ta:were	O
+ta:``	O
+ta:nettling	O
+ta:''	O
+ta:and	O
+ta:``	O
+ta:unsettling	O
+ta:.	O
+ta:''	O
+
+ta:அது	O
+ta:போல்	O
+ta:,	O
+ta:மேலைக்	B-LOC
+ta:கங்கர்	I-LOC
+ta:மரபினர்	O
+ta:,	O
+ta:தாலகாட்டை	O
+ta:தலைநகராக	O
+ta:கொண்டு	O
+ta:அமைக்கப்	O
+ta:பட்டது	O
+ta:.	O
+
+ta:ராபர்ட்	B-PER
+ta:ஜெ.	I-PER
+ta:வான்	I-PER
+ta:டி	I-PER
+ta:கிராப்	I-PER
+
+ta:**	O
+ta:ஜித்தா	B-LOC
+ta:(	O
+ta:துணைத்	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:இது	O
+ta:கடப்பா	B-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:உள்ள	O
+ta:10	O
+ta:தொகுதிகளில்	O
+ta:ஒன்று	O
+ta:.	O
+
+ta:தாயின்	O
+ta:பெற்றோருடன்	O
+ta:ஏலூருவில்	B-LOC
+ta:வளர்ந்தார்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:தமிழ்த்	B-ORG
+ta:தேசியக்	I-ORG
+ta:கட்சி	I-ORG
+
+ta:இந்திய	B-ORG
+ta:அணியும்	O
+ta:இலங்கை	B-ORG
+ta:அணியும்	O
+ta:இறுதி	O
+ta:ஆட்டத்துக்குத்	O
+ta:தெரிவாகின	O
+ta:.	O
+
+ta:அப்படி	O
+ta:முன்மொழியப்பட்ட	O
+ta:களங்களை	O
+ta:நினைவுச்சின்னங்களுக்கும்	B-ORG
+ta:களங்களுக்குமான	I-ORG
+ta:அனைத்துலக	I-ORG
+ta:அவையும்	I-ORG
+ta:,	O
+ta:பன்னாட்டு	B-ORG
+ta:இயற்கைப்	I-ORG
+ta:பாதுகாப்புச்	I-ORG
+ta:சங்கமும்	I-ORG
+ta:மதிப்பீடு	O
+ta:செய்யும்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:திருவைகாவூர்	B-ORG
+ta:வில்வவனேசுவரர்	I-ORG
+ta:கோயில்	I-ORG
+
+ta:ஆரம்	B-LOC
+ta:,	I-LOC
+ta:சந்தனம்	I-LOC
+ta:.	O
+
+ta:புதிய	B-ORG
+ta:தலைமுறை	I-ORG
+ta:(	I-ORG
+ta:தொலைக்காட்சி	I-ORG
+ta:)	I-ORG
+
+ta:வழிமாற்று	O
+ta:லூயி	B-PER
+ta:பால்	I-PER
+ta:கையேட்டே	I-PER
+
+ta:1977ல்	B-ORG
+ta:ஜனதாவின்	O
+ta:கே	O
+ta:.	O
+
+ta:இலங்கையிலிருந்து	B-LOC
+ta:பாராட்டத்தக்க	O
+ta:முறையில்	O
+ta:வெளிவந்த	O
+ta:இந்தப்	O
+ta:பத்திரிகை	O
+ta:2007	O
+ta:நவம்பருடன்	O
+ta:துரதிஷ்டவசமாக	O
+ta:இடைநிறுத்தப்பட்டுவிட்டது	O
+ta:.	O
+
+ta:உன்னிகிருஷ்ணன்	B-ORG
+ta:-	O
+ta:சிறப்புத்	O
+ta:தோற்றம்	O
+
+ta:தமக்கு	O
+ta:முன்னால்	O
+ta:திருத்தந்தை	B-PER
+ta:சிரீசியஸ்	I-PER
+ta:(	O
+ta:384-399	O
+ta:)	O
+ta:செய்தது	O
+ta:போலவே	O
+ta:,	O
+ta:இன்னசெண்டும்	O
+ta:அதிகாரத்	O
+ta:தோரணையோடு	O
+ta:ஆணை	O
+ta:ஏடுகள்	O
+ta:பிறப்பித்தார்	O
+ta:.	O
+
+ta:விவாதம்	O
+ta:நடைபெற்ற	O
+ta:மாதங்களில்	O
+ta:இது	O
+ta:குறித்து	O
+ta:பிராவ்தா	B-ORG
+ta:செய்தியேட்டுக்கு	O
+ta:30,510	O
+ta:கடிதங்கள்	O
+ta:வந்தன	O
+ta:.	O
+
+ta:முதலாம்	B-PER
+ta:பாஸ்கால்	I-PER
+ta:(	I-PER
+ta:திருத்தந்தை	I-PER
+ta:)	I-PER
+
+ta:இது	O
+ta:கொழும்பிற்குத்	B-LOC
+ta:தெற்கே	O
+ta:கட்டுப்பத்த	O
+ta:(	O
+ta:மொறட்டுவை	B-LOC
+ta:)	O
+ta:பகுதியில்	O
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:தேனி	B-LOC
+ta:மாவட்டத்திலுள்ள	I-LOC
+ta:அனுமந்தன்பட்டி	B-LOC
+ta:எனும்	O
+ta:ஊரில்	O
+ta:பிறந்து	O
+ta:,	O
+ta:திண்டுக்கல்	B-LOC
+ta:மாவட்டம்	I-LOC
+ta:,	O
+ta:அய்யம்பாளையம்	B-LOC
+ta:எனும்	O
+ta:ஊரில்	O
+ta:வசித்து	O
+ta:வருபவர்	O
+ta:.	O
+
+ta:ஏ	B-PER
+ta:பி	I-PER
+ta:டி	I-PER
+ta:வில்லியர்ஸ்	I-PER
+
+ta:தற்போது	O
+ta:மிச்சிகன்	B-ORG
+ta:பல்கலைக்கழகத்தில்	I-ORG
+ta:பேராசிரியையாகப்	O
+ta:பணியாற்றுகிறார்	O
+ta:.	O
+
+ta:அருணகிரிநாதர்	B-PER
+ta:15ஆம்	O
+ta:நூற்றாண்டில்	O
+ta:வாழ்ந்த	O
+ta:தமிழ்ப்புலவர்	O
+ta:.	O
+
+ta:இது	O
+ta:ராஜமுந்திரி	B-ORG
+ta:மக்களவைத்	I-ORG
+ta:தொகுதிக்கு	I-ORG
+ta:உட்பட்டது	O
+ta:.	O
+
+ta:''	O
+ta:(	O
+ta:ஐக்கிய	B-LOC
+ta:இராச்சியம்	I-LOC
+ta:)	O
+ta:''	O
+
+ta:வழிமாற்று	O
+ta:தமிழ்	B-ORG
+ta:இணையக்	I-ORG
+ta:கல்விக்கழகம்	I-ORG
+
+ta:அக்கல்குவா	B-ORG
+ta:சட்டமன்றத்	I-ORG
+ta:தொகுதி	I-ORG
+ta:(	O
+ta:1	O
+ta:)	O
+
+ta:கிர்கிசுத்தான்	B-LOC
+ta:-	O
+ta:404	O
+ta:கிமீ	O
+
+ta:இது	O
+ta:கோரக்பூர்	B-LOC
+ta:கோட்டத்திற்கு	O
+ta:உட்பட்டது	O
+ta:.	O
+
+ta:இவரது	O
+ta:பாட்ட்டனாரான	O
+ta:அல்-அஷா	O
+ta:முகமது	B-PER
+ta:நபியின்	I-PER
+ta:தோழர்களில்	O
+ta:ஒருவர்	O
+ta:.	O
+
+ta:லாக்ராஞ்சியின்	B-ORG
+ta:நான்கு	I-ORG
+ta:வர்க்கத்	I-ORG
+ta:தேற்றம்	I-ORG
+
+ta:மத்திய	B-LOC
+ta:கிழக்கு	I-LOC
+ta:நாடுகள்	I-LOC
+ta:,	O
+ta:வடக்கு	B-LOC
+ta:ஆப்பிரிக்கா	I-LOC
+
+ta:இவர்	O
+ta:முலாயம்	B-PER
+ta:சிங்	I-PER
+ta:யாதவின்	I-PER
+ta:பேரன்	O
+ta:ஆவார்	O
+ta:.	O
+
+ta:போரோபுதூர்	B-ORG
+ta:கட்டும்	O
+ta:பணி	O
+ta:துவங்கியது	O
+ta:.	O
+
+ta:இந்தப்	O
+ta:படத்தில்	O
+ta:கதாநாயகனாக	O
+ta:அஜித்	B-PER
+ta:குமாரும்	I-PER
+ta:,	O
+ta:கதாநாயகியாக	O
+ta:ஜோதிகாவும்	B-PER
+ta:நடித்துள்ளனர்	O
+ta:.	O
+
+ta:ஆசிய	B-ORG
+ta:நெடுஞ்சாலை	I-ORG
+ta:5	I-ORG
+
+ta:வேதியியல்	B-LOC
+ta:-	O
+ta:Luis	O
+ta:Federico	O
+ta:Leloir	O
+
+ta:இது	O
+ta:நமது	O
+ta:சூரியனை	B-LOC
+ta:விட	O
+ta:சற்று	O
+ta:எடை	O
+ta:கூடியது	O
+ta:.	O
+
+ta:சென்னை	B-LOC
+ta:,	O
+ta:ஐதராபாத்து	B-LOC
+ta:மற்றும்	O
+ta:பெங்களூர்	B-LOC
+ta:போன்ற	O
+ta:நகரங்களுக்கு	O
+ta:தனியார்	O
+ta:பேருந்துகளும்	O
+ta:இயக்கப்படுகின்றன	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:துரைசாமி	B-PER
+ta:சைமன்	I-PER
+ta:லூர்துசாமி	I-PER
+
+ta:வழிமாற்று	O
+ta:தாத்ரா	B-LOC
+ta:மற்றும்	I-LOC
+ta:நகர்	I-LOC
+ta:அவேலி	I-LOC
+
+ta:இது	O
+ta:எறணாகுளம்	B-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:பிரதமரின்	O
+ta:அறையும்	O
+ta:அவரால்	O
+ta:தேர்ந்தெடுக்கப்பட்ட	O
+ta:சில	O
+ta:குடியியல்	B-ORG
+ta:அதிகாரிகளின்	I-ORG
+ta:அறைகளும்	O
+ta:இங்குள்ளன	O
+ta:.	O
+
+ta:கொங்கு	B-LOC
+ta:நாட்டில்	I-LOC
+ta:எல்லா	O
+ta:கிராமங்களிலும்	O
+ta:முத்தாலம்மன்	O
+ta:வழிபாடு	O
+ta:பழங்காலத்திலிருந்தே	O
+ta:மிகச்	O
+ta:சிறப்பான	O
+ta:ஒன்றாகப்	O
+ta:போற்றப்படுகிறது	O
+ta:.	O
+
+ta:ஐக்கிய	B-ORG
+ta:நாடுகள்	I-ORG
+ta:கடைப்பிடிப்புக்கள்	I-ORG
+ta:-	I-ORG
+ta:அனைத்துலக	I-ORG
+ta:ஆண்டு	I-ORG
+
+ta:கரவெட்டி	B-LOC
+ta:கிராமத்தின்	O
+ta:நடுவில்	O
+ta:அமைந்துள்ள	O
+ta:இது	O
+ta:தற்போது	O
+ta:வடமராட்சிப்	B-LOC
+ta:பகுதியில்	O
+ta:புதிய	O
+ta:ஒரு	O
+ta:சேவை	O
+ta:நிலையமாக	O
+ta:உருவாகி	O
+ta:வருகின்றது	O
+ta:.	O
+
+ta:மேற்கு	B-LOC
+ta:காசி	I-LOC
+ta:மலை	I-LOC
+ta:மாவட்டம்	I-LOC
+
+ta:'	O
+ta:''	O
+ta:ஊதா	B-ORG
+ta:''	O
+ta:'	O
+
+ta:கொலராடோ	B-ORG
+ta:பல்கலைக்கழகம்	I-ORG
+ta:(	I-ORG
+ta:போல்டர்	I-ORG
+ta:)	I-ORG
+
+ta:1960ல்	O
+ta:எசுப்பானியா	B-LOC
+ta:இடமிருந்து	O
+ta:பெற்றது	O
+ta:.	O
+
+ta:பாக்காத்தான்	B-ORG
+ta:ராக்யாட்	I-ORG
+ta:மக்கள்	B-ORG
+ta:நீதிக்	I-ORG
+ta:கட்சி	I-ORG
+
+ta:செர்கே	B-PER
+ta:அரோழ்சி	I-PER
+ta:;	O
+ta:டேவிட்.	B-PER
+ta:ஜே.	I-PER
+ta:வைன்லேண்டு	I-PER
+
+ta:ஸ்ரீகாந்த்	B-PER
+ta:(	I-PER
+ta:நடிகர்	I-PER
+ta:)	I-PER
+
+ta:``	O
+ta:திரைக்கதை	O
+ta:எழுதுவது	O
+ta:எப்படி	O
+ta:''	O
+ta:என்று	O
+ta:எழுத்தாளர்	O
+ta:சுஜாதா	B-PER
+ta:எழுதியுள்ள	O
+ta:புத்தகம்	O
+ta:மிகுந்த	O
+ta:பிரசித்தி	O
+ta:பெற்றது	O
+ta:.	O
+
+ta:அதை	O
+ta:நஜீப்	B-PER
+ta:துன்	I-PER
+ta:ரசாக்	I-PER
+ta:வன்மையாக	O
+ta:மறுத்து	O
+ta:வருகிறார்	O
+ta:.	O
+
+ta:இவர்கள்	O
+ta:அரியானா	B-LOC
+ta:மாநிலத்தை	O
+ta:சார்ந்தவர்கள்	O
+ta:.	O
+
+ta:மா	B-PER
+ta:சே	I-PER
+ta:துங்	I-PER
+
+ta:தற்போது	O
+ta:சென்னை	B-LOC
+ta:புதுக்கல்லூரியில்	O
+ta:உதவிப்	O
+ta:பேராசிரியராகப்	O
+ta:பணியாற்றி	O
+ta:வருகின்றார்	O
+ta:.	O
+
+ta:லிங்குசாமி	B-PER
+ta:-	O
+ta:சிறப்புத்	O
+ta:தோற்றம்	O
+
+ta:தமிழீழ	B-ORG
+ta:மக்கள்	I-ORG
+ta:விடுதலைக்	I-ORG
+ta:கழகம்	I-ORG
+ta:(	O
+ta:People’s	O
+ta:Liberation	O
+ta:Organization	O
+ta:of	O
+ta:Tamil	O
+ta:Eelam	O
+ta:(	O
+ta:PLOT	O
+ta:)	O
+ta:)	O
+
+ta:இவற்றுள்	O
+ta:விதிவிலக்காக	O
+ta:,	O
+ta:கன்னியாகுமரி	B-LOC
+ta:மாவட்டத்தின்	I-LOC
+ta:தலைநகர்	O
+ta:நாகர்கோவில்	B-LOC
+ta:,	O
+ta:நீலமலை	B-ORG
+ta:மாவட்டத்தின்	I-ORG
+ta:தலைநகர்	O
+ta:உதகமண்டலம்	B-LOC
+ta:என்றுள்ளன	O
+ta:.	O
+
+ta:ஆப்பிரிக்கா	B-LOC
+ta:மற்றும்	O
+ta:சிறு	B-LOC
+ta:ஆசியா	I-LOC
+ta:பகுதிகளில்	O
+ta:ஒரு	O
+ta:பிரச்சினை	O
+ta:எழுந்தது	O
+ta:.	O
+
+ta:சென்னையைத்	B-LOC
+ta:தலைமையிடமாகக்	O
+ta:கொண்டு	O
+ta:இயங்கும்	O
+ta:இத்துறையில்	O
+ta:300கிமீ-க்கு	O
+ta:அதிகமான	O
+ta:தூரமுள்ள	O
+ta:வழித்தடங்களில்	O
+ta:இத்துறையின்	O
+ta:பேருந்துகள்	O
+ta:இயக்கப்படுகின்றன	O
+ta:.	O
+
+ta:**	O
+ta:ஹனோய்	B-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:ஈரான்	B-LOC
+ta:-	O
+ta:1	O
+ta:கிமீ	O
+
+ta:பங்காசி	B-LOC
+ta:(	O
+ta:துணைத்	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:பஞ்ச	B-PER
+ta:பாண்டியர்	I-PER
+ta:(	I-PER
+ta:அநுராதபுரம்	I-PER
+ta:)	I-PER
+
+ta:பின்னர்	O
+ta:அவர்	O
+ta:சக்தி	B-ORG
+ta:தொலைக்காட்சியில்	I-ORG
+ta:''மின்னல்	O
+ta:''	O
+ta:என்ற	O
+ta:நிகழ்ச்சியை	O
+ta:நடத்தினார்	O
+ta:.	O
+
+ta:மிதிவெடிகள்	B-ORG
+ta:தடைக்கான	I-ORG
+ta:பன்னாட்டு	I-ORG
+ta:இயக்கம்	I-ORG
+ta:;	O
+ta:ஜோடி	B-PER
+ta:வில்லியம்ஸ்	I-PER
+
+ta:தேசியப்	B-LOC
+ta:பட்டியல்	I-LOC
+ta:நாடாளுமன்ற	I-LOC
+ta:உறுப்பினர்	I-LOC
+
+ta:இவரது	O
+ta:உடன்	O
+ta:பிறந்தாளான	O
+ta:குந்தி	B-PER
+ta:,	O
+ta:பாண்டு	B-PER
+ta:மன்னனின்	O
+ta:மனைவி	O
+ta:.	O
+
+ta:1960	B-ORG
+ta:சூலையில்	I-ORG
+ta:மீண்டும்	O
+ta:இடம்பெற்ற	O
+ta:தேர்தல்களில்	O
+ta:தோல்வியடைந்தார்	O
+ta:.	O
+
+ta:ஸ்ரீ	B-PER
+ta:விக்கிரம	I-PER
+ta:ராஜசிங்கன்	I-PER
+ta:(	O
+ta:1798-1815	O
+ta:)	O
+
+ta:ஒன்றாவது	O
+ta:நடைமேடையில்	O
+ta:நிற்கும்	O
+ta:[[சென்னை	O
+ta:சதாப்தி	B-ORG
+ta:விரைவுவண்டி	I-ORG
+ta:]]	O
+
+ta:இவர்	O
+ta:புகழ்பெற்ற	O
+ta:எழுத்தாளர்	O
+ta:சல்மான்	B-PER
+ta:ருஷ்டியின்	I-PER
+ta:முன்னாள்	O
+ta:மனைவி	O
+ta:ஆவார்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:பி.	B-PER
+ta:பி.	B-PER
+ta:ஸ்ரீனிவாஸ்	I-PER
+
+ta:மகிந்த	B-PER
+ta:ராசபக்ச	I-PER
+ta:(	O
+ta:1945–	O
+ta:)	O
+
+ta:சரத்குமார்	B-PER
+ta:-	O
+ta:செங்கோடகன்	O
+ta:(	O
+ta:சிறப்புத்தோற்றம்	O
+ta:)	O
+
+ta:2011இல்	O
+ta:டெல்லி	B-ORG
+ta:டேர்டெவில்ஸ்	I-ORG
+ta:அணியில்	O
+ta:சேர்த்துக்	O
+ta:கொள்ளப்பட்டார்	O
+ta:.	O
+
+ta:இவன்	O
+ta:ஒரு	O
+ta:மேலைச்	B-ORG
+ta:சாளுக்கிய	I-ORG
+ta:மன்னனாவான்	O
+ta:.	O
+
+ta:சேப்பாக்கம்	B-LOC
+ta:துடுப்பாட்ட	I-LOC
+ta:அரங்கம்	I-LOC
+ta:,	O
+ta:சென்னை	B-LOC
+
+ta:1642-1652	O
+ta:)	O
+ta:விஜயநகரப்	B-ORG
+ta:பேரரசின்	I-ORG
+ta:கடைசி	O
+ta:அரசனாவார்	O
+ta:.	O
+
+ta:கருநாடக	B-ORG
+ta:இசைப்	I-ORG
+ta:பாடகரான	O
+ta:இவரை	O
+ta:திரையுலகிற்கு	O
+ta:அழைத்து	O
+ta:வந்தவர்	O
+ta:ஏ.	B-PER
+ta:ஆர்.	I-PER
+ta:ரகுமான்	I-PER
+ta:ஆவார்	O
+ta:.	O
+
+ta:இந்தத்	O
+ta:திரைப்படத்தைத்	O
+ta:ஸ்டுடியோ	B-ORG
+ta:கிரீன்	I-ORG
+ta:தயாரித்து	O
+ta:மற்றும்	O
+ta:விநியோகம்	O
+ta:செய்கின்றது	O
+ta:.	O
+
+ta:'	O
+ta:''	O
+ta:பொகோட்டா	B-LOC
+ta:''	O
+ta:'	O
+
+ta:அது	O
+ta:முதல்	O
+ta:42	O
+ta:பேர்	O
+ta:இந்தியத்	B-PER
+ta:தலைமை	I-PER
+ta:நீதிபதியாக	I-PER
+ta:பதவி	O
+ta:வகித்துள்ளனர்	O
+ta:.	O
+
+ta:'	O
+ta:''	O
+ta:குண்டல்கேசியாக	O
+ta:''	O
+ta:'	O
+ta:'	O
+ta:''	O
+ta:கவுண்டமணி	B-PER
+ta:''	O
+ta:'	O
+
+ta:இப்புதினத்தை	O
+ta:ஆதரித்து	O
+ta:எழுத்தாளர்	O
+ta:ஜெயமோகனும்	B-PER
+ta:எதிர்த்து	O
+ta:எழுத்தாளர்	O
+ta:எஸ்.	B-PER
+ta:ராமகிருஷ்ணனும்	I-PER
+ta:எழுதியுள்ளனர்	O
+ta:.	O
+
+ta:2009	O
+ta:,	O
+ta:2014-ஆம்	O
+ta:ஆண்டுகளில்	O
+ta:திருவனந்தபுரம்	B-ORG
+ta:மக்களவைத்	I-ORG
+ta:தொகுதியில்	I-ORG
+ta:போட்டியிட்டு	O
+ta:வென்றார்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:சார்லீஸ்	B-PER
+ta:வான்	I-PER
+ta:டெர்	I-PER
+ta:வெஸ்துயிசென்	I-PER
+
+ta:அதன்	O
+ta:பிறகு	O
+ta:நாடாளுமன்ற	B-PER
+ta:மாநிலங்களவை	I-PER
+ta:உறுப்பினராகத்	I-PER
+ta:தேர்வு	O
+ta:செய்யப்	O
+ta:பெற்று	O
+ta:பணியாற்றினார்	O
+ta:.	O
+
+ta:இதன்பின்னர்	O
+ta:இசையமைப்பாளர்	O
+ta:றொக்சாமியுடன்	O
+ta:இணைந்து	O
+ta:இலங்கை	B-LOC
+ta:வானொலியில்	I-LOC
+ta:பணியாற்றினார்	O
+ta:.	O
+
+ta:''தமிழ்த்	O
+ta:தாத்தா	O
+ta:''	O
+ta:உ.	B-PER
+ta:வே.	I-PER
+ta:சாமிநாதையர்	I-PER
+ta:இக்கல்லூரியில்	O
+ta:செயல்படும்	O
+ta:தமிழ்த்துறையின்	O
+ta:தலைவராக	O
+ta:பணியாற்றியுள்ளார்	O
+ta:.	O
+
+ta:ஒவ்வொரு	O
+ta:ஒற்றை	O
+ta:வர்க்க	O
+ta:எண்ணும்	O
+ta:ஒரு	O
+ta:மையப்படுத்தப்பட்ட	B-ORG
+ta:எண்கோண	I-ORG
+ta:எண்ணாகவும்	I-ORG
+ta:இருக்கும்	O
+
+ta:இந்தியாவில்	B-LOC
+ta:இத்திரைப்படம்	O
+ta:தற்காலிகமாகத்	O
+ta:தடை	O
+ta:செய்யப்பட்டது	O
+ta:.	O
+
+ta:தி	B-ORG
+ta:டைம்ஸ்	I-ORG
+ta:ஆஃப்	I-ORG
+ta:இந்தியா	I-ORG
+
+ta:ஊருக்கு	O
+ta:நடுவே	O
+ta:கடலூர்	B-LOC
+ta:தொடர்வண்டிp	O
+ta:பாதை	O
+ta:செல்கிறது	O
+ta:.	O
+
+ta:**	O
+ta:Sri	B-LOC
+ta:Lanka	I-LOC
+ta:Peafowl	I-LOC
+ta:,	O
+ta:''Pavo	O
+ta:cristatus	O
+ta:singhalensis	O
+ta:''	O
+
+ta:'	O
+ta:''	O
+ta:இக்ரஃ	O
+ta:''	O
+ta:'	O
+ta:இது	O
+ta:கொழும்பிலிருந்து	B-LOC
+ta:வெளிவந்த	O
+ta:ஒரு	O
+ta:மாத	O
+ta:இதழாகும்	O
+ta:.	O
+
+ta:அவை	O
+ta:மொனாக்கோ	B-LOC
+ta:,	O
+ta:சிங்கப்பூர்	B-LOC
+ta:,	O
+ta:வத்திக்கான்	B-LOC
+ta:நகர்	I-LOC
+ta:,	O
+ta:சான்	B-LOC
+ta:மரீனோ	I-LOC
+ta:மற்றும்	O
+ta:மால்ட்டா	B-LOC
+ta:ஆகும்	O
+ta:.	O
+
+ta:போ.	B-LOC
+ta:மீனாட்சிபுரம்	I-LOC
+ta:,	O
+ta:தேனி	B-LOC
+ta:மாவட்டம்	I-LOC
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:புசார்லா	B-PER
+ta:வெங்கட	I-PER
+ta:சிந்து	I-PER
+
+ta:மத்திய	B-ORG
+ta:சேமக்	I-ORG
+ta:காவல்	I-ORG
+ta:படை	I-ORG
+
+ta:இது	O
+ta:பீகாரில்	B-LOC
+ta:உள்ள	O
+ta:40	O
+ta:தொகுதிகளில்	O
+ta:ஒன்றாகும்	O
+ta:.	O
+
+ta:இதுவே	O
+ta:பின்னர்	O
+ta:ஐரோப்பிய	B-LOC
+ta:நாடுகளிலும்	O
+ta:பரவியது	O
+ta:.	O
+
+ta:தமிழ்நாடு	B-ORG
+ta:சட்டமன்றத்	I-ORG
+ta:தேர்தல்	I-ORG
+ta:,	I-ORG
+ta:2001	I-ORG
+
+ta:இலங்கை	B-ORG
+ta:சுதந்திரக்	I-ORG
+ta:கட்சி	I-ORG
+
+ta:அதே	O
+ta:ஆண்டில்	O
+ta:குவாலியரில்	B-LOC
+ta:சவுளி	O
+ta:ஆலை	O
+ta:தொடங்கினார்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:தமிழ்நாடு	B-ORG
+ta:மெர்கன்டைல்	I-ORG
+ta:வங்கி	I-ORG
+
+ta:*12779	O
+ta:/	O
+ta:12780	O
+ta:கோவா	B-ORG
+ta:விரைவுவண்டி	I-ORG
+
+ta:மஸ்ஜிதுல்	B-ORG
+ta:ஹராம்	I-ORG
+ta:--	O
+ta:மக்கா	B-LOC
+
+ta:பன்னாட்டு	B-ORG
+ta:தனி	I-ORG
+ta:மற்றும்	I-ORG
+ta:பயன்பாட்டு	I-ORG
+ta:வேதியியல்	I-ORG
+ta:ஒன்றியம்	I-ORG
+ta:''A	O
+ta:''	O
+ta:எழுத்தையே	O
+ta:பரிந்துரைத்துள்ளது	O
+ta:.	O
+
+ta:உடனடியாக	O
+ta:,	O
+ta:அவர்	O
+ta:அங்கிருந்து	O
+ta:கோலாலம்பூருக்கு	B-LOC
+ta:கொண்டு	O
+ta:வரப்பட்டார்	O
+ta:.	O
+
+ta:உதுமானியர்	B-LOC
+ta:ஏமனில்	B-LOC
+ta:இருந்து	O
+ta:வெளியேற்றப்பட்டனர்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:மிதப்புப்	B-ORG
+ta:புள்ளிச்	I-ORG
+ta:செயல்பாடுகள்	I-ORG
+
+ta:மூன்றாம்	B-PER
+ta:இராஜராஜ	I-PER
+ta:சோழன்	I-PER
+
+ta:History	O
+ta:of	O
+ta:ancient	O
+ta:Rome	O
+ta:OpenCourseWare	O
+ta:from	O
+ta:the	O
+ta:நோட்ரெ	B-ORG
+ta:டேம்	I-ORG
+ta:பல்கலைக்கழகம்	I-ORG
+ta:providing	O
+ta:free	O
+ta:resources	O
+ta:including	O
+ta:lectures	O
+ta:,	O
+ta:discussion	O
+ta:questions	O
+ta:,	O
+ta:assignments	O
+ta:,	O
+ta:and	O
+ta:exams	O
+ta:.	O
+
+ta:TC	O
+ta:துர்கசு	B-LOC
+ta:கைகோசு	I-LOC
+ta:தீவுகள்	I-LOC
+
+ta:rect	O
+ta:858	O
+ta:340	O
+ta:953	O
+ta:361	O
+ta:மேற்கு	B-LOC
+ta:வர்ஜீனியா	I-LOC
+
+ta:சமயங்களிடையே	O
+ta:ஒற்றுமையை	O
+ta:ஏற்படுத்தும்	O
+ta:நோக்கத்துடனே	O
+ta:மன்னர்	B-PER
+ta:திருமலை	I-PER
+ta:நாயக்கர்	I-PER
+ta:காலத்தில்	O
+ta:இரு	O
+ta:விழாக்களும்	O
+ta:இணைக்கப்பட்டு	O
+ta:ஒரே	O
+ta:விழாவாக	O
+ta:ஆக்கினார்	O
+ta:.	O
+
+ta:முதலாம்	B-PER
+ta:மாறவர்மன்	I-PER
+ta:குலசேகர	I-PER
+ta:பாண்டியன்	I-PER
+ta:-	O
+ta:கி	O
+ta:.	O
+
+ta:**	O
+ta:சியோல்	B-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:மாவட்டத்திர்க்குச்	O
+ta:சொந்தமான	O
+ta:தென்னிந்தியத்	B-ORG
+ta:திருச்சபையானது	I-ORG
+ta:வாரவாரம்	O
+
+ta:உ.வே.சாமிநாதய்யரிடம்	B-PER
+ta:கொடுத்து	O
+ta:திருத்தங்கள்	O
+ta:செய்து	O
+ta:கொண்டார்	O
+ta:.	O
+
+ta:சொலமன்	B-LOC
+ta:தீவுகளிலும்	I-LOC
+ta:இருந்து	O
+ta:இங்கு	O
+ta:பலர்	O
+ta:தொழில்	O
+ta:நிமித்தம்	O
+ta:குடியேறியுள்ளனர்	O
+ta:.	O
+
+ta:**	O
+ta:பெர்லின்	B-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:கோழிக்கோட்டை	B-LOC
+ta:தலைமையிடமாகக்	O
+ta:கொண்டு	O
+ta:வெளியானது	O
+ta:.	O
+
+ta:திரு.	B-PER
+ta:வி.	I-PER
+ta:கலியாணசுந்தரனார்	I-PER
+
+ta:அவை	O
+ta:பொதுவாக	O
+ta:அராபியத்	B-LOC
+ta:தீபகற்பம்	I-LOC
+ta:,	O
+ta:ஆப்பிரிக்காவின்	B-LOC
+ta:கொம்பு	I-LOC
+ta:,	O
+ta:வடக்கு	B-LOC
+ta:ஆப்பிரிக்கா	I-LOC
+ta:,	O
+ta:சகேலின்	O
+ta:பாகங்கள்	O
+ta:,	O
+ta:இந்தியத்	B-LOC
+ta:துணைக்கண்டம்	I-LOC
+ta:,	O
+ta:நடு	B-LOC
+ta:ஆசியா	I-LOC
+ta:மற்றும்	O
+ta:தென்கிழக்காசியா	B-LOC
+ta:போன்ற	O
+ta:இடங்களில்	O
+ta:பயன்படுத்தபடுகிறது	O
+ta:.	O
+
+ta:subbiahpuram	O
+ta:Gram	O
+ta:Panchayat	O
+ta:''	O
+ta:)	O
+ta:,	O
+ta:தமிழ்நாட்டின்	B-LOC
+ta:விருதுநகர்	B-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:உள்ள	O
+ta:சாத்தூர்	B-LOC
+ta:வட்டாரத்தில்	O
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:இங்கிருந்து	O
+ta:ஐந்து	O
+ta:கிலோமீட்டர்	O
+ta:தொலைவில்	O
+ta:சென்றால்	O
+ta:கண்ணூர்	B-LOC
+ta:நகரத்தை	O
+ta:அடையலாம்	O
+ta:.	O
+
+ta:ஏவியேஷன்	B-ORG
+ta:வீக்	I-ORG
+ta:அண்ட்	I-ORG
+ta:ஸ்பேஸ்	I-ORG
+ta:டெக்னாலஜி	I-ORG
+
+ta:'	O
+ta:''	O
+ta:வி.	B-PER
+ta:சிவகுமார்	I-PER
+ta:''	O
+ta:'	O
+
+ta:இந்திய	B-ORG
+ta:அரசு	I-ORG
+ta:வங்கியில்	I-ORG
+ta:(	O
+ta:State	O
+ta:Bank	O
+ta:of	O
+ta:India	O
+ta:)	O
+ta:பணியாற்றி	O
+ta:ஓய்வு	O
+ta:பெற்றவர்	O
+ta:.	O
+
+ta:இப்போது	O
+ta:ஆசியாவில்	B-LOC
+ta:ஒரு	O
+ta:பெரிய	O
+ta:பெயிண்ட்	O
+ta:உற்பத்தியாளராக	O
+ta:திகழ்கிறது	O
+ta:.	O
+
+ta:அதைத்	O
+ta:தொடர்ந்து	O
+ta:சிங்கப்பூர்	B-LOC
+ta:வந்த	O
+ta:இவர்	O
+ta:பல்வேறு	O
+ta:நிறுவனங்களில்	O
+ta:பணியாற்றிள்ளார்	O
+ta:.	O
+
+ta:சத்தியேந்திர	B-PER
+ta:நாத்	I-PER
+ta:போசு	I-PER
+
+ta:முட்டம்	B-LOC
+ta:,	I-LOC
+ta:கன்னியாகுமரி	I-LOC
+ta:மாவட்டம்	I-LOC
+
+ta:சான்	B-LOC
+ta:சல்வடோர்	I-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:இவனது	O
+ta:மகனான	O
+ta:சிம்மவிஷ்ணுவின்	B-PER
+ta:காலம்	O
+ta:கி.பி	O
+ta:.	O
+
+ta:'	O
+ta:''	O
+ta:குகென்ஹெயிம்	B-ORG
+ta:அருங்காட்சியகம்	I-ORG
+ta:''	O
+ta:'	O
+
+ta:இந்த	O
+ta:வட்டத்தின்	O
+ta:தலைமையகமாக	O
+ta:திருவாடானை	B-LOC
+ta:உள்ளது	O
+ta:.	O
+
+ta:வேளச்சேரி	B-ORG
+ta:(	I-ORG
+ta:சட்டமன்றத்	I-ORG
+ta:தொகுதி	I-ORG
+ta:)	I-ORG
+
+ta:இத்தலம்	O
+ta:நாகப்பட்டினம்	B-LOC
+ta:மாவட்டம்	I-LOC
+ta:வேதாரண்யம்	B-LOC
+ta:வட்டத்தில்	I-LOC
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:இந்தியப்	B-ORG
+ta:பட்டயக்	I-ORG
+ta:கணக்கறிஞர்கள்	I-ORG
+ta:கழகம்	I-ORG
+
+ta:நரேந்திர	B-PER
+ta:மோதி	I-PER
+ta:பிரதமராகப்	O
+ta:பதவியேற்றார்	O
+ta:.	O
+
+ta:சிதம்பரம்	B-ORG
+ta:தில்லை	I-ORG
+ta:நடராஜர்	I-ORG
+ta:திருக்கோயில்	I-ORG
+
+ta:அனாதபிண்டிகண்	O
+ta:புத்தரின்	B-PER
+ta:சாதாரணச்	O
+ta:சீடர்களின்	O
+ta:தலைமையானவர்	O
+ta:ஆவார்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:இந்தியப்	B-ORG
+ta:பாதுகாப்புப்	I-ORG
+ta:படைகள்	I-ORG
+
+ta:வழிமாற்று	O
+ta:உலகளாவிய	B-ORG
+ta:வலைச்	I-ORG
+ta:சேர்த்தியம்	I-ORG
+
+ta:எனும்	O
+ta:முதல்	O
+ta:சிறுகதை	O
+ta:மதுரையிலிருந்து	B-LOC
+ta:வெளியான	O
+ta:‘நேதாஜி’	O
+ta:எனும்	O
+ta:வார	O
+ta:இதழில்	O
+ta:வெளிவந்தது	O
+ta:.	O
+
+ta:இந்தத்	O
+ta:தொடர்பை	O
+ta:விவரிப்பதே	O
+ta:ஓமின்	B-ORG
+ta:விதி	I-ORG
+ta:என	O
+ta:அறியப்படுகிறது	O
+ta:.	O
+
+ta:இது	O
+ta:பாபட்ல	B-PER
+ta:மக்களவைத்	I-PER
+ta:தொகுதிக்கு	I-PER
+ta:உட்பட்டது	O
+ta:.	O
+
+ta:'	O
+ta:''	O
+ta:எலுவைதி	O
+ta:''	O
+ta:'	O
+ta:என்பது	O
+ta:ஒரு	O
+ta:மேற்கத்திய	O
+ta:இசைக்குழு	B-LOC
+ta:ஆகும்	O
+ta:.	O
+
+ta:தண்டபாணிப்பிள்ளை	O
+ta:,	O
+ta:ரா.	B-PER
+ta:பி.	I-PER
+ta:சேதுப்பிள்ளை	I-PER
+ta:போன்ற	O
+ta:பலர்	O
+ta:இவ்விதழில்	O
+ta:கருத்துகளைப்	O
+ta:பதிவு	O
+ta:செய்துள்ளனர்	O
+ta:.	O
+
+ta:தித்திவாங்சா	B-LOC
+ta:மலைத்	I-LOC
+ta:தொடரில்	I-LOC
+ta:அமைந்து	O
+ta:உள்ளது	O
+ta:.	O
+
+ta:இது	O
+ta:அல்	B-ORG
+ta:காயிதாவின்	I-ORG
+ta:கிளை	O
+ta:அமைப்பாகும்	O
+ta:.	O
+
+ta:2001	B-ORG
+ta:நாடாளுமன்றத்	I-ORG
+ta:தேர்தலில்	I-ORG
+ta:ஐக்கிய	B-ORG
+ta:தேசிய	I-ORG
+ta:முன்னணி	I-ORG
+ta:வேட்பாளராகப்	O
+ta:போட்டியிட்டு	O
+ta:நாடாளுமன்றம்	B-LOC
+ta:சென்றார்	O
+ta:.	O
+
+ta:இவர்	O
+ta:வாழ்ந்த	O
+ta:குருக்கூர்	O
+ta:இவர்	O
+ta:நினைவாக	O
+ta:ஆழ்வார்திருநகரி	B-LOC
+ta:என	O
+ta:அழைக்கப்படுகிறது	O
+ta:.	O
+
+ta:சச்சு	B-PER
+ta:-	O
+ta:வனரோஜா	O
+ta:பாட்டி	O
+
+ta:ஐக்கிய	B-PER
+ta:இராச்சியத்தின்	I-PER
+ta:விக்டோரியா	I-PER
+
+ta:இவர்	O
+ta:அருணாசலக்	B-PER
+ta:கவிராயரின்	I-PER
+ta:குமாரராவார்	O
+ta:.	O
+
+ta:பினுர	O
+ta:பெர்னாண்டோவிற்குப்	O
+ta:பதிலாக	O
+ta:சமிந்த	B-PER
+ta:எரங்கா	I-PER
+ta:விளையாடுகிறார்	O
+ta:.	O
+
+ta:பால	B-PER
+ta:கங்காதர	I-PER
+ta:திலகர்	I-PER
+ta:இப்பகுதியைச்	O
+ta:சேர்ந்தவர்	O
+ta:ஆவார்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:காங்கேசன்துறை	B-ORG
+ta:தொடருந்து	I-ORG
+ta:நிலையம்	I-ORG
+
+ta:'	O
+ta:''	O
+ta:டென்மார்க்	B-LOC
+ta:''	O
+ta:'	O
+
+ta:செயல்	B-ORG
+ta:அதிகாரம்	I-ORG
+ta:பிரதமரிடமும்	B-PER
+ta:அவரின்	O
+ta:தலைமையின்	O
+ta:கீழ்	O
+ta:இயங்கும்	O
+ta:அமைச்சரவையிடமும்	B-ORG
+ta:இருக்கின்றது	O
+ta:.	O
+
+ta:கிராக்கோவ்	B-LOC
+ta:மருத்துவமனையில்	O
+ta:அனுமதிக்கப்பட்ட	O
+ta:அவர்	O
+ta:அங்கு	O
+ta:உயிரிழந்தார்	O
+ta:.	O
+
+ta:அனைத்திந்திய	B-ORG
+ta:அண்ணா	I-ORG
+ta:திராவிட	I-ORG
+ta:முன்னேற்றக்	I-ORG
+ta:கழகம்	I-ORG
+
+ta:திருமலை	B-ORG
+ta:நாயக்கர்	I-ORG
+ta:அரண்மனை	I-ORG
+ta:கட்டப்பட்டது	O
+ta:.	O
+
+ta:வட்டப்பாதை	B-ORG
+ta:வழித்தடத்தில்	I-ORG
+ta:இது	O
+ta:ஒன்பதாவது	O
+ta:தொடருந்துநிலையமாகும்	O
+ta:.	O
+
+ta:இவரது	O
+ta:தந்தையார்	O
+ta:அக்காலத்தில்	O
+ta:கண்டி	B-ORG
+ta:அரசனின்	O
+ta:பிரதானிகளில்	O
+ta:ஒருவர்	O
+ta:.	O
+
+ta:மீளக்குடியமர்தல்	O
+ta:என்ற	O
+ta:பெயரில்	O
+ta:வடக்கிலும்	B-LOC
+ta:கிழக்கிலும்	B-LOC
+ta:புதிதாக	O
+ta:திட்டமிடும்	O
+ta:குடியேற்றங்களைத்	O
+ta:தடுத்து	O
+ta:நிறுத்தவேண்டும்	O
+ta:.	O
+
+ta:சென்னை	B-ORG
+ta:கிருத்தவக்	I-ORG
+ta:கல்லூரியில்	I-ORG
+ta:பட்டப்படிப்பும்	O
+ta:,	O
+ta:பம்பாயில்	B-LOC
+ta:சட்டப்படிப்பும்	O
+ta:மேற்கொண்டார்	O
+ta:.	O
+
+ta:﻿	O
+ta:''	O
+ta:'பெனுகொண்டா	O
+ta:''	O
+ta:'	O
+ta:,	O
+ta:ஆந்திரப்	B-LOC
+ta:பிரதேசத்தின்	I-LOC
+ta:மேற்கு	B-LOC
+ta:கோதாவரி	I-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:உள்ள	O
+ta:46	O
+ta:மண்டலங்களில்	O
+ta:ஒன்று	O
+ta:.	O
+
+ta:விசாகப்பட்டினம்	B-LOC
+ta:,	O
+ta:விசயவாடா	B-LOC
+ta:,	O
+ta:குண்டூர்	B-LOC
+ta:,	O
+ta:ராஜமுந்திரி	B-LOC
+ta:,	O
+ta:காக்கிநாடா	B-LOC
+ta:,	O
+ta:நெல்லூர்	B-LOC
+ta:ஆகியவை	O
+ta:இப்பகுதியில்	O
+ta:உள்ள	O
+ta:பெரிய	O
+ta:நகரங்களாகும்	O
+ta:.	O
+
+ta:தமிழ்நாட்டின்	B-LOC
+ta:மதுரையில்	B-LOC
+ta:சாலையோரக்கடை	O
+ta:முதல்	O
+ta:எல்லா	O
+ta:இடங்களிலும்	O
+ta:கிடைக்கும்	O
+ta:.	O
+
+ta:இலங்கைப்	B-ORG
+ta:பல்கலைக்கழகம்	I-ORG
+ta:ஒன்றை	O
+ta:நிறுவுவதற்கு	O
+ta:இவர்	O
+ta:முன்னின்று	O
+ta:உழைத்தார்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:ஆல்பர்ட்	B-PER
+ta:ஆபிரகாம்	I-PER
+ta:மைக்கல்சன்	I-PER
+
+ta:இவ்விருது	O
+ta:வழங்கும்	O
+ta:விழா	O
+ta:சென்னையில்	B-LOC
+ta:உள்ள	O
+ta:நேரு	B-ORG
+ta:உள்விளையாட்டு	I-ORG
+ta:அரங்கில்	I-ORG
+ta:வருடந்தோறும்	O
+ta:நடைபெற்று	O
+ta:வருகிறது	O
+ta:.	O
+
+ta:சிலுவையின்	B-PER
+ta:புனித	I-PER
+ta:யோவான்	I-PER
+ta:,	O
+ta:''Doctor	O
+ta:Mysticus	O
+ta:''	O
+ta:(	O
+ta:Mystic	O
+ta:Doctor	O
+ta:)	O
+
+ta:மகிந்த	B-PER
+ta:ராசபக்சவின்	I-PER
+ta:அமைச்சரவையில்	O
+ta:சிறு	O
+ta:விளைபொருள்	O
+ta:ஏற்றுமதி	O
+ta:மேம்படுத்தல்	O
+ta:அமைச்சராகப்	O
+ta:பணியாற்றினார்	O
+ta:.	O
+
+ta:இக்கருத்துகள்	O
+ta:காடி-காரம்	O
+ta:பற்றிய	O
+ta:புரோன்ஸ்ட்டெடு	B-PER
+ta:கொள்கைகளைப்	O
+ta:(	O
+ta:Brønsted-Lowry	O
+ta:theory	O
+ta:)	O
+ta:பின்பற்றியது	O
+ta:.	O
+
+ta:பெ.	B-PER
+ta:சுந்தரம்	I-PER
+ta:பிள்ளை	I-PER
+
+ta:தோழர்	O
+ta:கே.	B-PER
+ta:டி.	I-PER
+ta:கே.	B-PER
+ta:தங்கமணி	I-PER
+
+ta:மத்தியக்	B-LOC
+ta:கிழக்கின்	I-LOC
+ta:வெவ்வேறு	O
+ta:இடங்களுக்குத்	O
+ta:தகுந்தபடி	O
+ta:அல்லது	O
+ta:வெவ்வேறு	O
+ta:காலகட்டங்களில்	O
+ta:இப்பட்டம்	O
+ta:பல்வேறு	O
+ta:கடவுளருக்கு	O
+ta:உரித்தாக்கப்பட்டிருக்கிறது	O
+ta:.	O
+
+ta:இறைவனும்	O
+ta:உமையம்மை	O
+ta:முன்	O
+ta:தோன்றி	O
+ta:திருவண்ணாமலைக்கு	B-LOC
+ta:வந்து	O
+ta:பெறும்படி	O
+ta:அருளினார்	O
+ta:.	O
+
+ta:இவற்றில்	O
+ta:இராமாயணத்தைக்	O
+ta:கம்பரும்	B-PER
+ta:ஒட்டக்கூத்தரும்	B-PER
+ta:தமிழ்ப்படுத்தினர்	O
+ta:.	O
+
+ta:ஜான்	B-PER
+ta:ஜாக்சன்	I-PER
+ta:(	I-PER
+ta:துடுப்பாட்டக்காரர்	I-PER
+ta:,	I-PER
+ta:பிறப்பு	I-PER
+ta:1833	I-PER
+ta:)	I-PER
+
+ta:வட்டப்பாதை	B-ORG
+ta:வழித்தடத்தில்	I-ORG
+ta:இது	O
+ta:எட்டாவது	O
+ta:தொடருந்துநிலையமாகும்	O
+ta:.	O
+
+ta:திருத்தந்தை	B-PER
+ta:முதலாம்	I-PER
+ta:மர்செல்லுஸ்	I-PER
+ta:(	O
+ta:308-309	O
+ta:)	O
+
+ta:வழிமாற்று	O
+ta:வீ.	B-PER
+ta:தி.	I-PER
+ta:சம்பந்தன்	I-PER
+
+ta:அதன்	O
+ta:பின்னர்	O
+ta:இன்றைய	O
+ta:யாழ்ப்பாண	B-ORG
+ta:பல்கலைக்கழகத்தின்	I-ORG
+ta:முதலாவது	O
+ta:வரலாற்றுப்	O
+ta:பேராசிரியராகப்	O
+ta:பணியாற்றியவர்	O
+ta:ஆவார்	O
+ta:.	O
+
+ta:பின்பு	O
+ta:அதன்	O
+ta:இனிமை	O
+ta:கருதி	O
+ta:இசைக்	B-LOC
+ta:கச்சேரிகளிலும்	O
+ta:சேர்க்கப்பட்டுள்ளது	O
+ta:.	O
+
+ta:மதுரை	B-PER
+ta:மணி	I-PER
+ta:ஐயர்	I-PER
+
+ta:இது	O
+ta:சாந்தனி	B-ORG
+ta:சவுக்	I-ORG
+ta:மக்களவைத்	I-ORG
+ta:தொகுதிக்கு	I-ORG
+ta:உட்பட்டது	O
+ta:.	O
+
+ta:இந்தித்	B-LOC
+ta:திரையின்	O
+ta:பாடகி	O
+ta:இந்துபாலா	O
+ta:இரண்டு	O
+ta:பாடல்களைப்	O
+ta:பாடியிருந்தார்	O
+ta:.	O
+
+ta:சனாதிபதியாவதற்கு	O
+ta:முன்னர்	O
+ta:ரணசிங்க	B-PER
+ta:பிரேமதாசா	I-PER
+ta:அரசில்	O
+ta:பிரதமராகவும்	O
+ta:பணியாற்றினார்	O
+ta:.	O
+
+ta:இவர்	O
+ta:தற்போது	O
+ta:ஜெர்மனியில்	B-LOC
+ta:வசித்து	O
+ta:வருகிறார்	O
+ta:.	O
+
+ta:இது	O
+ta:முதுகுளத்தூர்	B-ORG
+ta:சட்டமன்றத்	I-ORG
+ta:தொகுதிக்கு	I-ORG
+ta:உட்பட்டது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:தி.	B-PER
+ta:சு.	I-PER
+ta:அவிநாசிலிங்கம்	I-PER
+ta:செட்டியார்	I-PER
+
+ta:அகில	B-ORG
+ta:பாரத	I-ORG
+ta:வித்தியார்த்தி	I-ORG
+ta:பரிசத்	I-ORG
+
+ta:ஐசுவர்யா	B-PER
+ta:,	O
+ta:செளந்தர்யா	B-PER
+ta:ஆகியோர்	O
+ta:இரு	O
+ta:மகள்கள்	O
+ta:ஆவார்	O
+ta:.	O
+
+ta:Stamps	O
+ta:(	O
+ta:for	O
+ta:பிரேசில்	B-LOC
+ta:,	O
+ta:கயானா	B-LOC
+ta:,	O
+ta:நெதர்லாந்து	B-LOC
+ta:அண்டிலிசு	I-LOC
+ta:,	O
+ta:சுரிநாம்	B-LOC
+ta:,	O
+ta:வெனிசுவேலா	B-LOC
+ta:)	O
+ta:with	O
+ta:RangeMap	O
+
+ta:மேலும்	O
+ta:சிரியா	B-LOC
+ta:நாட்டின்	O
+ta:மீதான	O
+ta:மேற்குலகின்	O
+ta:தாக்கத்தையும்	O
+ta:கண்டித்துள்ளது	O
+ta:.	O
+
+ta:நிரோசா	B-PER
+ta:என்ற	O
+ta:நடிகையைத்	O
+ta:திருமணம்	O
+ta:செய்து	O
+ta:கொண்டார்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:சே.	B-PER
+ta:மா.	I-PER
+ta:செல்லத்தம்பு	I-PER
+
+ta:பேக்கர்ஸ்ஃபீல்ட்	O
+ta:,	O
+ta:கலிபோர்னியா	B-LOC
+ta:(	O
+ta:உயர்பள்ளி	O
+ta:)	O
+
+ta:அனைத்திந்திய	B-ORG
+ta:அண்ணா	I-ORG
+ta:திராவிட	I-ORG
+ta:முன்னேற்றக்	I-ORG
+ta:கழகம்	I-ORG
+
+ta:சர்	B-LOC
+ta:விவியன்	I-LOC
+ta:ரிச்சட்ஸ்	I-LOC
+ta:அரங்கம்	I-LOC
+
+ta:வழிமாற்று	O
+ta:வ.	B-PER
+ta:வே.	I-PER
+ta:சுப்பிரமணியம்	I-PER
+
+ta:இவனைக்	O
+ta:கொன்று	O
+ta:இரண்டாம்	B-PER
+ta:விஜயபாகுவின்	I-PER
+ta:மகனான	O
+ta:நிசங்க	B-PER
+ta:மல்லன்	I-PER
+ta:அரசைக்	O
+ta:கைப்பற்றிக்கொண்டான்	O
+ta:.	O
+
+ta:இது	O
+ta:கூவம்	B-LOC
+ta:ஆற்றின்மீது	I-LOC
+ta:கட்டப்பட்டுள்ளது	O
+ta:.	O
+
+ta:இது	O
+ta:கிழக்கு	B-ORG
+ta:திரிபுரா	I-ORG
+ta:மக்களவைத்	I-ORG
+ta:தொகுதிக்கு	I-ORG
+ta:உட்பட்டது	O
+ta:.	O
+
+ta:புனித	B-ORG
+ta:வளனார்	I-ORG
+ta:மேல்நிலைப்	I-ORG
+ta:பள்ளி	I-ORG
+ta:,	I-ORG
+ta:கடலூர்	I-ORG
+
+ta:சமுத்திரகுப்தரை	O
+ta:அசோகருக்கு	B-PER
+ta:நிகராக	O
+ta:ஒப்பீடு	O
+ta:செய்கின்றனர்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:திருப்பெரும்புதூர்	B-ORG
+ta:மக்களவைத்	I-ORG
+ta:தொகுதி	I-ORG
+
+ta:**	O
+ta:ஹனோய்	B-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:கும்பகோணத்திற்குக்	B-LOC
+ta:கிழக்கே	O
+ta:நான்கு	O
+ta:மைல்	O
+ta:தூரத்தில்	O
+ta:இவ்வூர்	O
+ta:உள்ளது	O
+ta:.	O
+
+ta:'	O
+ta:''	O
+ta:ஆத்திரேலியா	B-LOC
+ta:''	O
+ta:'	O
+
+ta:poly	O
+ta:794	O
+ta:239	O
+ta:799	O
+ta:270	O
+ta:813	O
+ta:270	O
+ta:808	O
+ta:255	O
+ta:டெலவெயர்	B-LOC
+
+ta:கடம்பினி	B-PER
+ta:கங்கூலி	I-PER
+ta:அக்கல்லூரியில்	O
+ta:இவருக்கு	O
+ta:மூன்றாண்டுகளுக்கு	O
+ta:முன்	O
+ta:படித்தவர்	O
+ta:.	O
+
+ta:இத்திரைப்படத்திற்கு	O
+ta:ம.	B-PER
+ta:சு.	I-PER
+ta:விசுவநாதன்	I-PER
+ta:இசையமைத்துள்ளார்	O
+ta:.	O
+
+ta:டி.	B-PER
+ta:எம்.	I-PER
+ta:சௌந்தரராஜன்	I-PER
+ta:,	O
+ta:எல்.	B-PER
+ta:ஆர்.	I-PER
+ta:ஈஸ்வரி	I-PER
+
+ta:இது	O
+ta:தற்போது	O
+ta:கனடாவின்	B-LOC
+ta:ஒரு	O
+ta:பகுதியாகும்	O
+ta:.	O
+
+ta:**	O
+ta:மும்பை	B-LOC
+ta:(	O
+ta:துணைத்	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:பாரியான்களில்	O
+ta:பரவலாக	O
+ta:அறியப்படும்	O
+ta:நேர்மின்னிகளும்	B-ORG
+ta:,	O
+ta:நொதுமிகளும்	B-ORG
+ta:அடங்கும்	O
+ta:.	O
+
+ta:கீசனாக	O
+ta:வெண்ணிற	B-PER
+ta:ஆடை	I-PER
+ta:மூர்த்தி	I-PER
+
+ta:விகிதாசாரப்	B-PER
+ta:பிரதிநிதித்துவத்	I-PER
+ta:தேர்தல்	I-PER
+ta:முறை	I-PER
+ta:பின்பற்றப்படுகிறது	O
+ta:.	O
+
+ta:1525ல்	O
+ta:இந்தியா	B-ORG
+ta:இல்லம்	I-ORG
+ta:எனப்பட்ட	O
+ta:அமைப்பின்	O
+ta:நிதிப்	O
+ta:பொறுப்பாளராகப்	O
+ta:பதவியில்	O
+ta:அமர்த்தப்பட்டார்	O
+ta:.	O
+
+ta:இக்கிராமம்	O
+ta:பாண்டியர்களுடன்	B-ORG
+ta:நெருங்கிய	O
+ta:தொடர்பு	O
+ta:பெற்றது	O
+ta:.	O
+
+ta:டி.	B-PER
+ta:எம்.	I-PER
+ta:சௌந்தரராஜன்	I-PER
+ta:,	O
+ta:பி.	B-PER
+ta:சுசீலா	I-PER
+
+ta:சாமுவேல்	B-PER
+ta:ஜேம்ஸ்	I-PER
+ta:வேலுப்பிள்ளை	I-PER
+ta:செல்வநாயகம்	I-PER
+
+ta:வழிமாற்று	O
+ta:ஆ.	B-PER
+ta:ப.	I-PER
+ta:வெங்கடேசுவரன்	I-PER
+
+ta:﻿	O
+ta:''	O
+ta:'	O
+ta:''	O
+ta:'	O
+ta:,	O
+ta:ஆந்திரப்	B-LOC
+ta:பிரதேசத்தின்	I-LOC
+ta:மேற்கு	B-LOC
+ta:கோதாவரி	I-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:உள்ள	O
+ta:46	O
+ta:மண்டலங்களில்	O
+ta:ஒன்று	O
+ta:.	O
+
+ta:**	O
+ta:சோஃவியா	B-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:ஆப்பிரிக்காவில்	B-LOC
+ta:காலனிய	O
+ta:ஆட்சியின்	O
+ta:முடிவைத்	O
+ta:தொடர்ந்து	O
+ta:தொடர்ச்சியான	O
+ta:பல	O
+ta:புலம்	O
+ta:பெயர்வுகள்	O
+ta:நிகழ்ந்தன	O
+ta:.	O
+
+ta:இது	O
+ta:1980இல்	O
+ta:கைலாசு	B-PER
+ta:சத்தியார்த்தியால்	I-PER
+ta:தொடங்கப்பட்டது	O
+ta:.	O
+
+ta:நவாஸ்	B-PER
+ta:ஷெரீப்Nawaz	I-PER
+ta:Sharif	O
+ta:(	O
+ta:1949–	O
+ta:)	O
+
+ta:அனைத்திந்திய	B-ORG
+ta:அண்ணா	I-ORG
+ta:திராவிட	I-ORG
+ta:முன்னேற்றக்	I-ORG
+ta:கழகம்	I-ORG
+
+ta:'	O
+ta:''	O
+ta:விஜய்	B-PER
+ta:ஆண்டனி	I-PER
+ta:''	O
+ta:'	O
+
+ta:ரோனு	O
+ta:இலங்கையின்	B-LOC
+ta:தென்பகுதியில்	O
+ta:குறைந்த	O
+ta:காற்றழுத்த	O
+ta:தாழ்வுப்	O
+ta:பகுதியாகத்	O
+ta:தொடங்கியது	O
+ta:.	O
+
+ta:இந்தியாவின்	B-ORG
+ta:மாணவர்களின்	I-ORG
+ta:இஸ்லாமிய	I-ORG
+ta:இயக்கம்	I-ORG
+
+ta:வழிமாற்று	O
+ta:முகம்மது	B-PER
+ta:அலி	I-PER
+ta:ஜின்னா	I-PER
+
+ta:'	O
+ta:''	O
+ta:தலைநகரம்	B-LOC
+ta:''	O
+ta:'	O
+
+ta:விமலா	B-ORG
+ta:தேவி	I-ORG
+ta:சக்தி	I-ORG
+ta:பீடக்	I-ORG
+ta:கோவில்	I-ORG
+
+ta:''	O
+ta:'497	O
+ta:''	O
+ta:'	O
+ta:-	O
+ta:கண்ணூர்	B-LOC
+ta:,	O
+ta:கேரளம்	B-LOC
+
+ta:கிழக்கு	B-LOC
+ta:சம்பாரண்	I-LOC
+ta:மக்களவைத்	I-LOC
+ta:தொகுதி	I-LOC
+
+ta:ராஜூ	B-PER
+ta:சுந்தரம்	I-PER
+ta:-	O
+ta:கௌரவ	O
+ta:தோற்றம்	O
+
+ta:இயக்குநர்	O
+ta:ஷங்கரிடம்	B-PER
+ta:உதவி	O
+ta:இயக்குநராகப்	O
+ta:பணிபுரிந்துள்ளார்	O
+ta:.	O
+
+ta:சாம்பல்	B-LOC
+ta:நாரை	I-LOC
+ta:(	O
+ta:''Ardea	O
+ta:cinerea	O
+ta:''	O
+ta:)	O
+
+ta:முக்தி	B-LOC
+ta:தரும்	I-LOC
+ta:ஏழு	I-LOC
+ta:இந்து	I-LOC
+ta:புனித	I-LOC
+ta:நகரங்களில்	I-LOC
+ta:அரித்துவாரும்	O
+ta:ஒன்றாக	O
+ta:கருதப்படுகிறது	O
+ta:.	O
+
+ta:பவளக்	B-LOC
+ta:கடல்	I-LOC
+ta:தீவுகள்	I-LOC
+
+ta:இது	O
+ta:மேற்கு	B-LOC
+ta:கோதாவரி	I-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:உள்ள	O
+ta:கீழ்க்காணும்	O
+ta:பகுதிகளைக்	O
+ta:கொண்டுள்ளது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:எதிர்-திருத்தந்தை	B-PER
+ta:இருபத்திமூன்றாம்	I-PER
+ta:யோவான்	I-PER
+
+ta:இவன்	O
+ta:ஆட்சி	O
+ta:மேலைச்	B-ORG
+ta:சாளுக்கியர்களுக்கு	I-ORG
+ta:அடங்கியதாகவே	O
+ta:இருந்தது	O
+ta:.	O
+
+ta:''	O
+ta:'294	O
+ta:''	O
+ta:'	O
+ta:-	O
+ta:உதயப்பூர்	B-LOC
+ta:,	O
+ta:இராசத்தான்	B-LOC
+
+ta:இச்சாலை	O
+ta:கடலூர்	B-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:இருக்கிறது	O
+ta:.	O
+
+ta:'	O
+ta:''	O
+ta:அவாருவா	B-LOC
+ta:''	O
+ta:'	O
+
+ta:இது	O
+ta:அனுகோளில்	B-LOC
+ta:இருந்து	O
+ta:94	O
+ta:கி.மீ	O
+ta:.	O
+
+ta:பெனவெந்தோ	O
+ta:,	O
+ta:திருத்தந்தை	B-LOC
+ta:நாடுகள்	I-LOC
+ta:,	O
+ta:புனித	B-ORG
+ta:உரோமைப்	I-ORG
+ta:பேரரசு	I-ORG
+
+ta:வழிமாற்று	O
+ta:கோட்	B-ORG
+ta:டிவாரின்	I-ORG
+ta:மக்களாட்சிக்	I-ORG
+ta:கட்சி	I-ORG
+
+ta:ஆனாலும்	O
+ta:,	O
+ta:இந்த	O
+ta:பொது	O
+ta:வாக்கெடுப்பை	O
+ta:ஒத்திவைக்க	O
+ta:இலங்கை	B-ORG
+ta:அரசுத்தலைவருக்கு	I-ORG
+ta:அதிகாரம்	O
+ta:அளிக்கப்பட்டது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:உடும்பன்குளம்	B-ORG
+ta:படுகொலைகள்	I-ORG
+ta:,	I-ORG
+ta:1986	I-ORG
+
+ta:இத்	O
+ta:திரைப்படத்தில்	O
+ta:டேனியல்	B-PER
+ta:ராட்க்ளிஃப்	I-PER
+ta:,	O
+ta:ரூபர்ட்	B-PER
+ta:கிரின்ட்	I-PER
+ta:,	O
+ta:எம்மா	B-PER
+ta:வாட்சன்	I-PER
+ta:மற்றும்	O
+ta:பலர்	O
+ta:நடித்துள்ளனர்	O
+ta:.	O
+
+ta:*வட்டத்தின்	O
+ta:நாண்கள்	B-ORG
+ta:சம	O
+ta:நீளமுள்ளவையாக	O
+ta:இருந்தால்	O
+ta:,	O
+ta:இருந்தால்	O
+ta:மட்டுமே	O
+ta:அவை	O
+ta:வட்ட	O
+ta:மையத்திலிருந்து	O
+ta:சமதூரத்தில்	O
+ta:அமையும்	O
+ta:.	O
+
+ta:அம்பத்தூர்	B-ORG
+ta:(	I-ORG
+ta:சட்டமன்றத்	I-ORG
+ta:தொகுதி	I-ORG
+ta:)	I-ORG
+
+ta:வழிமாற்று	O
+ta:மிசுக்கின்	B-PER
+ta:(	I-PER
+ta:கதைமாந்தர்	I-PER
+ta:)	I-PER
+
+ta:இத்தாவரம்	O
+ta:தென்கிழக்காசியாவிலிருந்து	B-LOC
+ta:உலகின்	O
+ta:பல	O
+ta:பகுதிகளுக்கும்	O
+ta:பரவியதாகத்	O
+ta:தெரிகிறது	O
+ta:.	O
+
+ta:பிரேம்	B-PER
+ta:நசீர்	I-PER
+ta:,	O
+ta:அடூர்	B-PER
+ta:பாசி	I-PER
+
+ta:வழிமாற்று	O
+ta:ரேகா	B-PER
+ta:(	I-PER
+ta:நடிகை	I-PER
+ta:)	I-PER
+
+ta:இம்மாவட்டத்தில்	O
+ta:ராசபுத்திரர்கள்	B-ORG
+ta:அதிகம்	O
+ta:கொண்ட	O
+ta:மாவட்டமாகும்	O
+ta:.	O
+
+ta:இது	O
+ta:தர்பங்கா	B-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:உள்ள	O
+ta:கீழ்க்காணும்	O
+ta:பகுதிகளைக்	O
+ta:கொண்டுள்ளது	O
+ta:.	O
+
+ta:சுஜாதா	B-PER
+ta:(	I-PER
+ta:எழுத்தாளர்	I-PER
+ta:)	I-PER
+
+ta:துருவ	B-ORG
+ta:நட்சத்திரம்	I-ORG
+ta:-	O
+ta:Pole	O
+ta:star	O
+
+ta:சொக்கௌரா	O
+ta:செப்புப்	O
+ta:பட்டயம்	O
+ta:பெரும்பாலும்	O
+ta:சந்திரகுப்த	B-PER
+ta:மௌரியனின்	I-PER
+ta:ஆட்சியின்போது	O
+ta:வெளியிடப்பட்டிருக்கலாம்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:நான்காம்	B-PER
+ta:ஸ்தேவான்	I-PER
+ta:(	I-PER
+ta:திருத்தந்தை	I-PER
+ta:)	I-PER
+
+ta:சரண்யா	B-PER
+ta:பொன்வண்ணன்	I-PER
+ta:-	O
+ta:வீராயியாக	O
+
+ta:இக்கட்சி	O
+ta:ஏனைய	O
+ta:மலையகக்	O
+ta:கட்சிகளை	O
+ta:விட	O
+ta:தமிழீழ	B-ORG
+ta:விடுதலைப்	I-ORG
+ta:புலிகளுக்கு	I-ORG
+ta:ஆதரவு	O
+ta:நிலையையும்	O
+ta:அதன்	O
+ta:தலைமையுடன்	O
+ta:நெருங்கிய	O
+ta:தொடர்பையும்	O
+ta:கொண்டுள்ளது	O
+ta:.	O
+
+ta:'	O
+ta:''	O
+ta:உலகம்	B-ORG
+ta:''	O
+ta:'	O
+
+ta:இக்கிராமம்	O
+ta:கரைதுறைப்பற்று	B-LOC
+ta:பிரிவு	I-LOC
+ta:பிரதேசச்	I-LOC
+ta:செயலாளரின்	I-LOC
+ta:நிர்வாகத்தின்	O
+ta:கீழ்	O
+ta:உள்ளது	O
+ta:.	O
+
+ta:கருநிற	O
+ta:மண்ணைக்கொண்ட	O
+ta:கரிசல்	B-ORG
+ta:நிலம்	I-ORG
+ta:நீரைத்தக்கவைப்பதால்	O
+ta:ஓரளவேனும்	O
+ta:பயிர்செய்ய	O
+ta:முடிகிறது	O
+ta:.	O
+
+ta:12953	O
+ta:/	O
+ta:54	O
+ta:ஆகஸ்ட்	B-ORG
+ta:கிராந்தி	I-ORG
+ta:விரைவுவண்டி	I-ORG
+
+ta:சென்	B-LOC
+ta:பீட்டர்ஸ்பேர்க்	I-LOC
+ta:(	O
+ta:துணைத்	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:வீ.	B-PER
+ta:தி.	I-PER
+ta:சம்பந்தன்	I-PER
+
+ta:வழிமாற்று	O
+ta:மான்செஸ்டர்	B-ORG
+ta:யுனைடெட்	I-ORG
+ta:கால்பந்துக்	I-ORG
+ta:கழகம்	I-ORG
+
+ta:525	O
+ta:ஏக்கர்	O
+ta:நிலத்தில்	O
+ta:அமையவிருக்கிறது.இக்கட்டமைப்பு	O
+ta:பயனுக்கு	O
+ta:வரும்வரை	O
+ta:2009-2010	O
+ta:கல்வியாண்டு	O
+ta:பாடங்கள்	O
+ta:தேவிஅகில்யா	O
+ta:விசுவவித்யாலயா	O
+ta:வளாகத்தில்	O
+ta:இ.தொக.மும்பை	B-ORG
+ta:வழிகாட்டுதலில்	O
+ta:இயங்கத்	O
+ta:துவங்கியுள்ளது	O
+ta:.	O
+
+ta:இரா.	B-PER
+ta:கிருஷ்ணமூர்த்தியுடன்	I-PER
+ta:இணைந்து	O
+ta:கல்கி	B-ORG
+ta:வார	O
+ta:இதழைத்	O
+ta:தொடங்கியவர்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:யாழ்ப்பாணம்	B-ORG
+ta:இளைஞர்	I-ORG
+ta:காங்கிரஸ்	I-ORG
+
+ta:**	O
+ta:லுவாண்டா	B-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:மிக	O
+ta:நல்ல	O
+ta:முத்துக்கள்	O
+ta:பாரசீக	B-LOC
+ta:வளைகுடாவில்	I-LOC
+ta:தான்	O
+ta:கிடைக்கிறது	O
+ta:.	O
+
+ta:செக்கரியா	B-ORG
+ta:(	I-ORG
+ta:நூல்	I-ORG
+ta:)	I-ORG
+
+ta:இவன்	O
+ta:அலிய	B-PER
+ta:ராமராயனின்	I-PER
+ta:பேரனாவான்	O
+ta:.	O
+
+ta:2007ஆவது	O
+ta:ஆண்டில்	O
+ta:இவ்வங்கி	O
+ta:,	O
+ta:இந்தியன்	B-ORG
+ta:ஓவர்சீஸ்	I-ORG
+ta:வங்கியுடன்	I-ORG
+ta:இணைக்கப்பட்ட	O
+ta:போது	O
+ta:,	O
+ta:இவ்வங்கியில்	O
+ta:பணியாற்றிய	O
+ta:பணியாளர்களையும்	O
+ta:,	O
+ta:சொத்துகள்	O
+ta:மற்றும்	O
+ta:இதன்	O
+ta:வைப்புகளையும்	O
+ta:இந்தியன்	B-ORG
+ta:ஓவர்சீஸ்	I-ORG
+ta:வங்கி	I-ORG
+ta:தன்னகத்தே	O
+ta:இணைத்துக்	O
+ta:கொண்டது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:கக்கலை	B-ORG
+ta:தாவரவியற்	I-ORG
+ta:பூங்கா	I-ORG
+
+ta:வழிமாற்று	O
+ta:சி.	B-PER
+ta:து.	I-PER
+ta:தேஷ்முக்	I-PER
+
+ta:இந்த	O
+ta:திரைப்படத்தை	O
+ta:ஸ்டோர்ட்	B-PER
+ta:பீட்டி	I-PER
+ta:எழுதி	O
+ta:மற்றும்	O
+ta:இயக்கயுள்ளார்	O
+ta:.	O
+
+ta:அன்பு	O
+ta:இல்லம்	O
+ta:,	O
+ta:சென்னை	B-LOC
+ta:.	O
+
+ta:இது	O
+ta:பீகாரில்	B-LOC
+ta:உள்ள	O
+ta:40	O
+ta:தொகுதிகளில்	O
+ta:ஒன்றாகும்	O
+ta:.	O
+
+ta:அதுவே	O
+ta:இந்துஸ்தானி	B-ORG
+ta:இசை	I-ORG
+ta:என்று	O
+ta:இப்போது	O
+ta:வழக்கத்தில்	O
+ta:உள்ளது	O
+ta:.	O
+
+ta:poly	O
+ta:257	O
+ta:235	O
+ta:369	O
+ta:248	O
+ta:364	O
+ta:331	O
+ta:247	O
+ta:320	O
+ta:கொலராடோ	B-LOC
+
+ta:பிராண்பூர்	B-LOC
+ta:சட்டமன்றத்	I-LOC
+ta:தொகுதி	I-LOC
+ta:(	O
+ta:66	O
+ta:)	O
+
+ta:கணபதி	B-PER
+ta:(	I-PER
+ta:சிற்பி	I-PER
+ta:)	I-PER
+
+ta:பண்டைய	O
+ta:இந்தியாவில்	B-LOC
+ta:அரசாண்ட	O
+ta:கலிங்கர்களின்	O
+ta:தாக்கம்	O
+ta:இத்தீவில்	O
+ta:அதிகமாகக்	O
+ta:காணப்படுகிறது	O
+ta:.	O
+
+ta:இமாச்சலப்பிரதேசத்தின்	B-LOC
+ta:நுழைவாயில்	O
+ta:என	O
+ta:இந்நகரை	O
+ta:அழைக்கின்றனர்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:தேட்டகுடி	B-PER
+ta:அரிகர	I-PER
+ta:வினாயக்ராம்	I-PER
+
+ta:(	O
+ta:மற்றவர்	O
+ta:கிப்ரில்	O
+ta:என்று	O
+ta:அழைக்க	O
+ta:பட்ட	O
+ta:கபிரியேல்	B-PER
+ta:)	O
+ta:.	O
+
+ta:போயிங்	B-ORG
+ta:நிறுவனத்தால்	O
+ta:தயாரித்து	O
+ta:சந்தைப்படுத்தப்பட்டது	O
+ta:.	O
+
+ta:ஈப்போ	B-LOC
+ta:மாநகரத்தில்	O
+ta:இருந்து	O
+ta:100	O
+ta:கி.மீ	O
+ta:.	O
+
+ta:டி.	B-PER
+ta:ராஜேந்தர்	I-PER
+ta:இயக்கத்தில்	O
+ta:வெளிவந்த	O
+ta:இத்திரைப்படத்தில்	O
+ta:டி.	B-PER
+ta:ராஜேந்தர்	I-PER
+ta:,	O
+ta:சரிதா	B-PER
+ta:மற்றும்	O
+ta:பலரும்	O
+ta:நடித்துள்ளனர்	O
+ta:.	O
+
+ta:குறிப்பாக	O
+ta:எகிப்து	B-LOC
+ta:இங்கு	O
+ta:பெய்யும்	O
+ta:மழையையே	O
+ta:தன்	O
+ta:நீராதாரத்திற்கு	O
+ta:நம்பியுள்ளது	O
+ta:.	O
+
+ta:பில்	B-PER
+ta:கேட்ஸ்	I-PER
+ta:(	O
+ta:Bill	O
+ta:Gates	O
+ta:)	O
+
+ta:தற்போது	O
+ta:புலம்	O
+ta:பெயர்ந்து	O
+ta:ஜெர்மனியில்	B-LOC
+ta:வாழ்ந்து	O
+ta:வருகிறார்	O
+ta:.	O
+
+ta:அச்சநாயுடு	O
+ta:(	O
+ta:தெலுங்கு	B-ORG
+ta:தேசம்	I-ORG
+ta:கட்சி	I-ORG
+ta:)	O
+
+ta:'	O
+ta:''	O
+ta:கஸ்தூரி	B-PER
+ta:ராஜா	I-PER
+ta:''	O
+ta:'	O
+
+ta:**	O
+ta:சியோல்	B-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:வழிமாற்று	O
+ta:அ.	B-PER
+ta:குமாரசாமிப்	I-PER
+ta:புலவர்	I-PER
+
+ta:லியாகத்	B-PER
+ta:அலி	I-PER
+ta:கான்	I-PER
+
+ta:தா.	B-PER
+ta:கி.	I-PER
+ta:பட்டம்மாள்	I-PER
+
+ta:இவ்விடம்	O
+ta:அலகாபாத்	B-LOC
+ta:நகரில்	O
+ta:உள்ளது	O
+ta:.	O
+
+ta:மிதுன்	B-PER
+ta:சக்கரவர்த்தி	I-PER
+ta:-	O
+ta:(	O
+ta:சிறப்புத்	O
+ta:தோற்றம்	O
+ta:)	O
+
+ta:குத்துக்கோடு	B-ORG
+ta:(	I-ORG
+ta:முக்கோணம்	I-ORG
+ta:)	I-ORG
+
+ta:வழிமாற்று	O
+ta:தஞ்சைப்	B-LOC
+ta:பெருவுடையார்	I-LOC
+ta:கோயில்	I-LOC
+
+ta:வழிமாற்று	O
+ta:அல்ஜீரிய	B-ORG
+ta:தேசிய	I-ORG
+ta:காற்பந்து	I-ORG
+ta:அணி	I-ORG
+
+ta:இந்திய	B-ORG
+ta:ஆட்சிப்	I-ORG
+ta:பணி	I-ORG
+ta:/	O
+ta:இந்தியக்	B-ORG
+ta:காவல்	I-ORG
+ta:பணிக்கான	I-ORG
+ta:சேர்க்கைத்தேர்வுகளுக்கு	O
+ta:இலவசமாக	O
+ta:பயிற்சி	O
+ta:வகுப்புகளை	O
+ta:நடத்தி	O
+ta:வருகிறது	O
+ta:.	O
+
+ta:**	O
+ta:துபாய்	B-LOC
+ta:(	O
+ta:துணைத்	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:மகன்	O
+ta:பெயர்	O
+ta:யதி	O
+ta:மற்றும்	O
+ta:யயாதி	B-PER
+ta:.	O
+
+ta:திருச்சோற்றுத்துறை	B-ORG
+ta:சோற்றுத்துறை	I-ORG
+ta:நாதர்	I-ORG
+ta:கோயில்	I-ORG
+
+ta:யூ.	B-PER
+ta:ஆர்.	I-PER
+ta:ஜீவரத்தினம்	I-PER
+
+ta:நிரவி	B-ORG
+ta:திருமலைராயன்பட்டினம்	I-ORG
+ta:சட்டமன்றத்	I-ORG
+ta:தொகுதி	I-ORG
+
+ta:வழிமாற்று	O
+ta:மயிலாப்பூர்	B-ORG
+ta:கபாலீசுவரர்	I-ORG
+ta:கோயில்	I-ORG
+
+ta:இவர்	O
+ta:மலேசியா	B-LOC
+ta:,	O
+ta:பேராக்	B-LOC
+ta:,	O
+ta:தெலுக்	B-LOC
+ta:இந்தான்	I-LOC
+ta:,	O
+ta:ரூபானா	O
+ta:தோட்டத்தில்	O
+ta:பிறந்தார்	O
+ta:.	O
+
+ta:இவன்	O
+ta:தன்னுடைய	O
+ta:சகோதரனான	O
+ta:அமந்தகாமினி	B-PER
+ta:அபயனின்	I-PER
+ta:பின்	O
+ta:இவன்	O
+ta:ஆட்சி	O
+ta:ஏறினான்	O
+ta:.	O
+
+ta:திருத்தந்தை	B-PER
+ta:ஆறாம்	I-PER
+ta:பவுல்	I-PER
+ta:இவருக்கு	O
+ta:1969இல்	O
+ta:கர்தினால்	B-PER
+ta:பட்டம்	O
+ta:வழங்கினார்	O
+ta:.	O
+
+ta:இது	O
+ta:லக்னோ	B-ORG
+ta:மக்களவைத்	I-ORG
+ta:தொகுதிக்கு	I-ORG
+ta:உட்பட்டது	O
+ta:.	O
+
+ta:இதன்	O
+ta:தலைமையகம்	O
+ta:போபாலில்	B-LOC
+ta:உள்ளது	O
+ta:.	O
+
+ta:இப்பல்கலைக்கழகம்	O
+ta:தொடக்கத்தில்	O
+ta:வேலூர்	B-LOC
+ta:கோட்டை	I-LOC
+ta:வளாகத்தில்	I-LOC
+ta:அமைந்திருந்தது	O
+ta:.	O
+
+ta:இப்புலவர்	O
+ta:யாழ்ப்பாணம்	B-LOC
+ta:வட்டுக்கோட்டையில்	B-LOC
+ta:வசித்தவர்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:கிர்க்காஃபின்	B-ORG
+ta:மின்சுற்று	I-ORG
+ta:விதிகள்	I-ORG
+
+ta:இறைவன்	B-ORG
+ta:புலியின்	O
+ta:தோலை	O
+ta:உரித்து	O
+ta:உடுத்திக்	O
+ta:கொண்ட	O
+ta:செயலைச்	O
+ta:செய்த	O
+ta:தலமென்பது	O
+ta:தொன்நம்பிக்கை	O
+ta:(	O
+ta:ஐதிகம்	O
+ta:)	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:இராமநாதன்	B-ORG
+ta:மகளிர்	I-ORG
+ta:கல்லூரி	I-ORG
+ta:,	I-ORG
+ta:யாழ்ப்பாணம்	I-ORG
+
+ta:**	O
+ta:குவைத்	B-LOC
+ta:நகரம்	I-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:'	O
+ta:''	O
+ta:வில்லெம்ஸ்டாடு	B-LOC
+ta:''	O
+ta:'	O
+
+ta:'	O
+ta:''	O
+ta:குஜராத்	B-ORG
+ta:உயர்	I-ORG
+ta:நீதிமன்றம்	I-ORG
+ta:''	O
+ta:'	O
+
+ta:இரஜத்	B-PER
+ta:டோகஸ்	I-PER
+ta:(	I-PER
+ta:நடிகர்	I-PER
+ta:)	I-PER
+
+ta:இவ்விழா	O
+ta:விஜய்	B-ORG
+ta:தொலைக்காட்சியில்	I-ORG
+ta:மட்டும்	O
+ta:ஒளிபரப்பப்படும்	O
+ta:விழா	O
+ta:என்பது	O
+ta:குறிப்பிடத்தக்கது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:சிறீ	B-LOC
+ta:பொட்டி	I-LOC
+ta:சிறீ	B-LOC
+ta:ராமுலு	I-LOC
+ta:நெல்லூர்	I-LOC
+ta:மாவட்டம்	I-LOC
+
+ta:ஜப்பான்	B-LOC
+ta:-யென்	O
+ta:(	O
+ta:¥	O
+ta:)	O
+
+ta:கோடம்பாக்கத்தில்	B-ORG
+ta:இதை	O
+ta:நிறுவ	O
+ta:விரும்பினார்	O
+ta:.	O
+
+ta:இவர்	O
+ta:யூடியூப்	B-ORG
+ta:நிறுவனர்களில்	O
+ta:முக்கியமானவராகக்	O
+ta:கருதப்படுகிறார்	O
+ta:.	O
+
+ta:இது	O
+ta:விசாகப்பட்டினம்	B-LOC
+ta:துறைமுகத்திற்குத்	O
+ta:தெற்கே	O
+ta:170	O
+ta:கி.மீ	O
+ta:தொலைவில்	O
+ta:உள்ளது	O
+ta:.	O
+
+ta:கேட்	B-PER
+ta:வின்ஸ்லெட்	I-PER
+ta:–	O
+ta:''லிட்டில்	O
+ta:சில்டிரன்	O
+ta:''	O
+
+ta:|	O
+ta:bgcolor=	O
+ta:''	O
+ta:e4e8ff	O
+ta:''	O
+ta:|	O
+ta:இந்திய	B-ORG
+ta:தேசிய	I-ORG
+ta:காங்கிரசு	I-ORG
+
+ta:பின்னர்	O
+ta:இக்கூட்டணியின்	O
+ta:பெயர்	O
+ta:தமிழர்	B-ORG
+ta:விடுதலைக்	I-ORG
+ta:கூட்டணி	I-ORG
+ta:என	O
+ta:மாற்றப்பட்டது	O
+ta:.	O
+
+ta:ஏ.	B-PER
+ta:ஆர்.	I-PER
+ta:ரகுமான்	I-PER
+
+ta:வாஞ்சியின்	O
+ta:பிரேத	O
+ta:விசாரணையில்	O
+ta:,	O
+ta:அவர்	O
+ta:போட்டிருந்த	O
+ta:உள்சட்டையில்	O
+ta:இருந்த	O
+ta:துண்டுக்	O
+ta:கடிதத்தில்	O
+ta:கலெக்டரைச்	O
+ta:சுட்டுக்	O
+ta:கொன்றதற்கான	O
+ta:காரணமும்	O
+ta:,	O
+ta:சென்னையில்	B-LOC
+ta:3,000-த்திற்கும்	O
+ta:மேற்பட்ட	O
+ta:தீவிரவாதிகள்	O
+ta:தன்னுடன்	O
+ta:இருப்பதாகவும்	O
+ta:குறிப்பிட்டு	O
+ta:''ஆர்	O
+ta:.	O
+
+ta:இது	O
+ta:கொழும்பில்	B-LOC
+ta:கொள்ளுப்பிட்டி	B-LOC
+ta:பகுதியில்	O
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:உலக	B-ORG
+ta:சுகாதார	I-ORG
+ta:நிறுவனத்தின்	I-ORG
+ta:(	O
+ta:World	O
+ta:Health	O
+ta:Organization	O
+ta:)	O
+ta:தகுதி	O
+ta:நிலைக்	O
+ta:கூற்றின்படி	O
+ta:,	O
+ta:வளர்ந்து	O
+ta:வரும்	O
+ta:நாடுகளில்	O
+ta:இத்தகைய	O
+ta:உடல்	O
+ta:ரீதியான	O
+ta:பிரச்சினைகள்	O
+ta:மிகவும்	O
+ta:பொதுவானவை	O
+ta:.	O
+
+ta:-முன்னாள்	O
+ta:சென்னை	B-ORG
+ta:மாநகர	I-ORG
+ta:காவல்துறை	I-ORG
+ta:ஆணையர்	O
+ta:.	O
+
+ta:பால	B-PER
+ta:கங்காதர	I-PER
+ta:திலகர்	I-PER
+ta:(	O
+ta:बाळ	O
+ta:गंगाधर	O
+ta:टिळक	O
+ta:)	O
+
+ta:இத்திரைப்படத்திற்கு	O
+ta:இசையமைத்தவர்	O
+ta:எம்.	B-PER
+ta:எஸ்.	I-PER
+ta:விஸ்வநாதன்	I-PER
+ta:ஆவார்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:போர்	B-ORG
+ta:சீசன்சு	I-ORG
+ta:ஓட்டல்	I-ORG
+ta:,	I-ORG
+ta:மும்பை	I-ORG
+
+ta:இந்திய	B-ORG
+ta:விண்வெளி	I-ORG
+ta:ஆய்வு	I-ORG
+ta:மையத்தின்	I-ORG
+ta:தலைவராக	O
+ta:முன்னர்	O
+ta:பணியாற்றியிருக்கிறார்	O
+ta:.	O
+
+ta:'	O
+ta:''	O
+ta:பாரதிய	B-ORG
+ta:ஜனதா	I-ORG
+ta:கட்சி	I-ORG
+ta:''	O
+ta:'	O
+
+ta:2012-13	O
+ta:-	O
+ta:ரவிச்சந்திரன்	B-PER
+ta:அஸ்வின்	I-PER
+
+ta:இவரது	O
+ta:மறைவுக்குப்	O
+ta:பிறகுதான்	O
+ta:திருமலை	B-PER
+ta:நாயக்கர்	I-PER
+ta:(	O
+ta:1623–1659	O
+ta:)	O
+ta:மன்னராக	O
+ta:வந்தார்	O
+ta:.	O
+
+ta:''	O
+ta:'712	O
+ta:''	O
+ta:'	O
+ta:-	O
+ta:நாக்பூர்	B-LOC
+ta:,	O
+ta:மகாராட்டிரம்	B-LOC
+
+ta:சங்கர்	B-PER
+ta:தயாள்	I-PER
+ta:சர்மா	I-PER
+ta:(	O
+ta:இறப்பின்	O
+ta:பின்னர்	O
+ta:)	O
+
+ta:'	O
+ta:''	O
+ta:உலப்பணை	O
+ta:''	O
+ta:'	O
+ta:(	O
+ta:''Ulapane	O
+ta:''	O
+ta:)	O
+ta:இலங்கையின்	B-LOC
+ta:மத்திய	B-LOC
+ta:மாகாணம்	I-LOC
+ta:,	O
+ta:கண்டி	B-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:அமைந்துள்ள	O
+ta:ஒரு	O
+ta:நகரமாகும்	O
+ta:.	O
+
+ta:|	O
+ta:கேமன்	B-LOC
+ta:தீவுகள்	I-LOC
+ta:(	O
+ta:ஐக்கிய	B-LOC
+ta:இராச்சியம்	I-LOC
+ta:)	O
+ta:''	O
+
+ta:இரங்கிரி	B-ORG
+ta:தம்புள்ளை	I-ORG
+ta:பன்னாட்டு	I-ORG
+ta:துடுப்பாட்ட	I-ORG
+ta:அரங்கம்	I-ORG
+
+ta:இவை	O
+ta:ஐரோப்பாவிலும்	B-LOC
+ta:ஜப்பானிலும்	B-LOC
+ta:சில	O
+ta:இடங்களில்	O
+ta:அறிமுகப்படுத்தப்பட்டுள்ளன	O
+ta:.	O
+
+ta:இந்த	O
+ta:அமைப்பில்	O
+ta:,	O
+ta:நடுவில்	O
+ta:வரக்கூடிய	O
+ta:நான்கு	O
+ta:பதங்கள்	O
+ta:பிரம்மாவுக்கு	B-PER
+ta:உரியன	O
+ta:.	O
+
+ta:அமீர்த்தயூஸ்	O
+ta:,	O
+ta:எகிப்து	B-LOC
+ta:மன்னன்	O
+
+ta:அவர்	O
+ta:தற்போது	O
+ta:கனடாவில்	B-LOC
+ta:வசிக்கிறார்	O
+ta:.	O
+
+ta:வில்லிவாக்கம்	B-ORG
+ta:(	I-ORG
+ta:சட்டமன்றத்	I-ORG
+ta:தொகுதி	I-ORG
+ta:)	I-ORG
+
+ta:ஆனால்	O
+ta:இந்த	O
+ta:இயல்பு	O
+ta:ஒவ்வொருவரிடமும்	O
+ta:இருக்கின்றது	O
+ta:என்பது	O
+ta:ஃபிராய்டின்	B-PER
+ta:கருத்து	O
+ta:.	O
+
+ta:shanmugapuram	O
+ta:Gram	O
+ta:Panchayat	O
+ta:''	O
+ta:)	O
+ta:,	O
+ta:தமிழ்நாட்டின்	B-LOC
+ta:தூத்துக்குடி	B-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:உள்ள	O
+ta:விளாத்திகுளம்	B-LOC
+ta:வட்டாரத்தில்	O
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:பீஷான்	B-ORG
+ta:ரயில்	I-ORG
+ta:நிலையம்	I-ORG
+
+ta:கியூபெக்கை	B-LOC
+ta:தவிர்த்து	O
+ta:இது	O
+ta:எல்லா	O
+ta:மாகாணங்களிலும்	O
+ta:இயங்குகிறது	O
+ta:.	O
+
+ta:கபிலர்	B-PER
+ta:என்னும்	O
+ta:புலவர்	O
+ta:பாடியது	O
+ta:இப்பாடல்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:ஜன்மபூமி	B-ORG
+ta:(	I-ORG
+ta:இதழ்	I-ORG
+ta:)	I-ORG
+
+ta:ஐக்கிய	B-ORG
+ta:நாடுகள்	I-ORG
+ta:ஜெனீவா	I-ORG
+ta:அலுவலகம்	I-ORG
+
+ta:யாழ்ப்பாணப்	B-ORG
+ta:பொது	I-ORG
+ta:நூலகம்	I-ORG
+
+ta:இது	O
+ta:மைக்ரோசாப்ட்	B-ORG
+ta:ஆபீசு	O
+ta:(	O
+ta:Office	O
+ta:)	O
+ta:பதிப்புக்களுடன்	O
+ta:வருவது	O
+ta:.	O
+
+ta:இவர்	O
+ta:பாரதிய	B-ORG
+ta:ஜனதா	I-ORG
+ta:கட்சியைச்	I-ORG
+ta:சேர்ந்தவர்	O
+ta:.	O
+
+ta:சுவீடன்	B-LOC
+ta:(	O
+ta:ஐரோப்பிய	B-ORG
+ta:ஒன்றியம்	I-ORG
+ta:)	O
+
+ta:இது	O
+ta:காண்ஸ்தான்சு	B-ORG
+ta:பொதுச்சங்கத்துக்கு	I-ORG
+ta:காரணியானது	O
+ta:.	O
+
+ta:வாசிங்டன்	B-LOC
+ta:,	I-LOC
+ta:டி.	I-LOC
+ta:சி	I-LOC
+ta:.	I-LOC
+
+ta:இத்திரைப்படத்திற்கு	O
+ta:சங்கர்	B-PER
+ta:கணேஷ்	I-PER
+ta:இசையமைத்திருந்தனர்	O
+ta:.	O
+
+ta:இப்பிரிவின்	O
+ta:வடக்கில்	O
+ta:கிளிநொச்சி	B-LOC
+ta:மாவட்டமும்	I-LOC
+ta:;	O
+ta:மேற்கில்	O
+ta:ஒட்டுசுட்டான்	B-LOC
+ta:பிரதேசச்	I-LOC
+ta:செயலாளர்	I-LOC
+ta:பிரிவு	I-LOC
+ta:,	O
+ta:புதுக்குடியிருப்பு	B-LOC
+ta:பிரதேசச்	I-LOC
+ta:செயலாளர்	I-LOC
+ta:பிரிவு	I-LOC
+ta:என்பவற்றோடு	O
+ta:வவுனியா	B-LOC
+ta:மாவட்டமும்	I-LOC
+ta:;	O
+ta:தெற்கில்	O
+ta:திருகோணமலை	B-LOC
+ta:மாவட்டமும்	I-LOC
+ta:;	O
+ta:கிழக்கில்	O
+ta:இந்தியப்	B-LOC
+ta:பெருங்கடலும்	I-LOC
+ta:எல்லைகளாக	O
+ta:உள்ளன	O
+ta:.	O
+
+ta:அச்சமயம்	O
+ta:சிறுவனாக	O
+ta:இருந்த	O
+ta:அரியக்குடி	B-PER
+ta:இராமானுஜ	I-PER
+ta:ஐயங்கார்	I-PER
+ta:தனது	O
+ta:தகப்பனாரான	O
+ta:திருவேங்கடதையங்காருடன்	O
+ta:வந்திருந்தார்	O
+ta:.	O
+
+ta:பிரெஞ்சுக்	B-ORG
+ta:கிழக்கிந்தியக்	I-ORG
+ta:கம்பனி	I-ORG
+ta:இருபது	O
+ta:குடியேறிகளை	O
+ta:அனுப்பியது	O
+ta:.	O
+
+ta:இவர்	O
+ta:சூரிய	B-LOC
+ta:ஒளிமுகட்டுப்	O
+ta:புதிருக்கான	O
+ta:தீர்வைக்	O
+ta:கண்டார்	O
+ta:.	O
+
+ta:தமிழர்	B-ORG
+ta:விடுதலைக்	I-ORG
+ta:கூட்டணி	I-ORG
+ta:இத்தேர்தலில்	O
+ta:பங்கேற்கவில்லை	O
+ta:.	O
+
+ta:மகாகாலேஸ்வரர்	B-ORG
+ta:கோயில்	I-ORG
+ta:,	I-ORG
+ta:உஜ்ஜைன்	I-ORG
+
+ta:இது	O
+ta:கொச்சி	B-LOC
+ta:நகரின்	O
+ta:மையப்பகுதியில்	O
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:செஞ்சொண்டுப்	B-LOC
+ta:பூங்குயில்	I-LOC
+ta:,	O
+ta:''Phaenicophaeus	O
+ta:javanicus	O
+ta:''	O
+
+ta:இது	O
+ta:38	O
+ta:சதுர	B-ORG
+ta:கிலோமீட்டர்	I-ORG
+ta:பரப்பளவைக்	O
+ta:கொண்டது	O
+ta:.	O
+
+ta:மன்னார்குடி	B-ORG
+ta:(	I-ORG
+ta:சட்டமன்றத்	I-ORG
+ta:தொகுதி	I-ORG
+ta:)	I-ORG
+
+ta:வழிமாற்று	O
+ta:ஏலூர்	B-LOC
+ta:,	I-LOC
+ta:கேரளம்	I-LOC
+
+ta:அம்மூன்று	O
+ta:பக்க	O
+ta:அளவுகளும்	O
+ta:பித்தாகரசின்	B-ORG
+ta:மும்மை	I-ORG
+ta:''	O
+ta:எனப்படும்	O
+
+ta:கப்ரேக்கரால்	B-PER
+ta:கண்டறியப்பட்ட	O
+ta:இவ்வெண்கள்	O
+ta:,	O
+ta:அவரது	O
+ta:பெயரால்	O
+ta:அழைக்கப்படுகின்றன	O
+ta:.	O
+
+ta:எழுகோண	B-ORG
+ta:பிரமிடு	I-ORG
+ta:எண்	I-ORG
+ta:-	O
+ta:7	O
+ta:பக்கங்கள்	O
+ta:கொண்டது	O
+ta:.	O
+
+ta:இவர்	O
+ta:1965	B-ORG
+ta:தேர்தலில்	I-ORG
+ta:மீண்டும்	O
+ta:தெரிவானார்	O
+ta:.	O
+
+ta:'	O
+ta:''	O
+ta:2013	O
+ta:இந்தியன்	B-ORG
+ta:பிரீமியர்	I-ORG
+ta:லீக்	I-ORG
+ta:''	O
+ta:'	O
+ta:(	O
+ta:சுருக்கமாக	O
+ta:'	O
+ta:''	O
+ta:ஐபிஎல்	O
+ta:6	O
+ta:''	O
+ta:'	O
+ta:அல்லது	O
+ta:'	O
+ta:''	O
+ta:2013	O
+ta:ஐபிஎல்	O
+ta:''	O
+ta:'	O
+ta:)	O
+ta:,	O
+ta:ஆறாவது	O
+ta:இந்தியன்	B-ORG
+ta:பிரீமியர்	I-ORG
+ta:லீக்	I-ORG
+ta:நிகழ்வாகும்	O
+ta:.	O
+
+ta:டி.	B-PER
+ta:எம்.	I-PER
+ta:சௌந்தரராஜன்	I-PER
+ta:,	O
+ta:எல்.	B-PER
+ta:ஆர்.	I-PER
+ta:ஈஸ்வரி	I-PER
+
+ta:'	O
+ta:''	O
+ta:தூனிஸ்	B-LOC
+ta:''	O
+ta:'	O
+
+ta:2009	B-LOC
+ta:இல்	I-LOC
+ta:வெளிவந்த	I-LOC
+ta:தமிழ்த்	I-LOC
+ta:திரைப்படங்கள்	I-LOC
+
+ta:வழிமாற்று	O
+ta:முத்தையா	B-LOC
+ta:முரளிதரன்	I-LOC
+ta:பன்னாட்டுத்	I-LOC
+ta:துடுப்பாட்ட	I-LOC
+ta:அரங்கம்	I-LOC
+
+ta:பின்னரே	O
+ta:சபர்மதி	B-LOC
+ta:ஆற்றின்	I-LOC
+ta:கரையில்	O
+ta:உள்ள	O
+ta:தற்போதைய	O
+ta:இடத்திற்கு	O
+ta:மாற்றப்பட்டது	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:உளுந்தூர்ப்பேட்டை	B-ORG
+ta:(	I-ORG
+ta:சட்டமன்றத்	I-ORG
+ta:தொகுதி	I-ORG
+ta:)	I-ORG
+
+ta:முதல்	O
+ta:குடியேற்றம்	O
+ta:1607வில்	O
+ta:வர்ஜீனியாவிலும்	B-LOC
+ta:கடைசி	O
+ta:குடியேற்றம்	O
+ta:1733இல்	O
+ta:ஜோர்ஜியாவிலும்	B-LOC
+ta:நிறுவப்பட்டது	O
+ta:.	O
+
+ta:சூலை	B-ORG
+ta:1960	I-ORG
+ta:தேர்தலில்	I-ORG
+ta:இவர்	O
+ta:மீண்டும்	O
+ta:முதலாவது	O
+ta:உறுப்பினராகத்	O
+ta:தெரிவு	O
+ta:செய்யப்பட்டார்	O
+ta:.	O
+
+ta:இரண்டாம்	B-PER
+ta:இராஜராஜ	I-PER
+ta:சோழன்	I-PER
+
+ta:வழிமாற்று	O
+ta:மயிலாடுதுறை	B-ORG
+ta:மயூரநாதசுவாமி	I-ORG
+ta:கோயில்	I-ORG
+
+ta:இவர்	O
+ta:பிரபல	O
+ta:கருநாடக	B-ORG
+ta:இசைப்	I-ORG
+ta:பாடகி	O
+ta:எம்.	B-PER
+ta:எஸ்.	I-PER
+ta:சுப்புலட்சுமியின்	I-PER
+ta:கணவர்	O
+ta:ஆவார்	O
+ta:.	O
+
+ta:மற்றும்	O
+ta:இதனுடைய	O
+ta:ஆவி	B-LOC
+ta:கண்களில்	O
+ta:,	O
+ta:சளிச்சவ்வுகளில்	O
+ta:படநேர்ந்தால்	O
+ta:எரிச்சலை	O
+ta:உண்டாக்குகிறது	O
+ta:.	O
+
+ta:ஈரான்	B-LOC
+ta:-	O
+ta:162	O
+ta:கிமீ	O
+
+ta:இப்பிரிவு	O
+ta:589	O
+ta:சதுர	B-ORG
+ta:கிலோமீட்டர்	I-ORG
+ta:பரப்பளவு	O
+ta:கொண்டது	O
+ta:.	O
+
+ta:தவரூபன்	O
+ta:,	O
+ta:இலங்கை	B-LOC
+ta:.	O
+
+ta:எருசலேம்	B-ORG
+ta:முற்றுகை	I-ORG
+ta:(	I-ORG
+ta:1834	I-ORG
+ta:)	I-ORG
+
+ta:வழிமாற்று	O
+ta:ஜமால்	B-ORG
+ta:முகமது	I-ORG
+ta:கல்லூரி	I-ORG
+
+ta:வழிமாற்று	O
+ta:டி.	B-PER
+ta:பி.	I-PER
+ta:கெஹெல்கமுவ	I-PER
+
+ta:இவன்	O
+ta:டைட்டன்	B-PER
+ta:லெப்டுசுவின்	O
+ta:மகனாவான்	O
+ta:.	O
+
+ta:உலக	B-ORG
+ta:உணவுத்	I-ORG
+ta:திட்டம்	I-ORG
+
+ta:திருநெல்வேலி	B-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:உள்ள	O
+ta:பாளையங்கோட்டையில்	B-LOC
+ta:05.10.1962	O
+ta:அன்று	O
+ta:பிறந்தார்	O
+ta:.	O
+
+ta:இந்நூல்	O
+ta:பாவேந்தரால்	B-PER
+ta:ஒரே	O
+ta:இரவில்	O
+ta:எழுதப்பட்டதாகும்	O
+ta:.	O
+
+ta:**	O
+ta:லுசாக்கா	B-LOC
+ta:(	O
+ta:தூதரகம்	O
+ta:)	O
+
+ta:வழிமாற்று	O
+ta:மறுமணம்	B-ORG
+ta:(	I-ORG
+ta:தொலைக்காட்சித்	I-ORG
+ta:தொடர்	I-ORG
+ta:)	I-ORG
+
+ta:﻿	O
+ta:''	O
+ta:'	O
+ta:''	O
+ta:'	O
+ta:,	O
+ta:ஆந்திரப்	B-LOC
+ta:பிரதேசத்தின்	I-LOC
+ta:மேற்கு	B-LOC
+ta:கோதாவரி	I-LOC
+ta:மாவட்டத்தில்	I-LOC
+ta:உள்ள	O
+ta:46	O
+ta:மண்டலங்களில்	O
+ta:ஒன்று	O
+ta:.	O
+
+ta:இத்திரைப்படத்திற்கு	O
+ta:மு.	B-PER
+ta:கருணாநிதி	I-PER
+ta:வசனம்	O
+ta:எழுதியிருந்தது	O
+ta:குறிப்பிடத்தக்கது	O
+ta:.	O
+
+ta:இதை	O
+ta:இந்திரகண்டி	B-PER
+ta:மோகன	I-PER
+ta:கிருஷ்ணன்	I-PER
+ta:இயக்கியுள்ளார்	O
+ta:.	O
+
+ta:மாயா	B-PER
+ta:ருடால்ப்	I-PER
+ta:-	O
+ta:க்ரிசெல்ட	O
+
+ta:மார்ட்டின்	B-PER
+ta:கார்ப்பிளசு	I-PER
+ta:;	O
+ta:மைக்கேல்	B-PER
+ta:லெவிட்	I-PER
+ta:;	O
+ta:ஏரியே	B-PER
+ta:வார்செல்	I-PER
+
+ta:அல்காயிதாவின்	O
+ta:உறுப்பினர்	O
+ta:என்பதால்	O
+ta:இவர்	O
+ta:மீது	O
+ta:ஐ.நா	B-ORG
+ta:பாதுகாப்பு	I-ORG
+ta:அவை	I-ORG
+ta:1267	I-ORG
+ta:குழு	I-ORG
+ta:உலகளவில்	O
+ta:தடைகள்	O
+ta:விதித்துள்ளது	O
+ta:.	O
+
+ta:இவனது	O
+ta:தந்தையான	O
+ta:இரண்டாம்	B-PER
+ta:சிறிநாகன்	I-PER
+ta:(	O
+ta:பொ.பி	O
+ta:.	O
+
+ta:இப்படத்திற்கு	O
+ta:அனிருத்	B-PER
+ta:ரவிச்சந்திரன்	I-PER
+ta:இசையமைத்துள்ளார்	O
+ta:.	O
+
+ta:பொங்கல்	B-ORG
+ta:(	I-ORG
+ta:உணவு	I-ORG
+ta:)	I-ORG
+
+ta:அல்	B-ORG
+ta:சபாப்	I-ORG
+ta:,	O
+ta:சோமாலியா	B-LOC
+
+ta:வழிமாற்று	O
+ta:இந்திய	B-ORG
+ta:பொதுவுடமைக்	I-ORG
+ta:கட்சி	I-ORG
+ta:(	I-ORG
+ta:மார்க்சிஸ்ட்	I-ORG
+ta:)	I-ORG
+
+ta:பாட்டாளி	B-ORG
+ta:மக்கள்	I-ORG
+ta:கட்சி	I-ORG
+
+ta:யூ.	B-PER
+ta:ஆர்.	I-PER
+ta:ஜீவரத்தினம்	I-PER
+
+ta:வழிமாற்று	O
+ta:திருப்பாலைத்துறை	B-ORG
+ta:பாலைவனநாதர்	I-ORG
+ta:கோயில்	I-ORG
+
+ta:பரியாஹாட்	B-ORG
+ta:சட்டமன்றத்	I-ORG
+ta:தொகுதி	I-ORG
+ta:(	O
+ta:3	O
+ta:)	O
+
+ta:வழிமாற்று	O
+ta:தகவல்	B-ORG
+ta:அறியும்	I-ORG
+ta:உரிமைச்	I-ORG
+ta:சட்டம்	I-ORG
+ta:,	I-ORG
+ta:2005	I-ORG
+
+ta:இவர்	O
+ta:டி.	B-PER
+ta:ஆர்	I-PER
+ta:.	I-PER
+ta:போல	O
+ta:,	O
+ta:நடைமுறை	O
+ta:வாழ்க்கையில்	O
+ta:இருக்கும்	O
+ta:சாதரண	O
+ta:ஒரு	O
+ta:நபர்	O
+ta:,	O
+ta:அவர்தம்	O
+ta:வாழ்க்கையின்	O
+ta:கதாநாயகர்களாக	O
+ta:இருப்பதை	O
+ta:உணர்த்துகிறார்	O
+ta:.	O
+
+ta:குடல்	B-ORG
+ta:மற்றும்	O
+ta:/	O
+ta:அல்லது	O
+ta:சவ்வுப்பை	O
+ta:கட்டுப்பாடிழப்பு	O
+ta:அல்லது	O
+ta:கால்களில்	O
+ta:அதிகரித்துக்கொண்டேயிருக்கும்	O
+ta:பலவீனம்	O
+ta:ஆகிய	O
+ta:உயிரை	O
+ta:அச்சுறுத்தும்	O
+ta:பிரச்சனைகளுக்கு	O
+ta:பொதுவான	O
+ta:எச்சரிப்பு	O
+ta:அடையாளங்களாக	O
+ta:இருக்கலாம்	O
+ta:.	O
+
+ta:சத்யராஜ்	B-PER
+ta:இப்படத்தை	O
+ta:இயக்கியதுடன்	O
+ta:இப்படத்தில்	O
+ta:மூன்று	O
+ta:முக்கிய	O
+ta:வேடங்களிலும்	O
+ta:நடித்திருந்தார்	O
+ta:.	O
+
+ta:இவன்	O
+ta:மகன்	O
+ta:இளவரசன்	O
+ta:இரண்டாம்	B-PER
+ta:வீர	I-PER
+ta:நரசிம்மன்	I-PER
+ta:போரிலும்	O
+ta:,	O
+ta:ஆட்சியிலும்	O
+ta:தனது	O
+ta:தந்தைக்கு	O
+ta:ஆதரவாக	O
+ta:இருந்தான்	O
+
+ta:ஜான்	B-PER
+ta:டேவிஸ்	I-PER
+ta:(	I-PER
+ta:துடுப்பாட்டக்காரர்	I-PER
+ta:,	I-PER
+ta:பிறப்பு	I-PER
+ta:1882	I-PER
+ta:)	I-PER
+
+ta:மேலும்	O
+ta:இரு	O
+ta:இயக்கங்களிலும்	O
+ta:பெரும்பான்மையோர்	O
+ta:பசுதூனியர்கள்	B-ORG
+ta:ஆவர்	O
+ta:.	O
+
+ta:'	O
+ta:''	O
+ta:பகாங்	B-LOC
+ta:''	O
+ta:'	O
+
+ta:வழிமாற்று	O
+ta:அகுமதிய்யா	B-ORG
+ta:முசுலிம்	I-ORG
+ta:சமூகம்	I-ORG
+
+ta:வழிமாற்று	O
+ta:ஆங்	B-PER
+ta:சான்	I-PER
+ta:சூச்சி	I-PER
+
+ta:வழிமாற்று	O
+ta:மாரியோ	B-PER
+ta:பார்க்காசு	I-PER
+ta:யோசா	I-PER
+
+ta:இது	O
+ta:இடது	B-ORG
+ta:முன்னணியின்	I-ORG
+ta:ஒரு	O
+ta:அங்கமாகும்	O
+ta:.	O
+
+ta:எடுத்துக்காட்டாக	O
+ta:,	O
+ta:சிக்மண்ட்	B-PER
+ta:பிராய்ட்	I-PER
+ta:,	O
+ta:பிரீட்ரிக்	B-PER
+ta:நீட்சே	I-PER
+ta:,	O
+ta:பியோதர்	B-PER
+ta:தஸ்தயெவ்ஸ்கி	I-PER
+ta:ஆகியோரைக்	O
+ta:குறிப்பிடலாம்	O
+ta:.	O
+
+ta:இத்தலம்	O
+ta:நாகப்பட்டினம்	B-LOC
+ta:மாவட்டம்	I-LOC
+ta:மயிலாடுதுறை	B-LOC
+ta:வட்டத்தில்	I-LOC
+ta:அமைந்துள்ளது	O
+ta:.	O
+
+ta:காமராஜ்	B-ORG
+ta:நகர்	I-ORG
+ta:சட்டமன்றத்	I-ORG
+ta:தொகுதி	I-ORG
+
+ta:எம்.	B-PER
+ta:எஸ்.	I-PER
+ta:விசுவநாதன்	I-PER
+ta:இசையமைத்திருந்தார்	O
+ta:.	O
+
+ta:யாழ்ப்பாணக்	B-ORG
+ta:கடல்	I-ORG
+ta:நீரேரிப்	I-ORG
+ta:படுகொலை	I-ORG
+
+ta:காசியாபாத்தில்	B-LOC
+ta:கீழ்	O
+ta:நடுத்தரக்	O
+ta:குடும்பங்களில்	O
+ta:தங்களுடைய	O
+ta:வாழ்க்கை	O
+ta:,	O
+ta:பணி	O
+ta:,	O
+ta:திருமணம்	O
+ta:என	O
+ta:முக்கிய	O
+ta:முடிவுகளை	O
+ta:எடுப்பதில்	O
+ta:இயலாமை	O
+ta:நிலையில்	O
+ta:உள்ள	O
+ta:படித்த	O
+ta:இளம்பெண்களின்	O
+ta:வாழ்வைப்	O
+ta:பின்	O
+ta:தொடர்ந்து	O
+ta:,	O
+ta:அவர்களின்	O
+ta:வாழ்வில்	O
+ta:ஏற்பட்டுள்ள	O
+ta:மாற்றங்களை	O
+ta:அவர்களோடு	O
+ta:உரையாடியும்	O
+ta:கவனித்தும்	O
+ta:பதிவு	O
+ta:செய்துள்ள	O
+ta:படம்	O
+
+ta:'	O
+ta:''	O
+ta:எதிர்மின்னி	B-LOC
+ta:அமைப்பு	I-LOC
+ta:''	O
+ta:'	O
+
+ta:தொடர்ந்து	O
+ta:சென்னையில்	B-LOC
+ta:படப்பிடிப்பு	O
+ta:நடைபெற்றது	O
+ta:.	O
+
+ta:கிளாவேசீன்	B-ORG
+ta:(	O
+ta:Harpsichord	O
+ta:)	O
+
+ta:ம.	B-PER
+ta:சு.	I-PER
+ta:விசுவநாதன்	I-PER
+ta:-	O
+ta:(	O
+ta:இசையமைப்பாளர்	B-LOC
+ta:)	O
+
+ta:வினு	B-PER
+ta:சக்ரவர்த்தி	I-PER
+ta:-	O
+ta:காசியின்	O
+ta:தந்தை	O
+
+ta:கி.பி	O
+ta:17ஆம்	O
+ta:நூற்றாண்டில்	O
+ta:ஆற்காடு	B-ORG
+ta:நவாப்	I-ORG
+ta:வழி	O
+ta:வந்த	O
+ta:ஜகின்தார்	O
+ta:என்பவரால்	O
+ta:கட்டப்பட்டது	O
+ta:.	O
+
+ta:இது	O
+ta:மும்பையை	B-LOC
+ta:தலைமையிடமாகக்	O
+ta:கொண்டுள்ளது	O
+ta:.	O
+
+ta:7.தெலுங்கு	O
+ta:ரெட்டி	B-ORG
+ta:-	O
+ta:90	O
+ta:பேர்	O
+
+ta:'	O
+ta:''	O
+ta:மொண்டெனேகுரோ	B-LOC
+ta:''	O
+ta:'	O
+
+ta:வழிமாற்று	O
+ta:பெருந்	B-LOC
+ta:தடுப்புப்	I-LOC
+ta:பவளத்திட்டு	I-LOC
+
+ta:வழிமாற்று	O
+ta:கிளிநொச்சி	B-ORG
+ta:இந்துக்	I-ORG
+ta:கல்லூரி	I-ORG
+
+ta:ஜான்	B-PER
+ta:ஆடம்ஸ்	I-PER
+ta:துணைத்	O
+ta:தலைவர்	O
+ta:ஆனார்	O
+ta:.	O
+
+ta:வழிமாற்று	O
+ta:சிமோன்	B-PER
+ta:த	I-PER
+ta:பொவார்	I-PER
+
+ta:எஸ்.	B-PER
+ta:பி.	I-PER
+ta:பாலசுப்பிரமணியம்	I-PER
+ta:,	O
+ta:வாணி	B-PER
+ta:ஜெயராம்	I-PER
+
+ta:இந்தப்	O
+ta:படத்தின்	O
+ta:இயக்குனரான	O
+ta:மைக்கேல்	B-PER
+ta:பே	I-PER
+ta:பத்து	O
+ta:பவுண்டுகள்	O
+ta:எடை	O
+ta:கூட்டும்படி	O
+ta:அவருக்கு	O
+ta:ஆணையிட்டார்	O
+ta:.	O
+

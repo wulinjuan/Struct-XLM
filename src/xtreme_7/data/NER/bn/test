@@ -1,0 +1,5377 @@
+bn:উরুগুয়ে	B-ORG
+bn:জাতীয়	I-ORG
+bn:ফুটবল	I-ORG
+bn:দল	I-ORG
+
+bn:অ্যান্ড্রু	B-PER
+bn:জেড	I-PER
+bn:ফায়ার	I-PER
+
+bn:রিয়াল	B-ORG
+bn:মাদ্রিদ	I-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:মারভিন	B-PER
+bn:দি	I-PER
+bn:মারসিয়ান	I-PER
+
+bn:আদর্শ	B-ORG
+bn:গ্যাস	I-ORG
+bn:সূত্র	I-ORG
+
+bn:মহাকাশে	B-ORG
+bn:উপনিবেশ	I-ORG
+bn:স্থাপন	I-ORG
+
+bn:ভেনাস	B-LOC
+bn:ফ্লাইট্র্যাপ	I-LOC
+bn:(	I-LOC
+bn:উদ্ভিদ	I-LOC
+bn:)	I-LOC
+
+bn:মারভিন	B-PER
+bn:দি	I-PER
+bn:মারসিয়ান	I-PER
+
+bn:সংযুক্ত	B-ORG
+bn:আরব	I-ORG
+bn:আমিরাত	I-ORG
+bn:জাতীয়	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:দক্ষিণ	B-ORG
+bn:আফ্রিকা	I-ORG
+bn:জাতীয়	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:এপিমেথেউস	B-PER
+bn:(	I-PER
+bn:পৌরাণিক	I-PER
+bn:চরিত্র	I-PER
+bn:)	I-PER
+
+bn:কার্তিক	B-ORG
+bn:(	I-ORG
+bn:দেবতা	I-ORG
+bn:)	I-ORG
+
+bn:উত্তরবঙ্গ	B-ORG
+bn:কৃষি	I-ORG
+bn:বিশ্ববিদ্যালয়	I-ORG
+
+bn:আবার	B-ORG
+bn:বছর	I-ORG
+bn:কুড়ি	I-ORG
+bn:পরে	I-ORG
+bn:''	O
+
+bn:বিলাসপুর	B-LOC
+bn:,	I-LOC
+bn:হিমাচল	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:মুহাম্মদ	B-PER
+bn:হাবিবুর	I-PER
+bn:রহমান	I-PER
+
+bn:লন্ডন	B-ORG
+bn:হিথ্রো	I-ORG
+bn:বিমানবন্দর	I-ORG
+
+bn:পূর্ব	B-LOC
+bn:কোরিয়ার	I-LOC
+bn:উপসাগর	I-LOC
+
+bn:বল্টিমোর	B-ORG
+bn:মেট্রো	I-ORG
+bn:সাবওয়ে	I-ORG
+
+bn:লিওনার্দো	B-PER
+bn:দা	I-PER
+bn:ভিঞ্চি	I-PER
+
+bn:'	O
+bn:''	O
+bn:অজন্তা	B-PER
+bn:মেন্ডিস	I-PER
+bn:''	O
+bn:'	O
+
+bn:আল	B-LOC
+bn:মুসান্না	I-LOC
+bn:প্রদেশ	I-LOC
+bn:(	O
+bn:المثنى	O
+bn:)	O
+
+bn:রোমিও	B-LOC
+bn:অ্যান্ড	I-LOC
+bn:জুলিয়েট	I-LOC
+
+bn:''	O
+bn:'পরিচালক	O
+bn:''	O
+bn:'	O
+bn:রবি	B-PER
+bn:কিনাগী	I-PER
+
+bn:সান	B-ORG
+bn:পিয়েত্রোর	I-ORG
+bn:বাসিলিকা	I-ORG
+
+bn:বাংলাদেশ	B-ORG
+bn:জাতীয়	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:প্লেটো	B-PER
+bn:(	O
+bn:খ্রীষ্টপূর্ব	O
+bn:৪২৯-৩৪৭	O
+bn:)	O
+
+bn:পূর্ণ	B-PER
+bn:অ্যাজিটক	I-PER
+bn:সাংমা	I-PER
+
+bn:সারা	B-ORG
+bn:ভারত	I-ORG
+bn:ফরওয়ার্ড	I-ORG
+bn:ব্লক	I-ORG
+
+bn:বসনিয়া	B-LOC
+bn:ও	I-LOC
+bn:হার্জেগোভিনা	I-LOC
+
+bn:সাউথ	B-ORG
+bn:ইস্ট	I-ORG
+bn:ইউনিভার্সিটি	I-ORG
+
+bn:রিসেপ	B-PER
+bn:তায়িপ	I-PER
+bn:এরদোয়ান	I-PER
+
+bn:জর্জ	B-PER
+bn:বার্নার্ড	I-PER
+bn:শ	I-PER
+bn:'	I-PER
+
+bn:উত্তরে	O
+bn:মুরাদনগর	B-LOC
+bn:উপজেলাও	I-LOC
+bn:ব্রাহ্মণপাড়া	B-LOC
+bn:উপজেলা	I-LOC
+bn:,	O
+bn:পূর্বে	O
+bn:ব্রাহ্মণপাড়া	B-LOC
+bn:উপজেলা	I-LOC
+bn:ও	O
+bn:বুড়িচং	B-ORG
+bn:উপজেলা	I-ORG
+bn:,	O
+bn:দক্ষিণে	O
+bn:চান্দিনা	B-LOC
+bn:উপজেলা	I-LOC
+bn:এবং	O
+bn:পশ্চিমে	O
+bn:মুরাদনগর	B-LOC
+bn:উপজেলা।	I-LOC
+
+bn:নাজাফ	B-LOC
+bn:প্রদেশ	I-LOC
+bn:(	O
+bn:النجف	O
+bn:)	O
+
+bn:কোয়া-জুলু	B-LOC
+bn:নাটাল	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:এফসি	B-ORG
+bn:পোর্তো	I-ORG
+bn:(	O
+bn:পর্তুগাল	B-LOC
+bn:)	O
+
+bn:মেলবোর্ন	B-ORG
+bn:ক্রিকেট	I-ORG
+bn:গ্রাউন্ড	I-ORG
+bn:,	O
+bn:মেলবোর্ন	B-LOC
+
+bn:ফ্রাঙ্কলিন	B-PER
+bn:ডি.	I-PER
+bn:রুজভেল্ট	I-PER
+
+bn:পিয়ের	B-PER
+bn:পাওলো	I-PER
+bn:পাসোলিনি	I-PER
+
+bn:ময়মনসিংহ	B-LOC
+bn:(	I-LOC
+bn:শহর	I-LOC
+bn:)	I-LOC
+
+bn:মানিক	B-PER
+bn:বন্দ্যোপাধ্যায়	I-PER
+bn:,	O
+bn:লেখক।	O
+
+bn:মেক্সিকো	B-ORG
+bn:সিটি	I-ORG
+bn:মেট্রো	I-ORG
+
+bn:টমাস	B-PER
+bn:আলভা	I-PER
+bn:এডিসন	I-PER
+
+bn:শ্রীলঙ্কার	B-ORG
+bn:সামরিক	I-ORG
+bn:বাহিনী	I-ORG
+
+bn:সামুয়েল	B-PER
+bn:ছাও	I-PER
+bn:ছুং	I-PER
+bn:থিং	I-PER
+
+bn:গুরু	B-PER
+bn:গ্রন্থ	I-PER
+bn:সাহিব	I-PER
+
+bn:জন	B-PER
+bn:হর্টন	I-PER
+bn:কনওয়ে	I-PER
+
+bn:জালালপুর	O
+bn:,	O
+bn:পাবনা	B-LOC
+bn:সদর	I-LOC
+bn:উপজেলা	I-LOC
+
+bn:কুড়িগ্রাম	B-LOC
+bn:সদর	I-LOC
+bn:উপজেলা	I-LOC
+
+bn:ক্রফোর্ড	B-PER
+bn:উইলিয়ামসন	I-PER
+bn:লং	I-PER
+
+bn:ওয়াশিংটন	B-LOC
+bn:,	I-LOC
+bn:ডি.সি	I-LOC
+bn:.	I-LOC
+
+bn:শারজাহ]]	O
+bn:,	O
+bn:সংযুক্ত	B-LOC
+bn:আরব	I-LOC
+bn:আমিরাত	I-LOC
+
+bn:রোমিও	B-LOC
+bn:অ্যান্ড	I-LOC
+bn:জুলিয়েট	I-LOC
+
+bn:সেন্ট	B-LOC
+bn:কিট্‌স	I-LOC
+bn:ও	I-LOC
+bn:নেভিস	I-LOC
+
+bn:নিজাম	B-PER
+bn:আলি	I-PER
+bn:খান	I-PER
+bn:,	I-PER
+bn:দ্বিতীয়	I-PER
+bn:আসাফ	I-PER
+bn:জাহ	I-PER
+
+bn:সিডনি	B-LOC
+bn:ক্রিকেট	I-LOC
+bn:গ্রাউন্ড	I-LOC
+bn:,	O
+bn:সিডনি	B-LOC
+
+bn:এই	O
+bn:ইউনিয়নটি	O
+bn:ঢাকা	B-LOC
+bn:বিভাগের	I-LOC
+bn:ঢাকা	B-LOC
+bn:জেলার	I-LOC
+bn:অন্তর্গত	O
+bn:ধামরাই	B-LOC
+bn:উপজেলায়	I-LOC
+bn:অবস্থিত।	O
+
+bn:মার্কিন	B-ORG
+bn:যুক্তরাষ্ট্রের	I-ORG
+bn:রাষ্ট্রপতি	I-ORG
+
+bn:বেলুচিস্তান	B-LOC
+bn:(	I-LOC
+bn:পাকিস্তান	I-LOC
+bn:)	I-LOC
+
+bn:কপিল	B-PER
+bn:[ভাগবত	O
+bn:১।৩।১০]	O
+bn:(	O
+bn:''দার্শনিক	O
+bn:''	O
+bn:)	O
+
+bn:সাঁউ	B-LOC
+bn:তুমি	I-LOC
+bn:ও	I-LOC
+bn:প্রিন্সিপি	I-LOC
+
+bn:মোস্তফা	B-PER
+bn:কামাল	I-PER
+bn:আতাতুর্ক	I-PER
+
+bn:কুইবেক	B-LOC
+bn:সিটি–উইন্ডসর	I-LOC
+bn:করিডোর	I-LOC
+
+bn:ইউনিভার্সিটি	B-ORG
+bn:অব	I-ORG
+bn:ক্যালিফোর্নিয়া	I-ORG
+bn:,	I-ORG
+bn:সান্টা	I-ORG
+bn:ক্রুজ	I-ORG
+
+bn:গুরু	B-PER
+bn:গ্রন্থ	I-PER
+bn:সাহিব	I-PER
+
+bn:'	O
+bn:''	O
+bn:হারারে	B-LOC
+bn:''	O
+bn:'	O
+
+bn:''সিনকোনা	O
+bn:antioquiae	O
+bn:''	O
+bn:L.Andersson	O
+bn:(	O
+bn:1998	O
+bn:)	O
+bn:-	O
+bn:কলম্বিয়া	B-LOC
+
+bn:আকাকাল্লিস	B-PER
+bn:(	I-PER
+bn:পৌরাণিক	I-PER
+bn:চরিত্র	I-PER
+bn:)	I-PER
+
+bn:মার্কিন	B-ORG
+bn:যুক্তরাষ্ট্রের	I-ORG
+bn:রাষ্ট্রপতি	I-ORG
+
+bn:সিস্তন	B-LOC
+bn:ও	I-LOC
+bn:বালুচেস্তন	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:রাশিয়ার	B-PER
+bn:প্রথম	I-PER
+bn:পিটার	I-PER
+
+bn:আন্তর্জাতিক	B-ORG
+bn:ক্রিকেট	I-ORG
+bn:কাউন্সিল	I-ORG
+
+bn:বগুড়া	B-LOC
+bn:সদর	I-LOC
+bn:উপজেলা	I-LOC
+
+bn:সর্বোচ্চ	O
+bn:আয়	O
+bn:(	O
+bn:যুক্তরাজ্য	B-LOC
+bn:)	O
+
+bn:২০০৮	B-ORG
+bn:গ্রীষ্মকালীন	I-ORG
+bn:অলিম্পিকে	I-ORG
+bn:জুডো	I-ORG
+bn:–	I-ORG
+bn:মহিলাদের	I-ORG
+bn:৭৮	I-ORG
+bn:কেজি	I-ORG
+
+bn:ক্লাব	B-ORG
+bn:আতলেতিকো	I-ORG
+bn:রিভার	I-ORG
+bn:প্লেত	I-ORG
+
+bn:**	O
+bn:রিয়াদ	B-LOC
+bn:(	O
+bn:দূতাবাস	O
+bn:)	O
+
+bn:পাতি	B-LOC
+bn:গেছো	I-LOC
+bn:ছুঁচো	I-LOC
+
+bn:'	O
+bn:''	O
+bn:উরুগুয়ে	B-LOC
+bn:''	O
+bn:'	O
+
+bn:২০০৮	B-ORG
+bn:গ্রীষ্মকালীন	I-ORG
+bn:অলিম্পিকে	I-ORG
+bn:জুডো	I-ORG
+bn:–	I-ORG
+bn:মহিলাদের	I-ORG
+bn:৬৩	I-ORG
+bn:কেজি	I-ORG
+
+bn:**	O
+bn:প্রমিলাদের	B-ORG
+bn:১০০	I-ORG
+bn:মিটার	I-ORG
+bn:ব্রেস্টস্ট্রোক	I-ORG
+bn:ফাইনাল	I-ORG
+bn:,	O
+bn:৪র্থ	O
+
+bn:রবার্ট	B-PER
+bn:জি.	I-PER
+bn:এডওয়ার্ডস	I-PER
+
+bn:দ্য	B-ORG
+bn:ফুটবল	I-ORG
+bn:অ্যাসোসিয়েশন	I-ORG
+
+bn:মিডল	B-ORG
+bn:ইস্ট	I-ORG
+bn:ব্রডকাস্টিং	I-ORG
+bn:সেন্টার	I-ORG
+
+bn:উত্তরে	O
+bn:ভেদরগঞ্জ	B-LOC
+bn:উপজেলা	I-LOC
+bn:,	O
+bn:পূর্বে	O
+bn:ভেদরগঞ্জ	B-LOC
+bn:উপজেলা	I-LOC
+bn:ও	O
+bn:গোসাইরহাট	B-LOC
+bn:উপজেলা	I-LOC
+bn:,	O
+bn:দক্ষিণে	O
+bn:গোসাইরহাট	B-LOC
+bn:উপজেলা	I-LOC
+bn:এবং	O
+bn:পশ্চিমে	O
+bn:কালকিনী	B-LOC
+bn:উপজেলা।	I-LOC
+
+bn:ডারউইন	B-LOC
+bn:,	I-LOC
+bn:নর্দার্ন	I-LOC
+bn:টেরিটরি	I-LOC
+
+bn:জর্জ	B-PER
+bn:এইচ.	I-PER
+bn:উইপেল	I-PER
+
+bn:আয়ারল্যান্ড	B-LOC
+bn:(	I-LOC
+bn:দ্বীপ	I-LOC
+bn:)	I-LOC
+
+bn:বাংলাদেশ	B-ORG
+bn:পল্লী	I-ORG
+bn:উন্নয়ন	I-ORG
+bn:একাডেমী	I-ORG
+
+bn:লালমোহন	B-LOC
+bn:উপজেলা	I-LOC
+bn:এবং	O
+bn:তজমুদ্দিন	B-LOC
+bn:উপজেলা	I-LOC
+
+bn:জর্জিয়া	B-LOC
+bn:(	I-LOC
+bn:অঙ্গরাজ্য	I-LOC
+bn:)	I-LOC
+
+bn:চিন্তামণি	B-LOC
+bn:(	I-LOC
+bn:শহর	I-LOC
+bn:)	I-LOC
+
+bn:ভিত্তোরিও	B-PER
+bn:দে	I-PER
+bn:সিকা	I-PER
+
+bn:মাউস	B-ORG
+bn:(	I-ORG
+bn:কম্পিউটার	I-ORG
+bn:)	I-ORG
+
+bn:হোর্হে	B-PER
+bn:লুইস	I-PER
+bn:বোর্হেস	I-PER
+
+bn:দ্বিতীয়	B-LOC
+bn:বিশ্বযুদ্ধে	I-LOC
+bn:অক্ষশক্তি	I-LOC
+
+bn:চতুর্দশ	B-PER
+bn:দলাই	I-PER
+bn:লামা	I-PER
+
+bn:দ্য	B-ORG
+bn:ওয়াল	I-ORG
+bn:স্ট্রিট	I-ORG
+bn:জার্নাল	I-ORG
+
+bn:'	O
+bn:''	O
+bn:রাঁচি	B-LOC
+bn:''	O
+bn:'	O
+
+bn:এফসি	B-ORG
+bn:বায়ার্ন	I-ORG
+bn:মিউনিখ	I-ORG
+
+bn:চন্দ্রবিন্দু	B-ORG
+bn:(	I-ORG
+bn:ব্যান্ড	I-ORG
+bn:)	I-ORG
+
+bn:ভারতের	B-ORG
+bn:সামরিক	I-ORG
+bn:বাহিনী	I-ORG
+
+bn:ফুটবল	B-ORG
+bn:ক্লাব	I-ORG
+bn:দু	I-ORG
+bn:পোর্তো	I-ORG
+
+bn:অ্যাডাল্ট	B-ORG
+bn:মুভি	I-ORG
+bn:থিয়েটার	I-ORG
+
+bn:ভারতীয়	B-ORG
+bn:জাতীয়	I-ORG
+bn:কংগ্রেস	I-ORG
+
+bn:হিন্দুস্তানি	B-ORG
+bn:শাস্ত্রীয়	I-ORG
+bn:সংগীত	I-ORG
+
+bn:ভৌগোলিক	B-ORG
+bn:আয়তন	I-ORG
+bn:অনুসারে	I-ORG
+bn:রাষ্ট্রসমূহের	I-ORG
+bn:তালিকা	I-ORG
+
+bn:উইগান	B-ORG
+bn:অ্যাথলেটিক	I-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:আলিপুর	B-LOC
+bn:,	I-LOC
+bn:দিল্লি	I-LOC
+
+bn:আন্তর্জাতিক	B-ORG
+bn:টেলিযোগাযোগ	I-ORG
+bn:ইউনিয়ন	I-ORG
+
+bn:১৯৪০	B-ORG
+bn:শীতকালীন	I-ORG
+bn:অলিম্পিক	I-ORG
+
+bn:সাগওয়ারা	B-LOC
+bn:(	I-LOC
+bn:দুঙ্গারপুর	I-LOC
+bn:)	I-LOC
+
+bn:লিন্ডন	B-PER
+bn:বি.	I-PER
+bn:জনসন	I-PER
+
+bn:আমির	B-PER
+bn:আবদুল্লাহ	I-PER
+bn:খান	I-PER
+bn:নিয়াজী	I-PER
+
+bn:কলা	B-LOC
+bn:(	I-LOC
+bn:জীববিজ্ঞান	I-LOC
+bn:)	I-LOC
+
+bn:ভৌগোলিক	B-ORG
+bn:আয়তন	I-ORG
+bn:অনুসারে	I-ORG
+bn:রাষ্ট্রসমূহের	I-ORG
+bn:তালিকা	I-ORG
+
+bn:জেমস	B-PER
+bn:কে.	I-PER
+bn:পোক	I-PER
+
+bn:অনরে	B-PER
+bn:দ্য	I-PER
+bn:বালজাক	I-PER
+
+bn:অং	B-PER
+bn:সান	I-PER
+bn:সু	I-PER
+bn:চি	I-PER
+
+bn:থামোরা	B-LOC
+bn:,	I-LOC
+bn:স্পেন	I-LOC
+
+bn:ইউনিভার্সিটি	B-ORG
+bn:অব	I-ORG
+bn:ইলিনয়	I-ORG
+bn:অ্যাট	I-ORG
+bn:আর্বানা-শ্যাম্পেইন	I-ORG
+
+bn:ওয়ার্ল্ড	B-ORG
+bn:ইকোনমিক	I-ORG
+bn:ফোরাম	I-ORG
+
+bn:ইয়োহানেস	B-PER
+bn:কেপলার	I-PER
+bn:(	O
+bn:১৫৭১–১৬৩০	O
+bn:)	O
+bn:]]	O
+
+bn:দ্য	B-ORG
+bn:রোলিং	I-ORG
+bn:স্টোনস	I-ORG
+
+bn:পোর্ট	B-LOC
+bn:অব	I-LOC
+bn:স্পেন	I-LOC
+
+bn:এলব্রুস	B-LOC
+bn:পর্বত	I-LOC
+bn:''	O
+bn:(	O
+bn:Minghi-Tau	O
+bn:)	O
+bn:''	O
+
+bn:রাশিয়ার	B-PER
+bn:প্রথম	I-PER
+bn:পিটার	I-PER
+
+bn:কাউন্সিল	B-ORG
+bn:অব	I-ORG
+bn:ইউরোপ	I-ORG
+
+bn:এন১	B-ORG
+bn:(	I-ORG
+bn:বাংলাদেশ	I-ORG
+bn:)	I-ORG
+
+bn:মার্কিন	B-ORG
+bn:যুক্তরাষ্ট্র	I-ORG
+bn:জাতীয়	I-ORG
+bn:পুরুষ	I-ORG
+bn:ফুটবল	I-ORG
+bn:দল	I-ORG
+
+bn:১০০	B-ORG
+bn:ডলারে	I-ORG
+bn:ল্যাপটপ	I-ORG
+
+bn:ব্রাজিল	B-ORG
+bn:জাতীয়	I-ORG
+bn:ফুটবল	I-ORG
+bn:দল	I-ORG
+
+bn:ক্যালিফোর্নিয়া	B-ORG
+bn:স্টেট	I-ORG
+bn:রুট	I-ORG
+bn:১৮৬	I-ORG
+
+bn:মার্টিন	B-PER
+bn:লুথার	I-PER
+bn:কিং	I-PER
+bn:,	I-PER
+bn:জুনিয়র	I-PER
+
+bn:কমনওয়েলথ	B-ORG
+bn:অব	I-ORG
+bn:নেশনস	I-ORG
+
+bn:অ্যাসোসিয়েশন	B-ORG
+bn:অব	I-ORG
+bn:টেনিস	I-ORG
+bn:প্রফেশনালস	I-ORG
+
+bn:আবু	B-PER
+bn:সাদাত	I-PER
+bn:মোহাম্মদ	I-PER
+bn:সায়েম	I-PER
+
+bn:বারাক	B-PER
+bn:ওবামা	I-PER
+bn:(	I-PER
+bn:কেনীয়	I-PER
+bn:অর্থনীতিবিদ	I-PER
+bn:)	I-PER
+
+bn:বুয়েনোস	B-LOC
+bn:আইরেস	I-LOC
+bn:মেট্রো	I-LOC
+
+bn:সেন্ট	B-LOC
+bn:মার্টিন্‌স	I-LOC
+bn:দ্বীপ	I-LOC
+
+bn:হাই	B-ORG
+bn:হোপ্‌স	I-ORG
+bn:(	I-ORG
+bn:পিংক	I-ORG
+bn:ফ্লয়েডের	I-ORG
+bn:গান	I-ORG
+bn:)	I-ORG
+
+bn:সেন্ট	B-ORG
+bn:ব্যাজল'স	I-ORG
+bn:ক্যাথিড্রাল	I-ORG
+
+bn:সিংহলীজ	B-LOC
+bn:স্পোর্টস	I-LOC
+bn:ক্লাব	I-LOC
+bn:গ্রাউন্ড	I-LOC
+bn:,	O
+bn:কলম্বো	B-LOC
+
+bn:হিস্ট্রি	B-ORG
+bn:(	I-ORG
+bn:টিভি	I-ORG
+bn:চ্যানেল	I-ORG
+bn:)	I-ORG
+
+bn:কোয়া-জুলু	B-LOC
+bn:নাটাল	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:জিম্বাবুয়ে	B-ORG
+bn:জাতীয়	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:জগদীশ	B-PER
+bn:চন্দ্র	I-PER
+bn:বসু	I-PER
+
+bn:আবু	B-PER
+bn:মুসআব	I-PER
+bn:আজ-জারকাবি	I-PER
+
+bn:পোপ	B-PER
+bn:তৃতীয়	I-PER
+bn:ক্যালিক্সটাস	I-PER
+
+bn:**	O
+bn:কালো	B-LOC
+bn:বামন	I-LOC
+bn:ধনেশ	I-LOC
+bn:''Tockus	O
+bn:hartlaubi	O
+bn:''	O
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:রুশীয়	B-LOC
+bn:সোভিয়েত	I-LOC
+bn:যুক্তরাষ্ট্রীয়	I-LOC
+bn:সমাজতান্ত্রিক	I-LOC
+bn:প্রজাতন্ত্র	I-LOC
+
+bn:আবদুল	B-PER
+bn:করিম	I-PER
+bn:খন্দকার	I-PER
+
+bn:লুই	B-PER
+bn:দ্য	I-PER
+bn:ব্রোয়ি	I-PER
+
+bn:পূর্ব	B-LOC
+bn:খাসি	I-LOC
+bn:পাহাড়	I-LOC
+bn:জেলা	I-LOC
+bn:(	O
+bn:শিলং	B-LOC
+bn:)	O
+
+bn:লুই	B-PER
+bn:ইউজিন	I-PER
+bn:ফেলিক্স	I-PER
+bn:নিল	I-PER
+
+bn:অভয়চরণারবিন্দ	B-PER
+bn:ভক্তিবেদান্ত	I-PER
+bn:স্বামী	I-PER
+bn:প্রভুপাদ	I-PER
+
+bn:নটিংহ্যাম	B-ORG
+bn:ফরেস্ট	I-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:আবদুল	B-PER
+bn:আজিজ	I-PER
+bn:ইবনে	I-PER
+bn:সৌদ	I-PER
+
+bn:ভারত	B-LOC
+bn:,	O
+bn:বাংলাদেশ	B-LOC
+bn:,	O
+bn:শ্রীলঙ্কা	B-LOC
+
+bn:রামনগরম	B-LOC
+bn:(	I-LOC
+bn:কর্ণাটক	I-LOC
+bn:)	I-LOC
+
+bn:কিম	B-PER
+bn:জং	I-PER
+bn:উন	I-PER
+
+bn:রাজ্জাক	B-PER
+bn:-	O
+bn:''পারভেজ	O
+bn:''	O
+
+bn:কার্বি	B-LOC
+bn:আংলং	I-LOC
+bn:জেলা	I-LOC
+
+bn:রাজশাহী	B-ORG
+bn:কলেজিয়েট	I-ORG
+bn:স্কুল	I-ORG
+
+bn:আলোকের	B-ORG
+bn:পরিবর্তনশীল	I-ORG
+bn:বেগ	I-ORG
+
+bn:অ্যালান	B-PER
+bn:জে	I-PER
+bn:পাকুলা	I-PER
+
+bn:আউটলুক	B-ORG
+bn:(	I-ORG
+bn:পত্রিকা	I-ORG
+bn:)	I-ORG
+
+bn:প্যারাগুয়ে	B-ORG
+bn:জাতীয়	I-ORG
+bn:ফুটবল	I-ORG
+bn:দল	I-ORG
+
+bn:জেদ্দা	B-LOC
+bn:,	O
+bn:সৌদি	B-LOC
+bn:আরব	I-LOC
+
+bn:সেপ্টেম্বর	B-ORG
+bn:১১	I-ORG
+bn:,	I-ORG
+bn:২০০১	I-ORG
+bn:এর	I-ORG
+bn:হামলা	I-ORG
+
+bn:সান্ডারল্যান্ড	B-ORG
+bn:এসোসিয়েশন	I-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:কাঁকড়াভুক	B-LOC
+bn:বেজী	I-LOC
+bn:,	O
+bn:Crab-eating	O
+bn:Mongoose	O
+bn:,	O
+bn:''Herpestes	O
+bn:urva	O
+bn:''	O
+bn:,	O
+
+bn:এই	O
+bn:ইউনিয়নটি	O
+bn:ঢাকা	B-LOC
+bn:বিভাগের	I-LOC
+bn:ঢাকা	B-LOC
+bn:জেলার	I-LOC
+bn:অন্তর্গত	O
+bn:ধামরাই	B-LOC
+bn:উপজেলায়	I-LOC
+bn:অবস্থিত।	O
+
+bn:অ্যাংকারিজ	B-LOC
+bn:,	I-LOC
+bn:আলাস্কা	I-LOC
+
+bn:হ্যারি	B-PER
+bn:এস.	I-PER
+bn:ট্রুম্যান	I-PER
+
+bn:গি	B-PER
+bn:দ্য	I-PER
+bn:মোপাসঁ	I-PER
+
+bn:ওল্ড	B-ORG
+bn:ট্রাফোর্ড	I-ORG
+bn:-	O
+bn:১৪	O
+
+bn:মেক্সিকো	B-ORG
+bn:জাতীয়	I-ORG
+bn:ফুটবল	I-ORG
+bn:দল	I-ORG
+
+bn:বেইজিং	B-ORG
+bn:ন্যাশনাল	I-ORG
+bn:স্টেডিয়াম	I-ORG
+
+bn:অস্ট্রিয়া	B-ORG
+bn:জাতীয়	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:***	O
+bn:ডামারা	B-LOC
+bn:লালঠুঁটি	I-LOC
+bn:ধনেশ	I-LOC
+bn:''Tockus	O
+bn:damarensis	O
+bn:''	O
+
+bn:প্রীতিলতা	B-PER
+bn:ওয়াদ্দেদার	I-PER
+bn:(	O
+bn:১৯১১-১৯৩২	O
+bn:)	O
+
+bn:ব্যারি	B-PER
+bn:জে.	I-PER
+bn:মার্শাল	I-PER
+
+bn:গোপালগঞ্জ	B-LOC
+bn:সদর	I-LOC
+bn:উপজেলা	I-LOC
+
+bn:মোস্তফা	B-PER
+bn:কামাল	I-PER
+bn:আতাতুর্ক	I-PER
+
+bn:ম্যারাবু	B-LOC
+bn:মদনটাক	I-LOC
+bn:(	O
+bn:''Leptoptilos	O
+bn:crumeniferus	O
+bn:''	O
+bn:)	O
+
+bn:হো	B-LOC
+bn:চি	I-LOC
+bn:মিন	I-LOC
+bn:সিটি	I-LOC
+
+bn:মিশর	B-LOC
+bn:(	O
+bn:৭ম	O
+bn:শতাব্দী	O
+bn:)	O
+bn:/	O
+bn:সিরিয়া	B-LOC
+bn:(	O
+bn:১৩শ	O
+bn:শতাব্দী	O
+bn:পর্যন্ত	O
+bn:)	O
+
+bn:ইউনিভার্সিটি	B-ORG
+bn:অব	I-ORG
+bn:ইলিনয়	I-ORG
+bn:অ্যাট	I-ORG
+bn:আর্বানা-শ্যাম্পেইন	I-ORG
+
+bn:সুফি	B-PER
+bn:(	I-PER
+bn:কার্টুনিস্ট	I-PER
+bn:)	I-PER
+bn:-	O
+bn:একজন	O
+bn:ভারতীয়	B-LOC
+bn:কার্টুনিষ্ট।	O
+
+bn:জুয়েল	B-PER
+bn:ইন	I-PER
+bn:দ্য	I-PER
+bn:প্যালেস	I-PER
+
+bn:দ্য	B-ORG
+bn:টাইমস	I-ORG
+bn:অব	I-ORG
+bn:ইন্ডিয়া	I-ORG
+
+bn:বের্টা	B-PER
+bn:ফন	I-PER
+bn:জুটনার	I-PER
+
+bn:খন্দকার	B-PER
+bn:মোশতাক	I-PER
+bn:আহমেদ	I-PER
+
+bn:হাড়গিলা	B-LOC
+bn:,	O
+bn:সবুজ	B-LOC
+bn:টিয়া	I-LOC
+bn:ইত্যাদি।	O
+
+bn:জন	B-PER
+bn:স্টুয়ার্ট	I-PER
+bn:মিল	I-PER
+
+bn:জর্জ	B-PER
+bn:গর্ডন	I-PER
+bn:বায়রন	I-PER
+
+bn:সেপ্টেম্বর	B-ORG
+bn:১১	I-ORG
+bn:,	I-ORG
+bn:২০০১	I-ORG
+bn:এর	I-ORG
+bn:হামলা	I-ORG
+
+bn:কর্লসরুহে	B-ORG
+bn:ইন্সটিটিউট	I-ORG
+bn:অব	I-ORG
+bn:টেকনোলজি	I-ORG
+
+bn:জে	B-PER
+bn:কে	I-PER
+bn:রাউলিং	I-PER
+
+bn:বোল্টন	B-ORG
+bn:ওয়ান্ডারার্স	I-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:শেখ	B-PER
+bn:মুজিবুর	I-PER
+bn:রহমান	I-PER
+
+bn:ইয়োহান	B-PER
+bn:ভোলফগাং	I-PER
+bn:ফন	I-PER
+bn:গ্যোটে	I-PER
+
+bn:খলিল	B-PER
+bn:উল্লাহ	I-PER
+bn:খান	I-PER
+
+bn:মেটাল	B-ORG
+bn:ব্লেড	I-ORG
+bn:রেকর্ডস	I-ORG
+
+bn:আবদুল	B-PER
+bn:হামিদ	I-PER
+bn:খান	I-PER
+bn:ভাসানী	I-PER
+
+bn:মহম্মদ	B-PER
+bn:হামিদ	I-PER
+bn:আনসারি	I-PER
+bn:(	O
+bn:১৯৩৭-	O
+bn:)	O
+
+bn:ওয়েস্ট	B-ORG
+bn:ইন্ডিজ	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:অলিম্পিক	B-ORG
+bn:ডি	I-ORG
+bn:মার্সেই	I-ORG
+
+bn:অগাস্টা	B-LOC
+bn:,	I-LOC
+bn:জর্জিয়া	I-LOC
+
+bn:দ্য	B-ORG
+bn:ডেইলি	I-ORG
+bn:টেলিগ্রাফ	I-ORG
+
+bn:জামাল	B-PER
+bn:আব্দেল	I-PER
+bn:নাসের	I-PER
+
+bn:উত্তর	B-LOC
+bn:চব্বিশ	I-LOC
+bn:পরগণা	I-LOC
+bn:জেলা	I-LOC
+
+bn:প্যারাগুয়ে	B-LOC
+bn:—	O
+bn:অলিম্পিয়াডাস	O
+bn:ম্যাটমেটিকাস	O
+bn:প্যারাগুয়ায়্যাস	O
+bn:(	O
+bn:ওএমএপিএ	O
+bn:)	O
+
+bn:ইউরোপ	B-LOC
+bn:,	O
+bn:অস্ট্রেলিয়া	B-LOC
+bn:,	O
+bn:ভারত	B-LOC
+bn:,	O
+bn:জাপান	B-LOC
+bn:ও	O
+bn:আফ্রিকাতে	B-LOC
+bn:এ	O
+bn:উদ্ভিদটি	O
+bn:পাওয়া	O
+bn:যায়।	O
+bn:আকারে	O
+bn:ছোট	O
+bn:,	O
+bn:শিকড়হীন	O
+bn:এ	O
+bn:উদ্ভিদটি	O
+bn:পুকুর	O
+bn:বা	O
+bn:জলাশয়ের	O
+bn:উপরে	O
+bn:ভাসতে	O
+bn:দেখা	O
+bn:যায়।	O
+
+bn:হালিশহর	B-LOC
+bn:,	I-LOC
+bn:পশ্চিমবঙ্গ	I-LOC
+
+bn:আবু	B-PER
+bn:মুসআব	I-PER
+bn:আজ-জারকাবি	I-PER
+
+bn:আবু	B-PER
+bn:মুসআব	I-PER
+bn:আজ-জারকাবি	I-PER
+
+bn:শ্রীনগর	B-LOC
+bn:,	I-LOC
+bn:জম্মু	I-LOC
+bn:ও	I-LOC
+bn:কাশ্মীর	I-LOC
+
+bn:আবুল	B-ORG
+bn:কাসিম	I-ORG
+bn:আল	I-ORG
+bn:জাহরাউয়ি	I-ORG
+
+bn:আলফ্রেড	B-PER
+bn:নর্থ	I-PER
+bn:হোয়াইটহেড	I-PER
+
+bn:জি	B-LOC
+bn:কার	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:গণতান্ত্রিক	B-LOC
+bn:কঙ্গো	I-LOC
+bn:প্রজাতন্ত্র	I-LOC
+
+bn:জর্জ-লুই	B-PER
+bn:ল্যক্লের	I-PER
+bn:,	I-PER
+bn:কোঁত	I-PER
+bn:দ্য	I-PER
+bn:বুফোঁ	I-PER
+
+bn:মহেন্দ্র	B-PER
+bn:সিং	I-PER
+bn:ধোনি	I-PER
+bn:''	O
+bn:‡	O
+
+bn:মকবুল	B-PER
+bn:ফিদা	I-PER
+bn:হুসেন	I-PER
+
+bn:জর্জ	B-PER
+bn:ডব্লিউ.	I-PER
+bn:বুশ	I-PER
+
+bn:দক্ষিণ	B-LOC
+bn:চব্বিশ	I-LOC
+bn:পরগণা	I-LOC
+bn:জেলা	I-LOC
+
+bn:নগুগি	B-PER
+bn:ওয়া	I-PER
+bn:থিয়োঙ্গ’ও	I-PER
+
+bn:দ্য	B-ORG
+bn:ফল	I-ORG
+bn:গাই	I-ORG
+
+bn:আলফ্রেদো	B-PER
+bn:দি	I-PER
+bn:স্তিফানো	I-PER
+
+bn:এফসি	B-ORG
+bn:বায়ার্ন	I-ORG
+bn:মিউনিখ	I-ORG
+
+bn:নিউ	B-ORG
+bn:ইয়র্ক	I-ORG
+bn:স্টক	I-ORG
+bn:এক্সচেঞ্জ	I-ORG
+bn:ইউরোনেক্সট	I-ORG
+
+bn:বেল	B-LOC
+bn:(	I-LOC
+bn:ফল	I-LOC
+bn:)	I-LOC
+
+bn:রাজীব	B-ORG
+bn:গান্ধী	I-ORG
+bn:সমুদ্রসেতু	I-ORG
+
+bn:ইন্টারন্যাশনাল	B-ORG
+bn:রেসকিউ	I-ORG
+bn:কমিটি	I-ORG
+
+bn:বাংলাদেশের	B-ORG
+bn:সাধারণ	I-ORG
+bn:নির্বাচন	I-ORG
+bn:,	I-ORG
+bn:ফেব্রুয়ারি	I-ORG
+bn:১৯৯৬	I-ORG
+
+bn:এসোসিয়েশন	B-ORG
+bn:অফ	I-ORG
+bn:চার্টার্ড	I-ORG
+bn:সার্টিফাইড	I-ORG
+bn:একাউন্টেন্টস	I-ORG
+
+bn:ওমর	B-ORG
+bn:(	I-ORG
+bn:টিভি	I-ORG
+bn:ধারাবাহিক	I-ORG
+bn:)	I-ORG
+
+bn:সাফ	B-LOC
+bn:মহিলা	I-LOC
+bn:চ্যাম্পিয়নশিপ	I-LOC
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:বেন	B-PER
+bn:রয়	I-PER
+bn:মোটেলসন	I-PER
+
+bn:পাভেল	B-PER
+bn:আলেক্সেইয়েভিচ	I-PER
+bn:চেরেংকভ	I-PER
+
+bn:'	O
+bn:''	O
+bn:কামরান	B-PER
+bn:আকমল	I-PER
+bn:''	O
+bn:'	O
+
+bn:গণতান্ত্রিক	B-LOC
+bn:কঙ্গো	I-LOC
+bn:প্রজাতন্ত্র	I-LOC
+
+bn:শেখ	B-LOC
+bn:আবু	I-LOC
+bn:নাসের	I-LOC
+bn:স্টেডিয়াম	I-LOC
+
+bn:দাদরা	B-LOC
+bn:ও	I-LOC
+bn:নগর	I-LOC
+bn:হাভেলি	I-LOC
+
+bn:জর্জ	B-PER
+bn:ডব্লিউ.	I-PER
+bn:বুশ	I-PER
+
+bn:পূর্ব	B-LOC
+bn:হনলুলু	I-LOC
+bn:,	I-LOC
+bn:হাওয়াই	I-LOC
+
+bn:**	O
+bn:সিঙ্গাপুর	B-LOC
+bn:(	O
+bn:৩৪	O
+bn:%	O
+bn:জনসংখ্যা	O
+bn:দ্বারা	O
+bn:)	O
+
+bn:ক্লিন্ট	B-PER
+bn:ইস্টউড	I-PER
+bn:-	O
+bn:নামবিহীন	B-PER
+bn:ব্যক্তি	I-PER
+bn:(	O
+bn:ম্যানকো	O
+bn:)	O
+
+bn:নটিংহ্যাম	B-ORG
+bn:ফরেস্ট	I-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:স্পেন	B-ORG
+bn:জাতীয়	I-ORG
+bn:ফুটবল	I-ORG
+bn:দল	I-ORG
+
+bn:জাদু	B-ORG
+bn:(	I-ORG
+bn:মায়াবিদ্যা	I-ORG
+bn:)	I-ORG
+
+bn:আন্দরা	B-LOC
+bn:লা	I-LOC
+bn:ভেলিয়া	I-LOC
+
+bn:মতিউর	B-PER
+bn:রহমান	I-PER
+bn:নিজামী	I-PER
+bn:,	O
+
+bn:লিন্ডন	B-PER
+bn:বি.	I-PER
+bn:জনসন	I-PER
+
+bn:বিদ্যাধর	B-PER
+bn:সূর্যপ্রসাদ	I-PER
+bn:নাইপল	I-PER
+
+bn:সামুয়েল	B-PER
+bn:ছাও	I-PER
+bn:ছুং	I-PER
+bn:থিং	I-PER
+
+bn:রিচার্ড	B-PER
+bn:এফ.	I-PER
+bn:হেক	I-PER
+
+bn:এয়ার	B-ORG
+bn:ভাইস	I-ORG
+bn:মার্শাল	I-ORG
+bn:(	O
+bn:সম্মানসূচক	O
+bn:)	O
+bn:,	O
+bn:রয়্যাল	B-ORG
+bn:এয়ার	I-ORG
+bn:ফোর্স	I-ORG
+
+bn:রাজকীয়	B-ORG
+bn:সুয়েডীয়	I-ORG
+bn:বিজ্ঞান	I-ORG
+bn:একাডেমি	I-ORG
+
+bn:২০০৮	B-ORG
+bn:গ্রীষ্মকালীন	I-ORG
+bn:অলিম্পিকে	I-ORG
+bn:সাঁতার	I-ORG
+bn:–	I-ORG
+bn:পুরুষদের	I-ORG
+bn:১৫০০	I-ORG
+bn:মিটার	I-ORG
+bn:ফ্রিস্টাইল	I-ORG
+
+bn:আহসানউল্লাহ	B-ORG
+bn:বিজ্ঞান	I-ORG
+bn:ও	I-ORG
+bn:প্রযুক্তি	I-ORG
+bn:বিশ্ববিদ্যালয়	I-ORG
+
+bn:দক্ষিণ	B-ORG
+bn:আফ্রিকা	I-ORG
+bn:জাতীয়	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:বাগেরহাট	B-LOC
+bn:জেলা	I-LOC
+bn:,	O
+bn:খুলনা	B-LOC
+bn:বিভাগ	I-LOC
+
+bn:আবদুল্লাহ	B-PER
+bn:ইবনুল	I-PER
+bn:জুবায়ের	I-PER
+
+bn:সাধারণতঃ	O
+bn:পানির	O
+bn:গভীরতা	O
+bn:অনুসারে	O
+bn:অধিকাংশ	O
+bn:পুকুরের	O
+bn:তলদেশেই	O
+bn:সূর্যের	B-LOC
+bn:আলোকরশ্মি	O
+bn:প্রবেশ	O
+bn:করতে	O
+bn:পারে।	O
+
+bn:ভারতের	B-ORG
+bn:কমিউনিস্ট	I-ORG
+bn:পার্টি	I-ORG
+bn:(	I-ORG
+bn:মার্ক্সবাদী	I-ORG
+bn:)	I-ORG
+
+bn:'	O
+bn:''	O
+bn:আন্দালুসিয়া	B-LOC
+bn:''	O
+bn:'Sp	O
+bn:.	O
+
+bn:জামাল	B-PER
+bn:আব্দেল	I-PER
+bn:নাসের	I-PER
+
+bn:চড়াইয়ের	O
+bn:আকারের	O
+bn:পাখিটিকে	O
+bn:মাথার	O
+bn:উপর	O
+bn:লালটুপি	O
+bn:আর	O
+bn:তারের	O
+bn:মতো	O
+bn:দুইটি	O
+bn:লম্বা	O
+bn:লেজ	O
+bn:দেখলে	O
+bn:চিনতে	O
+bn:দেরি	O
+bn:হয়	O
+bn:না।	O
+bn:এরা	O
+bn:উড়ে	O
+bn:উড়ে	O
+bn:কীটপতঙ্গ	O
+bn:খায়।	O
+bn:এরা	O
+bn:বাংলাদেশ	B-LOC
+bn:ও	O
+bn:পশ্চিমবঙ্গে	B-LOC
+bn:স্থায়ী	O
+bn:বাসিন্দা।	O
+bn:তারের	O
+bn:উপর	O
+bn:প্রায়ই	O
+bn:এই	O
+bn:পাখিদের	O
+bn:বসে	O
+bn:থাকতে	O
+bn:দেখা	O
+bn:যায়।	O
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:ঘানা	B-ORG
+bn:জাতীয়	I-ORG
+bn:ফুটবল	I-ORG
+bn:দল	I-ORG
+
+bn:অঁরি	B-PER
+bn:দ্য	I-PER
+bn:তুলুজ-লোত্রেক	I-PER
+
+bn:আব্দাল্লাহ	B-PER
+bn:বিন	I-PER
+bn:মাহফুদ	I-PER
+bn:ইবনে	I-PER
+bn:বাইয়্যাহ	I-PER
+
+bn:সারে	B-LOC
+bn:পোল	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:ক্লেটন	B-LOC
+bn:সেন্টার	I-LOC
+bn:,	I-LOC
+bn:আইওয়া	I-LOC
+
+bn:লায়লা	B-PER
+bn:বিনতে	I-PER
+bn:আল-মিনহাল	I-PER
+
+bn:বর্ধমান	B-LOC
+bn:শহরের	O
+bn:রেলস্টেশন	O
+bn:থেকে	O
+bn:এই	O
+bn:অভয়ারণ্যের	O
+bn:দুরত্ব	O
+bn:এক	O
+bn:কিলোমিটার।	O
+
+bn:রায়গঞ্জ	B-LOC
+bn:,	O
+bn:কালিয়াগঞ্জ	B-LOC
+bn:,	O
+bn:ইসলামপুর।	B-LOC
+
+bn:ফৌজদারহাট	B-ORG
+bn:ক্যাডেট	I-ORG
+bn:কলেজ	I-ORG
+
+bn:**	O
+bn:ফিলোলাউস	B-PER
+bn:(	O
+bn:৪৭০	O
+bn:-	O
+bn:৩৮০	O
+bn:খ্রিঃপূঃ	O
+bn:)	O
+
+bn:চন্দ্রশেখর	B-PER
+bn:ভেঙ্কট	I-PER
+bn:রামন	I-PER
+
+bn:অগাস্টা	B-LOC
+bn:,	I-LOC
+bn:মেইন	I-LOC
+
+bn:'	O
+bn:''	O
+bn:শেন	B-PER
+bn:ওয়াটসন	I-PER
+bn:''	O
+bn:'	O
+
+bn:ন্যাশনাল	B-ORG
+bn:সেন্টার	I-ORG
+bn:ফর	I-ORG
+bn:সুপারকম্পিউটিং	I-ORG
+bn:এপ্লিকেশন্স	I-ORG
+
+bn:এম	B-PER
+bn:নাইট	I-PER
+bn:শ্যামালান	I-PER
+
+bn:১ম	O
+bn:ওডিআইয়ে	O
+bn:দৌলত	B-PER
+bn:জাদরান	I-PER
+bn:তার	O
+bn:চতুর্দশতম	O
+bn:অর্ধ-শতক	O
+bn:সংগ্রহ	O
+bn:করেন।	O
+
+bn:এ	B-PER
+bn:আর	I-PER
+bn:রহমান	I-PER
+
+bn:''মারিয়ার	O
+bn:মা	O
+bn:''	O
+bn:চরিত্রে	O
+bn:কমলিকা	B-PER
+bn:বন্দ্যোপাধ্যায়	I-PER
+
+bn:মিলিটারি	B-ORG
+bn:ইনস্টিটিউট	I-ORG
+bn:অব	I-ORG
+bn:সায়েন্স	I-ORG
+bn:এ্যান্ড	I-ORG
+bn:টেকনোলজি	I-ORG
+
+bn:এইচ	B-PER
+bn:এল	I-PER
+bn:মেনকেন	I-PER
+
+bn:পশ্চিমবঙ্গ	B-ORG
+bn:বাংলা	I-ORG
+bn:আকাদেমি	I-ORG
+
+bn:এই	O
+bn:ইউনিয়নটি	O
+bn:ঢাকা	B-LOC
+bn:বিভাগের	I-LOC
+bn:ঢাকা	B-LOC
+bn:জেলার	I-LOC
+bn:অন্তর্গত	O
+bn:ধামরাই	B-LOC
+bn:উপজেলায়	I-LOC
+bn:অবস্থিত।	O
+
+bn:ইয়েরেভান	B-LOC
+bn:(	O
+bn:'	O
+bn:''	O
+bn:'	O
+bn:)	O
+
+bn:ওয়েস্ট	B-ORG
+bn:ইন্ডিজ	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:ইউলিসিস	B-PER
+bn:এস.	I-PER
+bn:গ্রান্ট	I-PER
+
+bn:জর্জিয়া	B-LOC
+bn:(	I-LOC
+bn:অঙ্গরাজ্য	I-LOC
+bn:)	I-LOC
+
+bn:আল	B-ORG
+bn:জাজিরা	I-ORG
+bn:ইংরেজি	I-ORG
+
+bn:রোমিও	B-LOC
+bn:অ্যান্ড	I-LOC
+bn:জুলিয়েট	I-LOC
+
+bn:ভ্যারাইটি	B-ORG
+bn:(	I-ORG
+bn:ম্যাগাজিন	I-ORG
+bn:)	I-ORG
+
+bn:২০১৪-১৫	B-LOC
+bn:প্রিমিয়ার	I-LOC
+bn:লীগ	I-LOC
+
+bn:রাশিয়ার	B-PER
+bn:প্রথম	I-PER
+bn:পিটার	I-PER
+
+bn:কৃষক	B-ORG
+bn:শ্রমিক	I-ORG
+bn:জনতা	I-ORG
+bn:লীগ	I-ORG
+
+bn:আবুল	B-PER
+bn:পাকির	I-PER
+bn:জয়নুল-আবেদিন	I-PER
+bn:আব্দুল	I-PER
+bn:কালাম	I-PER
+
+bn:মার্টিন	B-PER
+bn:লুথার	I-PER
+bn:কিং	I-PER
+bn:,	I-PER
+bn:জুনিয়র	I-PER
+
+bn:'	O
+bn:''	O
+bn:জীবন	B-PER
+bn:মেন্ডিস	I-PER
+bn:''	O
+bn:'	O
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:কোর্দেস্তন	B-LOC
+bn:প্রদেশ	I-LOC
+bn:(	I-LOC
+bn:ইরান	I-LOC
+bn:)	I-LOC
+
+bn:সর্বভারতীয়	B-ORG
+bn:তৃণমূল	I-ORG
+bn:কংগ্রেস	I-ORG
+
+bn:সেপ্টেম্বর	B-ORG
+bn:১১	I-ORG
+bn:,	I-ORG
+bn:২০০১	I-ORG
+bn:এর	I-ORG
+bn:হামলা	I-ORG
+
+bn:অ্যানড্রোমিডা	B-PER
+bn:(	I-PER
+bn:পুরাণ	I-PER
+bn:)	I-PER
+
+bn:অভিষেক	B-PER
+bn:বচ্চন	I-PER
+bn:—	O
+bn:নান্দু	O
+bn:ভিদী	O
+
+bn:ক্রিয়েটিভ	B-ORG
+bn:কমন্স	I-ORG
+bn:লাইসেন্স	I-ORG
+
+bn:ভালসওয়া	B-LOC
+bn:জাহাঙ্গির	I-LOC
+bn:পুর	I-LOC
+
+bn:তুস	B-LOC
+bn:,	I-LOC
+bn:ইরান	I-LOC
+
+bn:আবদুল	B-PER
+bn:কাদের	I-PER
+bn:খান	I-PER
+
+bn:সিস্তন	B-LOC
+bn:ও	I-LOC
+bn:বালুচেস্তন	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:আদর্শ	B-ORG
+bn:গ্যাস	I-ORG
+bn:সূত্র	I-ORG
+
+bn:তাকলা	B-LOC
+bn:মাকান	I-LOC
+bn:মরুভূমি	I-LOC
+
+bn:আল	B-LOC
+bn:মুসান্না	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:আবু	B-PER
+bn:মুসআব	I-PER
+bn:আজ-জারকাবি	I-PER
+
+bn:আল্‌-জামিয়াতুল	B-ORG
+bn:আহ্‌লিয়া	I-ORG
+bn:দারুল	I-ORG
+bn:উলূম	I-ORG
+bn:মুঈনুল	I-ORG
+bn:ইসলাম	I-ORG
+
+bn:ফাহাদ	B-PER
+bn:আল	I-PER
+bn:হাশমি	I-PER
+
+bn:জন	B-PER
+bn:ভিনসেন্ট	I-PER
+bn:আটানসফ	I-PER
+
+bn:জাতীয়	B-ORG
+bn:সম্মেলন	I-ORG
+bn:কেন্দ্র	I-ORG
+
+bn:ইস্পাহানী	B-ORG
+bn:পাবলিক	I-ORG
+bn:স্কুল	I-ORG
+bn:এন্ড	I-ORG
+bn:কলেজ	I-ORG
+bn:,	I-ORG
+bn:চট্টগ্রাম	I-ORG
+
+bn:৬৫।	O
+bn:শ্রীমতি	O
+bn:অমৃতা	B-PER
+bn:প্রীতম	I-PER
+bn:(	O
+bn:১৯১৯-২০০৫	O
+bn:)	O
+
+bn:ফজলুর	B-PER
+bn:রহমান	I-PER
+bn:খান	I-PER
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:একাডেমি	B-ORG
+bn:অব	I-ORG
+bn:মোশন	I-ORG
+bn:পিকচার	I-ORG
+bn:আর্টস	I-ORG
+bn:অ্যান্ড	I-ORG
+bn:সায়েন্সেস	I-ORG
+
+bn:মার্টা	B-PER
+bn:ভিয়েরা	I-PER
+bn:দা	I-PER
+bn:সিলভা	I-PER
+
+bn:'	O
+bn:''	O
+bn:আস্তানা	B-LOC
+bn:''	O
+bn:'	O
+
+bn:মার্ক	B-PER
+bn:ডেভিড	I-PER
+bn:চ্যাপম্যান	I-PER
+
+bn:ক্লজ	B-PER
+bn:ফন	I-PER
+bn:স্টফেনবার্গ	I-PER
+
+bn:রূপম	B-PER
+bn:ইসলাম	I-PER
+bn:(	O
+bn:``	O
+bn:বেঁচে	O
+bn:থাকার	O
+bn:গান	O
+bn:''	O
+bn:)	O
+
+bn:উইলিয়াম	B-PER
+bn:সমারসেট	I-PER
+bn:মম্‌	I-PER
+
+bn:সেল্টিক	B-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:রী	B-LOC
+bn:ভোঈ	I-LOC
+bn:জেলা	I-LOC
+bn:(	O
+bn:নংপো	B-LOC
+bn:)	O
+
+bn:যমুনা	B-LOC
+bn:নদী	I-LOC
+bn:(	I-LOC
+bn:ভারত	I-LOC
+bn:)	I-LOC
+
+bn:কাঠমান্ডু	B-LOC
+bn:(	O
+bn:'	O
+bn:''	O
+bn:'	O
+bn:)	O
+
+bn:ওয়েস্ট	B-ORG
+bn:ব্রমউইচ	I-ORG
+bn:অ্যালবিয়ন	I-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:ভিনসেন্ট	B-PER
+bn:ভ্যান	I-PER
+bn:গখ	I-PER
+
+bn:আন্তর্জাতিক	B-ORG
+bn:একক	I-ORG
+bn:পদ্ধতি	I-ORG
+
+bn:চাহর-মাহাল	B-LOC
+bn:ও	I-LOC
+bn:বাখতেয়রি	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:ভারতীয়	B-ORG
+bn:মহাকাশ	I-ORG
+bn:গবেষণা	I-ORG
+bn:সংস্থা	I-ORG
+
+bn:আবু	B-ORG
+bn:রায়হান	I-ORG
+bn:আল	I-ORG
+bn:বিরুনি	I-ORG
+
+bn:ল্যাঞ্জা	B-LOC
+bn:হরিয়াল	I-LOC
+bn:(	O
+bn:''Treron	O
+bn:apicauda	O
+bn:''	O
+bn:)	O
+
+bn:সিস্তন	B-LOC
+bn:ও	I-LOC
+bn:বালুচেস্তন	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:খুলনা	B-LOC
+bn:(	O
+bn:৬৬৩	O
+bn:,	O
+bn:৩৪২	O
+bn:)	O
+
+bn:সেল্টিক	B-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:রুড	B-PER
+bn:ভান	I-PER
+bn:নিস্টেলরুই	I-PER
+
+bn:রজওয়েল	B-LOC
+bn:,	I-LOC
+bn:নিউ	I-LOC
+bn:মেক্সিকো	I-LOC
+
+bn:বাহাদুর	B-PER
+bn:শাহ	I-PER
+bn:জাফর	I-PER
+
+bn:চতুর্দশ	B-PER
+bn:দলাই	I-PER
+bn:লামা	I-PER
+
+bn:আহসান	B-PER
+bn:হাবীব	I-PER
+bn:(	I-PER
+bn:কবি	I-PER
+bn:)	I-PER
+
+bn:চার্লস	B-PER
+bn:হার্ড	I-PER
+bn:টাউনস	I-PER
+
+bn:প্রমথেশ	B-PER
+bn:চন্দ্র	I-PER
+bn:বরুয়া	I-PER
+bn:,	O
+bn:ছায়াছবি	O
+bn:অভিনেতা।	O
+
+bn:বেনিগনো	B-PER
+bn:অ্যাকুইনো	I-PER
+bn:,	I-PER
+bn:জুনিয়র	I-PER
+
+bn:জাতিসংঘের	B-LOC
+bn:সদস্য	I-LOC
+bn:দেশ	I-LOC
+
+bn:ন্যাশনাল	B-ORG
+bn:সাইন্স	I-ORG
+bn:ফাউন্ডেশন	I-ORG
+
+bn:অ্যালেক্সান্ড্রিয়া	B-LOC
+bn:,	I-LOC
+bn:ভার্জিনিয়া	I-LOC
+
+bn:জয়ন্ত	B-PER
+bn:বিষ্ণু	I-PER
+bn:নারলিকর	I-PER
+
+bn:এস	B-PER
+bn:এম	I-PER
+bn:সুলতান	I-PER
+
+bn:'	O
+bn:''	O
+bn:তেজপুর	B-ORG
+bn:বিশ্ববিদ্যালয়	I-ORG
+bn:''	O
+bn:'	O
+
+bn:পি	O
+bn:সারা	O
+bn:ওভাল]]	O
+bn:,	O
+bn:কলম্বো	B-LOC
+
+bn:দোহা	B-LOC
+bn:(	O
+bn:'	O
+bn:''	O
+bn:'	O
+bn:)	O
+
+bn:এডওয়ার্ড	B-PER
+bn:ভিক্টর	I-PER
+bn:অ্যাপলটন	I-PER
+
+bn:লর্ড	B-PER
+bn:লুই	I-PER
+bn:মাউন্টব্যাটেন	I-PER
+
+bn:অ্যাপোলো	B-ORG
+bn:(	I-ORG
+bn:মহাশূন্য	I-ORG
+bn:মিশন	I-ORG
+bn:)	I-ORG
+
+bn:ভারতীয়	B-ORG
+bn:দল	I-ORG
+bn:থেকে	O
+bn:যুবরাজ	B-PER
+bn:সিং	I-PER
+bn:,	O
+bn:গৌতম	B-PER
+bn:গম্ভীর	I-PER
+bn:ও	O
+bn:বীরেন্দ্র	B-PER
+bn:শেওয়াগ	I-PER
+bn:এবং	O
+bn:পাকিস্তান	B-ORG
+bn:দল	I-ORG
+bn:থেকে	O
+bn:শহীদ	B-PER
+bn:আফ্রিদি	I-PER
+bn:বাদ	O
+bn:পড়েছেন।	O
+
+bn:চট্টগ্রাম	B-LOC
+bn:সিটি	I-LOC
+bn:কর্পোরেশন	I-LOC
+
+bn:মিসিসিপি	B-LOC
+bn:(	I-LOC
+bn:অঙ্গরাজ্য	I-LOC
+bn:)	I-LOC
+
+bn:ক্রিয়েটিভ	B-ORG
+bn:কমন্স	I-ORG
+bn:লাইসেন্স	I-ORG
+
+bn:জর্জিয়া	B-LOC
+bn:(	I-LOC
+bn:অঙ্গরাজ্য	I-LOC
+bn:)	I-LOC
+
+bn:ফ্রাঁসোয়াজ	B-PER
+bn:বারে	I-PER
+bn:সিনৌসি‌	I-PER
+
+bn:পোর্ট	B-LOC
+bn:অব	I-LOC
+bn:স্পেন	I-LOC
+
+bn:চন্দ্রশেখর	B-PER
+bn:ভেঙ্কট	I-PER
+bn:রামন	I-PER
+
+bn:চট্টগ্রাম	B-ORG
+bn:মেট্রোপলিটন	I-ORG
+bn:পুলিশ	I-ORG
+
+bn:আসিফ	B-PER
+bn:আলি	I-PER
+bn:জারদারি	I-PER
+
+bn:নিউ	B-ORG
+bn:ইয়র্ক	I-ORG
+bn:ইউনিভার্সিটি	I-ORG
+
+bn:আবু	B-ORG
+bn:রায়হান	I-ORG
+bn:আল	I-ORG
+bn:বিরুনি	I-ORG
+
+bn:নোত্র্‌	B-ORG
+bn:দাম	I-ORG
+bn:দ্য	I-ORG
+bn:পারি	I-ORG
+
+bn:পাকিস্তান	B-LOC
+bn:সেনাবাহিনীর	O
+bn:সেনা	O
+bn:কর্মকর্তা	O
+bn:মো	O
+bn:.	O
+
+bn:নিউ	B-LOC
+bn:ইয়র্ক	I-LOC
+bn:থেকে	O
+bn:শিকাগোর	B-LOC
+bn:দূরত্ব	O
+bn:১.১৪	O
+bn:মেগা.মি	O
+bn:.	O
+
+bn:ক্রিস্টোফার	B-PER
+bn:সি	I-PER
+bn:ক্রাফ্‌ট	I-PER
+bn:,	I-PER
+bn:জুনিয়র	I-PER
+
+bn:পশ্চিম	B-LOC
+bn:মেদিনীপুর	I-LOC
+bn:জেলা	I-LOC
+
+bn:মাধুরী	B-PER
+bn:দীক্ষিত	I-PER
+bn:(	O
+bn:৪+১	O
+bn:)	O
+bn:=	O
+bn:৫	O
+
+bn:মহাকাশে	B-ORG
+bn:উপনিবেশ	I-ORG
+bn:স্থাপন	I-ORG
+
+bn:নিউজিল্যান্ড	B-ORG
+bn:জাতীয়	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:টাঙ্গাইল	B-LOC
+bn:সদর	I-LOC
+bn:উপজেলা	I-LOC
+
+bn:সেভ	B-ORG
+bn:দ্য	I-ORG
+bn:চিলড্রেন	I-ORG
+
+bn:গ্রীক	B-ORG
+bn:জাতীয়	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:দুপচাঁচিয়া	B-ORG
+bn:মডেল	I-ORG
+bn:উচ্চ	I-ORG
+bn:বিদ্যালয়	I-ORG
+
+bn:অস্ট্রেলিয়া	B-ORG
+bn:জাতীয়	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:বুয়েনোস	B-LOC
+bn:আইরেস	I-LOC
+bn:মেট্রো	I-LOC
+
+bn:সেপ্টেম্বর	B-ORG
+bn:১১	I-ORG
+bn:,	I-ORG
+bn:২০০১	I-ORG
+bn:এর	I-ORG
+bn:হামলা	I-ORG
+
+bn:মোহাম্মদ	B-PER
+bn:রুহুল	I-PER
+bn:আমিন	I-PER
+
+bn:উমরি	B-LOC
+bn:প্রাগানে	I-LOC
+bn:বালাপুর	I-LOC
+
+bn:অ্যাসোসিয়েশন	B-ORG
+bn:ফর	I-ORG
+bn:কম্পিউটিং	I-ORG
+bn:মেশিনারি	I-ORG
+
+bn:শ্রী	B-ORG
+bn:ভেঙ্কটেশ্বর	I-ORG
+bn:(	I-ORG
+bn:বালাজি	I-ORG
+bn:)	I-ORG
+bn:মন্দির	I-ORG
+
+bn:ঘারোন্দা	B-LOC
+bn:নীমকা	I-LOC
+bn:বাঙার	I-LOC
+bn:ওরফে	I-LOC
+bn:পাতপার	I-LOC
+bn:গঞ্জ	I-LOC
+
+bn:রাশিয়ার	B-PER
+bn:দ্বিতীয়	I-PER
+bn:নিকোলাস	I-PER
+
+bn:সোহম	B-PER
+bn:চক্রবর্তী	I-PER
+bn:,	O
+bn:মিমি	B-PER
+bn:চক্রবর্তী	I-PER
+
+bn:হো	B-LOC
+bn:চি	I-LOC
+bn:মিন	I-LOC
+bn:সিটি	I-LOC
+
+bn:লাদাখ	B-LOC
+bn:স্বায়ত্ত্বশাসিত	I-LOC
+bn:পার্বত্য	I-LOC
+bn:উন্নয়ন	I-LOC
+bn:পরিষদ	I-LOC
+bn:,	I-LOC
+bn:লেহ	I-LOC
+
+bn:আল-মুনজির	B-PER
+bn:(	I-PER
+bn:কর্ডো‌বা	I-PER
+bn:)	I-PER
+
+bn:পাফনুতি	B-PER
+bn:লভোভিচ	I-PER
+bn:চেবিশেভ	I-PER
+
+bn:ভোল্‌ফগাংক্‌	B-PER
+bn:আমাডেয়ুস	I-PER
+bn:মোৎসার্ট	I-PER
+
+bn:প্রেস্টন	B-ORG
+bn:নর্থ	I-ORG
+bn:এন্ড	I-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:চীনের	B-ORG
+bn:কমিউনিস্ট	I-ORG
+bn:পার্টি	I-ORG
+
+bn:নেদারল্যান্ডস	B-ORG
+bn:জাতীয়	I-ORG
+bn:মহিলা	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:সিস্তন	B-LOC
+bn:ও	I-LOC
+bn:বালুচেস্তন	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:লাল	B-LOC
+bn:ঘুঘু	I-LOC
+bn:(	O
+bn:''Streptopelia	O
+bn:tranquebarica	O
+bn:''	O
+bn:)	O
+
+bn:কার্ল	B-PER
+bn:ফ্রিডরিখ	I-PER
+bn:ফন	I-PER
+bn:ভাইৎস্যেকার	I-PER
+
+bn:ক্রিয়েটিভ	B-ORG
+bn:কমন্স	I-ORG
+bn:লাইসেন্স	I-ORG
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:ময়মনসিংহ	B-LOC
+bn:(	I-LOC
+bn:শহর	I-LOC
+bn:)	I-LOC
+
+bn:আবদুল্লাহ	B-PER
+bn:আল	I-PER
+bn:রাকিব	I-PER
+
+bn:সঁত্র্‌	B-LOC
+bn:(	I-LOC
+bn:ফ্রান্স	I-LOC
+bn:)	I-LOC
+
+bn:হোর্হে	B-PER
+bn:লুইস	I-PER
+bn:বোর্হেস	I-PER
+
+bn:'	O
+bn:''	O
+bn:লাসিথ	B-PER
+bn:মালিঙ্গা	I-PER
+bn:''	O
+bn:'	O
+
+bn:আবুল	B-PER
+bn:কালাম	I-PER
+bn:আজাদ	I-PER
+
+bn:সিস্তন	B-LOC
+bn:ও	I-LOC
+bn:বালুচেস্তন	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:সাকিব	B-PER
+bn:আল	I-PER
+bn:হাসান	I-PER
+bn:''	O
+bn:'১	O
+bn:''	O
+bn:'	O
+
+bn:মঈন	B-PER
+bn:আলী	I-PER
+bn:তার	O
+bn:প্রথম	O
+bn:অর্ধ-শতক	O
+bn:করেন।	O
+
+bn:দ্বিতীয়	B-PER
+bn:মুহাম্মদ	I-PER
+bn:(	I-PER
+bn:উসমানীয়	I-PER
+bn:সুলতান	I-PER
+bn:)	I-PER
+
+bn:এডগার	B-PER
+bn:অ্যালান	I-PER
+bn:পো	I-PER
+
+bn:কোর্দেস্তন	B-LOC
+bn:প্রদেশ	I-LOC
+bn:(	I-LOC
+bn:ইরান	I-LOC
+bn:)	I-LOC
+
+bn:আর্ক	B-ORG
+bn:দ্য	I-ORG
+bn:ত্রিয়োম্‌ফ	I-ORG
+
+bn:ট্রুং	B-PER
+bn:তান	I-PER
+bn:সাং	I-PER
+
+bn:বোল্টন	B-ORG
+bn:ওয়ান্ডারার্স	I-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:কোয়া-জুলু	B-LOC
+bn:নাটাল	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:এম-১০০	B-ORG
+bn:(	I-ORG
+bn:মিশিগান	I-ORG
+bn:হাইওয়ে	I-ORG
+bn:)	I-ORG
+
+bn:শেল্ডন	B-PER
+bn:লি	I-PER
+bn:গ্ল্যাশো	I-PER
+
+bn:**	O
+bn:অ্যাডিলি	B-LOC
+bn:পেঙ্গুইন	I-LOC
+bn:,	O
+bn:Adélie	O
+bn:penguin	O
+bn:,	O
+bn:''Pygoscelis	O
+bn:adeliae	O
+bn:''	O
+
+bn:ইউনাইটেড	B-ORG
+bn:স্টেটস	I-ORG
+bn:মেরিন	I-ORG
+bn:কর্পস	I-ORG
+
+bn:জহুর	B-LOC
+bn:আহমেদ	I-LOC
+bn:চৌধুরী	I-LOC
+bn:স্টেডিয়াম	I-LOC
+bn:,	O
+bn:চট্টগ্রাম	B-LOC
+
+bn:২০০৬	B-ORG
+bn:ফিফা	I-ORG
+bn:বিশ্বকাপ	I-ORG
+
+bn:জুভেন্টাস	B-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:ধানের	B-LOC
+bn:হলুদ	I-LOC
+bn:মাজরা	I-LOC
+bn:পোকা	I-LOC
+
+bn:৫।	O
+bn:জনাব	O
+bn:মওলানা	B-PER
+bn:মোহাম্মদুল্লাহ	I-PER
+bn:(	I-PER
+bn:হাফেজ্জী	I-PER
+bn:হুজুর	I-PER
+bn:)	I-PER
+
+bn:শেখ	B-LOC
+bn:আবু	I-LOC
+bn:নাসের	I-LOC
+bn:স্টেডিয়াম	I-LOC
+bn:,	O
+bn:খুলনা	B-LOC
+
+bn:সিমতিয়ের	B-LOC
+bn:দু	I-LOC
+bn:পের	I-LOC
+bn:লাশেজ	I-LOC
+
+bn:জে.	B-PER
+bn:জে.	B-PER
+bn:ফেরিস	I-PER
+
+bn:মহারাষ্ট্র	B-LOC
+bn:,	O
+bn:গোয়া	B-LOC
+bn:,	O
+bn:দাদরা	B-LOC
+bn:ও	I-LOC
+bn:নগর	I-LOC
+bn:হাভেলি	I-LOC
+bn:,	O
+bn:দমন	B-LOC
+bn:ও	I-LOC
+bn:দিউ	I-LOC
+
+bn:ইউরোপা	B-PER
+bn:(	I-PER
+bn:পৌরাণিক	I-PER
+bn:চরিত্র	I-PER
+bn:)	I-PER
+
+bn:ফ্লোরেন্স	B-ORG
+bn:এ্যান্ড	I-ORG
+bn:দ্য	I-ORG
+bn:মেসিন	I-ORG
+
+bn:যুগান্তর	B-ORG
+bn:পত্রিকা	I-ORG
+bn:-	O
+bn:ভারতের	B-LOC
+bn:পত্রিকা।	O
+
+bn:কিংফিশার	B-ORG
+bn:ইস্ট	I-ORG
+bn:বেঙ্গল	I-ORG
+
+bn:এছাড়াও	O
+bn:তিনি	O
+bn:চ্যানেল	B-ORG
+bn:আইতে	I-ORG
+bn:'‘জীবন	O
+bn:যেখানে	O
+bn:যেমন’	O
+bn:'	O
+bn:শিরোনামের	O
+bn:একটি	O
+bn:অনুষ্ঠানে	O
+bn:উপস্থাপনা	O
+bn:করছেন।	O
+
+bn:ফ্লোরেন্স	B-PER
+bn:গ্রিফিথ	I-PER
+bn:জয়নার	I-PER
+
+bn:গঙ্গা	B-LOC
+bn:নদী	I-LOC
+bn:শুশুক	I-LOC
+
+bn:হ্যারি	B-LOC
+bn:পটার	I-LOC
+bn:অ্যান্ড	I-LOC
+bn:দ্য	I-LOC
+bn:হাফ-ব্লাড	I-LOC
+bn:প্রিন্স	I-LOC
+
+bn:রাশিয়া	B-ORG
+bn:জাতীয়	I-ORG
+bn:ফুটবল	I-ORG
+bn:দল	I-ORG
+
+bn:ফ্রাঁসোয়াজ	B-PER
+bn:বারে	I-PER
+bn:সিনৌসি‌	I-PER
+
+bn:কোয়া-জুলু	B-LOC
+bn:নাটাল	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:ইউনিভার্সিটি	B-ORG
+bn:অব	I-ORG
+bn:নর্থ	I-ORG
+bn:ক্যারোলাইনা	I-ORG
+bn:অ্যাট	I-ORG
+bn:চ্যাপেল	I-ORG
+bn:হিল	I-ORG
+
+bn:বাজিলিকা	B-ORG
+bn:দি	I-ORG
+bn:সান্তা	I-ORG
+bn:ক্রোচে	I-ORG
+
+bn:সুসিলো	B-PER
+bn:বামবাং	I-PER
+bn:ইয়ুধনো	I-PER
+
+bn:**	O
+bn:মাস্কাট	B-LOC
+bn:(	O
+bn:দূতাবাস	O
+bn:)	O
+
+bn:আব্দুল	B-ORG
+bn:মালেক	I-ORG
+bn:উকিল	I-ORG
+bn:মেডিকেল	I-ORG
+bn:কলেজ	I-ORG
+bn:,	O
+bn:নোয়াখালী	B-LOC
+
+bn:নিল্‌স	B-PER
+bn:হেনরিক	I-PER
+bn:আবেল	I-PER
+
+bn:দ্য	B-ORG
+bn:ডেইলি	I-ORG
+bn:টেলিগ্রাফ	I-ORG
+
+bn:করিন্থিয়ান্স	B-ORG
+bn:পলিস্তা	I-ORG
+bn:স্পোর্ট	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:ঢাকা	B-ORG
+bn:গ্ল্যাডিয়েটরস	I-ORG
+bn:বনাম	O
+bn:খুলনা	B-ORG
+bn:রয়েল	I-ORG
+bn:বেঙ্গলস	I-ORG
+
+bn:কেনিয়া	B-ORG
+bn:জাতীয়	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:শহীদ	B-LOC
+bn:কামরুজ্জামান	I-LOC
+bn:স্টেডিয়াম	I-LOC
+
+bn:শায়ান	B-PER
+bn:চৌধুরী	I-PER
+bn:অর্ণব	I-PER
+
+bn:এল	B-PER
+bn:হাজি	I-PER
+bn:দিউফ	I-PER
+
+bn:ভারতের	B-ORG
+bn:কমিউনিস্ট	I-ORG
+bn:পার্টি	I-ORG
+bn:(	I-ORG
+bn:মার্ক্সবাদী	I-ORG
+bn:)	I-ORG
+
+bn:বেলেঁ	B-LOC
+bn:(	I-LOC
+bn:ব্রাজিল	I-LOC
+bn:)	I-LOC
+
+bn:২০০৮	B-ORG
+bn:গ্রীষ্মকালীন	I-ORG
+bn:অলিম্পিকে	I-ORG
+bn:সাঁতার	I-ORG
+bn:–	I-ORG
+bn:পুরুষদের	I-ORG
+bn:৫০	I-ORG
+bn:মিটার	I-ORG
+bn:ফ্রিস্টাইল	I-ORG
+
+bn:ইউনিভার্সিটি	B-ORG
+bn:অব	I-ORG
+bn:সায়েন্স	I-ORG
+bn:অ্যান্ড	I-ORG
+bn:টেকনোলজি	I-ORG
+bn:চট্টগ্রাম	I-ORG
+
+bn:ফ্রিকুয়েন্সি	B-ORG
+bn:সিফট	I-ORG
+bn:কিয়িং	I-ORG
+
+bn:নিউল্যান্ডস	B-ORG
+bn:ক্রিকেট	I-ORG
+bn:গ্রাউন্ড	I-ORG
+bn:,	O
+bn:কেপ	B-LOC
+bn:টাউন	I-LOC
+
+bn:২০১৪	B-PER
+bn:এশিয়ান	I-PER
+bn:গেমস	I-PER
+
+bn:সেপ্টেম্বর	B-ORG
+bn:১১	I-ORG
+bn:,	I-ORG
+bn:২০০১	I-ORG
+bn:এর	I-ORG
+bn:হামলা	I-ORG
+
+bn:অটো	B-PER
+bn:ফন	I-PER
+bn:বিসমার্ক	I-PER
+
+bn:ভারত	B-ORG
+bn:জাতীয়	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:ত্রিনিদাদ	B-ORG
+bn:ও	I-ORG
+bn:টোবাগো	I-ORG
+
+bn:মতিউর	B-PER
+bn:রহমান	I-PER
+bn:(	I-PER
+bn:বীর	I-PER
+bn:শ্রেষ্ঠ	I-PER
+bn:)	I-PER
+
+bn:বিপ্লবী	B-ORG
+bn:সমাজতন্ত্রী	I-ORG
+bn:দল	I-ORG
+bn:(	O
+bn:আরএসপি	O
+bn:)	O
+
+bn:দক্ষিণ	B-LOC
+bn:চীনের	I-LOC
+bn:বাঘ	I-LOC
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:জহুর	B-LOC
+bn:আহমেদ	I-LOC
+bn:চৌধুরী	I-LOC
+bn:স্টেডিয়াম	I-LOC
+
+bn:ভারতীয়	B-ORG
+bn:জাতীয়	I-ORG
+bn:কংগ্রেস	I-ORG
+
+bn:আইল	B-LOC
+bn:অব	I-LOC
+bn:ম্যান	I-LOC
+
+bn:জর্জ	B-PER
+bn:হারবার্ট	I-PER
+bn:ওয়াকার	I-PER
+bn:বুশ	I-PER
+
+bn:মেহেরান	B-PER
+bn:করিমী	I-PER
+bn:নাসেরি	I-PER
+
+bn:ভ্যালি	B-LOC
+bn:অফ	I-LOC
+bn:দ্য	I-LOC
+bn:কিংস	I-LOC
+
+bn:আন্তর্জাতিক	B-ORG
+bn:রাসায়নিক	I-ORG
+bn:অস্ত্র	I-ORG
+bn:নিরস্ত্রীকরণ	I-ORG
+bn:সংস্থা	I-ORG
+
+bn:কলা	B-LOC
+bn:(	I-LOC
+bn:জীববিজ্ঞান	I-LOC
+bn:)	I-LOC
+
+bn:অঁরি	B-PER
+bn:লা	I-PER
+bn:ফন্তেইন	I-PER
+
+bn:পাঞ্জাব	B-LOC
+bn:(	I-LOC
+bn:পাকিস্তান	I-LOC
+bn:)	I-LOC
+
+bn:আমেরিকান	B-ORG
+bn:ইন্টারন্যাশনাল	I-ORG
+bn:গ্রুপ	I-ORG
+
+bn:কার্বনডেল	B-LOC
+bn:,	I-LOC
+bn:ইলিনয়	I-LOC
+
+bn:উত্তরে	O
+bn:ময়মনসিংহ	B-LOC
+bn:সদর	I-LOC
+bn:উপজেলা	I-LOC
+bn:,	O
+bn:দক্ষিণে	O
+bn:ভালুকা	B-LOC
+bn:উপজেলা	I-LOC
+bn:ও	O
+bn:গফরগাঁও	B-LOC
+bn:উপজেলা	I-LOC
+bn:,	O
+bn:পূর্বে	O
+bn:ঈশ্বরগঞ্জ	B-LOC
+bn:উপজেলা	I-LOC
+bn:ও	O
+bn:নান্দাইল	B-LOC
+bn:উপজেলা	I-LOC
+bn:,	O
+bn:পশ্চিমে	O
+bn:ফুলবাড়িয়া	B-LOC
+bn:উপজেলা	I-LOC
+bn:অবস্থিত।	O
+
+bn:মার্কিন	B-ORG
+bn:যুক্তরাষ্ট্রের	I-ORG
+bn:সেনাবাহিনী	I-ORG
+
+bn:''সোহাগ	O
+bn:''	O
+bn:চরিত্রে	O
+bn:শ্রাবন্তী	B-PER
+
+bn:চীনের	B-ORG
+bn:কমিউনিস্ট	I-ORG
+bn:পার্টি	I-ORG
+
+bn:বাজিলিকা	B-ORG
+bn:দি	I-ORG
+bn:সান্তা	I-ORG
+bn:ক্রোচে	I-ORG
+
+bn:স্ট্যাচু	B-ORG
+bn:অব	I-ORG
+bn:লিবার্টি	I-ORG
+
+bn:জোন	B-PER
+bn:অব	I-PER
+bn:আর্ক	I-PER
+
+bn:পাফনুতি	B-PER
+bn:লভোভিচ	I-PER
+bn:চেবিশেভ	I-PER
+
+bn:জর্জ	B-PER
+bn:ডব্লিউ.	I-PER
+bn:বুশ	I-PER
+
+bn:সান্ডারল্যান্ড	B-ORG
+bn:এসোসিয়েশন	I-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:উইলিয়াম	B-PER
+bn:হাওয়ার্ড	I-PER
+bn:ট্যাফ্ট	I-PER
+
+bn:র‌্যাপিড	B-ORG
+bn:অ্যাকশন	I-ORG
+bn:ফোর্স	I-ORG
+
+bn:কসবা	B-LOC
+bn:(	I-LOC
+bn:উত্তরবঙ্গ	I-LOC
+bn:)	I-LOC
+
+bn:অ্যানথ্রাক্স	B-ORG
+bn:(	I-ORG
+bn:ব্যান্ড	I-ORG
+bn:)	I-ORG
+
+bn:বারাক	B-PER
+bn:ওবামা	I-PER
+bn:(	I-PER
+bn:কেনীয়	I-PER
+bn:অর্থনীতিবিদ	I-PER
+bn:)	I-PER
+
+bn:হিরোশিমা	B-ORG
+bn:ও	I-ORG
+bn:নাগাসাকিতে	I-ORG
+bn:পারমাণবিক	I-ORG
+bn:বোমাবর্ষণ	I-ORG
+
+bn:ওয়াশিংটন	B-LOC
+bn:,	I-LOC
+bn:ডি.সি	I-LOC
+bn:.	I-LOC
+
+bn:লাভ	B-ORG
+bn:রান্‌স	I-ORG
+bn:ব্লাইন্ড	I-ORG
+bn:(	I-ORG
+bn:এলআরবি	I-ORG
+bn:)	I-ORG
+
+bn:আলাউদ্দিন	B-PER
+bn:ফিরোজ	I-PER
+bn:শাহ	I-PER
+bn:(	I-PER
+bn:দ্ব্যর্থতা	I-PER
+bn:নিরসন	I-PER
+bn:)	I-PER
+
+bn:গিজার	B-ORG
+bn:মহা	I-ORG
+bn:পিরামিড	I-ORG
+
+bn:অপি	B-PER
+bn:করিম	I-PER
+bn:-	O
+bn:ছোট	O
+bn:রুনু	O
+
+bn:আবুল	B-PER
+bn:পাকির	I-PER
+bn:জয়নুল-আবেদিন	I-PER
+bn:আব্দুল	I-PER
+bn:কালাম	I-PER
+
+bn:ইস্পাহানী	B-ORG
+bn:পাবলিক	I-ORG
+bn:স্কুল	I-ORG
+bn:এন্ড	I-ORG
+bn:কলেজ	I-ORG
+bn:,	I-ORG
+bn:চট্টগ্রাম	I-ORG
+
+bn:শুভেন্দু	B-PER
+bn:চট্টোপাধ্যায়	I-PER
+bn:-	O
+bn:রমিতা'র	O
+bn:পিতা	O
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:বাংলাদেশের	B-ORG
+bn:সামরিক	I-ORG
+bn:বাহিনী	I-ORG
+
+bn:জালাল	B-PER
+bn:উদ্দিন	I-PER
+bn:মুহাম্মদ	I-PER
+bn:রুমি	I-PER
+
+bn:মিগেল	B-PER
+bn:দে	I-PER
+bn:থের্ভান্তেস	I-PER
+
+bn:ঝালকাঠি	B-LOC
+bn:সদর	I-LOC
+bn:উপজেলা	I-LOC
+bn:এবং	O
+bn:নলছিটি	B-LOC
+bn:উপজেলা	I-LOC
+
+bn:চারুকলা	B-ORG
+bn:অনুষদ	I-ORG
+bn:,	I-ORG
+bn:উমিয়া	I-ORG
+bn:বিশ্ববিদ্যালয়	I-ORG
+
+bn:অস্ট্রেলিয়া	B-ORG
+bn:জাতীয়	I-ORG
+bn:মহিলা	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:রাজশাহী	B-ORG
+bn:প্রকৌশল	I-ORG
+bn:ও	I-ORG
+bn:প্রযুক্তি	I-ORG
+bn:বিশ্ববিদ্যালয়	I-ORG
+
+bn:রিও	B-LOC
+bn:দে	I-LOC
+bn:লা	I-LOC
+bn:প্লাতা	I-LOC
+
+bn:উত্তর	B-LOC
+bn:চব্বিশ	I-LOC
+bn:পরগণা	I-LOC
+bn:জেলা	I-LOC
+
+bn:নিউজিল্যান্ড	B-ORG
+bn:জাতীয়	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:কোরিয়ার	B-ORG
+bn:ওয়ার্কার্স	I-ORG
+bn:পার্টি	I-ORG
+
+bn:ইউনিভার্সিটি	B-ORG
+bn:অব	I-ORG
+bn:ইলিনয়	I-ORG
+bn:অ্যাট	I-ORG
+bn:আর্বানা-শ্যাম্পেইন	I-ORG
+
+bn:অ্যাংকারিজ	B-LOC
+bn:,	I-LOC
+bn:আলাস্কা	I-LOC
+
+bn:টাস্কোলা	B-LOC
+bn:,	I-LOC
+bn:ইলিনয়	I-LOC
+
+bn:টুয়েন্টিয়েথ	B-ORG
+bn:সেঞ্চুরি	I-ORG
+bn:ফক্স	I-ORG
+
+bn:লিভারপুল	B-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:ভারত	B-ORG
+bn:জাতীয়	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:জঁ-মারি	B-PER
+bn:গুস্তাভ	I-PER
+bn:ল্য	I-PER
+bn:ক্লেজিও	I-PER
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:রালফ	B-PER
+bn:ওয়াল্ডো	I-PER
+bn:এমারসন	I-PER
+
+bn:২০০৬	B-ORG
+bn:ফিফা	I-ORG
+bn:বিশ্বকাপ	I-ORG
+
+bn:১৮৯	O
+bn:/	O
+bn:৪	O
+bn:(	O
+bn:৩৯.৫	O
+bn:ওভার	O
+bn:)	O
+bn:উমর	B-PER
+bn:আকমল	I-PER
+bn:৭৭	O
+bn:সুরঙ্গা	B-PER
+bn:লকমল	I-PER
+bn:২	O
+bn:/	O
+bn:৩৭	O
+
+bn:স্ট্যাচু	B-ORG
+bn:অব	I-ORG
+bn:লিবার্টি	I-ORG
+
+bn:দেশি	B-LOC
+bn:কালো	I-LOC
+bn:ভ্রমর	I-LOC
+
+bn:'	O
+bn:''	O
+bn:শেন	B-PER
+bn:ওয়াটসন	I-PER
+bn:''	O
+bn:'	O
+
+bn:বিলি	B-PER
+bn:দ্য	I-PER
+bn:কিড	I-PER
+
+bn:শেখ	B-PER
+bn:হামজা	I-PER
+bn:ইউসুফ	I-PER
+
+bn:ইনস্টিটিউট	B-ORG
+bn:অব	I-ORG
+bn:চার্টার্ড	I-ORG
+bn:একাউন্টেন্টস	I-ORG
+bn:অব	I-ORG
+bn:বাংলাদেশ	I-ORG
+
+bn:নওরোজাবাদ	B-LOC
+bn:(	I-LOC
+bn:খোদারগামা	I-LOC
+bn:)	I-LOC
+
+bn:বেলুচিস্তান	B-LOC
+bn:(	I-LOC
+bn:পাকিস্তান	I-LOC
+bn:)	I-LOC
+
+bn:ডব্লিউ	B-LOC
+bn:ভার্জিনিস	I-LOC
+bn:তারা	I-LOC
+
+bn:'	O
+bn:''	O
+bn:ম্যাথু	B-PER
+bn:ওয়েড	I-PER
+bn:''	O
+bn:'	O
+
+bn:গণতান্ত্রিক	B-LOC
+bn:কঙ্গো	I-LOC
+bn:প্রজাতন্ত্র	I-LOC
+
+bn:মামলুক	B-LOC
+bn:সালতানাত	I-LOC
+bn:(	I-LOC
+bn:দিল্লি	I-LOC
+bn:)	I-LOC
+
+bn:মাউন্টেইন	B-LOC
+bn:ভিউ	I-LOC
+bn:,	I-LOC
+bn:ক্যালিফোর্নিয়া	I-LOC
+
+bn:জার্মানি	B-ORG
+bn:জাতীয়	I-ORG
+bn:ফুটবল	I-ORG
+bn:দল	I-ORG
+
+bn:ফরাসি	B-ORG
+bn:ইস্ট	I-ORG
+bn:ইন্ডিয়া	I-ORG
+bn:কোম্পানি	I-ORG
+
+bn:নাসিরুদ্দিন	B-PER
+bn:মাহমুদ	I-PER
+bn:শাহ	I-PER
+
+bn:২০০৬	B-ORG
+bn:ফ্রেঞ্চ	I-ORG
+bn:মোটরসাইকেল	I-ORG
+bn:গ্র্যান্ড	I-ORG
+bn:প্রিক্স	I-ORG
+
+bn:হো	B-LOC
+bn:চি	I-LOC
+bn:মিন	I-LOC
+bn:সিটি	I-LOC
+
+bn:দ্য	B-ORG
+bn:ফুটবল	I-ORG
+bn:অ্যাসোসিয়েশন	I-ORG
+
+bn:আয়ান	B-PER
+bn:আলি	I-PER
+bn:খান	I-PER
+
+bn:আইল	B-LOC
+bn:অব	I-LOC
+bn:ম্যান	I-LOC
+
+bn:'	O
+bn:''	O
+bn:রিচার্ড	B-PER
+bn:লেভি	I-PER
+bn:''	O
+bn:'	O
+
+bn:দে	B-ORG
+bn:কিউইতাতে	I-ORG
+bn:দেই	I-ORG
+
+bn:এফবিআই	B-PER
+bn:শীর্ষ	I-PER
+bn:দশ	I-PER
+bn:ফেরারী	I-PER
+
+bn:ইউনাইটেড	B-ORG
+bn:স্টেটস	I-ORG
+bn:নেভি	I-ORG
+bn:সিলস	I-ORG
+
+bn:শ্যাম্পেইন	B-LOC
+bn:,	I-LOC
+bn:ইলিনয়	I-LOC
+
+bn:ঢাকা	B-ORG
+bn:মেডিকেল	I-ORG
+bn:কলেজ	I-ORG
+
+bn:হামযা	B-PER
+bn:ইবন	I-PER
+bn:আবদুল	I-PER
+bn:মুত্তালিব	I-PER
+
+bn:সোশ্যালিস্ট	B-ORG
+bn:ইউনিটি	I-ORG
+bn:সেন্টার	I-ORG
+bn:অফ	I-ORG
+bn:ইন্ডিয়া	I-ORG
+bn:(	I-ORG
+bn:কমিউনিস্ট	I-ORG
+bn:)	I-ORG
+
+bn:কালাপাশ	B-LOC
+bn:চুটকি	I-LOC
+bn:(	O
+bn:''Muscicapa	O
+bn:sibirica	O
+bn:''	O
+bn:)	O
+
+bn:পূর্ব	B-LOC
+bn:কেপ	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:**	O
+bn:কালো	B-LOC
+bn:শিরস্ত্রাণযুক্ত	I-LOC
+bn:ধনেশ	I-LOC
+bn:''Ceratogymna	O
+bn:atrata	O
+bn:''	O
+
+bn:জন	B-PER
+bn:ফিট্‌জেরাল্ড	I-PER
+bn:কেনেডি	I-PER
+
+bn:দৈনিক	B-ORG
+bn:প্রথম	I-ORG
+bn:আলো	I-ORG
+
+bn:নাফিস	B-PER
+bn:বিন	I-PER
+bn:জাফর	I-PER
+
+bn:হারারে	B-LOC
+bn:স্পোর্টস	I-LOC
+bn:ক্লাব	I-LOC
+bn:,	O
+bn:হারারে	B-LOC
+
+bn:রবিন	B-PER
+bn:উড	I-PER
+bn:(	I-PER
+bn:সমালোচক	I-PER
+bn:)	I-PER
+
+bn:রিও	B-LOC
+bn:দে	I-LOC
+bn:লা	I-LOC
+bn:প্লাতা	I-LOC
+
+bn:মহম্মদ	B-PER
+bn:আতাউল	I-PER
+bn:গণি	I-PER
+bn:ওসমানী	I-PER
+
+bn:মাইকেল	B-PER
+bn:ফ্রান্সিস	I-PER
+bn:আটিয়া	I-PER
+
+bn:ন্যাশনাল	B-ORG
+bn:বোর্ড	I-ORG
+bn:অব	I-ORG
+bn:রিভিউ	I-ORG
+bn:অব	I-ORG
+bn:মোশন	I-ORG
+bn:পিকচার্স	I-ORG
+
+bn:আবদুল	B-PER
+bn:আজিজ	I-PER
+bn:ইবনে	I-PER
+bn:সৌদ	I-PER
+
+bn:''মূল	O
+bn:নিবন্ধ	O
+bn:''	O
+bn:-	O
+bn:বামিয়ান	B-LOC
+bn:উপত্যকা	I-LOC
+bn:''	O
+
+bn:ওল্ড	B-ORG
+bn:ট্রাফোর্ড	I-ORG
+bn:(	I-ORG
+bn:ফুটবল	I-ORG
+bn:)	I-ORG
+
+bn:গ্রিম্‌স্‌বি	B-ORG
+bn:টাউন	I-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:ইউনিভার্সিটি	B-ORG
+bn:অব	I-ORG
+bn:সায়েন্স	I-ORG
+bn:অ্যান্ড	I-ORG
+bn:টেকনোলজি	I-ORG
+bn:চট্টগ্রাম	I-ORG
+
+bn:রোমিও	B-LOC
+bn:অ্যান্ড	I-LOC
+bn:জুলিয়েট	I-LOC
+
+bn:রোমিও	B-LOC
+bn:অ্যান্ড	I-LOC
+bn:জুলিয়েট	I-LOC
+
+bn:সুলতান	B-ORG
+bn:সুলেমান	I-ORG
+bn:(	I-ORG
+bn:টিভি	I-ORG
+bn:ধারাবাহিক	I-ORG
+bn:)	I-ORG
+
+bn:চার্লস	B-PER
+bn:স্যান্ডার্স	I-PER
+bn:পার্স	I-PER
+
+bn:জে	B-PER
+bn:জে	B-PER
+bn:টমসন	I-PER
+
+bn:রবার্ট	B-PER
+bn:এ	I-PER
+bn:হাইনলাইন	I-PER
+
+bn:নিউ	B-ORG
+bn:ইয়র্ক	I-ORG
+bn:স্টক	I-ORG
+bn:এক্সচেঞ্জ	I-ORG
+bn:ইউরোনেক্সট	I-ORG
+
+bn:ইনসাইড	B-ORG
+bn:দি	I-ORG
+bn:অ্যাক্টরস	I-ORG
+bn:স্টুডিও	I-ORG
+
+bn:**	O
+bn:মস্কো	B-LOC
+bn:(	O
+bn:দূতাবাস	O
+bn:)	O
+
+bn:ইন্ডিপেন্ডেন্ট	B-ORG
+bn:বিশ্ববিদ্যালয়	I-ORG
+bn:বাংলাদেশ	I-ORG
+
+bn:এইচ	B-PER
+bn:জি	I-PER
+bn:ওয়েলস	I-PER
+
+bn:১৯৫৬	B-ORG
+bn:গ্রীষ্মকালীন	I-ORG
+bn:অলিম্পিকে	I-ORG
+bn:ফুটবল	I-ORG
+
+bn:রিয়াদ	B-LOC
+bn:(	O
+bn:'	O
+bn:''	O
+bn:'	O
+bn:)	O
+
+bn:গ্লেন	B-PER
+bn:পি.	I-PER
+bn:রবিনসন	I-PER
+
+bn:দ্বিতীয়	B-LOC
+bn:বিশ্বযুদ্ধে	I-LOC
+bn:অক্ষশক্তি	I-LOC
+
+bn:উত্তর	B-LOC
+bn:খোরসন	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:হান্স	B-PER
+bn:ক্রিশ্চিয়ান	I-PER
+bn:এন্ডারসন	I-PER
+
+bn:'	O
+bn:''	O
+bn:বুয়েনোস	B-LOC
+bn:আইরেস	I-LOC
+bn:''	O
+bn:'	O
+
+bn:জিম্বাবুয়ে	B-ORG
+bn:জাতীয়	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:'	O
+bn:''	O
+bn:বেঙ্গালুরু	B-LOC
+bn:''	O
+bn:'	O
+
+bn:ইন্দ্র	B-PER
+bn:কুমার	I-PER
+bn:গুজরাল	I-PER
+
+bn:লিভারপুল	B-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:রয়াল	B-ORG
+bn:ফেস্টিভাল	I-ORG
+bn:হল	I-ORG
+
+bn:বুলবুল	B-PER
+bn:আহমেদ	I-PER
+bn:,	O
+bn:অভিনেতা।	O
+
+bn:বের্টা	B-PER
+bn:ফন	I-PER
+bn:জুটনার	I-PER
+
+bn:ডেইলি	B-ORG
+bn:সান	I-ORG
+bn:(	I-ORG
+bn:ঢাকা	I-ORG
+bn:)	I-ORG
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:লস	B-ORG
+bn:অ্যাঞ্জেলেস	I-ORG
+bn:টাইমস	I-ORG
+
+bn:নিয়া	B-ORG
+bn:সালামিস	I-ORG
+bn:ফামাগুস্তা	I-ORG
+bn:এফসি	I-ORG
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:ফুলহ্যাম	B-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:মিগেল	B-PER
+bn:দে	I-PER
+bn:থের্ভান্তেস	I-PER
+
+bn:মেটেপা	B-LOC
+bn:ঝিল্লি	I-LOC
+bn:(	O
+bn:''Rallina	O
+bn:eurizonoides	O
+bn:''	O
+bn:)	O
+
+bn:ডেরা	B-LOC
+bn:বাবা	I-LOC
+bn:নানক	I-LOC
+
+bn:অ্যাংকারিজ	B-LOC
+bn:,	I-LOC
+bn:আলাস্কা	I-LOC
+
+bn:অ্যাকাডেমি	B-ORG
+bn:অফ	I-ORG
+bn:ফাইন	I-ORG
+bn:আর্টস	I-ORG
+bn:,	I-ORG
+bn:কলকাতা	I-ORG
+
+bn:রুশীয়	B-LOC
+bn:সোভিয়েত	I-LOC
+bn:যুক্তরাষ্ট্রীয়	I-LOC
+bn:সমাজতান্ত্রিক	I-LOC
+bn:প্রজাতন্ত্র	I-LOC
+
+bn:ভারতীয়	B-ORG
+bn:রিজার্ভ	I-ORG
+bn:ব্যাংক	I-ORG
+
+bn:প্রধান	B-ORG
+bn:ধর্মাবলম্বী	I-ORG
+bn:গোষ্ঠীসমূহ	I-ORG
+
+bn:জন	B-PER
+bn:ফিট্‌জেরাল্ড	I-PER
+bn:কেনেডি	I-PER
+
+bn:ঢাকা	B-ORG
+bn:রেসিডেনসিয়াল	I-ORG
+bn:মডেল	I-ORG
+bn:কলেজ	I-ORG
+
+bn:ভারতের	B-ORG
+bn:কমিউনিস্ট	I-ORG
+bn:পার্টি	I-ORG
+bn:(	I-ORG
+bn:মার্ক্সবাদী	I-ORG
+bn:)	I-ORG
+
+bn:অর্ডার	B-ORG
+bn:অব	I-ORG
+bn:দ্য	I-ORG
+bn:ফিনিক্স	I-ORG
+bn:(	I-ORG
+bn:কাল্পনিক	I-ORG
+bn:সংগঠন	I-ORG
+bn:)	I-ORG
+
+bn:রবার্ট	B-PER
+bn:এইচ	I-PER
+bn:গডার্ড	I-PER
+
+bn:আবদুল্লাহ	B-PER
+bn:আল	I-PER
+bn:মুতী	I-PER
+bn:শরফুদ্দিন	I-PER
+
+bn:আন্দামান	B-LOC
+bn:ও	I-LOC
+bn:নিকোবর	I-LOC
+bn:দ্বীপপুঞ্জ	I-LOC
+
+bn:পাভেল	B-PER
+bn:আলেক্সেইয়েভিচ	I-PER
+bn:চেরেংকভ	I-PER
+
+bn:শাহরিয়ার	B-PER
+bn:কবির	I-PER
+bn:(	O
+bn:সামগ্রিক	O
+bn:অবদান	O
+bn:)	O
+
+bn:বাংলা	B-LOC
+bn:কাঠঠোকরা	I-LOC
+bn:,	O
+bn:''Dinopium	O
+bn:benghalense	O
+bn:''	O
+
+bn:দুবাই	B-LOC
+bn:,	O
+bn:সংযুক্ত	B-LOC
+bn:আরব	I-LOC
+bn:আমিরাত	I-LOC
+
+bn:বাংলাদেশ	B-ORG
+bn:প্রকৌশল	I-ORG
+bn:বিশ্ববিদ্যালয়	I-ORG
+
+bn:মুহাম্মাদ	B-PER
+bn:আব্দুল	I-PER
+bn:বারি	I-PER
+
+bn:২০১৪	B-ORG
+bn:ফিফা	I-ORG
+bn:বিশ্বকাপ	I-ORG
+
+bn:বাংলাদেশ	B-ORG
+bn:কারিগরি	I-ORG
+bn:শিক্ষা	I-ORG
+bn:বোর্ড	I-ORG
+
+bn:২০০৬	B-ORG
+bn:ফিফা	I-ORG
+bn:বিশ্বকাপ	I-ORG
+
+bn:অ্যাভাটর	B-ORG
+bn::	I-ORG
+bn:দ্য	I-ORG
+bn:লাস্ট	I-ORG
+bn:এয়ারবেন্ডার	I-ORG
+
+bn:ভোল্‌ফগাংক্‌	B-PER
+bn:আমাডেয়ুস	I-PER
+bn:মোৎসার্ট	I-PER
+
+bn:স্ট্যানফোর্ড	B-ORG
+bn:গ্র্যাজুয়েট	I-ORG
+bn:স্কুল	I-ORG
+bn:অব	I-ORG
+bn:বিজনেস	I-ORG
+
+bn:১ম	O
+bn:–	O
+bn:দ্য	B-ORG
+bn:টাইমস	I-ORG
+bn:''	O
+
+bn:আর্সেনাল	B-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:ব্ল্যাকবার্ন	B-ORG
+bn:রোভার্স	I-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:স্ট্যাচু	B-ORG
+bn:অব	I-ORG
+bn:লিবার্টি	I-ORG
+
+bn:ব্রাজিলের	B-ORG
+bn:কমিউনিস্ট	I-ORG
+bn:পার্টি	I-ORG
+
+bn:সরকারি	B-ORG
+bn:সৈয়দ	I-ORG
+bn:হাতেম	I-ORG
+bn:আলী	I-ORG
+bn:কলেজ	I-ORG
+
+bn:ওল্ড	B-LOC
+bn:ট্রাফোর্ড	I-LOC
+bn:ক্রিকেট	I-LOC
+bn:গ্রাউন্ড	I-LOC
+
+bn:পঞ্চম	B-PER
+bn:চার্লস	I-PER
+bn:,	I-PER
+bn:পবিত্র	I-PER
+bn:রোমান	I-PER
+bn:সম্রাট	I-PER
+
+bn:পিয়ের	B-PER
+bn:সিমোঁ	I-PER
+bn:লাপ্লাস	I-PER
+
+bn:জিমি	B-PER
+bn:ফ্লয়েড	I-PER
+bn:হ্যাসেলবেইংক	I-PER
+
+bn:ওলে	B-PER
+bn:গানার	I-PER
+bn:সলশেয়ার	I-PER
+
+bn:করুণা	B-PER
+bn:বন্দ্যোপাধ্যায়	I-PER
+bn:-	O
+bn:হারাসুন্দরী	O
+
+bn:আলিপুর	B-LOC
+bn:সদর	I-LOC
+bn:মহকুমা	I-LOC
+
+bn:গঙ্গা	B-LOC
+bn:নদী	I-LOC
+bn:শুশুক	I-LOC
+
+bn:জর্জিয়া	B-LOC
+bn:(	I-LOC
+bn:অঙ্গরাজ্য	I-LOC
+bn:)	I-LOC
+
+bn:অঁরি	B-PER
+bn:দ্য	I-PER
+bn:তুলুজ-লোত্রেক	I-PER
+
+bn:এম.	B-PER
+bn:সি.	I-PER
+bn:এশ্যর	I-PER
+
+bn:সুলতান	B-PER
+bn:আহমেদ	I-PER
+bn:-	O
+bn:ভারতীয়	B-LOC
+bn:প্রতিমন্ত্রী।	O
+
+bn:আন্তর্জাতিক	B-ORG
+bn:রাসায়নিক	I-ORG
+bn:অস্ত্র	I-ORG
+bn:নিরস্ত্রীকরণ	I-ORG
+bn:সংস্থা	I-ORG
+
+bn:আস	B-LOC
+bn:সুলায়মানিয়াহ	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:আন্তর্জাতিক	B-ORG
+bn:একক	I-ORG
+bn:পদ্ধতি	I-ORG
+
+bn:জাবাল	B-PER
+bn:শামার	I-PER
+bn:আমিরাত	I-PER
+bn:,	O
+bn:বর্তমান	O
+bn:আরব	B-LOC
+bn:উপদ্বীপ	I-LOC
+bn:,	O
+bn:১৮৩৬-১৯২১	O
+
+bn:মুহাম্মদ	B-PER
+bn:আলী	I-PER
+bn:জিন্নাহ	I-PER
+
+bn:ইউনাইটেড	B-ORG
+bn:নেশন্স	I-ORG
+bn:করেসপন্ডেন্টস	I-ORG
+bn:অ্যাসোসিয়েশন	I-ORG
+
+bn:ম্যাসিডনের	B-PER
+bn:দ্বিতীয়	I-PER
+bn:ফিলিপ	I-PER
+
+bn:•	O
+bn:ইউনুস	B-PER
+bn:খান	I-PER
+bn:কট	O
+bn:কুমার	B-PER
+bn:সাঙ্গাকারা	I-PER
+
+bn:রচেস্টার	B-LOC
+bn:,	I-LOC
+bn:নিউ	I-LOC
+bn:ইয়র্ক	I-LOC
+
+bn:আলবার্ট	B-PER
+bn:আব্রাহাম	I-PER
+bn:মাইকেলসন	I-PER
+
+bn:**	O
+bn:হ্যারি	B-LOC
+bn:পটার	I-LOC
+bn:অ্যান্ড	I-LOC
+bn:দ্য	I-LOC
+bn:হাফ-ব্লাড	I-LOC
+bn:প্রিন্স	I-LOC
+bn:''	O
+
+bn:Official	O
+bn:Facebook	O
+bn:Page	O
+bn:on	O
+bn:ফেসবুক	B-ORG
+
+bn:ইতালি	B-ORG
+bn:জাতীয়	I-ORG
+bn:ফুটবল	I-ORG
+bn:দল	I-ORG
+
+bn:জলপাইরঙা	B-LOC
+bn:সাগর	I-LOC
+bn:কাছিম	I-LOC
+
+bn:বাংলাদেশের	B-PER
+bn:স্বাধীনতা	I-PER
+bn:যুদ্ধ	I-PER
+
+bn:দলিত	B-ORG
+bn:বৌদ্ধ	I-ORG
+bn:আন্দোলন	I-ORG
+
+bn:ডেভন	B-PER
+bn:স্মিথ	I-PER
+bn:/	O
+bn:শিবনারায়ণ	B-PER
+bn:চন্দরপল	I-PER
+
+bn:রিও	B-LOC
+bn:দি	I-LOC
+bn:জেনেরিও	I-LOC
+
+bn:নান	B-ORG
+bn:(	I-ORG
+bn:রুটি	I-ORG
+bn:)	I-ORG
+
+bn:কেন্দ্রীয়	B-LOC
+bn:ইউরোপীয়	I-LOC
+bn:গ্রীষ্মকাল	I-LOC
+bn:সময়	I-LOC
+
+bn:অ্যালেক্সান্ড্রিয়া	B-LOC
+bn:,	I-LOC
+bn:ভার্জিনিয়া	I-LOC
+
+bn:এমিলি	B-PER
+bn:গ্রিন	I-PER
+bn:বল্চ	I-PER
+
+bn:নকুল	B-PER
+bn:(	I-PER
+bn:মহাভারত	I-PER
+bn:)	I-PER
+
+bn:সন্ধ্যা	B-PER
+bn:রায়	I-PER
+bn:—	O
+bn:ছুটকি	O
+
+bn:জাতিসংঘের	B-LOC
+bn:সদস্য	I-LOC
+bn:দেশ	I-LOC
+
+bn:অ্যান্টিগুয়া	B-LOC
+bn:ও	I-LOC
+bn:বার্বুডা	I-LOC
+
+bn:স্যামসন	B-ORG
+bn:ওকোম	I-ORG
+bn:সেতু	I-ORG
+
+bn:নিউল্যান্ডস	B-ORG
+bn:ক্রিকেট	I-ORG
+bn:গ্রাউন্ড	I-ORG
+bn:,	O
+bn:কেপ	B-LOC
+bn:টাউন	I-LOC
+
+bn:সন্তোষপুর	B-LOC
+bn:(	I-LOC
+bn:হাওড়া	I-LOC
+bn:)	I-LOC
+
+bn:সেন্ট	B-LOC
+bn:ভিনসেন্ট	I-LOC
+bn:ও	I-LOC
+bn:গ্রেনাডাইন	I-LOC
+bn:দ্বীপপুঞ্জ	I-LOC
+
+bn:ওয়ার্ল্ড	B-ORG
+bn:ইকোনমিক	I-ORG
+bn:ফোরাম	I-ORG
+
+bn:জর্জিয়া	B-LOC
+bn:(	I-LOC
+bn:অঙ্গরাজ্য	I-LOC
+bn:)	I-LOC
+
+bn:গণতান্ত্রিক	B-LOC
+bn:কঙ্গো	I-LOC
+bn:প্রজাতন্ত্র	I-LOC
+
+bn:জগদীশ	B-PER
+bn:চন্দ্র	I-PER
+bn:বসু	I-PER
+
+bn:বাংলাদেশ	B-ORG
+bn:টেলিযোগাযোগ	I-ORG
+bn:নিয়ন্ত্রণ	I-ORG
+bn:কমিশন	I-ORG
+
+bn:'	O
+bn:''	O
+bn:আন্দ্রে	B-PER
+bn:রাসেল	I-PER
+bn:''	O
+bn:'	O
+
+bn:**	O
+bn:সমর	B-LOC
+bn:ধনেশ	I-LOC
+bn:''Penelopides	O
+bn:samarensis	O
+bn:''	O
+
+bn:জর্জ	B-PER
+bn:ডব্লিউ.	I-PER
+bn:বুশ	I-PER
+
+bn:টাস্কোলা	B-LOC
+bn:,	I-LOC
+bn:ইলিনয়	I-LOC
+
+bn:ম্যাসাচুসেট্‌স	B-ORG
+bn:ইনস্টিটিউট	I-ORG
+bn:অব	I-ORG
+bn:টেকনোলজি	I-ORG
+
+bn:টি	B-PER
+bn:এস	I-PER
+bn:এলিয়ট	I-PER
+
+bn:আর্থার	B-PER
+bn:সি	I-PER
+bn:ক্লার্ক	I-PER
+
+bn:**	O
+bn:মাদ্রিদ	B-LOC
+bn:(	O
+bn:দূতাবাস	O
+bn:)	O
+
+bn:অ্যাভাটর	B-ORG
+bn::	I-ORG
+bn:দ্য	I-ORG
+bn:লাস্ট	I-ORG
+bn:এয়ারবেন্ডার	I-ORG
+
+bn:সিডনি	B-LOC
+bn:ক্রিকেট	I-LOC
+bn:গ্রাউন্ড	I-LOC
+bn:,	O
+bn:সিডনি	B-LOC
+
+bn:বেঙ্গল	B-ORG
+bn:ইঞ্জিনিয়ারিং	I-ORG
+bn:অ্যান্ড	I-ORG
+bn:সায়েন্স	I-ORG
+bn:ইউনিভার্সিটি	I-ORG
+bn:,	I-ORG
+bn:শিবপুর	I-ORG
+
+bn:মুহাম্মদ	B-PER
+bn:ইবনে	I-PER
+bn:আবদুল্লাহ	I-PER
+bn:ইবনে	I-PER
+bn:তাহির	I-PER
+
+bn:ওয়াশিংটন	B-LOC
+bn:,	I-LOC
+bn:ডি.সি	I-LOC
+bn:.	I-LOC
+
+bn:আল্লা	B-PER
+bn:রাখা	I-PER
+bn:খান	I-PER
+
+bn:নিউ	B-LOC
+bn:সাউথ	I-LOC
+bn:ওয়েল্স	I-LOC
+
+bn:জাতীয়	B-ORG
+bn:মুক্ত	I-ORG
+bn:বিদ্যালয়	I-ORG
+bn:সংস্থা	I-ORG
+
+bn:ফিনিক্স	B-LOC
+bn:,	I-LOC
+bn:অ্যারিজোনা	I-LOC
+
+bn:ইয়োহান	B-PER
+bn:ক্রুইফ	I-PER
+bn:তাকে	O
+bn:আখ্যা	O
+bn:দিয়েছেন	O
+bn:গোলমুখ	O
+bn:অভিমুখী	O
+bn:মেধা	O
+bn:হিসেবে	O
+bn:(	O
+bn:``	O
+bn:genius	O
+bn:of	O
+bn:the	O
+bn:goal	O
+bn:area	O
+bn:''	O
+bn:)	O
+
+bn:জনতা	B-ORG
+bn:দল	I-ORG
+bn:(	I-ORG
+bn:সংযুক্ত	I-ORG
+bn:)	I-ORG
+
+bn:''মূল	O
+bn:নিবন্ধঃ	O
+bn:''	O
+bn:হ্যারি	B-LOC
+bn:পটার	I-LOC
+bn:অ্যান্ড	I-LOC
+bn:দ্য	I-LOC
+bn:হাফ-ব্লাড	I-LOC
+bn:প্রিন্স	I-LOC
+bn:''	O
+
+bn:কোনও	O
+bn:কবিতার	B-LOC
+bn:হারানো	O
+bn:পংক্তির	O
+bn:পুণরুদ্ধার	O
+bn:করা	O
+bn:বা	O
+bn:তা	O
+bn:পুণরায়	O
+bn:নতুন	O
+bn:করে	O
+bn:লেখা।	O
+
+bn:মাইকেল	B-PER
+bn:গফ	I-PER
+bn:(	I-PER
+bn:ক্রিকেটার	I-PER
+bn:)	I-PER
+
+bn:ডব্লিউ	B-LOC
+bn:ভার্জিনিস	I-LOC
+bn:তারা	I-LOC
+
+bn:মারভিন	B-PER
+bn:দি	I-PER
+bn:মারসিয়ান	I-PER
+
+bn:জহির	B-PER
+bn:রায়হান	I-PER
+bn:(	O
+bn:মরণোত্তর	O
+bn:)	O
+
+bn:আইল	B-LOC
+bn:অব	I-LOC
+bn:ম্যান	I-LOC
+
+bn:===	O
+bn:এ	B-PER
+bn:আর	I-PER
+bn:রহমান	I-PER
+bn:===	O
+
+bn:''পূজার	O
+bn:বড়	O
+bn:ভাই	O
+bn:''	O
+bn:চরিত্রে	O
+bn:তাপস	B-PER
+bn:পাল	I-PER
+
+bn:পার্সি	B-LOC
+bn:জ্যাকসন	I-LOC
+bn:অ্যান্ড	I-LOC
+bn:দি	I-LOC
+bn:অলিম্পিয়ানস	I-LOC
+
+bn:সাঁ	B-LOC
+bn:পিয়ের	I-LOC
+bn:ও	I-LOC
+bn:মিক‌লোঁ	I-LOC
+
+bn:তোশিরো	B-PER
+bn:মিফুনে	I-PER
+bn:-	O
+bn:কুখ্যাত	O
+bn:ডাকাত	O
+bn:''তাজোমারু	O
+bn:''	O
+
+bn:ক্রেইগ	B-PER
+bn:ম্যাকমিলান	I-PER
+bn:/	O
+bn:জ্যাকব	B-PER
+bn:ওরাম	I-PER
+
+bn:জন	B-PER
+bn:কেনেথ	I-PER
+bn:গলব্রেইথ	I-PER
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:বল্লাল	B-PER
+bn:সেন	I-PER
+bn:(	O
+bn:১১৬০-১১৭৮	O
+bn:)	O
+
+bn:বিশ্ব	B-ORG
+bn:ঐতিহ্যবাহী	I-ORG
+bn:স্থান	I-ORG
+
+bn:অর্ডার	B-ORG
+bn:অব	I-ORG
+bn:দ্য	I-ORG
+bn:ফিনিক্স	I-ORG
+bn:(	I-ORG
+bn:কাল্পনিক	I-ORG
+bn:সংগঠন	I-ORG
+bn:)	I-ORG
+
+bn:ওয়াশিংটন	B-LOC
+bn:,	I-LOC
+bn:ডি.সি	I-LOC
+bn:.	I-LOC
+
+bn:এ.	B-PER
+bn:এস.	I-PER
+bn:এম.	I-PER
+bn:আবদুর	I-PER
+bn:রব	I-PER
+
+bn:মুহাম্মদ	B-PER
+bn:আলী	I-PER
+bn:জিন্নাহ	I-PER
+
+bn:'	O
+bn:''	O
+bn:কার্লোস	B-PER
+bn:তেবেস	I-PER
+bn:(	O
+bn:২০০৪–	O
+bn:)	O
+bn:'	O
+bn:''	O
+
+bn:আর্বিল	B-ORG
+bn:প্রদেশ	I-ORG
+bn:(	O
+bn:أربيل	O
+bn:)	O
+
+bn:সাঁউ	B-LOC
+bn:তুমি	I-LOC
+bn:ও	I-LOC
+bn:প্রিন্সিপি	I-LOC
+
+bn:মানব	B-ORG
+bn:উন্নয়ন	I-ORG
+bn:সূচক	I-ORG
+
+bn:বাহাদুর	B-PER
+bn:শাহ	I-PER
+bn:জাফর	I-PER
+
+bn:২০০৮	B-ORG
+bn:গ্রীষ্মকালীন	I-ORG
+bn:অলিম্পিকে	I-ORG
+bn:মুষ্টিযুদ্ধ	I-ORG
+bn:–	I-ORG
+bn:লাইট	I-ORG
+bn:হেভিওয়েট	I-ORG
+
+bn:ফ্রাংক	B-PER
+bn:জেনিংস	I-PER
+bn:টিপলার	I-PER
+
+bn:শ্রীলঙ্কা	B-ORG
+bn:জাতীয়	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:ভারত	B-ORG
+bn:জাতীয়	I-ORG
+bn:ফুটবল	I-ORG
+bn:দল	I-ORG
+
+bn:মোহনদাস	B-PER
+bn:করমচাঁদ	I-PER
+bn:গান্ধী	I-PER
+
+bn:ফের্দিনঁ	B-PER
+bn:দ্য	I-PER
+bn:সোস্যুর	I-PER
+
+bn:ডায়ানা	B-PER
+bn:,	I-PER
+bn:প্রিন্সেস	I-PER
+bn:অব	I-PER
+bn:ওয়েলস	I-PER
+
+bn:২০০৬	B-ORG
+bn:ফিফা	I-ORG
+bn:বিশ্বকাপ	I-ORG
+
+bn:দ্য	B-ORG
+bn:ওয়াল	I-ORG
+bn:স্ট্রিট	I-ORG
+bn:জার্নাল	I-ORG
+
+bn:বনাম	O
+bn:সানরাইজার্স	B-LOC
+bn:হায়দ্রাবাদ	I-LOC
+bn:(	O
+bn:H	O
+bn:)	O
+
+bn:মেক্সিকো	B-ORG
+bn:সিটি	I-ORG
+bn:মেট্রো	I-ORG
+
+bn:হারারে	B-LOC
+bn:স্পোর্টস	I-LOC
+bn:ক্লাব	I-LOC
+bn:,	O
+bn:হারারে	B-LOC
+
+bn:দক্ষিণ	B-ORG
+bn:আফ্রিকা	I-ORG
+bn:জাতীয়	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:'	O
+bn:''	O
+bn:ফায়াদ	B-PER
+bn:আলম	I-PER
+bn:''	O
+bn:'	O
+
+bn:জাবির	B-ORG
+bn:ইবন	I-ORG
+bn:হাইয়ান	I-ORG
+
+bn:হার্ড	B-ORG
+bn:ডিস্ক	I-ORG
+bn:ড্রাইভ	I-ORG
+
+bn:বাংলাদেশ	B-ORG
+bn:প্রকৌশল	I-ORG
+bn:বিশ্ববিদ্যালয়	I-ORG
+
+bn:তাকলা	B-LOC
+bn:মাকান	I-LOC
+bn:মরুভূমি	I-LOC
+
+bn:শ্যামজী	B-PER
+bn:কৃষ্ণ	I-PER
+bn:বর্মা	I-PER
+
+bn:ব্রিটিশ	B-ORG
+bn:ব্রডকাস্টিং	I-ORG
+bn:কর্পোরেশন	I-ORG
+
+bn:নওগাঁ	B-LOC
+bn:জেলা	I-LOC
+bn:,	O
+bn:রাজশাহী	B-LOC
+bn:বিভাগ	I-LOC
+
+bn:রোশন	B-LOC
+bn:পুরা	I-LOC
+bn:তিলকরা	I-LOC
+bn:দিচাওন	I-LOC
+bn:খুর্দ	I-LOC
+
+bn:টার্নার	B-ORG
+bn:ক্লাসিক	I-ORG
+bn:মুভিজ	I-ORG
+
+bn:ঝাং-গ্যু-ব্রাগ-পা-ব্র্ত্সোন-'গ্রুস-গ্রাগ্স-পা	B-PER
+bn:(	O
+bn:)	O
+bn:ত্শাল-পা-ব্কা'-ব্র্গ্যুদ	O
+bn:(	O
+bn:)	O
+bn:ধর্মসম্প্রদায়	O
+bn:স্থাপন	O
+bn:করেন।	O
+
+bn:পিরোজপুর	B-LOC
+bn:সদর	I-LOC
+bn:উপজেলা	I-LOC
+bn:,	O
+bn:নাজিরপুর	B-LOC
+bn:উপজেলা	I-LOC
+bn:এবং	O
+bn:নেছারাবাদ	B-LOC
+bn:(	I-LOC
+bn:স্বরূপকাঠি	I-LOC
+bn:)	I-LOC
+bn:উপজেলা	I-LOC
+
+bn:ভারত	B-ORG
+bn:জাতীয়	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:'	O
+bn:''	O
+bn:ঋদ্ধিমান	B-PER
+bn:সাহা	I-PER
+bn:''	O
+bn:'	O
+
+bn:রচেস্টার	B-LOC
+bn:,	I-LOC
+bn:নিউ	I-LOC
+bn:ইয়র্ক	I-LOC
+
+bn:জে.	B-PER
+bn:আর.	I-PER
+bn:আর.	I-PER
+bn:টলকিন	I-PER
+
+bn:টি	B-PER
+bn:এস	I-PER
+bn:এলিয়ট	I-PER
+
+bn:এক্সপ্রেশন	B-ORG
+bn:(	I-ORG
+bn:গণিত	I-ORG
+bn:)	I-ORG
+
+bn:পঞ্চম	B-PER
+bn:চার্লস	I-PER
+bn:,	I-PER
+bn:পবিত্র	I-PER
+bn:রোমান	I-PER
+bn:সম্রাট	I-PER
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:আরনো	B-PER
+bn:এলান	I-PER
+bn:পেনজিয়াস	I-PER
+
+bn:পাফনুতি	B-PER
+bn:লভোভিচ	I-PER
+bn:চেবিশেভ	I-PER
+
+bn:সারে	B-LOC
+bn:পোল	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:ওপেন	B-ORG
+bn:বেজ	I-ORG
+bn:স্টেশন	I-ORG
+bn:আর্কিটেকচার	I-ORG
+bn:ইনিশিয়েটিভ	I-ORG
+
+bn:সঁত্র্‌	B-LOC
+bn:(	I-LOC
+bn:ফ্রান্স	I-LOC
+bn:)	I-LOC
+
+bn:ম্যানচেস্টার	B-ORG
+bn:ইউনাইটেড	I-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:বান্দরবান	B-LOC
+bn:সদর	I-LOC
+bn:উপজেলা	I-LOC
+
+bn:সেন্ট	B-LOC
+bn:ভিনসেন্ট	I-LOC
+bn:ও	I-LOC
+bn:গ্রেনাডাইন	I-LOC
+bn:দ্বীপপুঞ্জ	I-LOC
+
+bn:'	O
+bn:''	O
+bn:ক্রিস	B-PER
+bn:গেইল	I-PER
+bn:''	O
+bn:'	O
+
+bn:এশিয়ান	B-ORG
+bn:ক্রিকেট	I-ORG
+bn:কাউন্সিল	I-ORG
+
+bn:আবদুল্লাহ	B-PER
+bn:আল	I-PER
+bn:রাকিব	I-PER
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:সেন্ট	B-LOC
+bn:কিট্‌স	I-LOC
+bn:ও	I-LOC
+bn:নেভিস	I-LOC
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:সেন্ট	B-LOC
+bn:ভিনসেন্ট	I-LOC
+bn:ও	I-LOC
+bn:গ্রেনাডাইন	I-LOC
+bn:দ্বীপপুঞ্জ	I-LOC
+
+bn:গোসুদার্স্তভেন্নি	B-ORG
+bn:ব্যাংক	I-ORG
+bn:রোসিয়োস্কোয়	I-ORG
+bn:ইম্পেরি	I-ORG
+
+bn:ব্রাজিল	B-LOC
+bn:(	O
+bn:আলাদা	O
+bn:অনুবাদ	O
+bn:)	O
+
+bn:অং	B-PER
+bn:সান	I-PER
+bn:সু	I-PER
+bn:চি	I-PER
+
+bn:ব্রিটিশ	B-LOC
+bn:রাজত্ব	I-LOC
+bn:(	O
+bn:১৮৫৮-১৯৪৭	O
+bn:)	O
+
+bn:সৈয়দ	B-PER
+bn:আহমদ	I-PER
+bn:উল্লাহ	I-PER
+
+bn:মিগেল	B-PER
+bn:দে	I-PER
+bn:থের্ভান্তেস	I-PER
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:ভারত	B-ORG
+bn:জাতীয়	I-ORG
+bn:মহিলা	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:ফুটবল	B-ORG
+bn:ক্লাব	I-ORG
+bn:বার্সেলোনা	I-ORG
+
+bn:গ্লোরিয়া	B-ORG
+bn:মাকাপাগাল	I-ORG
+bn:আরোইয়ো	I-ORG
+
+bn:**	O
+bn:পুবের	B-LOC
+bn:হলদেঠুঁটি	I-LOC
+bn:ধনেশ	I-LOC
+bn:''Tockus	O
+bn:flavirostris	O
+bn:''	O
+
+bn:আর্বী	B-LOC
+bn:,	I-LOC
+bn:ওয়ার্ধা	I-LOC
+
+bn:রুশীয়	B-LOC
+bn:সোভিয়েত	I-LOC
+bn:যুক্তরাষ্ট্রীয়	I-LOC
+bn:সমাজতান্ত্রিক	I-LOC
+bn:প্রজাতন্ত্র	I-LOC
+
+bn:চেস্টার	B-PER
+bn:এ.	I-PER
+bn:আর্থার	I-PER
+
+bn:নূরুল	B-PER
+bn:হক	I-PER
+bn:ভূঁইয়া	I-PER
+
+bn:মার্কিন	B-ORG
+bn:যুক্তরাষ্ট্র	I-ORG
+bn:জাতীয়	I-ORG
+bn:পুরুষ	I-ORG
+bn:ফুটবল	I-ORG
+bn:দল	I-ORG
+
+bn:দক্ষিণ	B-LOC
+bn:চব্বিশ	I-LOC
+bn:পরগণা	I-LOC
+bn:জেলা	I-LOC
+
+bn:অটল	B-PER
+bn:বিহারী	I-PER
+bn:বাজপেয়ী	I-PER
+
+bn:আহসানউল্লাহ	B-ORG
+bn:বিজ্ঞান	I-ORG
+bn:ও	I-ORG
+bn:প্রযুক্তি	I-ORG
+bn:বিশ্ববিদ্যালয়	I-ORG
+
+bn:রূপসী	B-ORG
+bn:বাংলা	I-ORG
+bn:(	I-ORG
+bn:টেলিভিশন	I-ORG
+bn:চ্যানেল	I-ORG
+bn:)	I-ORG
+
+bn:ক্লোনটার্ফ	B-ORG
+bn:ক্রিকেট	I-ORG
+bn:ক্লাব	I-ORG
+bn:গ্রাউন্ড	I-ORG
+
+bn:সুক্কর	O
+bn:স্টেশনের	O
+bn:নিকট	O
+bn:,	O
+bn:করাচী	B-LOC
+bn:,	O
+bn:পাকিস্তান	B-LOC
+
+bn:চার	B-ORG
+bn:বর্ণ	I-ORG
+bn:উপপাদ্য	I-ORG
+
+bn:এই	O
+bn:ইউনিয়নটি	O
+bn:ঢাকা	B-LOC
+bn:বিভাগের	I-LOC
+bn:ঢাকা	B-LOC
+bn:জেলার	I-LOC
+bn:অন্তর্গত	O
+bn:ধামরাই	B-LOC
+bn:উপজেলায়	I-LOC
+bn:অবস্থিত।	O
+
+bn:ইউনিভার্সিটি	B-ORG
+bn:অব	I-ORG
+bn:ইলিনয়	I-ORG
+bn:অ্যাট	I-ORG
+bn:আর্বানা-শ্যাম্পেইন	I-ORG
+
+bn:মার্কিন	B-ORG
+bn:যুক্তরাষ্ট্রের	I-ORG
+bn:রাষ্ট্রপতি	I-ORG
+
+bn:প্যারিস	B-LOC
+bn:-	O
+bn:পরবর্তীতে	O
+bn:ত্যাগ	O
+bn:করে	O
+bn:ও	O
+bn:``	O
+bn:আজ্ঞেয়বাদী	O
+bn:''	O
+bn:হয়েছেন	O
+
+bn:মুহাম্মদ	B-PER
+bn:ইবনে	I-PER
+bn:আবদুল্লাহ	I-PER
+bn:ইবনে	I-PER
+bn:তাহির	I-PER
+
+bn:অখিল	B-ORG
+bn:ভারতীয়	I-ORG
+bn:হিন্দু	I-ORG
+bn:মহাসভা	I-ORG
+
+bn:মেদস্যাঁ	B-ORG
+bn:সঁ	I-ORG
+bn:ফ্রন্তিয়া	I-ORG
+
+bn:কোর্দেস্তন	B-LOC
+bn:প্রদেশ	I-LOC
+bn:(	I-LOC
+bn:ইরান	I-LOC
+bn:)	I-LOC
+
+bn:চিন্তামণি	B-LOC
+bn:(	I-LOC
+bn:শহর	I-LOC
+bn:)	I-LOC
+
+bn:জামাল	B-PER
+bn:আব্দেল	I-PER
+bn:নাসের	I-PER
+
+bn:জি	B-LOC
+bn:কার	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:কাম্প	B-ORG
+bn:ন্যু	I-ORG
+bn:,	O
+bn:বার্সেলোনা	B-LOC
+bn:,	O
+bn:স্পেন	B-LOC
+
+bn:পশ্চিম	B-LOC
+bn:খাসি	I-LOC
+bn:পাহাড়	I-LOC
+bn:জেলা	I-LOC
+bn:(	O
+bn:নংস্তৈন	B-LOC
+bn:)	O
+
+bn:'	O
+bn:''	O
+bn:দোহা	B-LOC
+bn:''	O
+bn:'	O
+
+bn:চিলির	B-ORG
+bn:কমিউনিস্ট	I-ORG
+bn:পার্টি	I-ORG
+
+bn:সিস্তন	B-LOC
+bn:ও	I-LOC
+bn:বালুচেস্তন	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:শেফিল্ড	B-ORG
+bn:ইউনাইটেড	I-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:১৯শ	O
+bn:শতকে	O
+bn:(	O
+bn:দে	B-LOC
+bn:ফ্যাক্টো	I-LOC
+bn:''	O
+bn:)	O
+bn:,	O
+bn:কখনো	O
+bn:সরকারী	O
+bn:ভাবে	O
+bn:দত্তক	O
+bn:নেওয়া	O
+bn:হয়নি	O
+
+bn:ইয়েলোস্টোন	B-LOC
+bn:জাতীয়	I-LOC
+bn:উদ্যান	I-LOC
+
+bn:গণতান্ত্রিক	B-LOC
+bn:কঙ্গো	I-LOC
+bn:প্রজাতন্ত্র	I-LOC
+
+bn:সাঁউ	B-LOC
+bn:তুমি	I-LOC
+bn:ও	I-LOC
+bn:প্রিন্সিপি	I-LOC
+
+bn:মধুসূদন	B-PER
+bn:সরস্বতীর	I-PER
+bn:(	O
+bn:১৫৬৫-১৬৬৫	O
+bn:)	O
+bn:''অদ্বৈতসিদ্ধি	O
+bn:''	O
+bn:।	O
+
+bn:সেল্টিক	B-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:গঙ্গা	B-LOC
+bn:(	I-LOC
+bn:দেবী	I-LOC
+bn:)	I-LOC
+
+bn:বেলু	B-ORG
+bn:অরিজঁত	I-ORG
+bn:মেট্রো	I-ORG
+
+bn:মুন্সি	B-PER
+bn:আব্দুর	I-PER
+bn:রউফ	I-PER
+
+bn:ফ্রেডরিখ	B-PER
+bn:গোল্যান্ড	I-PER
+bn:হপকিন্স	I-PER
+
+bn:আন্তর্জাতিক	B-LOC
+bn:তারিখ	I-LOC
+bn:রেখা	I-LOC
+
+bn:মাইক্রোসফট	B-ORG
+bn:ভিজুয়াল	I-ORG
+bn:প্রোগ্রামিং	I-ORG
+bn:ল্যাংগুয়েজ	I-ORG
+
+bn:গণতান্ত্রিক	B-LOC
+bn:কঙ্গো	I-LOC
+bn:প্রজাতন্ত্র	I-LOC
+
+bn:জাভেদ	B-PER
+bn:আখতার	I-PER
+bn:ও	O
+bn:জয়া	B-PER
+bn:বচ্চন	I-PER
+
+bn:জোন	B-PER
+bn:অব	I-PER
+bn:আর্ক	I-PER
+
+bn:হারারে	B-LOC
+bn:স্পোর্টস	I-LOC
+bn:ক্লাব	I-LOC
+bn:,	O
+bn:হারারে	B-LOC
+
+bn:সারে	B-LOC
+bn:পোল	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:'	O
+bn:''	O
+bn:আলজিয়ার্স	B-LOC
+bn:''	O
+bn:'	O
+
+bn:আবুল	B-PER
+bn:পাকির	I-PER
+bn:জয়নুল-আবেদিন	I-PER
+bn:আব্দুল	I-PER
+bn:কালাম	I-PER
+
+bn:ওমর	B-ORG
+bn:(	I-ORG
+bn:টিভি	I-ORG
+bn:ধারাবাহিক	I-ORG
+bn:)	I-ORG
+
+bn:জন	B-PER
+bn:ফিট্‌জেরাল্ড	I-PER
+bn:কেনেডি	I-PER
+
+bn:রানাসিংহে	B-LOC
+bn:প্রেমাদাসা	I-LOC
+bn:স্টেডিয়াম	I-LOC
+
+bn:'	O
+bn:''	O
+bn:তাইপে	B-ORG
+bn:১০১	I-ORG
+bn:''	O
+bn:'	O
+
+bn:মহম্মদ	B-PER
+bn:আতাউল	I-PER
+bn:গণি	I-PER
+bn:ওসমানী	I-PER
+
+bn:কনফেডারেট	B-LOC
+bn:স্টেটস	I-LOC
+bn:অফ	I-LOC
+bn:আমেরিকা	I-LOC
+
+bn:হ্যারি	B-LOC
+bn:পটার	I-LOC
+bn:অ্যান্ড	I-LOC
+bn:দ্য	I-LOC
+bn:হাফ-ব্লাড	I-LOC
+bn:প্রিন্স	I-LOC
+
+bn:দিতি	B-PER
+bn:-	O
+bn:বড়	O
+bn:মেয়ে	O
+
+bn:দাদরা	B-LOC
+bn:ও	I-LOC
+bn:নগর	I-LOC
+bn:হাভেলি	I-LOC
+
+bn:বিশ্ববিদ্যালয়	B-ORG
+bn:মঞ্জুরী	I-ORG
+bn:কমিশন	I-ORG
+
+bn:শালবন	B-LOC
+bn:বৌদ্ধ	I-LOC
+bn:বিহার	I-LOC
+
+bn:উভারহ্যাম্পটন	B-ORG
+bn:ওয়ান্ডারার্স	I-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:ব্রিটিশ	B-ORG
+bn:ব্রডকাস্টিং	I-ORG
+bn:কর্পোরেশন	I-ORG
+
+bn:২০১৪	B-ORG
+bn:ফিফা	I-ORG
+bn:বিশ্বকাপ	I-ORG
+
+bn:ভারতীয়	B-ORG
+bn:প্রৌদ্যোগিকী	I-ORG
+bn:সংস্থান	I-ORG
+bn:,	I-ORG
+bn:খড়্গপুর	I-ORG
+
+bn:ভিলহেল্ম	B-PER
+bn:কনরাড	I-PER
+bn:র‌ন্টগেন	I-PER
+
+bn:আবদুল্লাহ	B-PER
+bn:ইবনে	I-PER
+bn:আবদুল	I-PER
+bn:মুত্তালিব	I-PER
+
+bn:বাংলাদেশ	B-ORG
+bn:পরমাণু	I-ORG
+bn:শক্তি	I-ORG
+bn:কমিশন	I-ORG
+
+bn:ইকরিমা	B-PER
+bn:ইবনে	I-PER
+bn:আবি	I-PER
+bn:জাহল	I-PER
+
+bn:মেডিক্যাল	B-ORG
+bn:কলেজ	I-ORG
+bn:ও	I-ORG
+bn:হাসপাতাল	I-ORG
+bn:,	I-ORG
+bn:কলকাতা	I-ORG
+
+bn:জন	B-PER
+bn:হ্যাসব্রাউক	I-PER
+bn:ভ্যান	I-PER
+bn:ভ্লেক	I-PER
+
+bn:অশোক	B-PER
+bn:(	I-PER
+bn:সম্রাট	I-PER
+bn:)	I-PER
+
+bn:সন্তোষ	B-PER
+bn:চন্দ্র	I-PER
+bn:ভট্টাচার্য	I-PER
+
+bn:লিন্ডন	B-PER
+bn:বি.	I-PER
+bn:জনসন	I-PER
+
+bn:ওহোস	B-LOC
+bn:দেল	I-LOC
+bn:সালাদো	I-LOC
+bn:পর্বত	I-LOC
+
+bn:**	O
+bn:জেনেভা	B-LOC
+bn:(	O
+bn:দূতাবাস	O
+bn:)	O
+
+bn:ইসরায়েলের	B-ORG
+bn:জনসংখ্যার	I-ORG
+bn:পরিসংখ্যান	I-ORG
+
+bn:নটিংহ্যাম	B-ORG
+bn:ফরেস্ট	I-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:ভারত	B-PER
+bn:জাতীয়	I-PER
+bn:ক্রিকেট	I-PER
+bn:দলের	I-PER
+bn:কোচ	I-PER
+bn:হিসেবে	I-PER
+bn:কপিল	I-PER
+bn:দেব	I-PER
+
+bn:বেলফেগর	B-ORG
+bn:(	I-ORG
+bn:ব্যান্ড	I-ORG
+bn:)	I-ORG
+
+bn:অর্জুন	B-PER
+bn:(	I-PER
+bn:পাণ্ডব	I-PER
+bn:)	I-PER
+
+bn:ইথাকা	B-LOC
+bn:,	I-LOC
+bn:নিউইয়র্ক	I-LOC
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:'	O
+bn:''	O
+bn:বেলগ্রেড	B-LOC
+bn:''	O
+bn:'	O
+
+bn:জুভেন্টাস	B-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:জন	B-PER
+bn:ভন	I-PER
+bn:নিউম্যান	I-PER
+
+bn:এডগার	B-PER
+bn:রাইস	I-PER
+bn:বারোজ	I-PER
+
+bn:বাংলা	B-LOC
+bn:হলুদ	I-LOC
+bn:কাইট্টা	I-LOC
+
+bn:চেকোস্লোভাকিয়া	B-LOC
+bn:—	O
+bn:বর্তমান	O
+bn:উত্তরসূরি	O
+bn:হিসাবে	O
+bn:দুটি	O
+bn:এনওসিতে	O
+bn:প্রতিনিধিত্ব	O
+bn:করে।	O
+
+bn:গ্র্যান্ডমাস্টার	B-PER
+bn:(	I-PER
+bn:দাবা	I-PER
+bn:)	I-PER
+
+bn:বার্মিংহ্যাম	B-ORG
+bn:সিটি	I-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:আবু	B-ORG
+bn:রায়হান	I-ORG
+bn:আল	I-ORG
+bn:বিরুনি	I-ORG
+
+bn:একাডেমি	B-ORG
+bn:অব	I-ORG
+bn:মোশন	I-ORG
+bn:পিকচার	I-ORG
+bn:আর্টস	I-ORG
+bn:অ্যান্ড	I-ORG
+bn:সায়েন্সেস	I-ORG
+
+bn:সৈয়দ	B-PER
+bn:আবিদ	I-PER
+bn:আলী	I-PER
+
+bn:ভোল্‌ফগাংক্‌	B-PER
+bn:আমাডেয়ুস	I-PER
+bn:মোৎসার্ট	I-PER
+
+bn:ব্লুমিংটন	B-LOC
+bn:,	I-LOC
+bn:ইলিনয়	I-LOC
+
+bn:কাজী	B-PER
+bn:জাফর	I-PER
+bn:আহমেদ	I-PER
+
+bn:শারজাহ]]	O
+bn:,	O
+bn:সংযুক্ত	B-LOC
+bn:আরব	I-LOC
+bn:আমিরাত	I-LOC
+
+bn:নেতাজি	B-ORG
+bn:সুভাষ	I-ORG
+bn:মুক্ত	I-ORG
+bn:বিশ্ববিদ্যালয়	I-ORG
+
+bn:বাংলাদেশ	B-ORG
+bn:পরমাণু	I-ORG
+bn:শক্তি	I-ORG
+bn:কমিশন	I-ORG
+
+bn:হোসে	B-PER
+bn:রাউল	I-PER
+bn:কাপাব্লাঙ্কা	I-PER
+
+bn:এডিথ	B-PER
+bn:মড	I-PER
+bn:হুল	I-PER
+
+bn:এস্তাদিও	B-LOC
+bn:দো	I-LOC
+bn:মারাকানা	I-LOC
+
+bn:শহীদ	B-ORG
+bn:মনসুর	I-ORG
+bn:আলী	I-ORG
+bn:মেডিকেল	I-ORG
+bn:কলেজ	I-ORG
+bn:,	O
+bn:ঢাকা	B-LOC
+
+bn:খন্দকার	B-PER
+bn:মোশতাক	I-PER
+bn:আহমেদ	I-PER
+
+bn:ওয়ার্ল্ড	B-ORG
+bn:ইকোনমিক	I-ORG
+bn:ফোরাম	I-ORG
+
+bn:পূর্ণিমা	B-PER
+bn:(	I-PER
+bn:অভিনেত্রী	I-PER
+bn:)	I-PER
+
+bn:জন	B-PER
+bn:ফিট্‌জেরাল্ড	I-PER
+bn:কেনেডি	I-PER
+
+bn:কমলা	B-ORG
+bn:(	I-ORG
+bn:রঙ	I-ORG
+bn:)	I-ORG
+
+bn:p.	O
+bn:fretensis	O
+bn:''	O
+bn:,	O
+bn:সিঙ্গাপুর	B-LOC
+
+bn:কর্ণ	B-ORG
+bn:(	I-ORG
+bn:অঙ্গ	I-ORG
+bn:)	I-ORG
+
+bn:অখিল	B-ORG
+bn:ভারতীয়	I-ORG
+bn:আয়ুর্বিজ্ঞান	I-ORG
+bn:সংস্থান	I-ORG
+
+bn:বাংলা	B-PER
+bn:ভাষা	I-PER
+bn:আন্দোলন	I-PER
+
+bn:কৃষক	B-ORG
+bn:শ্রমিক	I-ORG
+bn:জনতা	I-ORG
+bn:লীগ	I-ORG
+
+bn:কান্দ্রি	B-LOC
+bn:,	I-LOC
+bn:নাগপুর	I-LOC
+
+bn:পর্তুগাল	B-ORG
+bn:জাতীয়	I-ORG
+bn:ফুটবল	I-ORG
+bn:দল	I-ORG
+
+bn:'	O
+bn:''	O
+bn:ওয়েস	B-PER
+bn:ব্রাউন	I-PER
+bn:''	O
+bn:'	O
+
+bn:কার্বনডেল	B-LOC
+bn:,	I-LOC
+bn:ইলিনয়	I-LOC
+
+bn:অস্ট্রিয়া	B-ORG
+bn:জনতা	I-ORG
+bn:পার্টি	I-ORG
+
+bn:ফিল্ড	B-ORG
+bn:(	I-ORG
+bn:গণিত	I-ORG
+bn:)	I-ORG
+
+bn:য়োন-তান-র্গ্যা-ম্ত্শো	B-PER
+bn:(	I-PER
+bn:চতুর্থ	I-PER
+bn:দলাই	I-PER
+bn:লামা	I-PER
+bn:)	I-PER
+
+bn:মিডিয়াম]]	O
+bn:,	O
+bn:ডানহাতি	O
+bn:অফ	B-ORG
+bn:ব্রেক	I-ORG
+
+bn:আহমেদ	B-PER
+bn:আকবর	I-PER
+bn:সোবহান	I-PER
+
+bn:১৯৭১	B-LOC
+bn:সালের	I-LOC
+bn:অস্থায়ী	I-LOC
+bn:বাংলাদেশ	I-LOC
+bn:সরকার	I-LOC
+
+bn:হেন্ড্রিক	B-PER
+bn:আন্টোন	I-PER
+bn:লোরেন্‌ৎস	I-PER
+
+bn:উত্তর	B-LOC
+bn:কেপ	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:হুয়াঁউ	B-PER
+bn:বাতিস্তা	I-PER
+bn:দি	I-PER
+bn:ওলিভেইরা	I-PER
+bn:ফিগেইরেদু	I-PER
+
+bn:রিও	B-LOC
+bn:দি	I-LOC
+bn:জেনেরিও	I-LOC
+
+bn:ক্যালকুলাসের	B-ORG
+bn:মৌলিক	I-ORG
+bn:উপপাদ্য	I-ORG
+
+bn:নিউল্যান্ডস	B-ORG
+bn:ক্রিকেট	I-ORG
+bn:গ্রাউন্ড	I-ORG
+bn:,	O
+bn:কেপ	B-LOC
+bn:টাউন	I-LOC
+
+bn:আবদুল	B-PER
+bn:আজিজ	I-PER
+bn:ইবনে	I-PER
+bn:সৌদ	I-PER
+
+bn:পরাণ	B-PER
+bn:বন্দ্যোপাধ্যায়	I-PER
+bn:সহ	O
+bn:আরো	O
+bn:অনেকে	O
+
+bn:আলেহান্দ্রো	B-PER
+bn:গোন্সালেস	I-PER
+bn:ইনারিতু	I-PER
+
+bn:ইন্ডিপেন্ডেন্ট	B-ORG
+bn:বিশ্ববিদ্যালয়	I-ORG
+bn:বাংলাদেশ	I-ORG
+
+bn:লুডভিগ	B-PER
+bn:ফান	I-PER
+bn:বেটোফেন	I-PER
+
+bn:ওয়ারস	B-ORG
+bn:'	I-ORG
+bn:মেট্রো	I-ORG
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:উমিয়া	B-ORG
+bn:ডিজাইন	I-ORG
+bn:ইনস্টিটিউট	I-ORG
+
+bn:এর	O
+bn:(	O
+bn:634-644	O
+bn:)	O
+bn:শাসনামলে	O
+bn:মৃত্যুবরণ	O
+bn:করেন।	O
+bn:তাকে	O
+bn:জান্নাতুল	B-LOC
+bn:বাকিতে	I-LOC
+bn:দাফন	O
+bn:করা	O
+bn:হয়।	O
+
+bn:আবুধাবি	B-LOC
+bn:,	O
+bn:সংযুক্ত	B-LOC
+bn:আরব	I-LOC
+bn:আমিরাত	I-LOC
+
+bn:সেন্ট	B-LOC
+bn:কিট্‌স	I-LOC
+bn:ও	I-LOC
+bn:নেভিস	I-LOC
+
+bn:অং	B-PER
+bn:সান	I-PER
+bn:সু	I-PER
+bn:চি	I-PER
+
+bn:ইমতিয়াজ	B-PER
+bn:আলী	I-PER
+bn:(	I-PER
+bn:পরিচালক	I-PER
+bn:)	I-PER
+
+bn:বাংলাদেশের	B-PER
+bn:স্বাধীনতা	I-PER
+bn:যুদ্ধ	I-PER
+
+bn:দ্য	B-ORG
+bn:ফুটবল	I-ORG
+bn:লীগ	I-ORG
+
+bn:ক্যারোলিনা	B-PER
+bn:কুর্কোভা	I-PER
+bn:–	O
+bn:(	O
+bn:২০০৫–২০০৮	O
+bn:)	O
+
+bn:এএমআই	O
+bn:স্টেডিয়াম]]	O
+bn:,	O
+bn:ক্রাইস্টচার্চ	B-LOC
+bn:,	O
+bn:নিউজিল্যান্ড	B-LOC
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:হুরু	B-LOC
+bn:ছিন্দওয়ারা	I-LOC
+bn:(	I-LOC
+bn:গোতেগাঁও	I-LOC
+bn:)	I-LOC
+
+bn:আবু	B-PER
+bn:বকর	I-PER
+bn:আল-বাগদাদী	I-PER
+
+bn:রিয়াল	B-ORG
+bn:মাদ্রিদ	I-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:জন	B-PER
+bn:কেনেথ	I-PER
+bn:গলব্রেইথ	I-PER
+
+bn:'	O
+bn:''	O
+bn:সাব্বির	B-PER
+bn:রহমান	I-PER
+bn:''	O
+bn:'	O
+
+bn:ডঃ	B-PER
+bn:আবু	I-PER
+bn:হেনা	I-PER
+bn:মোস্তফা	I-PER
+bn:কামাল	I-PER
+bn:-	O
+bn:সাংস্কৃতিক	O
+bn:ব্যক্তিত্ত্ব	O
+bn:;	O
+
+bn:যাদবপুর	B-ORG
+bn:বিশ্ববিদ্যালয়	I-ORG
+bn:প্রদত্ত	O
+bn:সাম্মানিক	O
+bn:ডি.লিট	O
+bn:.	O
+
+bn:টার্কস্‌	B-LOC
+bn:ও	I-LOC
+bn:কেইকোস	I-LOC
+bn:দ্বীপপুঞ্জ	I-LOC
+
+bn:২০০৮	B-ORG
+bn:গ্রীষ্মকালীন	I-ORG
+bn:অলিম্পিকে	I-ORG
+bn:দৌড়বাজী	I-ORG
+bn:–	I-ORG
+bn:পুরুষদের	I-ORG
+bn:ট্রিপল	I-ORG
+bn:জাম্প	I-ORG
+
+bn:বাংলাদেশের	B-ORG
+bn:বিপ্লবী	I-ORG
+bn:ওয়ার্কার্স	I-ORG
+bn:পার্টি	I-ORG
+
+bn:গিজার	B-ORG
+bn:মহা	I-ORG
+bn:পিরামিড	I-ORG
+
+bn:মারিও	B-PER
+bn:বার্গাস	I-PER
+bn:ইয়োসা	I-PER
+
+bn:দক্ষিণ	B-LOC
+bn:চীনের	I-LOC
+bn:বাঘ	I-LOC
+
+bn:তাহির	B-PER
+bn:ইবনে	I-PER
+bn:আবদুল্লাহ	I-PER
+
+bn:বাংলাদেশের	B-ORG
+bn:আন্তর্জাতিক	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:স্টেডিয়ামের	I-ORG
+bn:তালিকা	I-ORG
+
+bn:জে.	B-PER
+bn:আর.	I-PER
+bn:আর.	I-PER
+bn:টলকিন	I-PER
+
+bn:আহমদ	B-PER
+bn:শরীফ	I-PER
+bn:(	O
+bn:প্রবন্ধ-গবেষণা	O
+bn:)	O
+
+bn:গ্লোরিয়া	B-ORG
+bn:মাকাপাগাল	I-ORG
+bn:আরোইয়ো	I-ORG
+
+bn:পশ্চিম	B-LOC
+bn:আজারবাইজান	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:ভার্জিনিয়া	B-LOC
+bn:টেক	I-LOC
+bn:হত্যাকাণ্ড	I-LOC
+
+bn:স্পোর্টিং	B-ORG
+bn:বেঙ্গল	I-ORG
+bn:ইউনাইটেড	I-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:অনুপম	B-PER
+bn:রায়	I-PER
+bn:(	O
+bn:``	O
+bn:আমাকে	O
+bn:আমার	O
+bn:মত	O
+bn:থাকতে	O
+bn:দাও	O
+bn:''	O
+bn:)	O
+
+bn:দ্যাট	B-ORG
+bn:সেভেন্টিজ্‌	I-ORG
+bn:শো	I-ORG
+
+bn:গঙ্গা	B-LOC
+bn:নদী	I-LOC
+bn:শুশুক	I-LOC
+
+bn:'	O
+bn:''	O
+bn:রাঁচি	B-LOC
+bn:''	O
+bn:'	O
+
+bn:দক্ষিণ	B-LOC
+bn:গারো	I-LOC
+bn:পাহাড়	I-LOC
+bn:জেলা	I-LOC
+bn:(	O
+bn:বাঘমারা	B-LOC
+bn:)	O
+
+bn:ক্যালকাটা	B-ORG
+bn:ক্রিকেট	I-ORG
+bn:অ্যান্ড	I-ORG
+bn:ফুটবল	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:সিস্তন	B-LOC
+bn:ও	I-LOC
+bn:বালুচেস্তন	I-LOC
+bn:প্রদেশ	I-LOC
+
+bn:'	O
+bn:''	O
+bn:ক্রিস	B-PER
+bn:জর্দান	I-PER
+bn:''	O
+bn:'	O
+
+bn:ব্রড	B-ORG
+bn:ফ্রন্ট	I-ORG
+bn:(	I-ORG
+bn:উরুগুয়ে	I-ORG
+bn:)	I-ORG
+
+bn:শ্রীলঙ্কা	B-ORG
+bn:জাতীয়	I-ORG
+bn:ক্রিকেট	I-ORG
+bn:দল	I-ORG
+
+bn:ডেট্রয়েট	B-ORG
+bn:ইন্টারন্যাশনাল	I-ORG
+bn:রিভারফ্রন্ট	I-ORG
+
+bn:সালগাওকর	B-ORG
+bn:স্পোর্টস	I-ORG
+bn:ক্লাব	I-ORG
+
+bn:লিন্ডন	B-PER
+bn:বি.	I-PER
+bn:জনসন	I-PER
+
+bn:ডেভিড	B-PER
+bn:ওয়ার্নার	I-PER
+bn:১ম	O
+bn:টেস্টের	O
+bn:২য়	O
+bn:ইনিংসে	O
+bn:২	O
+bn:,	O
+bn:০০০	O
+bn:রান	O
+bn:অতিক্রম	O
+bn:করেন।	O
+
+bn:জন	B-PER
+bn:আর্চিবল্ড	I-PER
+bn:হুইলার	I-PER
+
+bn:জলপাইরঙা	B-LOC
+bn:সাগর	I-LOC
+bn:কাছিম	I-LOC
+
+bn:ভেনাস	B-LOC
+bn:ফ্লাইট্র্যাপ	I-LOC
+bn:(	I-LOC
+bn:উদ্ভিদ	I-LOC
+bn:)	I-LOC
+
+bn:'	O
+bn:''	O
+bn:তেগুসিগালপা	B-LOC
+bn:''	O
+bn:'	O
+
+bn:স্যান	B-LOC
+bn:হোসে	I-LOC
+bn:,	I-LOC
+bn:কোস্টা	I-LOC
+bn:রিকা	I-LOC
+
+bn:ডেন্টন	B-LOC
+bn:,	I-LOC
+bn:টেক্সাস	I-LOC
+
+bn:ক্রিয়েটিভ	B-ORG
+bn:কমন্স	I-ORG
+bn:লাইসেন্স	I-ORG
+
+bn:২০১৫	B-ORG
+bn:বঙ্গবন্ধু	I-ORG
+bn:গোল্ড	I-ORG
+bn:কাপ	I-ORG
+
+bn:'	O
+bn:''	O
+bn:মালে	B-LOC
+bn:''	O
+bn:'	O
+
+bn:**	O
+bn:বংশীবাদন	B-LOC
+bn:ধনেশ	I-LOC
+bn:''Bycanistes	O
+bn:fistulator	O
+bn:''	O
+

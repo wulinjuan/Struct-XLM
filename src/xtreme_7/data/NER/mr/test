@@ -1,0 +1,8356 @@
+mr:पुनर्निर्देशन	O
+mr:मिदनापूर	B-ORG
+mr:(	I-ORG
+mr:लोकसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+mr:)	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:शंकर	B-PER
+mr:वामन	I-PER
+mr:दांडेकर	I-PER
+
+mr:पीटर	B-ORG
+mr:मोकाबा	I-ORG
+mr:मैदान	I-ORG
+mr:,	O
+mr:पोलोक्वाने	B-LOC
+
+mr:पुनर्निर्देशन	O
+mr:न्यू	B-ORG
+mr:यॉर्क	I-ORG
+mr:निक्स	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:न्यू	B-ORG
+mr:यॉर्क	I-ORG
+mr:निक्स	I-ORG
+
+mr:कॉलेज	B-ORG
+mr:ऑफ	I-ORG
+mr:मिलिटरी	I-ORG
+mr:इंजिनियरींग	I-ORG
+
+mr:शहर	B-PER
+mr:पीर	I-PER
+mr:''	O
+mr:(	O
+mr:तिसरी	O
+mr:फेरी	O
+mr:)	O
+
+mr:ऑलिंपिक	B-ORG
+mr:मैदान	I-ORG
+mr:(	I-ORG
+mr:अँटवर्प	I-ORG
+mr:)	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:अखिल	B-ORG
+mr:भारतीय	I-ORG
+mr:अण्णा	I-ORG
+mr:द्रविड	I-ORG
+mr:मुन्नेत्र	I-ORG
+mr:कळघम	I-ORG
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:रामचंद्र	B-PER
+mr:चिंतामण	I-PER
+mr:ढेरे	I-PER
+
+mr:सिरोही	B-LOC
+mr:शहराच्या	O
+mr:माहितीसाठी	O
+mr:पहा	O
+mr:-	O
+mr:सिरोही	B-LOC
+mr:.	O
+mr:''	O
+
+mr:पुनर्निर्देशन	O
+mr:नारायण	B-PER
+mr:भिकाजी	I-PER
+mr:परुळेकर	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:शाडोल	B-ORG
+mr:(	I-ORG
+mr:लोकसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+mr:)	I-ORG
+
+mr:जेम्स	B-PER
+mr:पोक	I-PER
+mr:याच्या	O
+mr:अध्यक्षीय	O
+mr:कालखंडात	O
+mr:त्याने	O
+mr:परराष्ट्रसचिवाचे	O
+mr:कार्यालय	O
+mr:सांभाळले	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:गुलशन	B-PER
+mr:कुमार	I-PER
+mr:मेहता	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:जर्मनी	B-ORG
+mr:फुटबॉल	I-ORG
+mr:संघ	I-ORG
+
+mr:राज्याचे	O
+mr:शासन	O
+mr:मुख्यमंत्री	B-ORG
+mr:,	O
+mr:चालवतात	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:अजय	B-ORG
+mr:-	I-ORG
+mr:अतुल	I-ORG
+
+mr:हे	O
+mr:पाटण	B-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:मुख्य	O
+mr:ठिकाण	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:हैदराबाद	B-ORG
+mr:रेल्वे	I-ORG
+mr:स्थानक	I-ORG
+
+mr:'	O
+mr:''	O
+mr:मार्क	B-PER
+mr:वेबर	I-PER
+mr:''	O
+mr:'	O
+
+mr:*१९६८	O
+mr:-	O
+mr:मनोज	B-PER
+mr:कुमार	I-PER
+mr:-	O
+mr:उपकार	O
+
+mr:पुनर्निर्देशन	O
+mr:एअर	B-ORG
+mr:न्यू	I-ORG
+mr:झीलंड	I-ORG
+
+mr:राष्ट्रीय	B-ORG
+mr:छात्र	I-ORG
+mr:सेना	I-ORG
+
+mr:दक्षिण	B-ORG
+mr:रेल्वे	I-ORG
+mr:(	I-ORG
+mr:भारत	I-ORG
+mr:)	I-ORG
+
+mr:;	O
+mr:एसीसी	B-ORG
+mr:(	O
+mr:३	O
+mr:)	O
+
+mr:हा	O
+mr:अहमदनगर	B-LOC
+mr:जिल्ह्यातील	I-LOC
+mr:उपविभाग	O
+mr:आहे	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:जेन्सन	B-PER
+mr:बटन	I-PER
+mr:''	O
+mr:'	O
+
+mr:'	O
+mr:''	O
+mr:रोबेर्ट	B-PER
+mr:कुबिचा	I-PER
+mr:''	O
+mr:'	O
+
+mr:पुनर्निर्देशन	O
+mr:भारतीय	B-ORG
+mr:अंतराळ	I-ORG
+mr:संशोधन	I-ORG
+mr:संस्था	I-ORG
+
+mr:हा	O
+mr:मुंबई	B-LOC
+mr:शहराशी	O
+mr:मुंबई	B-ORG
+mr:उपनगरी	I-ORG
+mr:रेल्वे	I-ORG
+mr:सेवेने	O
+mr:जोडले	O
+mr:गेले	O
+mr:आहे	O
+mr:.	O
+
+mr:भारतीय	B-ORG
+mr:राष्ट्रीय	I-ORG
+mr:काँग्रेस	I-ORG
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हा	O
+mr:भारताच्या	B-LOC
+mr:केरळ	B-LOC
+mr:राज्यातील	O
+mr:एक	O
+mr:किल्ला	O
+mr:आहे	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:लॅटिन	B-LOC
+mr:अमेरिका	I-LOC
+mr:व	O
+mr:कॅरिबियन	B-LOC
+mr:(	O
+mr:१०	O
+mr:)	O
+mr:'	O
+mr:''	O
+
+mr:पुनर्निर्देशन	O
+mr:पोप	B-PER
+mr:एड्रियान	I-PER
+mr:सहावा	I-PER
+
+mr:*चालक	O
+mr:-	O
+mr:एलेन	B-PER
+mr:प्रोस्ट	I-PER
+mr:(	O
+mr:३	O
+mr:)	O
+
+mr:हे	O
+mr:शहर	O
+mr:विरुधु	B-LOC
+mr:नगर	I-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:क्योतो	B-LOC
+mr:''	O
+mr:'	O
+
+mr:'	O
+mr:''	O
+mr:मुंबई	B-ORG
+mr:उच्च	I-ORG
+mr:न्यायालय	I-ORG
+mr:''	O
+mr:'	O
+
+mr:पुनर्निर्देशन	O
+mr:लोक	B-ORG
+mr:जनशक्ती	I-ORG
+mr:पक्ष	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:जॉर्ज	B-PER
+mr:एच.डब्ल्यू.	I-PER
+mr:बुश	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:तुलूझ	B-ORG
+mr:एफ.सी	I-ORG
+mr:.	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:विश्वनाथ	B-PER
+mr:काशीनाथ	I-PER
+mr:राजवाडे	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:डहाणू	B-ORG
+mr:(	I-ORG
+mr:लोकसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+mr:)	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:दॉमिनिक	B-PER
+mr:दि	I-PER
+mr:व्हियेपाँ	I-PER
+
+mr:मुंबई	B-ORG
+mr:विद्यापीठातून	I-ORG
+mr:ते	O
+mr:बी.ए.एल्‌एल्‌बी	O
+mr:.	O
+
+mr:खलील	B-PER
+mr:अल	I-PER
+mr:घमदी	I-PER
+mr:(	O
+mr:)	O
+
+mr:पुनर्निर्देशन	O
+mr:पोप	B-PER
+mr:इनोसंट	I-PER
+mr:दुसरा	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:सेल्वम	B-PER
+mr:सुरेश	I-PER
+mr:कुमार	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:अमरेली	B-ORG
+mr:(	I-ORG
+mr:लोकसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+mr:)	I-ORG
+
+mr:शालेय	O
+mr:शिक्षण	O
+mr:पूर्ण	O
+mr:केल्यावर	O
+mr:पुढील	O
+mr:शिक्षणासाठी	O
+mr:ते	O
+mr:पुण्यात	B-LOC
+mr:आले	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:सर	B-ORG
+mr:जे.जे.	I-ORG
+mr:स्कूल	I-ORG
+mr:ऑफ	I-ORG
+mr:आर्ट	I-ORG
+
+mr:सर्वात	O
+mr:जवळील	O
+mr:अनौपचारिक	O
+mr:प्रशिक्षणकेंद्र	O
+mr:पणजी	B-LOC
+mr:येथे	O
+mr:१०	O
+mr:किलोमीटरहून	O
+mr:जास्त	O
+mr:अंतरावर	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:ग्वांग्जू	B-ORG
+mr:विश्वचषक	I-ORG
+mr:मैदान	I-ORG
+
+mr:बासे-तेर	B-LOC
+mr:ही	O
+mr:ग्वादेलोपची	O
+mr:राजधानी	O
+mr:तर	O
+mr:प्वेंत-ए-पित्र	O
+mr:हे	O
+mr:येथील	O
+mr:सर्वात	O
+mr:मोठे	O
+mr:शहर	O
+mr:आहे	O
+mr:.	O
+
+mr:ही	O
+mr:गाडी	O
+mr:दक्षिण	B-ORG
+mr:मध्य	I-ORG
+mr:रेल्वेच्या	I-ORG
+mr:अखत्यारीत	O
+mr:येते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:एफ.सी.	B-ORG
+mr:पासोस	I-ORG
+mr:दे	I-ORG
+mr:फरेरा	I-ORG
+
+mr:भारतातील	B-LOC
+mr:इतर	O
+mr:राज्यांप्रमाणेच	O
+mr:,	O
+mr:मुख्यमंत्री	B-ORG
+mr:हा	O
+mr:राज्याचा	O
+mr:प्रमुख	O
+mr:असतो	O
+mr:.	O
+
+mr:तिथे	O
+mr:पुणे	B-LOC
+mr:मार्गे	O
+mr:जाता	O
+mr:येते	O
+mr:.	O
+
+mr:हा	O
+mr:उत्तर	B-LOC
+mr:ध्रुवाचा	I-LOC
+mr:विरुद्ध	O
+mr:बिंदू	O
+mr:आहे	O
+mr:.	O
+
+mr:*२१७	O
+mr:-	O
+mr:संगमनेर	B-ORG
+mr:विधानसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हा	O
+mr:भारताच्या	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्यातील	O
+mr:एक	O
+mr:किल्ला	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:पोप	B-PER
+mr:एड्रियान	I-PER
+mr:दुसरा	I-PER
+
+mr:महाराष्ट्रामध्ये	B-LOC
+mr:शिक्षणसम्राट	O
+mr:ह्या	O
+mr:उपाधीने	O
+mr:ओळखल्या	O
+mr:जाणाऱ्या	O
+mr:डी.वाय	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:इन्व्हेस्टिगेशन्स	B-ORG
+mr:(	I-ORG
+mr:स्टार	I-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+mr:मालिका	I-ORG
+mr:)	I-ORG
+
+mr:याचे	O
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:जेसलमेर	B-LOC
+mr:येथे	O
+mr:आहे	O
+mr:.	O
+
+mr:पुणे	B-ORG
+mr:–	O
+mr:सिकंदराबाद	B-ORG
+mr:शताब्दी	B-ORG
+mr:एक्सप्रेस	I-ORG
+
+mr:हे	O
+mr:शहर	O
+mr:मिर्झापूर	B-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:तो	O
+mr:इंग्लंडमधील	B-LOC
+mr:ऑक्सफर्ड	B-ORG
+mr:विद्यापीठाचा	I-ORG
+mr:प्राध्यापक	O
+mr:होता	O
+mr:.	O
+
+mr:वर	O
+mr:सातपुड्याच्या	B-LOC
+mr:उंच	O
+mr:डोंगरावर	O
+mr:हा	O
+mr:किल्ला	O
+mr:पसरलेला	O
+mr:आहे	O
+mr:.	O
+
+mr:सिडनी	B-LOC
+mr:क्रिकेट	I-LOC
+mr:मैदान	I-LOC
+mr:,	O
+mr:सिडनी	B-LOC
+mr:,	O
+mr:ऑस्ट्रेलिया	B-LOC
+
+mr:पुनर्निर्देशन	O
+mr:युरोपीय	B-ORG
+mr:अंतराळ	I-ORG
+mr:संस्था	I-ORG
+
+mr:इरावती	B-PER
+mr:कर्वे	I-PER
+mr:लिखित	O
+mr:महाभारतावरील	O
+mr:समीक्षा	O
+mr:ग्रंथ	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:पाचवा	B-PER
+mr:मुराद	I-PER
+mr:,	I-PER
+mr:ओस्मानी	I-PER
+mr:सम्राट	I-PER
+
+mr:या	O
+mr:मध्ये	O
+mr:धर्मेंद्र	B-PER
+mr:यांनी	O
+mr:काम	O
+mr:केले	O
+mr:होते	O
+mr:.	O
+
+mr:अमरसिंग	B-PER
+mr:(	I-PER
+mr:क्रिकेट	I-PER
+mr:खेळाडू	I-PER
+mr:)	I-PER
+
+mr:कर्‍हाड	B-LOC
+mr:,	O
+mr:वाई	B-LOC
+mr:,	O
+mr:सांगली	B-LOC
+mr:,	O
+mr:वाळवा	B-LOC
+
+mr:रामकृष्ण	B-PER
+mr:परमहंस	I-PER
+mr:यांना	O
+mr:अद्वैत	B-ORG
+mr:वेदांताची	O
+mr:दीक्षा	O
+mr:तोतापुरींनी	O
+mr:दिली	O
+mr:असे	O
+mr:मानले	O
+mr:जाते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:ऑइल	B-ORG
+mr:अँड	I-ORG
+mr:नॅचरल	I-ORG
+mr:गॅस	I-ORG
+mr:कॉर्पोरेशन	I-ORG
+
+mr:**	O
+mr:काठमांडू	B-LOC
+mr:(	O
+mr:एम्बसी	O
+mr:)	O
+
+mr:'	O
+mr:''	O
+mr:पोप	B-PER
+mr:क्लेमेंट	I-PER
+mr:बारावा	I-PER
+mr:''	O
+mr:'Papa	O
+mr:'	O
+mr:''	O
+mr:CLEMENS	O
+mr:''	O
+mr:'	O
+mr:Duodecimus	O
+
+mr:पुनर्निर्देशन	O
+mr:कॉन्राड	B-PER
+mr:एमिल	I-PER
+mr:ब्लॉक	I-PER
+
+mr:उत्तर	B-LOC
+mr:प्रदेश	I-LOC
+mr:(	O
+mr:२८५	O
+mr:)	O
+
+mr:पुनर्निर्देशन	O
+mr:विजेंद्र	B-PER
+mr:कस्तुरीरंग	I-PER
+mr:वरदराज	I-PER
+mr:राव	I-PER
+
+mr:'	O
+mr:''	O
+mr:हा	O
+mr:भारताच्या	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्यातील	O
+mr:एक	O
+mr:किल्ला	O
+mr:आहे	O
+mr:.	O
+
+mr:हे	O
+mr:शहर	O
+mr:नालगोंडा	B-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:जून	B-LOC
+mr:७	I-LOC
+mr:-	O
+mr:नॉर्वेने	B-LOC
+mr:स्वीडनशी	B-LOC
+mr:असलेला	O
+mr:संघराज्याचा	O
+mr:करार	O
+mr:विसर्जित	O
+mr:केला	O
+mr:.	O
+
+mr:हा	O
+mr:राष्ट्रीय	B-ORG
+mr:महामार्ग	I-ORG
+mr:२२२	I-ORG
+mr:वरील	O
+mr:घाट	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:लील	B-ORG
+mr:ओ.एस.सी	I-ORG
+mr:.	I-ORG
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:या	O
+mr:रूपात	O
+mr:त्यांनी	O
+mr:पाकिस्तातून	O
+mr:आलेल्या	O
+mr:आणि	O
+mr:पंजाब	B-LOC
+mr:व	O
+mr:दिल्ली	B-LOC
+mr:येथे	O
+mr:राहणार्‍या	O
+mr:निर्वासितांच्या	O
+mr:मदतीसाठी	O
+mr:खूप	O
+mr:काम	O
+mr:केले	O
+mr:.	O
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:ट्रेंट	B-LOC
+mr:ब्रिज	I-LOC
+mr:मैदान	I-LOC
+mr:,	I-LOC
+mr:नॉटिंगहॅम	I-LOC
+
+mr:एकाधिकारशाहीवर	O
+mr:चंगीझ	B-PER
+mr:खानाचा	I-PER
+mr:विश्वास	O
+mr:नसल्याने	O
+mr:तो	O
+mr:आपले	O
+mr:सल्लागार	O
+mr:,	O
+mr:मांडलिक	O
+mr:टोळीप्रमुख	O
+mr:व	O
+mr:मुख्य	O
+mr:सैन्याधिकारी	O
+mr:यांना	O
+mr:एकत्र	O
+mr:बोलावून	O
+mr:महत्त्वाच्या	O
+mr:निर्णयांवर	O
+mr:सभा	O
+mr:घेत	O
+mr:असे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:दुसरा	B-PER
+mr:जॉर्ज	I-PER
+mr:,	I-PER
+mr:ग्रेट	I-PER
+mr:ब्रिटन	I-PER
+
+mr:त्यांनी	O
+mr:अमृता	B-PER
+mr:प्रीतम	I-PER
+mr:तसेच	O
+mr:साहिर	B-PER
+mr:लुधियानवी	I-PER
+mr:यांच्या	O
+mr:लेखनावर	O
+mr:आणि	O
+mr:जीवनांवर	O
+mr:आधारित	O
+mr:नाटके	O
+mr:सादर	O
+mr:केली	O
+mr:.	O
+
+mr:राजेंद्र	B-PER
+mr:प्रसाद	I-PER
+mr:(	O
+mr:1884-1963	O
+mr:)	O
+
+mr:पुनर्निर्देशन	O
+mr:श्री	B-ORG
+mr:शिवछत्रपती	I-ORG
+mr:क्रीडानगरी	I-ORG
+
+mr:२००२	B-ORG
+mr:फिफा	I-ORG
+mr:विश्वचषकातील	I-ORG
+mr:त्याच्या	O
+mr:बचावफळीतील	O
+mr:कामगिरीआधी	O
+mr:हा	O
+mr:फारसा	O
+mr:प्रसिद्ध	O
+mr:नव्हता	O
+mr:.	O
+
+mr:पश्चिम	B-LOC
+mr:युरोपीय	I-LOC
+mr:हवामान	O
+mr:हे	O
+mr:मुख्यत्वे	O
+mr:४५	O
+mr:ते	O
+mr:५०	O
+mr:°	O
+mr:अक्षांशावर	O
+mr:समुद्रकिना‍ऱ्याजवळील	O
+mr:भूप्रदेशात	O
+mr:आढळून	O
+mr:येते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:ओडिशा	B-ORG
+mr:क्रिकेट	I-ORG
+mr:संघ	I-ORG
+
+mr:ॲरिस्टॉटल	B-PER
+mr:हा	O
+mr:या	O
+mr:उपशाखेचा	O
+mr:जनक	O
+mr:ठरतो	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:यशवंत	B-PER
+mr:दिनकर	I-PER
+mr:फडके	I-PER
+
+mr:औंढा	B-LOC
+mr:नागनाथ	I-LOC
+mr:येथील	O
+mr:मंदिर	O
+
+mr:भारतीय	B-ORG
+mr:राष्ट्रीय	I-ORG
+mr:राजमार्ग	I-ORG
+mr:प्राधिकरण	I-ORG
+
+mr:याचे	O
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:नेल्लोर	B-LOC
+mr:येथे	O
+mr:आहे	O
+mr:.	O
+
+mr:याचे	O
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:बरैली	B-LOC
+mr:येथे	O
+mr:आहे	O
+mr:.	O
+
+mr:गिझाचा	B-ORG
+mr:भव्य	I-ORG
+mr:पिरॅमिड	I-ORG
+
+mr:'	O
+mr:''	O
+mr:पोप	B-PER
+mr:ऑनरियस	I-PER
+mr:पहिला	I-PER
+mr:''	O
+mr:'Papa	O
+mr:'	O
+mr:''	O
+mr:HONORIUS	O
+mr:''	O
+mr:'	O
+
+mr:आपल्या	O
+mr:पित्याच्या	O
+mr:इच्छेप्रमाणे	O
+mr:तिने	O
+mr:विष्णूशी	O
+mr:लग्न	O
+mr:करता	O
+mr:शंकराला	B-ORG
+mr:वरले	O
+mr:.	O
+
+mr:युझ्नो-साखालिन्स्क	B-LOC
+mr:हे	O
+mr:येथील	O
+mr:सर्वात	O
+mr:मोठे	O
+mr:शहर	O
+mr:आहे	O
+mr:.	O
+
+mr:सुप्रसिद्ध	B-PER
+mr:अर्थतज्ज्ञ	I-PER
+mr:श्री.	I-PER
+mr:धनंजयराव	I-PER
+mr:गाडगीळ	I-PER
+mr:या	O
+mr:कारखान्याचे	O
+mr:पहिले	O
+mr:अध्यक्ष	O
+mr:होते	O
+mr:.	O
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:एंटरप्राइझ	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:केवलादेव	B-LOC
+mr:घाना	I-LOC
+mr:राष्ट्रीय	I-LOC
+mr:उद्यान	I-LOC
+
+mr:पुनर्निर्देशन	O
+mr:अँटिगा	B-ORG
+mr:आणि	I-ORG
+mr:बार्बुडा	I-ORG
+mr:फुटबॉल	I-ORG
+mr:संघ	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:बी	B-ORG
+mr:अॅन्ड	I-ORG
+mr:एच	I-ORG
+mr:एअरलाइन्स	I-ORG
+
+mr:हे	O
+mr:शहर	O
+mr:बडगाम	B-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:रेने	B-PER
+mr:देकार्तने	I-PER
+mr:याची	O
+mr:प्रथमतः	O
+mr:मांडणी	O
+mr:केली	O
+mr:.	O
+
+mr:याचे	O
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:इटावा	B-LOC
+mr:येथे	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:जोतीराव	B-PER
+mr:गोविंदराव	I-PER
+mr:फुले	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:सोळावा	B-PER
+mr:लुई	I-PER
+mr:,	I-PER
+mr:फ्रान्स	I-PER
+
+mr:श्रेयस	B-PER
+mr:तळपदे	I-PER
+mr:,	O
+mr:नसिरुद्दीन	B-PER
+mr:शाह	I-PER
+
+mr:गावाचा	O
+mr:पिन	B-LOC
+mr:कोड	I-LOC
+mr:४१६११८	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:ऑइल	B-ORG
+mr:अँड	I-ORG
+mr:नॅचरल	I-ORG
+mr:गॅस	I-ORG
+mr:कॉर्पोरेशन	I-ORG
+
+mr:'	O
+mr:''	O
+mr:हा	O
+mr:पुण्याच्या	B-LOC
+mr:पश्चिमेकडील	O
+mr:भाग	O
+mr:आहे	O
+mr:.	O
+
+mr:जुन्या	O
+mr:पुणे	B-LOC
+mr:शहरातील	O
+mr:एक	O
+mr:मध्यवर्ती	O
+mr:क्षेत्र	O
+mr:.	O
+
+mr:हा	O
+mr:किल्ला	O
+mr:पुणे	B-LOC
+mr:,	O
+mr:नाशिक	B-LOC
+mr:आणि	O
+mr:अहमदनगर	B-LOC
+mr:या	O
+mr:तीन	O
+mr:जिल्ह्यांच्या	O
+mr:सीमेवर	O
+mr:स्थित	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:आयर्लंड	B-ORG
+mr:क्रिकेट	I-ORG
+mr:संघ	I-ORG
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हा	O
+mr:भारताच्या	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्यातील	O
+mr:एक	O
+mr:किल्ला	O
+mr:आहे	O
+mr:.	O
+
+mr:नाना	B-PER
+mr:फडणवीस	I-PER
+mr:यांनी	O
+mr:नवसाप्रीत्यर्थ	O
+mr:एक	O
+mr:लाख	O
+mr:रुपये	O
+mr:देवाला	O
+mr:वाहिले	O
+mr:होते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:जेम्स	B-PER
+mr:पहिला	I-PER
+mr:,	I-PER
+mr:इंग्लंड	I-PER
+
+mr:इकडे	O
+mr:टॅफी	O
+mr:१७चे	O
+mr:नेतृत्त्व	O
+mr:अ‍ॅडमिरल	O
+mr:क्रेसने	O
+mr:रात्री	O
+mr:अ‍ॅडमिरल	O
+mr:ऑब्रे	B-PER
+mr:फिचकडे	I-PER
+mr:तात्पुरते	O
+mr:दिलेले	O
+mr:होते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:कुंदन	B-PER
+mr:लाल	I-PER
+mr:सैगल	I-PER
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हा	O
+mr:भारताच्या	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्यातील	O
+mr:एक	O
+mr:किल्ला	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:गाली	B-LOC
+mr:,	I-LOC
+mr:श्रीलंका	I-LOC
+
+mr:कृष्णशास्त्री	B-PER
+mr:चिपळूणकर	I-PER
+mr:यांचे	O
+mr:’मराठी	O
+mr:व्याकरणावरील	O
+mr:निबंध’	O
+
+mr:पुनर्निर्देशन	O
+mr:एड्विन	B-PER
+mr:फान	I-PER
+mr:देर	I-PER
+mr:सार	I-PER
+
+mr:'	O
+mr:''	O
+mr:बेंजामिन	B-PER
+mr:हॅरिसन	I-PER
+mr:''	O
+mr:'	O
+mr:(	O
+mr:1833–1901	O
+mr:)	O
+
+mr:ते	O
+mr:आयडीबीआय	B-ORG
+mr:बँकेचे	I-ORG
+mr:पहिले	O
+mr:संचालक	O
+mr:होते	O
+mr:.	O
+
+mr:म्हैसूर	B-LOC
+mr:शहराच्या	O
+mr:माहितीसाठी	O
+mr:येथे	B-LOC
+mr:टिचकी	O
+mr:द्या	O
+mr:.	O
+mr:''	O
+
+mr:फाडुट्स	B-LOC
+mr:(	O
+mr:अथवा	O
+mr:वाडुझ	O
+mr:)	O
+mr:ही	O
+mr:लिश्टनस्टाइनची	O
+mr:राजधानी	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:मॅसेच्युसेट्स	B-ORG
+mr:इन्स्टिट्यूट	I-ORG
+mr:ऑफ	I-ORG
+mr:टेक्नॉलॉजी	I-ORG
+
+mr:**	O
+mr:लिस्बन	B-LOC
+mr:(	O
+mr:एम्बसी	O
+mr:)	O
+
+mr:पुनर्निर्देशन	O
+mr:सहारा	B-ORG
+mr:पार्क	I-ORG
+mr:न्यूलॅन्ड्स	I-ORG
+
+mr:आदित्य	B-PER
+mr:चोप्राने	I-PER
+mr:निर्माण	O
+mr:केलेल्या	O
+mr:ह्या	O
+mr:चित्रपटामध्ये	O
+mr:अमिताभ	B-PER
+mr:बच्चन	I-PER
+mr:,	O
+mr:अभिषेक	B-PER
+mr:बच्चन	I-PER
+mr:व	O
+mr:राणी	B-PER
+mr:मुखर्जी	I-PER
+mr:ह्यांच्या	O
+mr:आघाडीच्या	O
+mr:भूमिका	O
+mr:आहेत	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:यार्नो	B-PER
+mr:त्रुल्ली	I-PER
+mr:''	O
+mr:'	O
+
+mr:'	O
+mr:''	O
+mr:फ्लाव्हिया	B-PER
+mr:पेनेटा	I-PER
+mr:''	O
+mr:'	O
+mr:ने	O
+mr:रॉबेर्ता	B-PER
+mr:व्हिंची	I-PER
+mr:ला	O
+mr:7–6	O
+mr:(	O
+mr:7–4	O
+mr:)	O
+mr:,	O
+mr:6–2	O
+mr:असे	O
+mr:हरवले	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:एच.	B-PER
+mr:डेव्हिड	I-PER
+mr:पोलित्झर	I-PER
+
+mr:महानगर	B-ORG
+mr:टेलिफोन	I-ORG
+mr:निगम	I-ORG
+mr:लिमिटेड	I-ORG
+mr:(	O
+mr:एम.टी.एन.एल्	O
+mr:.	O
+mr:)	O
+
+mr:सर्बिया	B-ORG
+mr:आणि	I-ORG
+mr:माँटेनिग्रो	I-ORG
+mr:फुटबॉल	I-ORG
+mr:संघ	I-ORG
+
+mr:राजीव	B-PER
+mr:गांधी	I-PER
+mr:(	O
+mr:मरणोत्तर	O
+mr:)	O
+
+mr:त्यातील	O
+mr:बहुमोल	O
+mr:लेखांबरोबर	O
+mr:त्यातील	O
+mr:दुर्मीळ	O
+mr:छायाचित्रे	O
+mr:व	O
+mr:त्यात	O
+mr:आगरकर	B-PER
+mr:व	O
+mr:हरिभाऊ	B-PER
+mr:आपटे	I-PER
+mr:ह्यांच्या	O
+mr:हस्ताक्षरांचे	O
+mr:नमुने	O
+mr:दिले	O
+mr:होते	O
+mr:.	O
+
+mr:तळणी	O
+mr:बीड	B-LOC
+mr:जिल्ह्यातील	I-LOC
+mr:अंबेजोगाई	B-LOC
+mr:तालुक्यात	O
+mr:आहे	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हा	O
+mr:भारताच्या	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्यातील	O
+mr:एक	O
+mr:किल्ला	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:१३	B-ORG
+mr:जुलै	I-ORG
+mr:,	I-ORG
+mr:इ.स.	I-ORG
+mr:२०११	I-ORG
+mr:चा	I-ORG
+mr:मुंबईवरील	I-ORG
+mr:बाँबहल्ला	I-ORG
+
+mr:तर	O
+mr:सोनचाफा	B-LOC
+mr:हा	O
+mr:स्थानिक	O
+mr:व्रुक्ष	O
+mr:असून	O
+mr:दोघांमधे	O
+mr:बर्याचदा	O
+mr:गल्ल्त	O
+mr:केली	O
+mr:जाते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:भारतीय	B-PER
+mr:रिझर्व	I-PER
+mr:बँकेच्या	I-PER
+mr:गव्हर्नरांची	I-PER
+mr:यादी	I-PER
+
+mr:श्रेया	B-PER
+mr:घोषाल	I-PER
+mr:=	O
+mr:6	O
+
+mr:उत्तरेकडील	O
+mr:कँपबेल	B-ORG
+mr:बे	I-ORG
+mr:राष्ट्रीय	I-ORG
+mr:उद्यान	I-ORG
+mr:व	O
+mr:दक्षिणे	O
+mr:कडील	O
+mr:गलाथिया	B-ORG
+mr:राष्ट्रीय	I-ORG
+mr:उद्यान	I-ORG
+mr:.	O
+
+mr:===	O
+mr:जळगाव	B-LOC
+mr:जिल्हा	I-LOC
+mr:(	O
+mr:४	O
+mr:)	O
+mr:===	O
+
+mr:पुनर्निर्देशन	O
+mr:सहरसा	B-ORG
+mr:पटणा	I-ORG
+mr:राज्यराणी	I-ORG
+mr:एक्सप्रेस	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:पोप	B-PER
+mr:जॉन	I-PER
+mr:एकविसावा	I-PER
+
+mr:दक्षिण	B-LOC
+mr:कोरियाने	I-LOC
+mr:संधीवर	O
+mr:सही	O
+mr:करण्यास	O
+mr:नकार	O
+mr:दिला	O
+mr:परंतु	O
+mr:संधी	O
+mr:मान्य	O
+mr:केली	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:दत्तात्रय	B-PER
+mr:गणेश	I-PER
+mr:गोडसे	I-PER
+
+mr:''	O
+mr:'	O
+mr:टॉमस	B-PER
+mr:पेखार्ट	I-PER
+
+mr:साक्री	B-LOC
+mr:-	O
+mr:नंदुरबार	B-LOC
+mr:-	O
+mr:प्रकाशे	O
+
+mr:भारतीय	B-ORG
+mr:राष्ट्रीय	I-ORG
+mr:राजमार्ग	I-ORG
+mr:प्राधिकरण	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:फह्द	B-PER
+mr:,	I-PER
+mr:सौदी	I-PER
+mr:अरेबिया	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:स्टेड	B-ORG
+mr:दे	I-ORG
+mr:जिनिव्हा	I-ORG
+
+mr:या	O
+mr:मध्ये	O
+mr:धर्मेंद्र	B-PER
+mr:यांनी	O
+mr:काम	O
+mr:केले	O
+mr:होते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:चेन्नई	B-ORG
+mr:दक्षिण	I-ORG
+mr:(	I-ORG
+mr:लोकसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+mr:)	I-ORG
+
+mr:मे	B-LOC
+mr:३१	I-LOC
+mr:-	O
+mr:दक्षिण	B-LOC
+mr:आफ्रिकेला	I-LOC
+mr:स्वातंत्र्य	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:रांची	B-LOC
+mr:''	O
+mr:'	O
+
+mr:संजय	B-PER
+mr:दत्त	I-PER
+mr:,	O
+mr:शमिता	B-PER
+mr:शेट्टी	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:कनैयालाल	B-PER
+mr:माणेकलाल	I-PER
+mr:मुन्शी	I-PER
+
+mr:अंटार्क्टिका	B-LOC
+mr:खंड	O
+mr:सोडून	O
+mr:जगभर	O
+mr:सर्वत्र	O
+mr:आढळतात	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:नोव्हाक	B-PER
+mr:जोकोविच	I-PER
+mr:''	O
+mr:'	O
+
+mr:या	O
+mr:मध्ये	O
+mr:धर्मेंद्र	B-PER
+mr:यांनी	O
+mr:काम	O
+mr:केले	O
+mr:होते	O
+mr:.	O
+
+mr:हांसुंग	B-ORG
+mr:एरलाइन्स	I-ORG
+mr:(	O
+mr:४	O
+mr:)	O
+
+mr:पुनर्निर्देशन	O
+mr:दिघोरी	B-LOC
+mr:,	I-LOC
+mr:भंडारा	I-LOC
+
+mr:त्यांनी	O
+mr:बँक	B-ORG
+mr:ऑफ	I-ORG
+mr:इंडियामधील	I-ORG
+mr:नोकरी	O
+mr:सोडून	O
+mr:अभिनय	O
+mr:हीच	O
+mr:कारकीर्द	O
+mr:करण्याचे	O
+mr:आपल्या	O
+mr:चाळिशीत	O
+mr:ठरवले	O
+mr:.	O
+
+mr:या	O
+mr:चित्रपटात	O
+mr:शर्मिला	B-PER
+mr:टागोर	I-PER
+mr:व	O
+mr:राजेश	B-PER
+mr:खन्ना	I-PER
+mr:यानी	O
+mr:काम	O
+mr:केले	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:मिझोरम	B-ORG
+mr:(	I-ORG
+mr:लोकसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+mr:)	I-ORG
+
+mr:तेथे	O
+mr:तिचा	O
+mr:संगम	O
+mr:वैनगंगा	B-LOC
+mr:आणि	O
+mr:पैनगंगा	B-LOC
+mr:या	O
+mr:नद्यांशी	O
+mr:होतो	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:गणेश	B-PER
+mr:श्रीकृष्ण	I-PER
+mr:खापर्डे	I-PER
+
+mr:जिबूटी	B-ORG
+mr:फुटबॉल	I-ORG
+mr:संघ	I-ORG
+
+mr:'	O
+mr:''	O
+mr:सेरेना	B-PER
+mr:विल्यम्स	I-PER
+mr:''	O
+mr:'	O
+mr:ने	O
+mr:मारिया	B-PER
+mr:शारापोव्हा	I-PER
+mr:ला	O
+mr:6–4	O
+mr:,	O
+mr:6–4	O
+mr:असे	O
+mr:हरवले	O
+mr:.	O
+
+mr:या	O
+mr:वृत्तपत्राचे	O
+mr:मुख्य	O
+mr:कार्यालय	O
+mr:मध्य	B-LOC
+mr:प्रदेशातील	I-LOC
+mr:भोपाळ	B-LOC
+mr:येथे	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:क्लब	B-ORG
+mr:वन	I-ORG
+mr:एर	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:ब्रिटिश	B-ORG
+mr:ईस्ट	I-ORG
+mr:इंडिया	I-ORG
+mr:कंपनी	I-ORG
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हा	O
+mr:भारताच्या	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्यातील	O
+mr:एक	O
+mr:किल्ला	O
+mr:आहे	O
+mr:.	O
+
+mr:७	O
+mr:गडी	O
+mr:राखुन	O
+mr:विजयी	O
+mr:,	O
+mr:सामनावीर-	O
+mr:ब्रॅड	B-PER
+mr:हॉज	I-PER
+mr:७१*	O
+mr:(	O
+mr:४४	O
+mr:)	O
+
+mr:पुनर्निर्देशन	O
+mr:तिबेट	B-LOC
+mr:स्वायत्त	I-LOC
+mr:प्रदेश	I-LOC
+
+mr:पुनर्निर्देशन	O
+mr:गेल	B-ORG
+mr:(	I-ORG
+mr:इंडिया	I-ORG
+mr:)	I-ORG
+mr:लिमिटेड	I-ORG
+
+mr:या	O
+mr:मध्ये	O
+mr:अमिताभ	B-PER
+mr:बच्चन	I-PER
+mr:यांनी	O
+mr:काम	O
+mr:केले	O
+mr:होते	O
+mr:.	O
+
+mr:नवी	B-LOC
+mr:दिल्ली	I-LOC
+mr:ते	O
+mr:अमृतसर	B-LOC
+mr:दरम्यान	O
+mr:धावणारा	O
+mr:राष्ट्रीय	B-ORG
+mr:महामार्ग	I-ORG
+mr:१	I-ORG
+mr:लुधियानामधून	O
+mr:जातो	O
+mr:.	O
+
+mr:-	O
+mr:नेल्लोर	B-LOC
+mr:हा	O
+mr:८३	O
+mr:किमी	O
+mr:लांबीचा	O
+mr:मार्ग	O
+mr:आंध्र	B-LOC
+mr:प्रदेशामध्ये	I-LOC
+mr:जातो	O
+mr:.	O
+
+mr:येथे	O
+mr:त्याला	O
+mr:देवाच्या	O
+mr:कौलानुसार	O
+mr:झ्यूस	B-PER
+mr:/	O
+mr:अमुनचा	O
+mr:पुत्र	O
+mr:म्हणून	O
+mr:घोषित	O
+mr:करण्यात	O
+mr:आले	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:फ्यूचर	B-ORG
+mr:जनराली	I-ORG
+mr:सर्वसाधारण	I-ORG
+mr:विमा	I-ORG
+mr:कंपनी	I-ORG
+
+mr:*१९६१	O
+mr:-	O
+mr:नंदा	B-PER
+mr:-	O
+mr:आंचल	O
+
+mr:मध्य	B-LOC
+mr:प्रदेश	I-LOC
+mr:(	O
+mr:१५२	O
+mr:)	O
+mr:,	O
+mr:छत्तीसगढ	B-LOC
+mr:(	O
+mr:१२८	O
+mr:)	O
+mr:,	O
+mr:उत्तर	B-LOC
+mr:प्रदेश	I-LOC
+mr:(	O
+mr:५५	O
+mr:)	O
+
+mr:वाधवान	O
+mr:-	O
+mr:वर्षाबेन	O
+mr:दोषी	O
+mr:भारतीय	B-ORG
+mr:जनता	I-ORG
+mr:पक्ष	I-ORG
+
+mr:त्यांनी	O
+mr:आयुष्यभर	O
+mr:शंकराचार्यप्रणीत	B-ORG
+mr:अद्वैत	B-ORG
+mr:सिद्धान्ताचे	O
+mr:समर्थन	O
+mr:आणि	O
+mr:प्रसार	O
+mr:करून	O
+mr:तसे	O
+mr:करणाऱ्या	O
+mr:ग्रंथांचे	O
+mr:लेखन	O
+mr:केले	O
+mr:.	O
+
+mr:*२७०	O
+mr:-	O
+mr:सावंतवाडी	B-ORG
+mr:विधानसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+
+mr:नरहर	B-PER
+mr:रघुनाथ	I-PER
+mr:फाटक	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:अ‍ॅर्देन	B-LOC
+mr:(	I-LOC
+mr:विभाग	I-LOC
+mr:)	I-LOC
+
+mr:राजेश	B-PER
+mr:खन्ना	I-PER
+mr:यांच्यासारख्या	O
+mr:सुपरस्टारबरोबर	O
+mr:त्याच्या	O
+mr:बेशिस्तपणामुळे	O
+mr:काम	O
+mr:न	O
+mr:करण्याची	O
+mr:प्रतिज्ञा	O
+mr:प्राण	O
+mr:यांनी	O
+mr:शेवटपर्यंत	O
+mr:पाळली	O
+mr:.	O
+
+mr:===	O
+mr:शिर्डी	B-ORG
+mr:(	I-ORG
+mr:लोकसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+mr:)	I-ORG
+mr:===	O
+
+mr:पुनर्निर्देशन	O
+mr:जॉर्ज	B-PER
+mr:वॉकर	I-PER
+mr:बुश	I-PER
+
+mr:याचे	O
+mr:मुख्य	O
+mr:ठिकाण	O
+mr:बंगळूर	B-LOC
+mr:येथे	O
+mr:आहे	O
+mr:.	O
+
+mr:मिलान	B-LOC
+mr:(	O
+mr:1998	O
+mr:)	O
+
+mr:अखिल	B-ORG
+mr:भारतीय	I-ORG
+mr:अण्णा	I-ORG
+mr:द्रविड	I-ORG
+mr:मुन्नेत्र	I-ORG
+mr:कळघम	I-ORG
+
+mr:मराठ्यांनी	B-ORG
+mr:टिपूविरुद्धच्या	O
+mr:मोहिमेत	O
+mr:ब्रिटिशांची	O
+mr:साथ	O
+mr:द्यावी	O
+mr:यासाठीही	O
+mr:वेल्स्लीने	O
+mr:प्रयत्न	O
+mr:केले	O
+mr:.	O
+
+mr:कर्णायन	O
+mr:(	O
+mr:गो.नी.	B-PER
+mr:दांडेकर	I-PER
+mr:)	O
+
+mr:पुनर्निर्देशन	O
+mr:पद्मिनी	B-PER
+mr:(	I-PER
+mr:अभिनेत्री	I-PER
+mr:)	I-PER
+
+mr:आसाम	B-ORG
+mr:गण	I-ORG
+mr:परिषद	I-ORG
+mr:(	O
+mr:AGP	O
+mr:)	O
+
+mr:पुनर्निर्देशन	O
+mr:सर्बिया	B-ORG
+mr:आणि	I-ORG
+mr:माँटेनिग्रो	I-ORG
+
+mr:-	O
+mr:भारतीय	B-ORG
+mr:जनता	I-ORG
+mr:पक्ष	I-ORG
+
+mr:हे	O
+mr:शहर	O
+mr:तिनसुकिया	B-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:बाजरीचे	O
+mr:उत्पादन	O
+mr:भारत	B-LOC
+mr:आणि	O
+mr:आफ्रिका	B-LOC
+mr:येथील	O
+mr:काही	O
+mr:देशांत	O
+mr:मोठ्या	O
+mr:प्रमाणावर	O
+mr:खाण्यासाठी	O
+mr:केले	O
+mr:जाते	O
+mr:तर	O
+mr:अमेरिकेची	B-LOC
+mr:संयुक्त	I-LOC
+mr:संस्थाने	I-LOC
+mr:देशात	O
+mr:त्याचे	O
+mr:उत्पादन	O
+mr:मुख्यत्वेकरुन	O
+mr:पशुपक्ष्यांच्या	O
+mr:खाद्यासाठी	O
+mr:केले	O
+mr:जाते	O
+mr:.	O
+
+mr:येथील	O
+mr:खाणीतूनच	O
+mr:ताजमहालचा	B-ORG
+mr:संगमरवर	O
+mr:वापरला	O
+mr:गेल्याची	O
+mr:नोंद	O
+mr:आहे	O
+
+mr:पुनर्निर्देशन	O
+mr:भास्कर	B-PER
+mr:रामचंद्र	I-PER
+mr:भागवत	I-PER
+
+mr:हिंदुकुश	B-LOC
+mr:पर्वतरांग	I-LOC
+mr:पर्वताजवळ	O
+mr:अलेक्झांडर	B-PER
+mr:द	I-PER
+mr:ग्रेट	I-PER
+mr:याने	O
+mr:वसवलेले	O
+mr:एक	O
+mr:शहर	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:उमेश	B-PER
+mr:विनायक	I-PER
+mr:कुलकर्णी	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:श्री	B-ORG
+mr:विठ्ठल	I-ORG
+mr:एज्युकेशन	I-ORG
+mr:अॅन्ड	I-ORG
+mr:रिसर्च	I-ORG
+mr:इंस्टिट्यूट	I-ORG
+mr:कॉलेज	I-ORG
+mr:ऑफ	I-ORG
+mr:इंजिनियरिंग	I-ORG
+
+mr:या	O
+mr:विभागाचे	O
+mr:मुख्यालय	O
+mr:जोधपूर	B-LOC
+mr:येथे	O
+mr:आहे	O
+mr:.	O
+
+mr:कर्नाटक	B-LOC
+mr:सीमेपासून	O
+mr:-	O
+mr:गुंटकल	B-LOC
+mr:-	O
+mr:गूटी	B-LOC
+
+mr:विधान	B-ORG
+mr:सभेत	I-ORG
+mr:लोकांनी	O
+mr:प्रत्यक्षपणे	O
+mr:निवडून	O
+mr:दिलेले	O
+mr:प्रतिनिधी	O
+mr:असतात	O
+mr:तर	O
+mr:विधान	O
+mr:परिषदेत	O
+mr:अप्रत्यक्षरीत्या	O
+mr:नियुक्त	O
+mr:प्रतिनिधी	O
+mr:असतात	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:राहुल	B-PER
+mr:द्रविड	I-PER
+mr:''	O
+mr:'	O
+mr:&	O
+mr:'	O
+mr:''	O
+mr:सचिन	B-PER
+mr:तेंडुलकर	I-PER
+mr:''	O
+mr:'	O
+
+mr:बर्न	B-LOC
+mr:(	O
+mr:2007	O
+mr:)	O
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:द	I-ORG
+mr:नेक्स्ट	I-ORG
+mr:जनरेशन	I-ORG
+
+mr:इसवीसनाच्या	O
+mr:पहिल्या	O
+mr:शतकात	O
+mr:बनलेली	O
+mr:व	O
+mr:श्रीलंकेतील	B-LOC
+mr:मिहिनटाल	O
+mr:येथे	O
+mr:मिळालेली	O
+mr:मूर्ती	O
+mr:आतापर्यंतची	O
+mr:प्राचीनतम	O
+mr:गणेशमूर्ती	O
+mr:आहे	O
+mr:.	O
+
+mr:*२१९	O
+mr:-	O
+mr:कोपरगाव	B-ORG
+mr:विधानसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+
+mr:याचे	O
+mr:मुख्य	O
+mr:शहर	O
+mr:मडिकेरी	B-LOC
+mr:येथे	O
+mr:आहे	O
+mr:.	O
+
+mr:वसंतराव	B-PER
+mr:देशपांडे	I-PER
+mr:आणि	O
+mr:माणिक	B-PER
+mr:वर्मा	I-PER
+mr:या	O
+mr:तीन	O
+mr:श्रेष्ठ	O
+mr:कलाकारांशी	O
+mr:भावबंध	O
+mr:जुळले	O
+mr:.	O
+
+mr:आपल्या	O
+mr:यशस्वी	O
+mr:कारकिर्दीत	O
+mr:त्यांनी	O
+mr:काही	O
+mr:विद्यापीठांचे	O
+mr:कुलगुरूपद	O
+mr:,	O
+mr:तसेच	O
+mr:ऑस्ट्रेलियात	B-LOC
+mr:ब्रिटिश	B-LOC
+mr:भारताच्या	I-LOC
+mr:वकिलातीतील	O
+mr:उच्चायुक्तपदही	O
+mr:भूषवले	O
+mr:.	O
+
+mr:भारतीय	B-ORG
+mr:राष्ट्रीय	I-ORG
+mr:राजमार्ग	I-ORG
+mr:प्राधिकरण	I-ORG
+
+mr:लोकल	B-ORG
+mr:रेल्वेच्या	I-ORG
+mr:सगळ्या	O
+mr:गाड्या	O
+mr:येथे	O
+mr:थांबतात	O
+mr:.	O
+
+mr:सातारे	O
+mr:(	O
+mr:औरंगाबाद	B-LOC
+mr:जिल्हा	I-LOC
+mr:)	O
+
+mr:श्री	O
+mr:क्षेत्र	O
+mr:कोल्हापूर	B-LOC
+mr:श्रीमहालक्ष्मी	O
+mr:माता	O
+
+mr:रणसिंगे	B-LOC
+mr:प्रेमदासा	I-LOC
+mr:मैदान	I-LOC
+mr:,	O
+mr:कोलंबो	B-LOC
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हा	O
+mr:भारताच्या	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्यातील	O
+mr:एक	O
+mr:पर्यट्न	O
+mr:स्थळ	O
+mr:आहे	O
+mr:.	O
+
+mr:अंतरावर	O
+mr:नवेगाव	B-ORG
+mr:राष्ट्रीय	I-ORG
+mr:उद्यान	I-ORG
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:महाराष्ट्र	B-ORG
+mr:राज्य	I-ORG
+mr:विद्युत	I-ORG
+mr:मंडळ	I-ORG
+
+mr:या	O
+mr:मालिकेचे	O
+mr:दिग्दर्शन	O
+mr:महेश	B-PER
+mr:कोठारे	I-PER
+mr:यांनी	O
+mr:केले	O
+mr:होते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:ऑलिंपिक	B-LOC
+mr:मैदान	I-LOC
+mr:(	I-LOC
+mr:बर्लिन	I-LOC
+mr:)	I-LOC
+
+mr:हे	O
+mr:शहर	O
+mr:सिधी	B-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:हे	O
+mr:गाणे	O
+mr:पुढे	O
+mr:लता	B-PER
+mr:मंगेशकर	I-PER
+mr:यांनीही	O
+mr:गायले	O
+mr:.	O
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:विद्यापीठांप्रमाणेच	O
+mr:फ्राउनहॉफर	B-ORG
+mr:सारख्या	O
+mr:खाजगी	O
+mr:संस्थादेखील	O
+mr:संशोधनात	O
+mr:अग्रेसर	O
+mr:आहेत	O
+mr:.	O
+
+mr:नाँत	B-LOC
+mr:''	O
+mr:(	O
+mr:1990	O
+mr:)	O
+mr:''	O
+
+mr:गावाजवळून	O
+mr:सीना	B-LOC
+mr:नदी	I-LOC
+mr:वाहते	O
+mr:.	O
+
+mr:टोपेका	B-LOC
+mr:ही	O
+mr:कॅन्ससची	O
+mr:राजधानी	O
+mr:तर	O
+mr:विचिटा	B-LOC
+mr:हे	O
+mr:येथील	O
+mr:सर्वात	O
+mr:मोठे	O
+mr:शहर	O
+mr:आहे	O
+mr:.	O
+
+mr:त्यांच्या	O
+mr:ढाली	B-ORG
+mr:रंगाने	O
+mr:चकचकीत	O
+mr:असत	O
+mr:,	O
+mr:आणि	O
+mr:पिसांनी	O
+mr:सजावट	O
+mr:केलेली	O
+mr:असे	O
+mr:.	O
+
+mr:संजय	B-PER
+mr:दत्त	I-PER
+mr:,	O
+mr:सलमान	B-PER
+mr:खान	I-PER
+mr:,	O
+mr:करिश्मा	B-PER
+mr:कपूर	I-PER
+
+mr:गंगाधर	B-PER
+mr:गाडगीळ	I-PER
+mr:यांनी	O
+mr:लिहलेला	O
+mr:कथासंग्रह	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:जे.	B-PER
+mr:हान्स	I-PER
+mr:डी.	I-PER
+mr:जेन्सेन	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:एह्रेनफ्रीड	B-PER
+mr:वाल्थर	I-PER
+mr:फॉन	I-PER
+mr:चिर्नहाउस	I-PER
+
+mr:मुंबईपासून	B-LOC
+mr:ते	O
+mr:दुबईपर्यंत	O
+mr:त्यांच्या	O
+mr:कलेचे	O
+mr:कौतुक	O
+mr:होत	O
+mr:असते	O
+mr:.	O
+
+mr:या	O
+mr:संस्थेअंतर्गत	O
+mr:ते	O
+mr:महाराष्ट्रातील	B-LOC
+mr:दुष्काळी	O
+mr:भागातील	O
+mr:शेतकर्‍यांना	O
+mr:मदत	O
+mr:करतात	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:बंदर	B-LOC
+mr:स्री	I-LOC
+mr:बगवान	I-LOC
+
+mr:'	O
+mr:''	O
+mr:अब्राहम	B-PER
+mr:लिंकन	I-PER
+mr:''	O
+mr:'	O
+mr:(	O
+mr:1809–1865	O
+mr:)	O
+
+mr:या	O
+mr:राज्याला	O
+mr:पुढे	O
+mr:फुनानचे	B-ORG
+mr:राज्य	O
+mr:म्ह्टले	O
+mr:जाऊ	O
+mr:लागले	O
+mr:.	O
+
+mr:लोकल	B-ORG
+mr:रेल्वेच्या	I-ORG
+mr:सगळ्या	O
+mr:गाड्या	O
+mr:येथे	O
+mr:थांबतात	O
+mr:.	O
+
+mr:भारतीय	B-ORG
+mr:राष्ट्रीय	I-ORG
+mr:राजमार्ग	I-ORG
+mr:प्राधिकरण	I-ORG
+
+mr:या	O
+mr:मध्ये	O
+mr:अमिताभ	B-PER
+mr:बच्चन	I-PER
+mr:यांनी	O
+mr:काम	O
+mr:केले	O
+mr:होते	O
+mr:.	O
+
+mr:(	O
+mr:४३.८	O
+mr:टक्के	O
+mr:क्षेत्र	O
+mr:)	O
+mr:कर्नाटकात	B-LOC
+mr:तर	O
+mr:७५	O
+mr:,	O
+mr:६००	O
+mr:चौ	O
+mr:.	O
+
+mr:मधुबाला	B-PER
+mr:ते	O
+mr:अलीकडच्या	O
+mr:तब्बू	B-PER
+mr:अभिनेत्रींना	O
+mr:त्यांनी	O
+mr:आपला	O
+mr:आवाज	O
+mr:दिला	O
+mr:आहे	O
+mr:.	O
+
+mr:ड्रुक	B-ORG
+mr:एअर	I-ORG
+mr:ह्या	O
+mr:विमान	B-ORG
+mr:वाहतूक	I-ORG
+mr:कंपनीचा	I-ORG
+mr:वाहतूकतळ	O
+mr:येथे	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:मोहम्मद	B-PER
+mr:अली	I-PER
+mr:जिन्ना	I-PER
+
+mr:चीनला	B-LOC
+mr:भेट	O
+mr:देउन	O
+mr:त्यांनी	O
+mr:मदतीची	O
+mr:याचना	O
+mr:केली	O
+mr:.	O
+
+mr:माहितीचा	B-ORG
+mr:अधिकार	I-ORG
+mr:कायदा	I-ORG
+
+mr:ते	O
+mr:आपल्या	O
+mr:काळातील	O
+mr:पहिले	O
+mr:विचारवंत	O
+mr:होते	O
+mr:कि	O
+mr:ज्यांनी	O
+mr:जर्मनीत	B-LOC
+mr:यातनांना	O
+mr:विरोधात	O
+mr:दर्शवला	O
+
+mr:सुरुवातीला	O
+mr:त्यांनी	O
+mr:रत्‍नाकर	B-PER
+mr:मतकरी	I-PER
+mr:यांच्या	O
+mr:बालनाट्यांत	O
+mr:त्यांनी	O
+mr:कामे	O
+mr:केली	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:जिबूटी	B-ORG
+mr:फुटबॉल	I-ORG
+mr:संघ	I-ORG
+
+mr:छत्रपती	B-ORG
+mr:शिवाजी	I-ORG
+mr:टर्मिनस	I-ORG
+mr:गीतांजली	B-ORG
+mr:एक्सप्रेस	I-ORG
+
+mr:**	O
+mr:हरारे	B-LOC
+mr:(	O
+mr:एम्बसी	O
+mr:)	O
+
+mr:पुनर्निर्देशन	O
+mr:राष्ट्रीय	B-ORG
+mr:रोखे	I-ORG
+mr:बाजार	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:पी.	B-PER
+mr:रंगराजन	I-PER
+mr:कुमारमंगलम	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:सान	B-LOC
+mr:होजे	I-LOC
+mr:चिनांतेकिला	I-LOC
+
+mr:भरूच	B-LOC
+mr:,	O
+mr:गुजरात	B-LOC
+mr:,	O
+mr:भारत	B-LOC
+
+mr:**	O
+mr:जोहान्सबर्ग	B-LOC
+mr:(	O
+mr:कॉन्स्युलेट	O
+mr:)	O
+
+mr:पुनर्निर्देशन	O
+mr:इंदूर	B-ORG
+mr:(	I-ORG
+mr:लोकसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+mr:)	I-ORG
+
+mr:हावडा	B-ORG
+mr:जन	B-ORG
+mr:शताब्दी	I-ORG
+mr:एक्सप्रेस	I-ORG
+
+mr:अक्षय	B-PER
+mr:कुमार	I-PER
+mr:,	O
+mr:करीना	B-PER
+mr:कपूर	I-PER
+
+mr:ब्रिटीश	B-LOC
+mr:हिंदी	I-LOC
+mr:महासागर	I-LOC
+mr:क्षेत्र	I-LOC
+
+mr:युनिसेफ	B-ORG
+mr:(	O
+mr:UNICEF	O
+mr:)	O
+
+mr:१९३०	B-ORG
+mr:ते	O
+mr:१९३८	B-ORG
+mr:-	O
+mr:''पात्रता	O
+mr:नाही	O
+mr:''	O
+
+mr:पुनर्निर्देशन	O
+mr:उत्तर	B-LOC
+mr:२४	I-LOC
+mr:परगणा	I-LOC
+mr:जिल्हा	I-LOC
+
+mr:पुनर्निर्देशन	O
+mr:महाराष्ट्र	B-ORG
+mr:विधानसभा	I-ORG
+mr:निवडणूक	I-ORG
+mr:२००९	I-ORG
+
+mr:लक्ष्मीकांत	B-PER
+mr:बेर्डे	I-PER
+mr:=	O
+mr:लक्ष्या	O
+mr:टांगमोडे	O
+
+mr:रंजना	B-PER
+mr:देशमुख	I-PER
+mr:(	O
+mr:जन्मतारीख	O
+mr:अज्ञात	O
+mr:,	O
+mr:इ.स	O
+mr:.	O
+
+mr:अभिनव	B-PER
+mr:बिंद्रा	I-PER
+mr:व	O
+mr:गगन	B-PER
+mr:नारंग	I-PER
+
+mr:'	O
+mr:''	O
+mr:तवा	O
+mr:''	O
+mr:'	O
+mr:किंवा	O
+mr:'	O
+mr:''	O
+mr:साज	O
+mr:''	O
+mr:'	O
+mr:हे	O
+mr:दक्षिण	B-LOC
+mr:,	O
+mr:पश्चिम	B-LOC
+mr:व	O
+mr:मध्य	B-LOC
+mr:आशियात	I-LOC
+mr:प्रचलित	O
+mr:असलेले	O
+mr:मोठे	O
+mr:वर्तुळाकार	O
+mr:,	O
+mr:सपाट	O
+mr:किंवा	O
+mr:अंतर्वक्र	O
+mr:(	O
+mr:खोलगट	O
+mr:)	O
+mr:पृष्ठभाग	O
+mr:असलेल्या	O
+mr:थाळीसारखे	O
+mr:पाकसाधन	O
+mr:आहे	O
+mr:.	O
+
+mr:ही	O
+mr:गाडी	O
+mr:द‍क्षिण	B-ORG
+mr:पूर्व	I-ORG
+mr:रेल्वे	I-ORG
+mr:क्षेत्राद्वारे	O
+mr:चालवली	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:कांचीपुरम	B-ORG
+mr:(	I-ORG
+mr:लोकसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+mr:)	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:विठ्ठल	B-PER
+mr:महादेव	I-PER
+mr:तारकुंडे	I-PER
+
+mr:इंपालास	B-ORG
+mr:क्रिकेट	I-ORG
+mr:संघ	I-ORG
+
+mr:विक्रम	B-PER
+mr:(	I-PER
+mr:अभिनेता	I-PER
+mr:)	I-PER
+
+mr:स्थानिके	O
+mr:वेळ	O
+mr:(	O
+mr:यूटीसी+२	B-LOC
+mr:)	O
+
+mr:१	O
+mr:–	O
+mr:युनायटेड	B-LOC
+mr:स्टेट्‌स	I-LOC
+mr:ऑफ	I-LOC
+mr:अमेरिका	I-LOC
+mr:(	I-LOC
+mr:अमेरिकेची	I-LOC
+mr:संयुक्त	I-LOC
+mr:संस्थाने	I-LOC
+mr:)	I-LOC
+
+mr:पुनर्निर्देशन	O
+mr:मंदसौर	B-ORG
+mr:(	I-ORG
+mr:लोकसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+mr:)	I-ORG
+
+mr:डेन्व्हरच्या	B-LOC
+mr:साधारण	O
+mr:पश्चिमेस	O
+mr:३९८	O
+mr:किमी	O
+mr:(	O
+mr:२४७	O
+mr:मैल	O
+mr:)	O
+mr:अंतरावर	O
+mr:असलेल्या	O
+mr:या	O
+mr:शहराची	O
+mr:लोकसंख्या	O
+mr:२०१०च्या	O
+mr:जनगणनेनुसा	O
+mr:५८	O
+mr:,	O
+mr:५६६	O
+mr:इतकी	O
+mr:होती	O
+mr:.	O
+
+mr:पश्चिम	B-LOC
+mr:बंगाल	I-LOC
+mr:ते	O
+mr:त्रिपुरा	B-LOC
+mr:पर्यंत	O
+mr:घोड्यांच्या	O
+mr:नाल्याच्या	O
+mr:आकारात	O
+mr:बांगलादेशास	O
+mr:वेढलेले	O
+mr:आहे	O
+mr:.	O
+
+mr:२९८	O
+mr:–	O
+mr:फेरो	B-LOC
+mr:द्वीपसमूह	I-LOC
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:(	O
+mr:जन्मदिनांक	O
+mr:अज्ञात	O
+mr:-	O
+mr:अज्ञात	O
+mr:)	O
+mr:हे	O
+mr:लोकप्रिय	O
+mr:हिंदुस्तानी	B-ORG
+mr:गायक	I-ORG
+mr:आहेत	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:ही	O
+mr:महाराष्ट्रातील	B-LOC
+mr:एक	O
+mr:उपनदी	O
+mr:आहे	O
+mr:.	O
+
+mr:याचे	O
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:जहानाबाद	B-LOC
+mr:येथे	O
+mr:आहे	O
+mr:.	O
+
+mr:कलावड	O
+mr:-	O
+mr:मेघजीभाई	O
+mr:चावडा	O
+mr:भारतीय	B-ORG
+mr:जनता	I-ORG
+mr:पक्ष	I-ORG
+
+mr:टॅन्टॅलस	O
+mr:हा	O
+mr:झ्यूसचा	B-PER
+mr:पुत्र	O
+mr:होता	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:जॅक	B-PER
+mr:ओ'कॉनोर	I-PER
+mr:(	I-PER
+mr:ऑस्ट्रेलियन	I-PER
+mr:क्रिकेट	I-PER
+mr:खेळाडू	I-PER
+mr:)	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:मिनामोतो	B-PER
+mr:नो	I-PER
+mr:सानेतोमो	I-PER
+
+mr:मुंबई	B-LOC
+mr:,	O
+mr:महाराष्ट्र	B-LOC
+mr:,	O
+mr:भारत	B-LOC
+
+mr:पुनर्निर्देशन	O
+mr:प्रल्हाद	B-PER
+mr:केशव	I-PER
+mr:अत्रे	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:करोल	B-LOC
+mr:बाग	I-LOC
+mr:(	I-LOC
+mr:लोकसभा	I-LOC
+mr:मतदारसंघ	I-LOC
+mr:)	I-LOC
+
+mr:पुनर्निर्देशन	O
+mr:ऑस्ट्रेलिया	B-ORG
+mr:क्रिकेट	I-ORG
+mr:संघ	I-ORG
+
+mr:त्याच्या	O
+mr:आत्याने	O
+mr:किसनची	O
+mr:देखभाल	O
+mr:करण्याचे	O
+mr:ठरवले	O
+mr:व	O
+mr:शिक्षणासाठी	O
+mr:त्या	O
+mr:त्याला	O
+mr:मुंबईला	B-LOC
+mr:घेऊन	O
+mr:गेल्या	O
+mr:.	O
+
+mr:तो	O
+mr:सध्या	O
+mr:आर्जेन्टिनामधील	B-LOC
+mr:इंदिपेंदियेंते	O
+mr:तसेच	O
+mr:ह्या	O
+mr:संघांसाठी	O
+mr:खेळतो	O
+mr:.	O
+
+mr:नरसिंह	B-PER
+mr:चिंतामण	I-PER
+mr:केळकर	I-PER
+mr:यांच्या	O
+mr:आठवणी	O
+
+mr:आफताब	B-PER
+mr:शिवदासानी	I-PER
+mr:,	O
+mr:अमृता	B-PER
+mr:अरोरा	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:नरिंदर	B-PER
+mr:नाथ	I-PER
+mr:व्होरा	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:नागा	B-ORG
+mr:पीपल्स	I-ORG
+mr:फ्रंट	I-ORG
+
+mr:'	O
+mr:''	O
+mr:मायामी	B-ORG
+mr:डॉल्फिन्स	I-ORG
+mr:''	O
+mr:'	O
+
+mr:पुनर्निर्देशन	O
+mr:जेम्स	B-PER
+mr:पहिला	I-PER
+mr:,	I-PER
+mr:इंग्लंड	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:श्रीमती	B-ORG
+mr:नाथीबाई	I-ORG
+mr:दामोदर	I-ORG
+mr:ठाकरसी	I-ORG
+mr:महिला	I-ORG
+mr:विद्यापीठ	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:छत्रपती	B-PER
+mr:राजारामराजे	I-PER
+mr:भोसले	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:रुपाताई	B-PER
+mr:दिलीपराव	I-PER
+mr:निलंगेकर	I-PER
+mr:पाटील	I-PER
+
+mr:'	O
+mr:''	O
+mr:ठाणे	B-LOC
+mr:''	O
+mr:'	O
+mr:हा	O
+mr:महाराष्ट्रातील	B-LOC
+mr:४८	O
+mr:लोकसभा	B-ORG
+mr:संसद	O
+mr:मतदारसंघांपैकी	O
+mr:एक	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:ॲक्चुरिअल	B-ORG
+mr:सोसायटी	I-ORG
+mr:ऑफ	I-ORG
+mr:इंडिया	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:पोप	B-PER
+mr:इनोसंट	I-PER
+mr:बारावा	I-PER
+
+mr:के.आर.	B-PER
+mr:नारायणन	I-PER
+mr:(	O
+mr:1920–2005	O
+mr:)	O
+
+mr:पुनर्निर्देशन	O
+mr:नूतन	B-ORG
+mr:मराठी	I-ORG
+mr:विद्यालय	I-ORG
+
+mr:प्रवरिद्ध	O
+mr:-	O
+mr:अगस्ती	B-ORG
+mr:ऋषींकडून	O
+mr:शापित	O
+
+mr:वेस्ट	B-LOC
+mr:हेवन	I-LOC
+mr:,	I-LOC
+mr:कनेटिकट	I-LOC
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हा	O
+mr:भारताच्या	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्याच्या	O
+mr:नाशिक	B-LOC
+mr:जिल्ह्यातील	I-LOC
+mr:एक	O
+mr:किल्ला	O
+mr:आहे	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:इव्हेता	B-PER
+mr:बेनेसोव्हा	I-PER
+mr:''	O
+mr:'	O
+
+mr:त्यांचे	O
+mr:मॅट्रिकपर्यंतचे	O
+mr:शिक्षण	O
+mr:साताऱ्याला	B-LOC
+mr:झाले	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:अखिल	B-ORG
+mr:भारतीय	I-ORG
+mr:हिंदू	I-ORG
+mr:महासभा	I-ORG
+
+mr:आयुष्याच्या	O
+mr:उत्तरार्धात	O
+mr:ते	O
+mr:अमरावतीला	B-LOC
+mr:स्थायिक	O
+mr:झाले	O
+mr:होते	O
+mr:.	O
+
+mr:धोम	B-ORG
+mr:धरणाच्या	I-ORG
+mr:जलाशयात	O
+mr:मागील	O
+mr:बाजूने	O
+mr:एक	O
+mr:डोंगररांग	O
+mr:पुढे	O
+mr:आलेली	O
+mr:दिसते	O
+mr:.	O
+
+mr:09	O
+mr:रुद्र	B-PER
+mr:प्रताप	I-PER
+mr:सिंग	I-PER
+
+mr:डॉ.	B-ORG
+mr:बाबासाहेब	I-ORG
+mr:आंबेडकर	I-ORG
+mr:मराठवाडा	I-ORG
+mr:विद्यापीठ	I-ORG
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:नायजेल	B-PER
+mr:दे	I-PER
+mr:याँग	I-PER
+
+mr:मयांग	B-PER
+mr:चांग	I-PER
+mr:(	O
+mr:2	O
+mr:)	O
+
+mr:१९३३-३४	O
+mr:सालाच्या	O
+mr:सुमारास	O
+mr:तो	O
+mr:सिंगापुरात	B-LOC
+mr:येऊन	O
+mr:दाखल	O
+mr:झाला	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:बळवंत	B-PER
+mr:पांडुरंग	I-PER
+mr:किर्लोस्कर	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:पोप	B-PER
+mr:ज्युलियस	I-PER
+mr:तिसरा	I-PER
+
+mr:हे	O
+mr:शहर	O
+mr:रायगडा	B-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:कॅप्टन	B-PER
+mr:कॅथरीन	I-PER
+mr:जेनवे	I-PER
+mr:''	O
+mr:त्याला	O
+mr:तुरुंगातून	O
+mr:सोडवते	O
+mr:कारण	O
+mr:तिला	O
+mr:त्याच्या	O
+mr:मदतीने	O
+mr:ते	O
+mr:''माक्वींचे	O
+mr:''	O
+mr:जहाज	O
+mr:शोधायचे	O
+mr:असते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:अखिल	B-ORG
+mr:भारतीय	I-ORG
+mr:अण्णा	I-ORG
+mr:द्रविड	I-ORG
+mr:मुन्नेत्र	I-ORG
+mr:कळघम	I-ORG
+
+mr:इंदिरा	B-ORG
+mr:गांधी	I-ORG
+mr:राष्ट्रीय	I-ORG
+mr:मुक्त	I-ORG
+mr:विद्यापीठ	I-ORG
+
+mr:त्यानंतर	O
+mr:,	O
+mr:हैदराबाद	B-LOC
+mr:येथे	O
+mr:उस्मानिया	B-ORG
+mr:विद्यापीठात	I-ORG
+mr:रंगापूर	O
+mr:वेधशाळाही	O
+mr:स्थापन	O
+mr:करण्यात	O
+mr:आली	O
+mr:.	O
+
+mr:ग्रामोफोनाची	O
+mr:प्रथम	O
+mr:निर्मिती	O
+mr:थॉमस	B-PER
+mr:अल्वा	I-PER
+mr:एडिसन	I-PER
+mr:याने	O
+mr:केली	O
+mr:.	O
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:मानखुर्द	B-ORG
+mr:शिवाजीनगर	I-ORG
+mr:विधानसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:नेव्हिल	B-PER
+mr:फ्रांसिस	I-PER
+mr:मॉट	I-PER
+
+mr:मौर्य	B-ORG
+mr:साम्राज्याचा	I-ORG
+mr:संबंध	O
+mr:येथ	O
+mr:पर्यंत	O
+mr:होता	O
+mr:असे	O
+mr:हे	O
+mr:स्तंभ	O
+mr:दर्शवतात	O
+mr:.	O
+
+mr:बिश्‍नोई	B-PER
+mr:लोकांनी	I-PER
+mr:विरोध	O
+mr:केला	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:विजयनगरम	B-ORG
+mr:(	I-ORG
+mr:लोकसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+mr:)	I-ORG
+
+mr:हे	O
+mr:शहर	O
+mr:सिरोही	B-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:त्यांचे	O
+mr:वास्तव्य	O
+mr:अमरावतीजवळील	B-LOC
+mr:ऋद्धिपूर	O
+mr:इथे	O
+mr:होते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:छत्रपती	B-ORG
+mr:शाहू	I-ORG
+mr:महाराज	I-ORG
+mr:टर्मिनस	I-ORG
+
+mr:'	O
+mr:''	O
+mr:सर्बिया	B-LOC
+mr:''	O
+mr:'	O
+
+mr:पुनर्निर्देशन	O
+mr:लुडविग	B-PER
+mr:फान	I-PER
+mr:बीथोव्हेन	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:वेस्ट	B-ORG
+mr:इंडीज	I-ORG
+mr:क्रिकेट	I-ORG
+mr:संघ	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:पोप	B-PER
+mr:क्लेमेंट	I-PER
+mr:तिसरा	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:रिलायन्स	B-ORG
+mr:इंडस्ट्रीज	I-ORG
+mr:लिमिटेड	I-ORG
+
+mr:'	O
+mr:''	O
+mr:नांदेड	B-LOC
+mr:''	O
+mr:'	O
+mr:हा	O
+mr:महाराष्ट्रातील	B-LOC
+mr:४८	O
+mr:लोकसभा	B-ORG
+mr:संसद	O
+mr:मतदारसंघांपैकी	O
+mr:एक	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:साओ	B-ORG
+mr:पाउलो	I-ORG
+mr:मेट्रो	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:भारतीय	B-ORG
+mr:राष्ट्रीय	I-ORG
+mr:काँग्रेस	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:व्लादिमिर	B-PER
+mr:वाइस	I-PER
+mr:(	I-PER
+mr:फुटबॉल	I-PER
+mr:खेळाडू	I-PER
+mr:जन्म	I-PER
+mr:१९८९	I-PER
+mr:)	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:एम.ए.	B-LOC
+mr:चिदंबरम	I-LOC
+mr:स्टेडियम	I-LOC
+mr:,	I-LOC
+mr:चेन्नई	I-LOC
+
+mr:'	O
+mr:''	O
+mr:अग्नियेझ्का	B-PER
+mr:राद्वान्स्का	I-PER
+mr:''	O
+mr:'	O
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:भारतातील	B-LOC
+mr:सुमारे	O
+mr:१७.५	O
+mr:हेक्टर	O
+mr:जमिनांच्या	O
+mr:पुनरुज्जीवनासाठी	O
+mr:त्यांनी	O
+mr:सरकारशी	O
+mr:सतत	O
+mr:पाठपुरावा	O
+mr:केला	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:तिसरा	B-PER
+mr:मुराद	I-PER
+mr:,	I-PER
+mr:ओस्मानी	I-PER
+mr:सम्राट	I-PER
+
+mr:वाईच्या	B-LOC
+mr:ढोल्या	O
+mr:गणपतीची	O
+mr:विशालकाय	O
+mr:मूर्ती	O
+mr:प्रेक्षणीय	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:चेन्नई	B-ORG
+mr:उपनगरी	I-ORG
+mr:रेल्वे	I-ORG
+
+mr:चार्ल्स	B-PER
+mr:डार्विन	I-PER
+mr:यांनी	O
+mr:तो	O
+mr:सभेत	O
+mr:मांडला	O
+mr:.	O
+
+mr:लक्ष्मीकांत-प्यारेलालने	B-ORG
+mr:संगीतबद्ध	O
+mr:केलेल्या	O
+mr:खलनायकमधील	O
+mr:''चोली	O
+mr:के	O
+mr:पीछे	O
+mr:''	O
+mr:हे	O
+mr:गाणे	O
+mr:वादग्रस्त	O
+mr:ठरले	O
+mr:होते	O
+mr:.	O
+
+mr:जनता	B-ORG
+mr:दल	I-ORG
+mr:(	I-ORG
+mr:संयुक्त	I-ORG
+mr:)	I-ORG
+
+mr:कल्याण	B-ORG
+mr:शहर	I-ORG
+mr:मुंबई	B-LOC
+mr:शहराच्या	O
+mr:४८	O
+mr:किमी	O
+mr:ईशान्येला	O
+mr:स्थित	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:मेरीलिबॉन	B-ORG
+mr:क्रिकेट	I-ORG
+mr:क्लब	I-ORG
+
+mr:तेगुसिगल्पा	B-LOC
+mr:ही	O
+mr:होन्डुरासची	O
+mr:राजधानी	O
+mr:व	O
+mr:सर्वात	O
+mr:मोठे	O
+mr:शहर	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:श्यामा	B-PER
+mr:चरण	I-PER
+mr:शुक्ला	I-PER
+
+mr:युनेस्कोने	B-ORG
+mr:ह्या	O
+mr:भाषेच्या	O
+mr:दीर्घकालीन	O
+mr:भविष्याबद्दल	O
+mr:चिंता	O
+mr:व्यक्त	O
+mr:केली	O
+mr:आहे	O
+mr:.	O
+
+mr:त्यांनी	O
+mr:रशियाकडून	B-LOC
+mr:मदत	O
+mr:मागायचे	O
+mr:ठरवले	O
+mr:होते	O
+mr:.	O
+
+mr:विनोद	B-PER
+mr:तावडे	I-PER
+mr:-	O
+mr:भारतीय	B-ORG
+mr:जनता	I-ORG
+mr:पक्ष	I-ORG
+
+mr:केरळ	B-LOC
+mr:-	O
+mr:६७	O
+mr:ते	O
+mr:६९	O
+
+mr:पुनर्निर्देशन	O
+mr:माउंट	B-ORG
+mr:कूक	I-ORG
+mr:एअरलाइन	I-ORG
+
+mr:भारतातील	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्याच्या	O
+mr:नागपूर	B-LOC
+mr:शहराच्या	O
+mr:’महाल’	O
+mr:या	O
+mr:भागात	O
+mr:असलेला	O
+mr:हा	O
+mr:किल्ला	O
+mr:आहे	O
+mr:.	O
+
+mr:पूर्व	B-LOC
+mr:व	O
+mr:पश्चिम	B-LOC
+mr:जर्मनी	I-LOC
+mr:देशांनी	O
+mr:ह्या	O
+mr:स्पर्धेत	O
+mr:प्रथमच	O
+mr:वेगवेगळा	O
+mr:भाग	O
+mr:घेतला	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:सुसरी	B-ORG
+mr:नदी	I-ORG
+mr:धरण	I-ORG
+
+mr:अमेरिकेच्या	B-ORG
+mr:प्रतिनिधींचे	I-ORG
+mr:सभागृह	I-ORG
+
+mr:अल्लारखांकडून	O
+mr:काही	O
+mr:बंदिशी	O
+mr:मिळाल्याचा	O
+mr:लाभ	O
+mr:भीमसेन	B-PER
+mr:जोश्यांसहित	I-PER
+mr:काही	O
+mr:दिग्गज	O
+mr:गायकांना	O
+mr:झालेला	O
+mr:आहे	O
+mr:.	O
+
+mr:त्यामुळे	O
+mr:त्यांनी	O
+mr:पुण्यात	B-LOC
+mr:आल्यावर	O
+mr:स्वातंत्र्यचळवळीत	O
+mr:उडी	O
+mr:घेतली	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:हाजी	B-LOC
+mr:अली	I-LOC
+mr:दर्गा	I-LOC
+
+mr:या	O
+mr:संस्थानाची	O
+mr:राजधानी	O
+mr:पूर्वी	O
+mr:उज्जैन	B-LOC
+mr:होती	O
+mr:,	O
+mr:पण	O
+mr:नंतर	O
+mr:ग्वाल्हेर	B-LOC
+mr:हेच	O
+mr:राजधानीचे	O
+mr:ठिकाण	O
+mr:झाले	O
+mr:.	O
+
+mr:या	O
+mr:मध्ये	O
+mr:धर्मेंद्र	B-PER
+mr:यांनी	O
+mr:काम	O
+mr:केले	O
+mr:होते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:पोर्टलंड	B-LOC
+mr:,	I-LOC
+mr:ओरेगन	I-LOC
+
+mr:पुनर्निर्देशन	O
+mr:तुलूझ	B-ORG
+mr:एफ.सी	I-ORG
+mr:.	I-ORG
+
+mr:**	O
+mr:इस्तंबूल	B-LOC
+mr:(	O
+mr:कॉन्स्युलेट	O
+mr:)	O
+
+mr:नेवासे	B-LOC
+mr:गावचे	O
+mr:मध्यवस्तीत	O
+mr:मोहिनीराजाचे	O
+mr:भव्य	O
+mr:मंदिर	B-ORG
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:पहिला	B-PER
+mr:इब्राहिम	I-PER
+mr:,	I-PER
+mr:ओस्मानी	I-PER
+mr:सम्राट	I-PER
+
+mr:ते	O
+mr:मुंबई	B-LOC
+mr:,	O
+mr:पुणे	B-LOC
+mr:शहरांखालोखाल	O
+mr:महाराष्ट्रातले	O
+mr:सर्वाधिक	O
+mr:औद्योगिकीकरण	O
+mr:झालेले	O
+mr:शहर	O
+mr:आहे	O
+mr:.	O
+
+mr:मोहोळ	B-LOC
+mr:,	O
+mr:पंढरपूर	B-LOC
+mr:इ	O
+mr:.	O
+
+mr:ह्याचे	O
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:करीमगंज	B-LOC
+mr:येथे	O
+mr:आहे	O
+mr:.	O
+
+mr:poly	O
+mr:595	O
+mr:480	O
+mr:602	O
+mr:493	O
+mr:593	O
+mr:512	O
+mr:597	O
+mr:513	O
+mr:601	O
+mr:552	O
+mr:611	O
+mr:549	O
+mr:614	O
+mr:555	O
+mr:606	O
+mr:565	O
+mr:627	O
+mr:561	O
+mr:632	O
+mr:566	O
+mr:637	O
+mr:540	O
+mr:643	O
+mr:535	O
+mr:642	O
+mr:531	O
+mr:645	O
+mr:527	O
+mr:643	O
+mr:521	O
+mr:653	O
+mr:512	O
+mr:651	O
+mr:504	O
+mr:660	O
+mr:498	O
+mr:674	O
+mr:490	O
+mr:666	O
+mr:475	O
+mr:668	O
+mr:468	O
+mr:655	O
+mr:465	O
+mr:650	O
+mr:460	O
+mr:642	O
+mr:467	O
+mr:645	O
+mr:459	O
+mr:640	O
+mr:457	O
+mr:630	O
+mr:465	O
+mr:623	O
+mr:463	O
+mr:621	O
+mr:466	O
+mr:च्यांग्शी	B-LOC
+
+mr:एक्सप्रेसवर	O
+mr:एकूण	O
+mr:६	O
+mr:बोगदे	O
+mr:असून	O
+mr:हे	O
+mr:सर्व	O
+mr:बोगदे	O
+mr:कोकण	B-ORG
+mr:रेल्वे	I-ORG
+mr:कॉर्पोरेशनने	I-ORG
+mr:बांधले	O
+mr:आहेत	O
+mr:.	O
+
+mr:तमिळनाडू	B-LOC
+mr:(	O
+mr:२८६	O
+mr:)	O
+mr:,	O
+mr:कर्नाटक	B-LOC
+mr:(	O
+mr:१७०	O
+mr:)	O
+
+mr:'	O
+mr:''	O
+mr:सेंट	B-LOC
+mr:बार्थेलेमी	I-LOC
+mr:''	O
+mr:'	O
+
+mr:पुनर्निर्देशन	O
+mr:केशव	B-PER
+mr:बळीराम	I-PER
+mr:हेडगेवार	I-PER
+
+mr:हे	O
+mr:शहर	O
+mr:अनंतनाग	B-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:पाकिस्तानच्या	B-LOC
+mr:नियंत्रण	B-ORG
+mr:रेषेजवळील	I-ORG
+mr:बारामुल्ला	B-LOC
+mr:शहरामध्ये	O
+mr:सुरू	O
+mr:होणारा	O
+mr:हा	O
+mr:मार्ग	O
+mr:श्रीनगर	B-LOC
+mr:,	O
+mr:अनंतनाग	B-LOC
+mr:,	O
+mr:उधमपूर	B-LOC
+mr:इत्यादी	O
+mr:शहरांमधून	O
+mr:वाट	O
+mr:काढत	O
+mr:जम्मू	B-LOC
+mr:येथे	O
+mr:संपतो	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:सेरेना	B-PER
+mr:विल्यम्स	I-PER
+
+mr:*१९७९	O
+mr:-	O
+mr:रीना	B-PER
+mr:रॉय	I-PER
+mr:-	O
+mr:अपनापन	O
+
+mr:पुनर्निर्देशन	O
+mr:पहिली	B-PER
+mr:एलिझाबेथ	I-PER
+mr:,	I-PER
+mr:इंग्लंड	I-PER
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हा	O
+mr:भारताच्या	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्यातील	O
+mr:एक	O
+mr:किल्ला	O
+mr:आहे	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हा	O
+mr:भारताच्या	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्यातील	O
+mr:एक	O
+mr:किल्ला	O
+mr:आहे	O
+mr:.	O
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:डॉ.	B-ORG
+mr:बाबासाहेब	I-ORG
+mr:आंबेडकर	I-ORG
+mr:मराठवाडा	I-ORG
+mr:विद्यापीठ	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:वालेन्सिया	B-ORG
+mr:सी.एफ	I-ORG
+mr:.	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:डेविड	B-ORG
+mr:दी	I-ORG
+mr:सुझा	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:अफगाणिस्तान	B-ORG
+mr:फुटबॉल	I-ORG
+mr:संघ	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:नॉर्थ	B-LOC
+mr:युटिका	I-LOC
+mr:,	I-LOC
+mr:इलिनॉय	I-LOC
+
+mr:हा	O
+mr:रस्ता	O
+mr:सांताक्रूझ	B-LOC
+mr:येथे	O
+mr:पश्चिम	B-ORG
+mr:द्रुतगती	I-ORG
+mr:महामार्गापासून	I-ORG
+mr:(	O
+mr:राष्ट्रीय	B-ORG
+mr:महामार्ग	I-ORG
+mr:८	I-ORG
+mr:सुरू	O
+mr:होतो	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:लाईफसाइन्स	B-ORG
+mr:(	I-ORG
+mr:स्टार	I-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+mr:मालिका	I-ORG
+mr:)	I-ORG
+
+mr:इंग्लंडच्या	B-LOC
+mr:पहिल्या	B-PER
+mr:चार्ल्सने	I-PER
+mr:त्याला	O
+mr:सरदारकी	O
+mr:बहाल	O
+mr:केली	O
+mr:होती	O
+mr:.	O
+
+mr:**	O
+mr:कम्पाला	B-LOC
+mr:(	O
+mr:हायकमिशन	O
+mr:)	O
+
+mr:मत्स्यगंधा	B-ORG
+mr:एक्सप्रेस	I-ORG
+mr:,	O
+mr:नेत्रावती	B-ORG
+mr:एक्सप्रेस	I-ORG
+mr:इत्यादी	O
+mr:रोज	O
+mr:धावणाऱ्या	O
+mr:गाड्यांचा	O
+mr:येथे	O
+mr:थांबा	O
+mr:आहे	O
+mr:.	O
+
+mr:ओत-आल्प]]	O
+mr:आल्प-मरितीम	B-LOC
+mr:बुश-द्यु-रोन	B-LOC
+mr:व्हार	B-LOC
+mr:व्हॉक्ल्युझ	B-LOC
+
+mr:क्विंग	O
+mr:,	O
+mr:बूर्गान्य	B-LOC
+mr:,	O
+mr:पवित्र	B-ORG
+mr:रोमन	I-ORG
+mr:साम्राज्य	I-ORG
+
+mr:आपल्या	O
+mr:पूर्वजांचा	O
+mr:शोध	O
+mr:(	O
+mr:डार्विनच्या	B-PER
+mr:सिद्धान्तावर	O
+mr:आधारित	O
+mr:)	O
+
+mr:अक्षय	B-PER
+mr:कुमार	I-PER
+mr:,	O
+mr:जॉन	B-PER
+mr:अब्राहम	I-PER
+
+mr:जाग्वार	B-ORG
+mr:योद्धा	I-ORG
+mr:-	O
+mr:Jaguar	O
+mr:Warrior	O
+mr:(	O
+mr:or	O
+mr:)	O
+mr:Jaguar	O
+mr:Knight	O
+
+mr:पुनर्निर्देशन	O
+mr:गुस्तावस	B-PER
+mr:एडोल्फस	I-PER
+mr:,	I-PER
+mr:स्वीडन	I-PER
+
+mr:राष्ट्रीय	B-ORG
+mr:महामार्ग	I-ORG
+mr:२२२	I-ORG
+mr:या	O
+mr:गावातून	O
+mr:जातो	O
+mr:.	O
+
+mr:*१९६१	O
+mr:-	O
+mr:बिमल	B-PER
+mr:रॉय	I-PER
+mr:-	O
+mr:पारख	O
+
+mr:'	O
+mr:''	O
+mr:चेलियाबिन्स्क	B-LOC
+mr:''	O
+mr:'	O
+
+mr:पुनर्निर्देशन	O
+mr:अँथोनी	B-PER
+mr:विल्यम	I-PER
+mr:टोनी	I-PER
+mr:ग्रेग	I-PER
+
+mr:या	O
+mr:मध्ये	O
+mr:धर्मेंद्र	B-PER
+mr:यांनी	O
+mr:काम	O
+mr:केले	O
+mr:होते	O
+mr:.	O
+
+mr:संजय	B-PER
+mr:दत्त	I-PER
+mr:,	O
+mr:सैफ	B-PER
+mr:अली	I-PER
+mr:खान	I-PER
+mr:,	O
+mr:विद्या	B-PER
+mr:बालन	I-PER
+
+mr:'	O
+mr:''	O
+mr:इजिप्त	B-LOC
+mr:''	O
+mr:'	O
+
+mr:गोरखपूर	B-LOC
+mr:(	I-LOC
+mr:लोकसभा	I-LOC
+mr:मतदारसंघ	I-LOC
+mr:)	I-LOC
+
+mr:पुनर्निर्देशन	O
+mr:शिवराम	B-PER
+mr:हरी	I-PER
+mr:राजगुरू	I-PER
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:दक्षिणेकडील	O
+mr:महाराष्ट्र	B-LOC
+mr:,	O
+mr:कर्नाटक	B-LOC
+mr:व	O
+mr:तमिळनाडू	B-LOC
+mr:या	O
+mr:राज्यांमध्ये	O
+mr:शैक्षणिक	O
+mr:सोयी	O
+mr:उत्तरेकडील	O
+mr:राज्यांपेक्षा	O
+mr:जास्त	O
+mr:आहेत	O
+mr:.	O
+
+mr:**	O
+mr:बमाको	B-LOC
+mr:(	O
+mr:एम्बसी	O
+mr:)	O
+
+mr:डेटाविंड	O
+mr:ह्या	O
+mr:माँत्रियाल-स्थित	B-LOC
+mr:कंपनीने	O
+mr:ह्याचे	O
+mr:डिझाईन	O
+mr:तयार	O
+mr:केले	O
+mr:असून	O
+mr:त्याचे	O
+mr:उप्तादन	O
+mr:भारतात	B-LOC
+mr:केले	O
+mr:जाईल	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:फुकुशिमा	B-ORG
+mr:१	I-ORG
+mr:अणुऊर्जा	I-ORG
+mr:प्रकल्प	I-ORG
+
+mr:ड्वेन	B-PER
+mr:स्मिथ	I-PER
+mr:(	O
+mr:वे.ई	O
+mr:.	O
+
+mr:हे	O
+mr:शहर	O
+mr:हावेरी	B-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:सुरेश	B-PER
+mr:रैना	I-PER
+mr:(	O
+mr:फक्त	O
+mr:ए.दि	O
+mr:.	O
+mr:)	O
+
+mr:पुनर्निर्देशन	O
+mr:ऐडे	B-PER
+mr:ब्राउन	I-PER
+mr:इडेये	I-PER
+
+mr:शिमोगा	B-LOC
+mr:शहराच्या	O
+mr:माहितीसाठी	O
+mr:येथे	B-LOC
+mr:टिचकी	O
+mr:द्या	O
+mr:.	O
+mr:''	O
+
+mr:'	O
+mr:''	O
+mr:आना	B-PER
+mr:इवानोविच	I-PER
+mr:''	O
+mr:'	O
+
+mr:मेधा	B-PER
+mr:पाटकर	I-PER
+mr:यांचे	O
+mr:ते	O
+mr:निकटवर्ती	O
+mr:होते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:पोप	B-PER
+mr:ज्युलियस	I-PER
+mr:दुसरा	I-PER
+
+mr:इझ्मित	B-LOC
+mr:हे	O
+mr:शहर	O
+mr:ह्या	O
+mr:प्रांताची	O
+mr:राजधानी	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:आंतरराष्ट्रीय	B-ORG
+mr:क्रिकेट	I-ORG
+mr:समिती	I-ORG
+
+mr:'	O
+mr:''	O
+mr:कझान	B-LOC
+mr:''	O
+mr:'	O
+
+mr:पुनर्निर्देशन	O
+mr:जहांगीर	B-PER
+mr:खान	I-PER
+mr:,	I-PER
+mr:क्रिकेट	I-PER
+mr:खेळाडू	I-PER
+
+mr:हे	O
+mr:शहर	O
+mr:ग्वाटेंग	B-LOC
+mr:प्रांताची	O
+mr:राजधानी	O
+mr:आहे	O
+mr:.	O
+
+mr:रणसिंगे	B-LOC
+mr:प्रेमदासा	I-LOC
+mr:मैदान	I-LOC
+mr:,	O
+mr:कोलंबो	B-LOC
+
+mr:सुभाषबाबूंनी	O
+mr:तिथे	O
+mr:जाऊन	O
+mr:पंडित	B-PER
+mr:जवाहरलाल	I-PER
+mr:नेहरूंचे	I-PER
+mr:सांत्वन	O
+mr:केले	O
+mr:.	O
+
+mr:माघरेबमध्ये	O
+mr:इजिप्तच्या	B-LOC
+mr:पश्चिमेकडील	O
+mr:बराचसा	O
+mr:किंवा	O
+mr:सर्व	O
+mr:भूभाग	O
+mr:समाविष्ट	O
+mr:केला	O
+mr:जातो	O
+mr:.	O
+
+mr:पुढे	O
+mr:अहमदनगर	B-LOC
+mr:जिल्ह्यात	I-LOC
+mr:दुष्काळी	O
+mr:कामांवर	O
+mr:खास	O
+mr:अंमलदार	O
+mr:म्हणून	O
+mr:त्यांची	O
+mr:नेमणूक	O
+mr:झाली	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:डीन	B-PER
+mr:जोन्स	I-PER
+mr:(	I-PER
+mr:क्रिकेट	I-PER
+mr:खेळाडू	I-PER
+mr:)	I-PER
+
+mr:या	O
+mr:संघटनेने	O
+mr:पेशावरमधील	B-LOC
+mr:शाळेवर	O
+mr:हल्ला	O
+mr:करून	O
+mr:अनेक	O
+mr:मुलांचा	O
+mr:बळी	O
+mr:घेतला	O
+mr:.	O
+
+mr:दीपिका	B-PER
+mr:पडुकोण	I-PER
+mr:-	O
+mr:मस्तानी	B-PER
+
+mr:ते	O
+mr:वैनगंगा	B-LOC
+mr:नदीच्या	I-LOC
+mr:काठावर	O
+mr:वसलेले	O
+mr:आहे	O
+mr:.	O
+
+mr:हे	O
+mr:एक	O
+mr:महाराष्ट्रातील	B-LOC
+mr:सांगली	B-LOC
+mr:जिल्ह्यातील	I-LOC
+mr:गाव	O
+mr:आहे	O
+mr:.	O
+
+mr:गोविंदा]]	O
+mr:,	O
+mr:जॉन	B-PER
+mr:अब्राहम	I-PER
+mr:,	O
+mr:प्रियांका	B-PER
+mr:चोप्रा	I-PER
+mr:,	O
+mr:विद्या	B-PER
+mr:बालन	I-PER
+mr:,	O
+mr:आयेशा	B-PER
+mr:टाकिया	I-PER
+
+mr:प्रख्यात	O
+mr:कलाकार	O
+mr:बालगंधर्व	B-PER
+mr:यांच्या	O
+mr:जोडीने	O
+mr:ते	O
+mr:रंगमंचावर	O
+mr:वावरले	O
+mr:.	O
+
+mr:मोहम्मद	B-PER
+mr:हमीद	I-PER
+mr:अन्सारी	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:नॉर्मन	B-PER
+mr:फॉस्टर	I-PER
+mr:राम्से	I-PER
+mr:,	I-PER
+mr:जुनियर	I-PER
+
+mr:हरिद्वार	B-ORG
+mr:(	I-ORG
+mr:लोकसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+mr:)	I-ORG
+
+mr:**	O
+mr:व्हिक्टोरिया	B-LOC
+mr:(	O
+mr:हायकमिशन	O
+mr:)	O
+
+mr:*१९५९	O
+mr:-	O
+mr:बिमल	B-PER
+mr:रॉय	I-PER
+mr:-	O
+mr:मधुमती	O
+
+mr:'	O
+mr:''	O
+mr:पोप	B-PER
+mr:ग्रेगोरी	I-PER
+mr:तेरावा	I-PER
+mr:''	O
+mr:'Papa	O
+mr:'	O
+mr:''	O
+mr:GREGORIUS	O
+mr:''	O
+mr:'	O
+mr:Tertius	O
+mr:Decimus	O
+
+mr:आपल्या	O
+mr:कर्तृत्वाने	O
+mr:भारतच	O
+mr:नव्हे	O
+mr:;	O
+mr:तर	O
+mr:संपूर्ण	O
+mr:जगावर	O
+mr:प्रभाव	O
+mr:पाडणार्‍या	O
+mr:इंदिरा	B-PER
+mr:गांधी	I-PER
+mr:यांच्यावरील	O
+mr:अकरा	O
+mr:चरित्रांचे	O
+mr:मूल्यमापन	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:स्विस	B-ORG
+mr:इंटरनॅशनल	I-ORG
+mr:एअरलाइन्स	I-ORG
+
+mr:हे	O
+mr:गाव	O
+mr:वासुदेव	B-PER
+mr:बळवंत	I-PER
+mr:फडके	I-PER
+mr:यांचे	O
+mr:जन्मगाव	O
+mr:आहे	O
+mr:.	O
+
+mr:उत्तर	B-LOC
+mr:प्रदेश	I-LOC
+mr:(	O
+mr:४३	O
+mr:)	O
+mr:,	O
+mr:मध्य	B-LOC
+mr:प्रदेश	I-LOC
+mr:(	O
+mr:५०	O
+mr:)	O
+
+mr:पुनर्निर्देशन	O
+mr:हीरोझ	B-ORG
+mr:अँड	I-ORG
+mr:डीमन्स	I-ORG
+mr:(	I-ORG
+mr:स्टार	I-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+mr:मालिका	I-ORG
+mr:)	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:सीवूड्स–दारावे	B-ORG
+mr:रेल्वे	I-ORG
+mr:स्थानक	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:डेटन	B-LOC
+mr:,	I-LOC
+mr:ओरेगन	I-LOC
+
+mr:पुनर्निर्देशन	O
+mr:बँक	B-ORG
+mr:ऑफ	I-ORG
+mr:अमेरिका	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:आर्सेनल	B-ORG
+mr:एफ.सी	I-ORG
+mr:.	I-ORG
+
+mr:सुधीर	B-PER
+mr:जोशी	I-PER
+mr:=	O
+mr:डॉ	O
+mr:.	O
+
+mr:याशिवाय	O
+mr:तो	O
+mr:पाकिस्तानविरुद्ध	B-ORG
+mr:दोन	O
+mr:कसोट्या	O
+mr:खेळलेला	O
+mr:आहे	O
+mr:.	O
+
+mr:भारतीय	B-ORG
+mr:कम्युनिस्ट	I-ORG
+mr:पक्ष	I-ORG
+mr:(	I-ORG
+mr:मार्क्सवादी	I-ORG
+mr:)	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:ए.बी.	B-PER
+mr:डी	I-PER
+mr:व्हिलियर्स	I-PER
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हे	O
+mr:मुंबई-आग्रा	B-ORG
+mr:महामार्गावरील	I-ORG
+mr:गाव	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:जॉन	B-PER
+mr:एल.	I-PER
+mr:हॉल	I-PER
+
+mr:**	O
+mr:अदिस	B-LOC
+mr:अबाबा	I-LOC
+mr:(	O
+mr:एम्बसी	O
+mr:)	O
+
+mr:पुनर्निर्देशन	O
+mr:ऑर्थर	B-PER
+mr:कॉनन	I-PER
+mr:डॉयल	I-PER
+
+mr:तसेच	O
+mr:बांगलादेश	B-LOC
+mr:,	O
+mr:पाकिस्तान	B-LOC
+mr:,	O
+mr:श्रीलंका	B-LOC
+mr:,	O
+mr:म्यानमार	B-ORG
+mr:येथेही	O
+mr:याचे	O
+mr:वास्तव्य	O
+mr:आहे	O
+mr:.	O
+
+mr:तिसर्‍या	B-PER
+mr:कार्लोसच्या	I-PER
+mr:कार्यकाळात	O
+mr:माद्रिदचा	O
+mr:कायापालट	O
+mr:करण्यात	O
+mr:आला	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:मराठवाडा	B-ORG
+mr:विद्यापीठ	I-ORG
+mr:नामांतर	I-ORG
+mr:आंदोलन	I-ORG
+
+mr:'	O
+mr:''	O
+mr:अनिल	B-PER
+mr:कुंबळे	I-PER
+mr:''	O
+mr:'	O
+
+mr:अमिताभ	B-PER
+mr:बच्चन	I-PER
+mr:,	O
+mr:अनिल	B-PER
+mr:कपूर	I-PER
+mr:,	O
+mr:प्रीती	B-PER
+mr:झिंटा	I-PER
+
+mr:गॅरेट	B-PER
+mr:हॉबार्टमार्च	I-PER
+mr:4	O
+mr:,	O
+mr:1897	O
+mr:–	O
+mr:November	O
+mr:21	O
+mr:,	O
+mr:1899	O
+
+mr:पुनर्निर्देशन	O
+mr:यलाका	B-PER
+mr:वेणुगोपाल	I-PER
+mr:राव	I-PER
+
+mr:'	O
+mr:''	O
+mr:अजनसोंड	O
+mr:'	O
+mr:''	O
+mr:हे	O
+mr:सोलापूर	B-LOC
+mr:जिल्ह्यातल्या	I-LOC
+mr:पंढरपूर	B-LOC
+mr:तालुक्यातील	I-LOC
+mr:गाव	O
+mr:आहे	O
+mr:.	O
+
+mr:नाशिक	B-LOC
+mr:शहराच्या	O
+mr:माहितीसाठी	O
+mr:येथे	B-LOC
+mr:टिचकी	O
+mr:द्या	O
+mr:''	O
+
+mr:पुनर्निर्देशन	O
+mr:इनोसन्स	B-ORG
+mr:(	I-ORG
+mr:स्टार	I-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+mr:मालिका	I-ORG
+mr:)	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:रोमियो	B-LOC
+mr:अॅन्ड	I-LOC
+mr:ज्युलिएट	I-LOC
+
+mr:पुनर्निर्देशन	O
+mr:१९००	B-ORG
+mr:उन्हाळी	I-ORG
+mr:ऑलिंपिकमधील	I-ORG
+mr:अॅथलेटिक्स	I-ORG
+mr:-	I-ORG
+mr:पुरुष	I-ORG
+mr:२००	I-ORG
+mr:मीटर	I-ORG
+
+mr:rect	O
+mr:1083	O
+mr:856	O
+mr:1140	O
+mr:873	O
+mr:हॅलिफॅक्स	B-LOC
+
+mr:पुनर्निर्देशन	O
+mr:फेर्नान्दो	B-PER
+mr:दे	I-PER
+mr:ला	I-PER
+mr:रुआ	I-PER
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हा	O
+mr:भारताच्या	B-LOC
+mr:पुणे	B-LOC
+mr:शहरातील	O
+mr:एक	O
+mr:भाग	O
+mr:आहे	O
+mr:.	O
+
+mr:निलगिरी	B-LOC
+mr:पर्वतरांगेच्या	I-LOC
+mr:माहितीसाठी	O
+mr:येथे	B-LOC
+mr:टिचकी	O
+mr:द्या	O
+mr:.	O
+
+mr:**	O
+mr:रा.	B-ORG
+mr:म.	I-ORG
+mr:२	I-ORG
+mr:वर	O
+mr:दिल्ली	B-LOC
+mr:ते	O
+mr:आग्रा	B-LOC
+
+mr:भारतात	O
+mr:पोलाद	O
+mr:उद्योगाचा	O
+mr:पाया	O
+mr:जमशेदजी	B-PER
+mr:टाटा	I-PER
+mr:यांनी	O
+mr:घातला	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:लक्ष्मणशास्त्री	B-PER
+mr:बाळाजी	I-PER
+mr:जोशी	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:भारतीय	B-ORG
+mr:प्रौद्योगिकी	I-ORG
+mr:संस्थान	I-ORG
+mr:खरगपूर	I-ORG
+
+mr:विल्यम	B-PER
+mr:एफ.	I-PER
+mr:हाल्सी	I-PER
+mr:,	I-PER
+mr:जुनियर	I-PER
+
+mr:फीनिक्स	B-LOC
+mr:ही	O
+mr:अ‍ॅरिझोनाची	O
+mr:राजधानी	O
+mr:व	O
+mr:सर्वात	O
+mr:मोठे	O
+mr:शहर	O
+mr:आहे	O
+mr:.	O
+
+mr:होणार	B-ORG
+mr:सून	I-ORG
+mr:मी	I-ORG
+mr:ह्या	I-ORG
+mr:घरची	I-ORG
+mr:(	O
+mr:झी	B-ORG
+mr:मराठी	I-ORG
+mr:)	O
+
+mr:वर	O
+mr:सुधागड	B-ORG
+mr:हा	O
+mr:किल्ला	O
+mr:आहे	O
+mr:.	O
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:याची	O
+mr:स्थापना	O
+mr:महर्षी	O
+mr:धोंडो	B-PER
+mr:केशव	I-PER
+mr:कर्वे	I-PER
+mr:यांनी	O
+mr:केली	O
+mr:.	O
+
+mr:पोप	B-PER
+mr:बेनेडिक्ट	I-PER
+mr:तिसरा	I-PER
+mr:(	O
+mr:८५५–८५८	O
+mr:)	O
+
+mr:एक	O
+mr:तपाहून	O
+mr:अधिक	O
+mr:काळ	O
+mr:आळंदी	B-LOC
+mr:देवस्थान	O
+mr:येथे	O
+mr:विश्वस्त	O
+mr:म्हणून	O
+mr:सेवारत	O
+mr:आहेत	O
+mr:.	O
+
+mr:भारतीय	B-ORG
+mr:राष्ट्रीय	I-ORG
+mr:राजमार्ग	I-ORG
+mr:प्राधिकरण	I-ORG
+
+mr:अमेरिकेची	B-LOC
+mr:संयुक्त	I-LOC
+mr:संस्थाने	I-LOC
+
+mr:पुनर्निर्देशन	O
+mr:नववा	B-PER
+mr:शार्ल	I-PER
+mr:,	I-PER
+mr:फ्रान्स	I-PER
+
+mr:या	O
+mr:ऐतिहासिक	O
+mr:क्षणाचे	O
+mr:साक्षीदार	O
+mr:महादेव	B-PER
+mr:गोविंद	I-PER
+mr:रानडे	I-PER
+mr:व	O
+mr:तिसरे	B-PER
+mr:सयाजीराव	I-PER
+mr:गायकवाड	I-PER
+mr:हे	O
+mr:होते	O
+mr:.	O
+
+mr:हे	O
+mr:एक	O
+mr:सैन्यदल	O
+mr:मोजण्याचे	O
+mr:एक	O
+mr:एकक	B-ORG
+mr:होते	O
+mr:.	O
+
+mr:या	O
+mr:घाटाजवळच	O
+mr:संताजी	B-PER
+mr:घोरपडेयांची	I-PER
+mr:समाधी	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:गुस्तावस	B-PER
+mr:एडोल्फस	I-PER
+mr:,	I-PER
+mr:स्वीडन	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:श्रीधर	B-PER
+mr:महादेव	I-PER
+mr:जोशी	I-PER
+
+mr:एका	O
+mr:अर्थाने	O
+mr:सरंजामी	O
+mr:नेतृत्वाला	O
+mr:पर्याय	O
+mr:म्हणून	O
+mr:भागवतांनी	O
+mr:मराठवाड्यामध्ये	B-LOC
+mr:एक	O
+mr:सक्षम	O
+mr:पर्याय	O
+mr:निर्माण	O
+mr:केला	O
+mr:.	O
+
+mr:ग्रेट	B-LOC
+mr:ब्रिटन	I-LOC
+mr:राजेशाहीचे	O
+mr:विशेष	O
+mr:अधीन	O
+mr:राज्य	O
+mr:.	O
+
+mr:तसेच	O
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हे	O
+mr:महाराष्ट्रातील	B-LOC
+mr:अहमदनगर	B-LOC
+mr:जिल्ह्यामधील	I-LOC
+mr:अकोले	B-LOC
+mr:तालुक्यातील	B-LOC
+mr:एक	O
+mr:गाव	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:द	B-ORG
+mr:ओबेरॉय	I-ORG
+mr:,	I-ORG
+mr:गुरगांव	I-ORG
+
+mr:सध्याची	O
+mr:ही	O
+mr:चार	O
+mr:युगे	O
+mr:म्हणजे	O
+mr:कृत	B-ORG
+mr:,	O
+mr:त्रेता	B-ORG
+mr:,	O
+mr:द्वापर	B-ORG
+mr:आणि	O
+mr:कली	B-ORG
+mr:.	O
+
+mr:हे	O
+mr:शहर	O
+mr:कोरिया	B-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:क्रेग	B-PER
+mr:मॅकमिलन	I-PER
+mr:''	O
+mr:'	O
+mr:'	O
+mr:''	O
+mr:जेकब	B-PER
+mr:ओराम	I-PER
+mr:''	O
+mr:'	O
+
+mr:'	O
+mr:''	O
+mr:मायक्रो	O
+mr:''	O
+mr:'	O
+mr:ही	O
+mr:मायकेल	B-PER
+mr:क्रिख्टनने	I-PER
+mr:लिहिलेली	O
+mr:कादंबरी	O
+mr:आहे	O
+mr:.	O
+
+mr:तसेच	O
+mr:तारापूर	B-ORG
+mr:अणुऊर्जा	I-ORG
+mr:केंद्र	I-ORG
+mr:व	O
+mr:भाभा	B-ORG
+mr:अणुसंशोधन	I-ORG
+mr:केंद्रही	I-ORG
+mr:जवळच	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:अलेक्सेइ	B-PER
+mr:अलेक्सेयेविच	I-PER
+mr:अब्रिकोसोव्ह	I-PER
+
+mr:अस्तेक	B-ORG
+mr:-	O
+mr:Aztec	O
+mr:(	O
+mr:s	O
+mr:)	O
+
+mr:सर्व	O
+mr:कोतवाल	B-LOC
+mr:(	I-LOC
+mr:पक्षी	I-LOC
+mr:)	I-LOC
+mr:कोष्ठपालाद्य	O
+mr:कुळातील	O
+mr:आहेत	O
+mr:.	O
+
+mr:केव्हिन	B-PER
+mr:पीटरसन	I-PER
+mr:/	O
+mr:पॉल	B-PER
+mr:कॉलिंगवूड	I-PER
+
+mr:एल	B-ORG
+mr:साल्व्हाडोर	I-ORG
+mr:फुटबॉल	I-ORG
+mr:संघ	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:इंटिग्रल	B-ORG
+mr:कोच	I-ORG
+mr:कारखाना	I-ORG
+
+mr:काही	O
+mr:लोक	O
+mr:तबल्याचा	O
+mr:जनक	O
+mr:म्हणून	O
+mr:अमिर	B-PER
+mr:खुस्रोकडे	I-PER
+mr:पाहतात	O
+mr:.	O
+
+mr:या	O
+mr:मध्ये	O
+mr:धर्मेंद्र	B-PER
+mr:यांनी	O
+mr:काम	O
+mr:केले	O
+mr:होते	O
+mr:.	O
+
+mr:या	O
+mr:नाण्यांवरून	O
+mr:त्याचे	O
+mr:राज्य	O
+mr:पंजाबपासून	B-LOC
+mr:बनारसपर्यंत	B-LOC
+mr:होते	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हा	O
+mr:भारताच्या	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्यातील	O
+mr:एक	O
+mr:किल्ला	O
+mr:आहे	O
+mr:.	O
+
+mr:''	O
+mr:'	O
+mr:फेदेरिको	B-PER
+mr:बाल्झारेट्टी	I-PER
+
+mr:ठाणे	B-LOC
+mr:जिल्ह्यातील	I-LOC
+mr:उल्हास	B-LOC
+mr:नदी	I-LOC
+mr:किनारी	O
+mr:वसलेल्या	O
+mr:या	O
+mr:शहराला	O
+mr:'	O
+mr:''	O
+mr:कुळगाव-बदलापूर	O
+mr:''	O
+mr:'	O
+mr:या	O
+mr:नावाने	O
+mr:सुद्धा	O
+mr:ओळखले	O
+mr:जाते	O
+mr:.	O
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:मँचेस्टर	B-ORG
+mr:युनायटेड	I-ORG
+mr:एफ.सी	I-ORG
+mr:.	I-ORG
+
+mr:**	O
+mr:झांझिबार	B-LOC
+mr:(	O
+mr:कॉन्स्युलेट	O
+mr:)	O
+
+mr:डब्ल्यूटीएचे	O
+mr:मुख्यालय	O
+mr:अमेरिकेच्या	B-LOC
+mr:सेंट	B-LOC
+mr:पीटर्सबर्ग	I-LOC
+mr:शहरात	O
+mr:असून	O
+mr:युरोपातील	B-LOC
+mr:लंडन	B-LOC
+mr:तर	O
+mr:आशियातील	B-LOC
+mr:बीजिंग	B-LOC
+mr:येथे	O
+mr:मुख्य	O
+mr:कार्यालये	O
+mr:आहेत	O
+mr:.	O
+
+mr:त्यासाठी	O
+mr:गोकाकवरून	B-LOC
+mr:आरभाव	O
+mr:जातीचा	O
+mr:दगड	O
+mr:वापरला	O
+mr:गेला	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:मीरा	B-ORG
+mr:भाईंदर	I-ORG
+mr:विधानसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+
+mr:काळ्यापाण्याची	O
+mr:शिक्षा	O
+mr:अंदमान	B-LOC
+mr:येथे	O
+mr:भोगावयाची	O
+mr:होती	O
+mr:.	O
+
+mr:डॉ.	B-PER
+mr:राजकुमार	I-PER
+mr:-	O
+mr:८वेळा	O
+mr:पुरस्कृत	O
+
+mr:आकाशवाणीसाठीही	B-ORG
+mr:त्यांनी	O
+mr:नाटके	O
+mr:लिहिली	O
+mr:.	O
+
+mr:हे	O
+mr:शहर	O
+mr:निलगिरी	B-ORG
+mr:जिल्ह्याचे	I-ORG
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:हे	O
+mr:शहर	O
+mr:शिवगंगा	B-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:राष्ट्रीय	B-ORG
+mr:रिमोट	I-ORG
+mr:सेन्सिंग	I-ORG
+mr:केन्द्र	I-ORG
+
+mr:**	O
+mr:तेल	B-LOC
+mr:अवीव	I-LOC
+mr:(	O
+mr:एम्बसी	O
+mr:)	O
+
+mr:मोरारजी	B-PER
+mr:देसाई	I-PER
+mr:यांचे	O
+mr:जनता	B-ORG
+mr:पक्ष	I-ORG
+mr:सरकार	O
+mr:आणि	O
+mr:आश्रमातील	O
+mr:तणावाचे	O
+mr:संबंध	O
+mr:त्यासाठी	O
+mr:कारणीभूत	O
+mr:ठरले	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:द	B-ORG
+mr:इकॉनॉमिक	I-ORG
+mr:टाइम्स	I-ORG
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हा	O
+mr:भारताच्या	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्यातील	O
+mr:एक	O
+mr:किल्ला	O
+mr:आहे	O
+mr:.	O
+
+mr:अखिल	B-ORG
+mr:भारतीय	I-ORG
+mr:अण्णा	I-ORG
+mr:द्रविड	I-ORG
+mr:मुन्नेत्र	I-ORG
+mr:कळघम	I-ORG
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:पहिला	B-PER
+mr:अलेक्झांडर	I-PER
+mr:,	I-PER
+mr:रशिया	I-PER
+
+mr:अनुपम	B-PER
+mr:खेर	I-PER
+mr:=	O
+mr:>	O
+mr:कर्नल	O
+mr:(	O
+mr:हिंदीत	O
+mr:)	O
+
+mr:पुनर्निर्देशन	O
+mr:बीव्हर	B-ORG
+mr:क्रीक	I-ORG
+mr:स्की	I-ORG
+mr:रिझॉर्ट	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:दुसरे	B-ORG
+mr:इटली-इथियोपिया	I-ORG
+mr:युद्ध	I-ORG
+
+mr:या	O
+mr:चित्रपटातील	O
+mr:गीते	O
+mr:नारायण	B-PER
+mr:हरी	I-PER
+mr:आपटे	I-PER
+mr:यांनी	O
+mr:लिहिली	O
+mr:होती	O
+mr:,	O
+mr:तर	O
+mr:त्यांना	O
+mr:केशवराव	B-PER
+mr:भोळ्यांनी	I-PER
+mr:चाली	O
+mr:बांधल्या	O
+mr:होत्या	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:चेन्नई	B-ORG
+mr:सुपर	I-ORG
+mr:किंग्स	I-ORG
+mr:''	O
+mr:'	O
+
+mr:'	O
+mr:''	O
+mr:विश्व	B-ORG
+mr:स्वास्थ्य	I-ORG
+mr:संस्था	I-ORG
+mr:''	O
+mr:'	O
+
+mr:लोकमान्य	B-PER
+mr:टिळक	I-PER
+mr:हे	O
+mr:देखील	O
+mr:भाषावर	O
+mr:प्रांतरचनेच्या	O
+mr:बाजूने	O
+mr:होते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:राष्ट्रीय	B-ORG
+mr:लोकशाही	I-ORG
+mr:आघाडी	I-ORG
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:५	O
+mr:सामना	O
+mr:अमेरिकेची	B-LOC
+mr:संयुक्त	I-LOC
+mr:संस्थाने	I-LOC
+mr:मध्ये	O
+mr:खेळवण्यात	O
+mr:आला	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:ब्लॅकबर्न	B-ORG
+mr:रोव्हर्स	I-ORG
+mr:एफ.सी	I-ORG
+mr:.	I-ORG
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हा	O
+mr:भारताच्या	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्यातील	O
+mr:एक	O
+mr:किल्ला	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:फिंसेंत	B-PER
+mr:फान	I-PER
+mr:घो	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:आफ्रिकन	B-ORG
+mr:फुटबॉल	I-ORG
+mr:मंडळ	I-ORG
+
+mr:पोर्ट	B-LOC
+mr:एलिझाबेथ	I-LOC
+mr:,	O
+mr:दक्षिण	B-LOC
+mr:आफ्रिका	I-LOC
+
+mr:पुनर्निर्देशन	O
+mr:इंदूर	B-ORG
+mr:दुरंतो	I-ORG
+mr:एक्सप्रेस	I-ORG
+
+mr:हे	O
+mr:गाव	O
+mr:नागपूर	B-LOC
+mr:-	O
+mr:अमरावती	B-LOC
+mr:राष्ट्रीय	B-ORG
+mr:महामार्ग	I-ORG
+mr:क्रमांक	I-ORG
+mr:६	I-ORG
+mr:वर	O
+mr:आहे	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:झांबिया	B-LOC
+mr:''	O
+mr:'	O
+mr:देशाचा	O
+mr:नागरी	O
+mr:हिरव्या	O
+mr:रंगाने	O
+mr:बनला	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:गोविंद	B-PER
+mr:पुरुषोत्तम	I-PER
+mr:देशपांडे	I-PER
+
+mr:'	O
+mr:''	O
+mr:हेइक्कि	B-PER
+mr:कोवालायनन	I-PER
+mr:''	O
+mr:'	O
+
+mr:पुनर्निर्देशन	O
+mr:खम्मम	B-ORG
+mr:(	I-ORG
+mr:लोकसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+mr:)	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:व्हेलोद्रोम	B-ORG
+mr:दे	I-ORG
+mr:व्हिन्सेनेस	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:आब्राम	B-PER
+mr:द	I-PER
+mr:म्वाव्र	I-PER
+
+mr:५	O
+mr:मनोज	B-PER
+mr:तिवारीची	I-PER
+mr:जागा	O
+mr:अंबाती	B-PER
+mr:रायडू	I-PER
+mr:घेणार	O
+mr:.	O
+
+mr:हे	O
+mr:शहर	O
+mr:दौसा	B-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:वर्झावा	B-LOC
+mr:''	O
+mr:'	O
+mr:''१९६०	O
+mr:''	O
+
+mr:तिरुचिरापल्ली	B-LOC
+mr:’अ’	O
+mr:-	O
+mr:९३६	O
+mr:कि.ह	O
+mr:.	O
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:तो	O
+mr:सध्या	O
+mr:क्रुझ	B-ORG
+mr:अझुल	I-ORG
+mr:व	O
+mr:ह्या	O
+mr:संघांसाठी	O
+mr:खेळतो	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:दमित्री	B-PER
+mr:तुर्सुनोव्ह	I-PER
+mr:''	O
+mr:'	O
+
+mr:त्यांना	O
+mr:मराठीत	O
+mr:शेकरू	B-LOC
+mr:म्हणतात	O
+mr:.	O
+
+mr:अस्तेक	B-ORG
+mr:-	O
+mr:Aztec	O
+mr:(	O
+mr:s	O
+mr:)	O
+
+mr:'	O
+mr:''	O
+mr:रोबेर्ट	B-PER
+mr:कुबिचा	I-PER
+mr:''	O
+mr:'	O
+
+mr:महिंद	B-ORG
+mr:राजपक्ष	I-ORG
+mr:आंतरराष्ट्रीय	I-ORG
+mr:मैदान	I-ORG
+mr:,	O
+mr:हंबन्टोटा	B-LOC
+
+mr:''	O
+mr:कांतो	B-LOC
+mr:''	O
+mr:'	O
+mr:—	O
+mr:इबाराकी	B-LOC
+mr:,	O
+mr:गुन्मा	B-LOC
+mr:,	O
+mr:कनागावा	B-LOC
+mr:,	O
+mr:चिबा	B-LOC
+mr:,	O
+mr:तोक्यो	B-LOC
+mr:,	O
+mr:तोचिगी	B-LOC
+mr:,	O
+mr:सैतामा	B-LOC
+mr:.	O
+
+mr:जन	B-ORG
+mr:शताब्दी	I-ORG
+mr:एक्सप्रेस	I-ORG
+mr:ताफ्यामधील	O
+mr:ही	O
+mr:वेगवान	O
+mr:आणि	O
+mr:आरामदायी	O
+mr:गाडी	O
+mr:औद्योगिक	O
+mr:शहर	O
+mr:असलेल्या	O
+mr:जालनाला	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्याची	O
+mr:राजधानी	O
+mr:मुंबईसोबत	B-LOC
+mr:जोडते	O
+mr:.	O
+
+mr:शूद्र	B-ORG
+mr:-	O
+mr:शेतकरी	O
+mr:व	O
+mr:इतर	O
+mr:कामकरी	O
+mr:.	O
+
+mr:हे	O
+mr:शहर	O
+mr:पिलीभीत	B-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हे	O
+mr:भारताच्या	B-LOC
+mr:पुणे	B-LOC
+mr:शहरातून	O
+mr:प्रसिद्ध	O
+mr:होणारे	O
+mr:वृत्तपत्र	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:वॉन्डरर्स	B-LOC
+mr:स्टेडियम	I-LOC
+mr:,	I-LOC
+mr:जोहान्सबर्ग	I-LOC
+
+mr:'	O
+mr:''	O
+mr:पोप	B-PER
+mr:बॉनिफेस	I-PER
+mr:पाचवा	I-PER
+mr:''	O
+mr:'Papa	O
+mr:'	O
+mr:''	O
+mr:BONIFACIUS	O
+mr:''	O
+mr:'	O
+mr:Quintus	O
+
+mr:पुनर्निर्देशन	O
+mr:गमाल	B-PER
+mr:आब्देल	I-PER
+mr:नासेर	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:पाउल	B-PER
+mr:फॉन	I-PER
+mr:हिंडनबुर्ग	I-PER
+
+mr:राजीव	B-LOC
+mr:गांधी	I-LOC
+mr:आंतरराष्ट्रीय	I-LOC
+mr:क्रिकेट	I-LOC
+mr:मैदान	I-LOC
+
+mr:हे	O
+mr:एक	O
+mr:महाराष्ट्रातील	B-LOC
+mr:सातारा	B-LOC
+mr:जिल्ह्यातील	I-LOC
+mr:गाव	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:भारतीय	B-ORG
+mr:रिझर्व्ह	I-ORG
+mr:बँक	I-ORG
+
+mr:मिथिलेमध्ये	B-LOC
+mr:या	O
+mr:रात्री	O
+mr:कोजागरहा	O
+mr:पूजा	O
+mr:केली	O
+mr:जाते	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:नामिबिया	B-LOC
+mr:''	O
+mr:'	O
+
+mr:पुनर्निर्देशन	O
+mr:कँपबेल	B-ORG
+mr:बे	I-ORG
+mr:राष्ट्रीय	I-ORG
+mr:उद्यान	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:चित्पावन	B-ORG
+mr:कोकणस्थ	I-ORG
+mr:ब्राह्मण	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:सातवा	B-PER
+mr:राम	I-PER
+mr:,	I-PER
+mr:थायलंड	I-PER
+
+mr:मध्ययुगाच्या	O
+mr:उत्तरार्धात	O
+mr:युरोपमधील	B-LOC
+mr:सामंतशाहीच्या	O
+mr:र्‍हासास	O
+mr:सुरूवात	O
+mr:झाली	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:फर्डिनांड	B-PER
+mr:दुसरा	I-PER
+mr:,	I-PER
+mr:पवित्र	I-PER
+mr:रोमन	I-PER
+mr:सम्राट	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:ए.ई.के.	B-ORG
+mr:अथेन्स	I-ORG
+mr:एफ.सी	I-ORG
+mr:.	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:इफ्तिखार	B-PER
+mr:अली	I-PER
+mr:खान	I-PER
+mr:पटौडी	I-PER
+
+mr:सुधा	B-PER
+mr:चंद्रन	I-PER
+mr:,	O
+mr:नृत्‍य	O
+
+mr:'	O
+mr:''	O
+mr:येकातेरिनबुर्ग	B-LOC
+mr:''	O
+mr:'	O
+
+mr:पुनर्निर्देशन	O
+mr:जेम्स	B-PER
+mr:वॉट्सन	I-PER
+mr:क्रोनिन	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:अटलांटिक	B-ORG
+mr:साउथईस्ट	I-ORG
+mr:एअरलाइन्स	I-ORG
+
+mr:अध्यक्षीय	O
+mr:कारकिर्दीअगोदर	O
+mr:हा	O
+mr:रॉनल्ड	B-PER
+mr:रेगन	I-PER
+mr:याच्या	O
+mr:अध्यक्षीय	O
+mr:राजवटीत	O
+mr:इ.स	O
+mr:.	O
+
+mr:या	O
+mr:मध्ये	O
+mr:अमिताभ	B-PER
+mr:बच्चन	I-PER
+mr:यांनी	O
+mr:काम	O
+mr:केले	O
+mr:होते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:हुआन	B-PER
+mr:कार्लोस	I-PER
+mr:पहिला	I-PER
+mr:,	I-PER
+mr:स्पेन	I-PER
+
+mr:नवी	B-ORG
+mr:दिल्ली	I-ORG
+mr:–	O
+mr:बंगळूर	B-ORG
+mr:कर्नाटक	B-ORG
+mr:एक्सप्रेस	I-ORG
+
+mr:रणसिंगे	B-LOC
+mr:प्रेमदासा	I-LOC
+mr:मैदान	I-LOC
+mr:,	O
+mr:कोलंबो	B-LOC
+
+mr:'	O
+mr:''	O
+mr:लावणी	O
+mr:''	O
+mr:'	O
+mr:हा	O
+mr:महाराष्ट्रातील	B-LOC
+mr:कलाप्रकार	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:इब्राहिम	B-ORG
+mr:इस्माइल	I-ORG
+mr:चुंदरीगर	I-ORG
+
+mr:त्यानंतर	O
+mr:श्रीमती	O
+mr:सोनिया	B-PER
+mr:गांधी	I-PER
+mr:यांनी	O
+mr:पंतप्रधानपद	O
+mr:दुसर्‍या	O
+mr:व्यक्तीकडे	O
+mr:सोपवून	O
+mr:पुन्हा	O
+mr:सत्ताकेंद्रांची	O
+mr:विभागणी	O
+mr:केली	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:हराल्ड	B-PER
+mr:झुअर	I-PER
+mr:हाउसन	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:फेडरल	B-ORG
+mr:एव्हियेशन	I-ORG
+mr:अॅडमिनिस्ट्रेशन	I-ORG
+
+mr:सांता	B-LOC
+mr:फे	I-LOC
+mr:-	O
+mr:७५	O
+mr:,	O
+mr:७६४	O
+
+mr:देशाची	O
+mr:राजधानी	O
+mr:व	O
+mr:सर्वात	O
+mr:मोठे	O
+mr:शहर	O
+mr:व्हिक्टोरिया	B-LOC
+mr:ह्याच	O
+mr:बेटावर	O
+mr:वसले	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:विश्वनाथ	B-PER
+mr:काशीनाथ	I-PER
+mr:राजवाडे	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:फकीरराव	B-PER
+mr:मुंजाजी	I-PER
+mr:शिंदे	I-PER
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:भारतातील	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्यातल्या	O
+mr:पुणे	B-LOC
+mr:शहरातील	O
+mr:मोठे	O
+mr:रुग्णालय	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:दिगंबर	B-PER
+mr:बापूजी	I-PER
+mr:पाटील	I-PER
+
+mr:पं	B-PER
+mr:विष्णू	I-PER
+mr:दिगंबर	I-PER
+mr:पलुसकरांचे	I-PER
+mr:शिष्य	O
+mr:.	O
+
+mr:ते	O
+mr:जसराजांकडे	B-PER
+mr:राहत	O
+mr:होते	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:युनेस्को	B-ORG
+mr:''	O
+mr:'	O
+
+mr:एम.ए.	B-LOC
+mr:चिदंबरम	I-LOC
+mr:स्टेडियम	I-LOC
+mr:,	I-LOC
+mr:चेन्नई	I-LOC
+mr:,	O
+mr:चेन्नई	B-LOC
+
+mr:ह्यांमध्ये	O
+mr:अमेरिकेच्या	B-LOC
+mr:इराक	B-LOC
+mr:व	O
+mr:अफगाणिस्तानमधील	B-LOC
+mr:युद्धांबाबत	O
+mr:अनेक	O
+mr:दस्तावेजांचा	O
+mr:समावेश	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:गोविंद	B-PER
+mr:पुरुषोत्तम	I-PER
+mr:देशपांडे	I-PER
+
+mr:पश्चिम	B-LOC
+mr:युरोपाएवढे	I-LOC
+mr:याचे	O
+mr:आकारमान	O
+mr:आहे	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:जम्मू	B-LOC
+mr:आणि	I-LOC
+mr:काश्मीर	I-LOC
+mr:''	O
+mr:'	O
+
+mr:पुनर्निर्देशन	O
+mr:एल्डरसन	B-PER
+mr:उवा	I-PER
+mr:एचिएजिले	I-PER
+
+mr:चिली	B-LOC
+mr:देशाच्या	O
+mr:ईस्टर	B-LOC
+mr:द्वीपावर	I-LOC
+mr:देखील	O
+mr:ही	O
+mr:वेळ	O
+mr:वापरली	O
+mr:जाते	O
+mr:.	O
+
+mr:अक्षय	B-PER
+mr:कुमार	I-PER
+mr:,	O
+mr:बॉबी	B-PER
+mr:देओल	I-PER
+mr:,	O
+mr:लारा	B-PER
+mr:दत्ता	I-PER
+mr:,	O
+mr:करीना	B-PER
+mr:कपूर	I-PER
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हा	O
+mr:दरवर्षी	O
+mr:मे	B-LOC
+mr:३१	I-LOC
+mr:रोजी	O
+mr:जगभरात	O
+mr:पाळला	O
+mr:जातो	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:अमरावती	B-LOC
+mr:''	O
+mr:'-	O
+mr:एक	O
+mr:प्रमुख	O
+mr:शहर	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:विक्रम	B-PER
+mr:राज	I-PER
+mr:वीर	I-PER
+mr:सिंग	I-PER
+
+mr:राष्ट्रीय	B-ORG
+mr:महामार्ग	I-ORG
+mr:३	I-ORG
+mr:या	O
+mr:मार्गावर	O
+mr:धुळे	B-LOC
+mr:व	O
+mr:मालेगाव	B-LOC
+mr:या	O
+mr:टप्प्यात	O
+mr:हे	O
+mr:गाव	O
+mr:लागते	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:तिलकरत्ने	B-PER
+mr:दिलशान	I-PER
+mr:''	O
+mr:'	O
+
+mr:यावरून	O
+mr:वेष्टण	O
+mr:,	O
+mr:परिवेष्टित	B-LOC
+mr:वगैरे	O
+
+mr:पुनर्निर्देशन	O
+mr:राष्ट्रीय	B-ORG
+mr:प्रौद्योगिकी	I-ORG
+mr:संस्थाने	I-ORG
+
+mr:ही	O
+mr:गाडी	O
+mr:मुंबई	B-LOC
+mr:छत्रपती	B-ORG
+mr:शिवाजी	I-ORG
+mr:टर्मिनस	I-ORG
+mr:ते	O
+mr:गोव्यामधील	B-LOC
+mr:मडगांव	B-LOC
+mr:स्थानकांदरम्यान	O
+mr:रोज	O
+mr:धावते	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:सैतामा	B-LOC
+mr:''	O
+mr:'	O
+
+mr:विजय	B-PER
+mr:कुमार	I-PER
+mr:व	O
+mr:हरप्रीत	B-PER
+mr:सिंग	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:बिलासपूर	B-LOC
+mr:,	I-LOC
+mr:हिमाचल	I-LOC
+mr:प्रदेश	I-LOC
+
+mr:ह्या	O
+mr:भूभागावर	O
+mr:स्पेनचा	B-LOC
+mr:दावा	O
+mr:आहे	O
+mr:.	O
+
+mr:ही	O
+mr:गाडी	O
+mr:दररोज	O
+mr:मुंबईच्या	B-LOC
+mr:दादर	B-ORG
+mr:ते	O
+mr:चेन्नईच्या	B-LOC
+mr:चेन्नई	B-ORG
+mr:इग्मोर	I-ORG
+mr:ह्या	O
+mr:स्थानकांदरम्यान	O
+mr:धावते	O
+mr:.	O
+
+mr:त्यावेळी	O
+mr:तो	O
+mr:मुंबई	B-LOC
+mr:संघामधून	O
+mr:गुजरात	B-LOC
+mr:संघाविरुद्ध	O
+mr:खेळत	O
+mr:होता	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:मॅथ्यू	B-PER
+mr:हेडन	I-PER
+mr:''	O
+mr:'	O
+
+mr:पुनर्निर्देशन	O
+mr:श्रीमती	B-ORG
+mr:नाथीबाई	I-ORG
+mr:दामोदर	I-ORG
+mr:ठाकरसी	I-ORG
+mr:महिला	I-ORG
+mr:विद्यापीठ	I-ORG
+
+mr:कॉलेज	B-ORG
+mr:ऑफ	I-ORG
+mr:मिलिटरी	I-ORG
+mr:इंजिनियरींग	I-ORG
+
+mr:या	O
+mr:मध्ये	O
+mr:अमिताभ	B-PER
+mr:बच्चन	I-PER
+mr:यांनी	O
+mr:काम	O
+mr:केले	O
+mr:होते	O
+mr:.	O
+
+mr:पुणे	B-LOC
+mr:शहर	O
+mr:दक्खनच्या	O
+mr:पठारावर	O
+mr:वसलेले	O
+mr:आहे	O
+mr:.	O
+
+mr:हे	O
+mr:शहर	O
+mr:मोन	B-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हा	O
+mr:भारताच्या	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्यातील	O
+mr:एक	O
+mr:किल्ला	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:लुडविग	B-PER
+mr:फान	I-PER
+mr:बीथोव्हेन	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:ऱ्हॉन्डा	B-PER
+mr:जो	I-PER
+mr:पेटी	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:युलिसिस	B-PER
+mr:एस.	I-PER
+mr:ग्रँट	I-PER
+
+mr:मारिया	B-PER
+mr:शारापोव्हा	I-PER
+mr:ही	O
+mr:मागच्या	O
+mr:वर्षीची	O
+mr:विजेती	O
+mr:आहे	O
+mr:.	O
+
+mr:चीनमध्ये	B-LOC
+mr:३५००	O
+mr:वर्षांपासून	O
+mr:छत्र्या	O
+mr:बनवतात	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:सैयद	B-PER
+mr:नझीर	I-PER
+mr:अली	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:भारतीय	B-ORG
+mr:जनता	I-ORG
+mr:पक्ष	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:डॅनियेल	B-PER
+mr:सी.	I-PER
+mr:त्सुइ	I-PER
+
+mr:विलियम्स]]	O
+mr:''	O
+mr:'-	O
+mr:''	O
+mr:कॉसवर्थ	B-ORG
+mr:''	O
+mr:'	O
+
+mr:पुनर्निर्देशन	O
+mr:प्रतीक	B-PER
+mr:प्रकाशबापू	I-PER
+mr:पाटील	I-PER
+
+mr:अहमदनगर	B-LOC
+mr:शहरातील	O
+mr:गुजर	O
+mr:गल्लीत	O
+mr:बाँब	O
+mr:बनविण्याचे	O
+mr:प्रशिक्षण	O
+mr:देण्याचे	O
+mr:कामही	O
+mr:त्यांनी	O
+mr:सुरू	O
+mr:केले	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:रोबेर्ट	B-PER
+mr:कुबिचा	I-PER
+mr:''	O
+mr:'	O
+
+mr:या	O
+mr:मध्ये	O
+mr:अमिताभ	B-PER
+mr:बच्चन	I-PER
+mr:यांनी	O
+mr:काम	O
+mr:केले	O
+mr:होते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:ऑलिंपिस्की	B-LOC
+mr:राष्ट्रीय	I-LOC
+mr:क्रीडा	I-LOC
+mr:संकुल	I-LOC
+
+mr:पुनर्निर्देशन	O
+mr:कुरुक्षेत्र	B-ORG
+mr:(	I-ORG
+mr:लोकसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+mr:)	I-ORG
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:राजस्थान	B-LOC
+mr:राज्यातील	I-LOC
+mr:सात	O
+mr:प्रशासकीय	O
+mr:विभागांपैकी	O
+mr:एक	O
+mr:आहे	O
+mr:.	O
+
+mr:या	O
+mr:गावाच्या	O
+mr:तिन्ही	O
+mr:बाजूंना	O
+mr:नीरा	B-LOC
+mr:नदीने	I-LOC
+mr:वळसा	O
+mr:दिलेला	O
+mr:आहे	O
+mr:.	O
+
+mr:ब्लॅकबर्न	B-ORG
+mr:रोव्हर्स	I-ORG
+mr:एफ.सी	I-ORG
+mr:.	I-ORG
+
+mr:अनिल	B-PER
+mr:कपूर	I-PER
+mr:,	O
+mr:अक्षय	B-PER
+mr:कुमार	I-PER
+mr:,	O
+mr:सैफ	B-PER
+mr:अली	I-PER
+mr:खान	I-PER
+mr:,	O
+mr:करीना	B-PER
+mr:कपूर	I-PER
+
+mr:भारतीय	B-ORG
+mr:विज्ञान	I-ORG
+mr:शिक्षण	I-ORG
+mr:आणि	I-ORG
+mr:संशोधन	I-ORG
+mr:संस्था	I-ORG
+mr:,	I-ORG
+mr:भोपाळ	I-ORG
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:पानिपतची	B-ORG
+mr:दुसरी	I-ORG
+mr:लढाई	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:अमेरिकेच्या	B-ORG
+mr:प्रतिनिधींचे	I-ORG
+mr:सभागृह	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:जिजाबाई	B-PER
+mr:शहाजी	I-PER
+mr:भोसले	I-PER
+
+mr:प्रल्हाद	B-PER
+mr:केशव	I-PER
+mr:अत्रे	I-PER
+mr:यांनी	O
+mr:या	O
+mr:चित्रपटाचे	O
+mr:दिग्दर्शन	O
+mr:केले	O
+mr:होते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:महाराष्ट्र	B-ORG
+mr:विधानसभा	I-ORG
+mr:निवडणूक	I-ORG
+mr:२००९	I-ORG
+
+mr:यात	O
+mr:अमिताभ	B-PER
+mr:बच्चन	I-PER
+mr:यांनी	O
+mr:या	O
+mr:मुलाची	O
+mr:भूमिका	O
+mr:बजावली	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:चार्ल्स	B-PER
+mr:रुईस	I-PER
+mr:डि	I-PER
+mr:बीरेनब्रुक	I-PER
+
+mr:१६४९]]	O
+mr:मध्ये	O
+mr:शहाजी	B-PER
+mr:राजांच्या	I-PER
+mr:यांच्या	O
+mr:सुटकेसाठी	O
+
+mr:'	O
+mr:''	O
+mr:शिकागो	B-LOC
+mr:''	O
+mr:'	O
+
+mr:अनिल	B-PER
+mr:कपूर	I-PER
+mr:,	O
+mr:जॅकी	B-PER
+mr:श्रॉफ	I-PER
+mr:,	O
+mr:अनुपम	B-PER
+mr:खेर	I-PER
+mr:,	O
+mr:नाना	B-PER
+mr:पाटेकर	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:द	B-ORG
+mr:टाइम्स	I-ORG
+mr:ऑफ	I-ORG
+mr:इंडिया	I-ORG
+
+mr:आनंद	B-PER
+mr:(	I-PER
+mr:बुद्धशिष्य	I-PER
+mr:)	I-PER
+
+mr:या	O
+mr:मध्ये	O
+mr:धर्मेंद्र	B-PER
+mr:यांनी	O
+mr:काम	O
+mr:केले	O
+mr:होते	O
+mr:.	O
+
+mr:वयाच्या	O
+mr:दहाव्या	O
+mr:वर्षी	O
+mr:त्यांनी	O
+mr:पहिले	O
+mr:व्यंगचित्र	O
+mr:इंदिरा	B-PER
+mr:गांधींचे	I-PER
+mr:काढले	O
+mr:.	O
+
+mr:याचे	O
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:फतेहपूर	B-LOC
+mr:येथे	O
+mr:आहे	O
+mr:.	O
+
+mr:गर्द	O
+mr:रानाने	O
+mr:वेढलेला	O
+mr:अवचितगड	B-ORG
+
+mr:पुनर्निर्देशन	O
+mr:युरोपीय	B-ORG
+mr:अंतराळ	I-ORG
+mr:संस्था	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:सहारा	B-LOC
+mr:स्टेडियम	I-LOC
+mr:किंग्जमेड	I-LOC
+mr:,	I-LOC
+mr:दरबान	I-LOC
+
+mr:पुनर्निर्देशन	O
+mr:न्यू	B-ORG
+mr:झीलंड	I-ORG
+mr:क्रिकेट	I-ORG
+mr:संघ	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:युनायटेड	B-ORG
+mr:पार्सल	I-ORG
+mr:सर्व्हिस	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:जॉर्ज	B-PER
+mr:एफ.	I-PER
+mr:स्मूट	I-PER
+
+mr:वालचंद	B-PER
+mr:हिराचंद	I-PER
+mr:यांनी	O
+mr:इ.स	O
+mr:.	O
+
+mr:हर्ड	B-LOC
+mr:द्वीप	I-LOC
+mr:व	I-LOC
+mr:मॅकडॉनल्ड	I-LOC
+mr:द्वीपसमूह	I-LOC
+
+mr:बेदी	B-PER
+mr:(	O
+mr:संयुक्तपणे	O
+mr:-२००४	O
+mr:)	O
+
+mr:हे	O
+mr:शहर	O
+mr:अलवार	B-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:हॉगवॉर्ट्‌ज	B-ORG
+mr:स्कूल	I-ORG
+mr:ऑफ	I-ORG
+mr:विचक्राफ्ट	I-ORG
+mr:अ‍ॅन्ड	I-ORG
+mr:विझार्ड्री	I-ORG
+
+mr:मेधा	B-PER
+mr:पाटकर	I-PER
+mr:यांनी	O
+mr:या	O
+mr:संदर्भात	O
+mr:जागृतीचे	O
+mr:काम	O
+mr:जगभरात	O
+mr:केले	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:महाराष्ट्र	B-ORG
+mr:औद्योगिक	I-ORG
+mr:विकास	I-ORG
+mr:महामंडळ	I-ORG
+
+mr:विदर्भ	B-LOC
+mr:देशाची	O
+mr:राजकन्या	O
+mr:इंदुमती	O
+mr:हिचे	O
+mr:स्वयंवर	O
+mr:मांडले	O
+mr:आहे	O
+mr:.	O
+
+mr:नांदेड	B-LOC
+mr:जिल्ह्यात	I-LOC
+mr:श्रीक्षेत्र	B-LOC
+mr:माहूर	I-LOC
+mr:वसले	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:भारतीय	B-ORG
+mr:नियोजन	I-ORG
+mr:आयोग	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:विलास	B-PER
+mr:बाबूराव	I-PER
+mr:मुत्तेमवार	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:कोल	B-ORG
+mr:इंडिया	I-ORG
+mr:लिमिटेड	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:नारायण	B-PER
+mr:हरी	I-PER
+mr:आपटे	I-PER
+
+mr:'	O
+mr:''	O
+mr:कुरितिबा	B-LOC
+mr:''	O
+mr:'	O
+
+mr:पुनर्निर्देशन	O
+mr:जळगाव	B-ORG
+mr:ग्रामीण	I-ORG
+mr:विधानसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+
+mr:भारतीय	B-ORG
+mr:राष्ट्रीय	I-ORG
+mr:राजमार्ग	I-ORG
+mr:प्राधिकरण	I-ORG
+
+mr:तसेच	O
+mr:पूर्व	B-LOC
+mr:युरोपातील	I-LOC
+mr:सर्व	O
+mr:देशांनी	O
+mr:ह्या	O
+mr:स्पर्धेवर	O
+mr:बहिष्कार	O
+mr:टाकला	O
+mr:होता	O
+mr:.	O
+
+mr:भारतीय	B-ORG
+mr:रिझर्व्ह	I-ORG
+mr:बँक	I-ORG
+
+mr:अशा	O
+mr:प्रतिकूल	O
+mr:परिस्थितीत	O
+mr:त्यांनी	O
+mr:दादोजी	B-PER
+mr:कोंडदेव	I-PER
+mr:यांच्या	O
+mr:सोबत	O
+mr:नेटाने	O
+mr:पुणे	B-LOC
+mr:शहराचा	O
+mr:पुनर्विकास	O
+mr:केला	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:कोडरमा	B-ORG
+mr:(	I-ORG
+mr:लोकसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+mr:)	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:ज्योतिका	B-PER
+mr:(	I-PER
+mr:अभिनेत्री	I-PER
+mr:)	I-PER
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:जोहोराच्या	O
+mr:उत्तरेस	O
+mr:पाहांग	B-LOC
+mr:,	O
+mr:वायव्येस	O
+mr:मलाक्का	B-LOC
+mr:व	O
+mr:नगरी	B-LOC
+mr:संबिलान	I-LOC
+mr:असून	O
+mr:दक्षिणेस	O
+mr:सिंगापुराच्या	B-LOC
+mr:प्रजासत्ताकापासून	I-LOC
+mr:जोहोरास	O
+mr:अलग	O
+mr:करणारी	O
+mr:जोहोराची	B-LOC
+mr:सामुद्रधुनी	I-LOC
+mr:आहे	O
+mr:.	O
+
+mr:हा	O
+mr:आपल्या	O
+mr:राजकीय	O
+mr:कारकिर्दीत	O
+mr:मोगलांच्या	B-LOC
+mr:पक्षात	O
+mr:सामील	O
+mr:झाला	O
+mr:.	O
+
+mr:हे	O
+mr:गाव	O
+mr:औरंगाबाद	B-LOC
+mr:जिल्ह्याच्या	I-LOC
+mr:कन्नड	B-LOC
+mr:तालुक्याचे	I-LOC
+mr:मुख्य	O
+mr:ठिकाण	O
+mr:आहे	O
+mr:.	O
+
+mr:फ्रँक	B-PER
+mr:लॉईड	I-PER
+mr:राइट	I-PER
+
+mr:याचे	O
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आझमगढ	B-LOC
+mr:येथे	O
+mr:आहे	O
+mr:.	O
+
+mr:भारतीय	B-ORG
+mr:राष्ट्रीय	I-ORG
+mr:राजमार्ग	I-ORG
+mr:प्राधिकरण	I-ORG
+
+mr:|	O
+mr:अखिल	B-ORG
+mr:भारतीय	I-ORG
+mr:तृणमूल	I-ORG
+mr:काँग्रेस	I-ORG
+
+mr:रामस्वामी	B-PER
+mr:वेंकटरमण	I-PER
+mr:(	O
+mr:1910–2009	O
+mr:)	O
+
+mr:हे	O
+mr:शहर	O
+mr:त्रिपुराची	O
+mr:राजधानी	O
+mr:तसेच	O
+mr:पश्चिम	B-LOC
+mr:त्रिपुरा	I-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:माणिक	B-PER
+mr:सीताराम	I-PER
+mr:गोडघाटे	I-PER
+
+mr:गांधार	B-LOC
+mr:राजांनी	O
+mr:त्यात	O
+mr:कुशलता	O
+mr:मिळवली	O
+mr:.	O
+
+mr:नीडरजाक्सन	B-LOC
+mr:राज्याने	O
+mr:ब्रेमरहाफेनला	O
+mr:सर्व	O
+mr:बाजूंनी	O
+mr:वेढले	O
+mr:आहे	O
+mr:.	O
+
+mr:हंग्रियलिझम	B-ORG
+mr:साहित्य-चळवळीतील	O
+mr:साहित्यिकांपैकी	O
+mr:ते	O
+mr:एक	O
+mr:होते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:टॉमी	B-PER
+mr:स्मिथ	I-PER
+mr:(	I-PER
+mr:फुटबॉल	I-PER
+mr:खेळाडू	I-PER
+mr:जन्म	I-PER
+mr:१९९०	I-PER
+mr:)	I-PER
+
+mr:हा	O
+mr:महोत्सव	O
+mr:पूर्वी	O
+mr:रामटेक	B-LOC
+mr:येथे	O
+mr:आयोजला	O
+mr:जात	O
+mr:असे	O
+mr:,	O
+mr:पण	O
+mr:सध्या	O
+mr:नागपूर	B-LOC
+mr:येथे	O
+mr:होतो	O
+mr:.	O
+
+mr:हो	B-LOC
+mr:चि	I-LOC
+mr:मिन्ह	I-LOC
+mr:सिटी	I-LOC
+mr:,	O
+mr:व्हियेतनाम	B-LOC
+
+mr:वांद्रे	B-LOC
+mr:कुर्ला	I-LOC
+mr:संकुलाकडे	I-LOC
+mr:जाण्याचा	O
+mr:मार्ग	O
+mr:देखील	O
+mr:येथून	O
+mr:सुरू	O
+mr:होतो	O
+mr:.	O
+
+mr:कोलार	B-LOC
+mr:शहराच्या	O
+mr:माहितीसाठी	O
+mr:येथे	B-LOC
+mr:टिचकी	O
+mr:द्या	O
+mr:.	O
+mr:''	O
+
+mr:'	O
+mr:''	O
+mr:कझाकस्तान	B-LOC
+mr:''	O
+mr:'	O
+
+mr:पुनर्निर्देशन	O
+mr:थुंबा	B-LOC
+mr:इक्वेटोरीयल	I-LOC
+mr:रॉकेट	I-LOC
+mr:लॉन्चिंग	I-LOC
+mr:स्टेशन	I-LOC
+
+mr:पुनर्निर्देशन	O
+mr:पोप	B-PER
+mr:ज्युलियस	I-PER
+mr:पहिला	I-PER
+
+mr:'	O
+mr:''	O
+mr:घरगड	O
+mr:किल्ला	O
+mr:''	O
+mr:'	O
+mr:तथा	O
+mr:'	O
+mr:''	O
+mr:गडगडा	O
+mr:किल्ला	O
+mr:''	O
+mr:'	O
+mr:हा	O
+mr:भारताच्या	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्यातील	O
+mr:एक	O
+mr:किल्ला	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:प्रियांका	B-PER
+mr:रॉबर्ट	I-PER
+mr:वड्रा	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:चंद्रशेखर	B-PER
+mr:वेंकट	I-PER
+mr:रामन	I-PER
+
+mr:पुणे	B-LOC
+mr:,	O
+mr:ठाणे	B-LOC
+mr:आणि	O
+mr:अहमदनगर	B-LOC
+mr:या	O
+mr:तीन	O
+mr:जिल्ह्यांच्या	O
+mr:सीमा	O
+mr:जेथे	O
+mr:एकत्र	O
+mr:येतात	O
+mr:तेथून	O
+mr:सह्याद्रीची	B-LOC
+mr:एक	O
+mr:उपरांग	O
+mr:पूर्वेकडे	O
+mr:धावते	O
+mr:.	O
+
+mr:फ्रान्समध्ये	B-LOC
+mr:प्रयत्नांची	O
+mr:शर्थ	O
+mr:करताना	O
+mr:युनायटेड	B-LOC
+mr:किंग्डमचे	I-LOC
+mr:लश्करी	O
+mr:बळ	O
+mr:रोडावले	O
+mr:होते	O
+mr:.	O
+
+mr:याच्या	O
+mr:उत्तरेस	O
+mr:शिवाजी	B-LOC
+mr:पार्क	I-LOC
+mr:,	O
+mr:दक्षिणेस	O
+mr:वरळी	B-LOC
+mr:तर	O
+mr:पश्चिमेस	O
+mr:अरबी	B-LOC
+mr:समुद्र	I-LOC
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:मार्कस	B-PER
+mr:सेव्हेरस	I-PER
+mr:डिडियस	I-PER
+mr:ज्युलियानस	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:सय्यद	B-PER
+mr:शाहनवाझ	I-PER
+mr:हुसेन	I-PER
+
+mr:**	O
+mr:बेलग्रेड	B-LOC
+mr:(	O
+mr:एम्बसी	O
+mr:)	O
+
+mr:पुनर्निर्देशन	O
+mr:सेंट	B-LOC
+mr:व्हिन्सेंट	I-LOC
+mr:आणि	I-LOC
+mr:ग्रेनेडीन्स	I-LOC
+
+mr:IBN	B-ORG
+mr:लोकमत	I-ORG
+mr:-	O
+mr:सर्व	O
+mr:,	O
+
+mr:बीड	B-LOC
+mr:मतदारसंघात	O
+mr:मोटरसायकलवरून	O
+mr:गोपीनाथजींनी	O
+mr:भाजपसाठी	B-ORG
+mr:प्रचार	O
+mr:केला	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:एम.ए.	B-LOC
+mr:चिदंबरम	I-LOC
+mr:स्टेडियम	I-LOC
+mr:,	I-LOC
+mr:चेन्नई	I-LOC
+
+mr:पुनर्निर्देशन	O
+mr:आफ्रिकन	B-ORG
+mr:फुटबॉल	I-ORG
+mr:मंडळ	I-ORG
+
+mr:बिपाशा	B-PER
+mr:बासू	I-PER
+mr:,	O
+mr:जॉन	B-PER
+mr:अब्राहम	I-PER
+
+mr:'	O
+mr:''	O
+mr:ग्रीन	B-ORG
+mr:बे	I-ORG
+mr:पॅकर्स	I-ORG
+mr:''	O
+mr:'	O
+
+mr:'	O
+mr:''	O
+mr:त्युमेन	B-LOC
+mr:''	O
+mr:'	O
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:फिनलंड	B-LOC
+mr:,	O
+mr:स्वीडन	B-LOC
+mr:व	O
+mr:स्लोव्हेनिया	B-LOC
+mr:खालोखाल	O
+mr:युरोपात	B-LOC
+mr:सर्वाधिक	O
+mr:जंगले	O
+mr:असण्याचा	O
+mr:मान	O
+mr:लात्व्हियाला	O
+mr:मिळतो	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:लिव्हरपूल	B-ORG
+mr:एफ.सी	I-ORG
+mr:.	I-ORG
+
+mr:याचे	O
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:लखनौ	B-LOC
+mr:येथे	O
+mr:आहे	O
+mr:.	O
+
+mr:प्रसंगी	O
+mr:गायली	O
+mr:जातात	O
+mr:व	O
+mr:मुख्यत्वे	O
+mr:हि	O
+mr:उत्तर	B-LOC
+mr:प्रदेशातील	I-LOC
+mr:खालच्या	O
+mr:जातीतील	O
+mr:स्त्रिया	O
+mr:गातात	O
+mr:अशी	O
+mr:मांडणी	O
+mr:केलेली	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:श्रीकृष्ण	B-PER
+mr:नारायण	I-PER
+mr:रातंजनकर	I-PER
+
+mr:या	O
+mr:मध्ये	O
+mr:धर्मेंद्र	B-PER
+mr:यांनी	O
+mr:काम	O
+mr:केले	O
+mr:होते	O
+mr:.	O
+
+mr:ही	O
+mr:वेळ	O
+mr:रशिया	B-LOC
+mr:तसेच	O
+mr:ओशनियामधील	B-LOC
+mr:अनेक	O
+mr:देशांमध्ये	O
+mr:वापरली	O
+mr:जाते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:महाराष्ट्र	B-ORG
+mr:राज्य	I-ORG
+mr:मार्ग	I-ORG
+mr:परिवहन	I-ORG
+mr:महामंडळ	I-ORG
+
+mr:या	O
+mr:मध्ये	O
+mr:धर्मेंद्र	B-PER
+mr:यांनी	O
+mr:काम	O
+mr:केले	O
+mr:होते	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:इरफान	B-PER
+mr:पठाण	I-PER
+mr:''	O
+mr:'	O
+
+mr:पुनर्निर्देशन	O
+mr:ए.ई.के.	B-ORG
+mr:अथेन्स	I-ORG
+mr:एफ.सी	I-ORG
+mr:.	I-ORG
+
+mr:हे	O
+mr:गाव	O
+mr:भीमा	B-LOC
+mr:नदीच्या	I-LOC
+mr:काठी	O
+mr:असलेले	O
+mr:जुने	O
+mr:पळसदेवगाव	O
+mr:उजनी	B-ORG
+mr:धरण	I-ORG
+mr:जलाशयाच्या	O
+mr:धरणक्षेत्रात	O
+mr:बुडाल्यामुळे	O
+mr:पुर्नस्थापित	O
+mr:गाव	O
+mr:आहे	O
+mr:.	O
+
+mr:त्या	O
+mr:ग्वाल्हेर	B-ORG
+mr:घराण्याच्या	I-ORG
+mr:शैलीने	O
+mr:गायन	O
+mr:करतात	O
+mr:.	O
+
+mr:विल्यम	B-PER
+mr:एफ.	I-PER
+mr:हाल्सी	I-PER
+mr:,	I-PER
+mr:जुनियर	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:नियंत्रक	B-ORG
+mr:आणि	I-ORG
+mr:महालेखापरिक्षक	I-ORG
+
+mr:अकोला	B-ORG
+mr:पश्चिम	I-ORG
+mr:विधानसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+
+mr:'	O
+mr:''	O
+mr:गूडलँड	O
+mr:''	O
+mr:'	O
+mr:हे	O
+mr:अमेरिकेच्या	B-LOC
+mr:कॅन्सस	B-LOC
+mr:राज्यातील	O
+mr:शहर	O
+mr:आहे	O
+mr:.	O
+
+mr:ह्या	O
+mr:चित्रपटामध्ये	O
+mr:अशोक	B-PER
+mr:सराफ	I-PER
+mr:व	O
+mr:वंदना	B-PER
+mr:गुप्ते	I-PER
+mr:ह्यांच्या	O
+mr:प्रमुख	O
+mr:भूमिका	O
+mr:आहेत	O
+mr:.	O
+
+mr:नागपूर	B-LOC
+mr:(	I-LOC
+mr:लोकसभा	I-LOC
+mr:मतदारसंघ	I-LOC
+mr:)	I-LOC
+
+mr:पुनर्निर्देशन	O
+mr:वेल्सचा	B-PER
+mr:युवराज	I-PER
+mr:चार्ल्स	I-PER
+
+mr:मेघनाद	B-PER
+mr:साहा	I-PER
+mr:(	O
+mr:इ.स	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:रेड	B-ORG
+mr:बुल	I-ORG
+mr:रेसिंग	I-ORG
+mr:''	O
+mr:'	O
+
+mr:*२८०	O
+mr:-	O
+mr:शिरोळ	B-ORG
+mr:विधानसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+
+mr:हे	O
+mr:अंदाजपत्रक	O
+mr:लोकसभेत	B-ORG
+mr:साध्या	O
+mr:बहुमताने	O
+mr:संमत	O
+mr:होणे	O
+mr:आवश्यक	O
+mr:असते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:इंदिरा	B-ORG
+mr:गांधी	I-ORG
+mr:अरीना	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:ट्रान्स	B-ORG
+mr:वर्ल्ड	I-ORG
+mr:एरलाइन्स	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:किन्रर	B-ORG
+mr:अकॅडेमी	I-ORG
+mr:ओव्हल	I-ORG
+
+mr:या	O
+mr:पक्ष्याचे	O
+mr:घारीशी	B-LOC
+mr:साम्य	O
+mr:असते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:राष्ट्रीय	B-ORG
+mr:छात्र	I-ORG
+mr:सेना	I-ORG
+
+mr:त्यावेळी	O
+mr:संयुक्त	B-LOC
+mr:प्रांताने	I-LOC
+mr:प्रथम	O
+mr:फलंदाजी	O
+mr:केली	O
+mr:होती.गरुडाचार	O
+mr:यांनी	O
+mr:आठव्या	O
+mr:क्रमांकावर	O
+mr:येऊन	O
+mr:६३	O
+mr:धावांची	O
+mr:नाबाद	O
+mr:फलंदाजी	O
+mr:केली	O
+mr:.	O
+
+mr:श्वेरिन	B-LOC
+mr:ही	O
+mr:मेक्लेनबुर्ग-फोरपोमेर्नची	O
+mr:राजधानी	O
+mr:तर	O
+mr:रोस्टोक	B-LOC
+mr:हे	O
+mr:सर्वात	O
+mr:मोठे	O
+mr:शहर	O
+mr:आहे	O
+mr:.	O
+
+mr:भारतामध्ये	O
+mr:ब्रिटिशांनी	B-LOC
+mr:माहितीचे	O
+mr:एकत्रीकरण	O
+mr:करून	O
+mr:हे	O
+mr:दाखवण्याचा	O
+mr:प्रयत्न	O
+mr:केला	O
+mr:कि	O
+mr:,	O
+mr:भारतीय	B-LOC
+mr:हे	O
+mr:वर्षानुवर्षे	O
+mr:अविचाराने	O
+mr:या	O
+mr:परंपरा	O
+mr:जपत	O
+mr:आलेले	O
+mr:आहेत	O
+mr:.	O
+
+mr:उत्तर	B-LOC
+mr:प्रदेश	I-LOC
+mr:(	O
+mr:१२८	O
+mr:)	O
+mr:,	O
+mr:मध्य	B-LOC
+mr:प्रदेश	I-LOC
+mr:(	O
+mr:२६८	O
+mr:)	O
+
+mr:याचे	O
+mr:मुख्यालय	O
+mr:ठाणे	B-LOC
+mr:येथे	O
+mr:आहे	O
+mr:.	O
+
+mr:ही	O
+mr:मुलगी	O
+mr:पैठणजवळच्या	O
+mr:वैजापूरची	B-LOC
+mr:होती	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:पीटर	B-PER
+mr:द	I-PER
+mr:ग्रेट	I-PER
+
+mr:ऑलिंपिक	B-ORG
+mr:खेळात	I-ORG
+mr:न्यू	I-ORG
+mr:झीलंड	I-ORG
+
+mr:क्रिकेटची	O
+mr:सुरुवात	O
+mr:इंग्लंड	B-LOC
+mr:मध्ये	O
+mr:झाली	O
+mr:.	O
+
+mr:हा	O
+mr:मार्ग	O
+mr:घाटकोपर	B-LOC
+mr:येथे	O
+mr:सुरू	O
+mr:होतो	O
+mr:व	O
+mr:दक्षिण	B-LOC
+mr:मुंबईच्या	I-LOC
+mr:पी	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:इंटर	B-ORG
+mr:युनिव्हर्सिटी	I-ORG
+mr:सेंटर	I-ORG
+mr:फॉर	I-ORG
+mr:अॅस्ट्रॉनॉमी	I-ORG
+mr:अॅन्ड	I-ORG
+mr:अॅस्ट्रोफिजिक्स	I-ORG
+
+mr:वाजिद	B-PER
+mr:खान	I-PER
+mr:(	O
+mr:अमराठी	O
+mr:व्यक्ती]]	O
+
+mr:पुनर्निर्देशन	O
+mr:भारतीय	B-ORG
+mr:रिझर्व्ह	I-ORG
+mr:बँक	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:महाराष्ट्र	B-ORG
+mr:राज्य	I-ORG
+mr:विद्युत	I-ORG
+mr:मंडळ	I-ORG
+
+mr:माझिया	O
+mr:माहेरा	O
+mr:जा	O
+mr:(	O
+mr:ज्योत्स्ना	B-PER
+mr:भोळे	I-PER
+mr:)	O
+
+mr:के.	B-PER
+mr:शिवराम	I-PER
+mr:कारंत	I-PER
+
+mr:हे	O
+mr:गाव	O
+mr:पुण्यापासून	B-LOC
+mr:५९	O
+mr:कि.मी.	O
+mr:,	O
+mr:तर	O
+mr:मुंबईपासून	B-LOC
+mr:५९	O
+mr:कि.मी	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:यार्नो	B-PER
+mr:त्रुल्ली	I-PER
+mr:''	O
+mr:'	O
+
+mr:बंगळूर	B-LOC
+mr:(	O
+mr:मुख्यालय	O
+mr:)	O
+
+mr:जुही	B-PER
+mr:चावला	I-PER
+mr:,	O
+mr:Dreamz	O
+mr:Unlimited	O
+
+mr:पुनर्निर्देशन	O
+mr:जागतिक	B-ORG
+mr:फुटबॉल	I-ORG
+mr:एलो	I-ORG
+mr:गुणांकन	I-ORG
+
+mr:या	O
+mr:मध्ये	O
+mr:धर्मेंद्र	B-PER
+mr:यांनी	O
+mr:काम	O
+mr:केले	O
+mr:होते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:आशिल	B-PER
+mr:ल्योन्स	I-PER
+mr:विक्तोर	I-PER
+mr:शार्ल	I-PER
+
+mr:त्यांचे	O
+mr:पुत्र	O
+mr:प्रकाश	B-PER
+mr:आमटे	I-PER
+mr:यांनी	O
+mr:साधनाताईंचे	O
+mr:कार्य	O
+mr:पुढे	O
+mr:चालू	O
+mr:ठेवले	O
+mr:आहे	O
+mr:,	O
+
+mr:पुनर्निर्देशन	O
+mr:सेक्रेड	B-ORG
+mr:ग्राउंड	I-ORG
+mr:(	I-ORG
+mr:स्टार	I-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+mr:मालिका	I-ORG
+mr:)	I-ORG
+
+mr:गुप्त	B-LOC
+mr:साम्राज्यात	I-LOC
+mr:सोन्याच्या	O
+mr:नाण्यांत	O
+mr:अचूकता	O
+mr:आणि	O
+mr:विविधता	O
+mr:आली	O
+mr:.	O
+
+mr:जागतिक	B-ORG
+mr:वारसा	I-ORG
+mr:स्थान	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:कॅन्सस	B-LOC
+mr:सिटी	I-LOC
+mr:,	I-LOC
+mr:मिसूरी	I-LOC
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हा	O
+mr:भारताच्या	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्यातील	O
+mr:एक	O
+mr:किल्ला	O
+mr:आहे	O
+mr:.	O
+
+mr:*२६८	O
+mr:-	O
+mr:कणकवली	B-ORG
+mr:विधानसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+
+mr:जनता	B-ORG
+mr:दल	I-ORG
+mr:(	I-ORG
+mr:धर्मनिरपेक्ष	I-ORG
+mr:)	I-ORG
+
+mr:'	O
+mr:''	O
+mr:सिडनी	B-ORG
+mr:ऑपेरा	I-ORG
+mr:हाउस	I-ORG
+mr:''	O
+mr:'	O
+
+mr:पुनर्निर्देशन	O
+mr:पीटर	B-PER
+mr:दि	I-PER
+mr:नरोन्हा	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:व्हितोरिया	B-ORG
+mr:एस.सी	I-ORG
+mr:.	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:खान्ती-मान्सी	B-LOC
+mr:स्वायत्त	I-LOC
+mr:ऑक्रूग	I-LOC
+
+mr:भारतीय	B-ORG
+mr:राष्ट्रीय	I-ORG
+mr:राजमार्ग	I-ORG
+mr:प्राधिकरण	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:बेर्नहार्ड	B-PER
+mr:फॉन	I-PER
+mr:ब्युलो	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:पेरियार	B-ORG
+mr:राष्ट्रीय	I-ORG
+mr:उद्यान	I-ORG
+
+mr:हे	O
+mr:शहर	O
+mr:शाजापूर	B-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:या	O
+mr:मध्ये	O
+mr:अमिताभ	B-PER
+mr:बच्चन	I-PER
+mr:यांनी	O
+mr:काम	O
+mr:केले	O
+mr:होते	O
+mr:.	O
+
+mr:त्याचा	O
+mr:पुर्वाआधीकारी	O
+mr:पोप	B-PER
+mr:बॉनिफेस	I-PER
+mr:पाचवा	I-PER
+mr:होता	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:हे	O
+mr:टाटा	B-ORG
+mr:मोटर्स	I-ORG
+mr:या	O
+mr:कंपनीचे	O
+mr:मायक्रोव्हॅन	O
+mr:प्रकारचे	O
+mr:वाहन	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:विश्व	B-ORG
+mr:स्वास्थ्य	I-ORG
+mr:संस्था	I-ORG
+
+mr:'	O
+mr:''	O
+mr:लूट्स	B-PER
+mr:बोस्मान	I-PER
+mr:''	O
+mr:'	O
+mr:&	O
+mr:'	O
+mr:''	O
+mr:ग्रेम	B-PER
+mr:स्मिथ	I-PER
+mr:''	O
+mr:'	O
+mr:(	O
+mr:RSA	O
+mr:)	O
+
+mr:पुनर्निर्देशन	O
+mr:स्ताद	B-ORG
+mr:र्‍हेन	I-ORG
+mr:एफ.सी	I-ORG
+mr:.	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:नववा	B-PER
+mr:शार्ल	I-PER
+mr:,	I-PER
+mr:फ्रान्स	I-PER
+
+mr:पंचकुला	B-LOC
+mr:,	O
+mr:हैदराबाद	B-LOC
+mr:,	O
+mr:गुरगांव	B-LOC
+
+mr:'	O
+mr:''	O
+mr:हर्शल	B-PER
+mr:गिब्स	I-PER
+mr:''	O
+mr:'	O
+
+mr:पुनर्निर्देशन	O
+mr:एस.	B-PER
+mr:राजेन्द्र	I-PER
+mr:बाबू	I-PER
+
+mr:रामचंद्र	B-PER
+mr:श्रीपाद	I-PER
+mr:जोग	I-PER
+
+mr:मेजेलनची	B-LOC
+mr:सामुद्रधुनी	I-LOC
+mr:हे	O
+mr:नाव	O
+mr:मेजेलनवरूनच	O
+mr:देण्यात	O
+mr:आले	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:अॅन्टिलिआ	B-ORG
+mr:(	I-ORG
+mr:इमारत	I-ORG
+mr:)	I-ORG
+
+mr:स्पर्धेत	O
+mr:अतिषय	O
+mr:वाईट	O
+mr:प्रदर्शन	O
+mr:करणारा	O
+mr:युसुफ	B-PER
+mr:पठाण	I-PER
+mr:१	O
+mr:धाव	O
+mr:काढुण	O
+mr:रविचंद्रन	B-PER
+mr:आश्विनच्या	I-PER
+mr:गोलंदाजीवर	O
+mr:बाद	O
+mr:झाला	O
+mr:.	O
+
+mr:राजकोट	B-LOC
+mr:-	O
+mr:भारताच्या	B-LOC
+mr:गुजरात	B-LOC
+mr:राज्यातील	O
+mr:शहर	O
+mr:.	O
+
+mr:किशोरचंद्र	B-PER
+mr:सूर्यनारायण	I-PER
+mr:देव	I-PER
+mr:वेरीचेरला	I-PER
+
+mr:'	O
+mr:''	O
+mr:मिचेल	B-PER
+mr:स्टार्क	I-PER
+mr:''	O
+mr:'	O
+
+mr:हे	O
+mr:शहर	O
+mr:उत्तर	B-LOC
+mr:दिनाजपुर	I-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:ऑल	B-ORG
+mr:इंडिया	I-ORG
+mr:ट्रेड	I-ORG
+mr:युनियन	I-ORG
+mr:काँग्रेस	I-ORG
+
+mr:सिनाईच्या	O
+mr:उत्तरेला	O
+mr:भूमध्य	B-LOC
+mr:समुद्र	I-LOC
+mr:तर	O
+mr:दक्षिणेला	O
+mr:लाल	B-LOC
+mr:समुद्र	I-LOC
+mr:आहेत	O
+mr:.	O
+
+mr:शहाजीराजांच्या	O
+mr:कारकीर्दीचा	O
+mr:आढावा	O
+mr:घेतला	O
+mr:असता	O
+mr:असे	O
+mr:लक्षात	O
+mr:येते	O
+mr:की	O
+mr:त्यांनी	O
+mr:स्वाभिमान	O
+mr:राखत	O
+mr:आदिलशाही	B-ORG
+mr:,	O
+mr:मुघलशाही	B-LOC
+mr:व	O
+mr:निजामशाही	B-LOC
+mr:-	O
+mr:या	O
+mr:सर्व	O
+mr:सत्ताधीशांकडे	O
+mr:काम	O
+mr:केले	O
+mr:.	O
+
+mr:घरची	O
+mr:आर्थिक	O
+mr:स्थिती	O
+mr:बेताची	O
+mr:असूनही	O
+mr:त्यांच्या	O
+mr:आईने	O
+mr:मुलांना	O
+mr:घेऊन	O
+mr:कोल्हापूर	B-LOC
+mr:गाठले	O
+mr:व	O
+mr:तेथे	O
+mr:मुलांना	O
+mr:शाळेत	O
+mr:घातले	O
+mr:.	O
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:जयंत	B-PER
+mr:नारळीकर	I-PER
+mr:यांनी	O
+mr:डॉक्टरेट	O
+mr:घेताना	O
+mr:यांचेच	O
+mr:मार्गदर्शन	O
+mr:घेतले	O
+mr:होते	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:भारतातील	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्यातल्या	O
+mr:पुणे	B-LOC
+mr:शहरातील	O
+mr:मोठे	O
+mr:रुग्णालय	O
+mr:आहे	O
+mr:.	O
+
+mr:सुप्रिया	B-PER
+mr:सुळे	I-PER
+mr:या	O
+mr:आहेत	O
+mr:तर	O
+mr:संयोजक	O
+mr:म्हणून	O
+mr:राज्यात	O
+mr:व	O
+mr:केंद्रात	O
+mr:शिक्षण	O
+mr:विभागाच्या	O
+mr:सचिवपदाची	O
+mr:जबाबदारी	O
+mr:यशस्वीपणे	O
+mr:सांभाळलेल्या	O
+mr:व	O
+mr:शिक्षणक्षेत्रात	O
+mr:मानाचे	O
+mr:स्थान	O
+mr:असलेल्या	O
+mr:डॉ	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:किशोर	B-PER
+mr:भानुदास	I-PER
+mr:कदम	I-PER
+
+mr:जुल्सबर्ग	O
+mr:नेब्रास्का	B-LOC
+mr:सीमेपासून	O
+mr:फक्त	O
+mr:एक	O
+mr:मैल	O
+mr:(	O
+mr:१.६	O
+mr:किमी	O
+mr:)	O
+mr:दक्षिणेस	O
+mr:आहे	O
+mr:.	O
+
+mr:हे	O
+mr:शहर	O
+mr:दावणगेरे	B-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:डाईमलर	B-ORG
+mr:आ.गे	I-ORG
+mr:.	I-ORG
+
+mr:भारतीय	B-ORG
+mr:विज्ञान	I-ORG
+mr:शिक्षण	I-ORG
+mr:आणि	I-ORG
+mr:संशोधन	I-ORG
+mr:संस्था	I-ORG
+mr:,	I-ORG
+mr:भोपाळ	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:बराकपूर	B-ORG
+mr:(	I-ORG
+mr:लोकसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+mr:)	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:वारंगळ	B-ORG
+mr:(	I-ORG
+mr:लोकसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+mr:)	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:प्रल्हाद	B-PER
+mr:केशव	I-PER
+mr:अत्रे	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:तंजावर	B-ORG
+mr:(	I-ORG
+mr:लोकसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+mr:)	I-ORG
+
+mr:२००२	B-ORG
+mr:राष्ट्रकुल	I-ORG
+mr:खेळ	I-ORG
+mr:येथील	O
+mr:सिटी	B-ORG
+mr:ऑफ	I-ORG
+mr:मँचेस्टर	I-ORG
+mr:स्टेडियममध्ये	I-ORG
+mr:आयोजीत	O
+mr:केले	O
+mr:गेले	O
+mr:.	O
+
+mr:याचे	O
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:कैलासहर	B-LOC
+mr:येथे	O
+mr:आहे	O
+mr:.	O
+
+mr:या	O
+mr:स्थळी	O
+mr:रामाची	B-PER
+mr:अगस्तीशी	O
+mr:भेट	O
+mr:झाली	O
+mr:,	O
+mr:असे	O
+mr:मानले	O
+mr:जाते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:प्लॅटिनम	B-ORG
+mr:स्टार्स	I-ORG
+mr:एफ.	I-ORG
+mr:सी	I-ORG
+mr:.	I-ORG
+
+mr:'	O
+mr:''	O
+mr:टिमो	B-PER
+mr:ग्लोक	I-PER
+mr:''	O
+mr:'	O
+
+mr:एकापेक्षा	O
+mr:एक	O
+mr:(	O
+mr:सचिन	B-PER
+mr:पिळगांवकर	I-PER
+mr:)	O
+
+mr:राष्ट्रीय	B-ORG
+mr:महामार्ग	I-ORG
+mr:४	I-ORG
+mr:बी	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:डच	B-ORG
+mr:ईस्ट	I-ORG
+mr:इंडिया	I-ORG
+mr:कंपनी	I-ORG
+
+mr:१९८३-९२	O
+mr:,	O
+mr:अश्या	O
+mr:दोन	O
+mr:मुदतींसाठी	O
+mr:आर्कान्सा	B-LOC
+mr:राज्याचा	B-LOC
+mr:गव्हर्नर	O
+mr:होता	O
+mr:.	O
+
+mr:साहित्यिका	O
+mr:दुर्गा	B-PER
+mr:भागवत	I-PER
+mr:(	O
+mr:लघुपट	O
+mr:)	O
+
+mr:उझबेकिस्तानातील	O
+mr:हवामान	O
+mr:''खंडीय	O
+mr:हवामानप्रकारात	O
+mr:''	O
+mr:मोडणारे	O
+mr:आहे	O
+mr:-	O
+mr:येथे	O
+mr:वर्षातून	O
+mr:अल्प	O
+mr:,	O
+mr:म्हणजे	O
+mr:१००-२००	O
+mr:मिलिमीटर	O
+mr:(	O
+mr:३.९-७.९	O
+mr:इंच	O
+mr:)	O
+mr:वृष्टी	B-ORG
+mr:होते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:राष्ट्रीय	B-ORG
+mr:महामार्ग	I-ORG
+mr:४	I-ORG
+mr:बी	I-ORG
+
+mr:राळेगण	B-LOC
+mr:सिद्धी	I-LOC
+mr:'	O
+mr:या	O
+mr:खेड्याने	O
+mr:जिल्ह्याने	O
+mr:जलव्यवस्थापनाचा	O
+mr:एक	O
+mr:आदर्श	O
+mr:निर्माण	O
+mr:केला	O
+mr:,	O
+mr:तर	O
+mr:हिवरे	B-LOC
+mr:बाजार	I-LOC
+mr:'	O
+mr:हे	O
+mr:आदर्श	O
+mr:खेडे	O
+mr:म्हणून	O
+mr:नावारूपास	O
+mr:आले	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:जॅक	B-PER
+mr:रसेल	I-PER
+mr:(	I-PER
+mr:एसेक्स	I-PER
+mr:)	I-PER
+
+mr:राजापूर	B-LOC
+mr:या	O
+mr:गावातील	O
+mr:शिक्षण	O
+mr:क्षेत्रात	O
+mr:यांचा	O
+mr:मोलाचा	O
+mr:वाटा	O
+mr:होता	O
+mr:.	O
+
+mr:ते	O
+mr:शहाजी	B-PER
+mr:भोसले	I-PER
+mr:यांचे	O
+mr:चाकर	O
+mr:होते	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:मनोएल	B-PER
+mr:फेरेझ	I-PER
+mr:दि	I-PER
+mr:काम्पोस	I-PER
+mr:सॅलेस	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:सिंगापूर	B-ORG
+mr:डेमोक्रॅटिक	I-ORG
+mr:पार्टी	I-ORG
+
+mr:या	O
+mr:मध्ये	O
+mr:धर्मेंद्र	B-PER
+mr:यांनी	O
+mr:काम	O
+mr:केले	O
+mr:होते	O
+mr:.	O
+
+mr:(	O
+mr:रजनीकांत	B-PER
+mr:आरोळे	I-PER
+mr:यांच्या	O
+mr:पत्नी	O
+mr:)	O
+mr:.	O
+
+mr:भारतीय	B-ORG
+mr:कम्युनिस्ट	I-ORG
+mr:पक्ष	I-ORG
+mr:(	I-ORG
+mr:मार्क्सवादी	I-ORG
+mr:)	I-ORG
+
+mr:मस्कत	B-LOC
+mr:ही	O
+mr:ओमानची	O
+mr:राजधानी	O
+mr:व	O
+mr:सर्वात	O
+mr:मोठे	O
+mr:शहर	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:विजयानंद	B-PER
+mr:गजपती	I-PER
+mr:राजू	I-PER
+
+mr:'	O
+mr:''	O
+mr:'	O
+mr:''	O
+mr:भारतातील	B-LOC
+mr:महाराष्ट्र	B-LOC
+mr:राज्यातल्या	O
+mr:पुणे	B-LOC
+mr:शहरातील	O
+mr:मोठे	O
+mr:रुग्णालय	O
+mr:आहे	O
+mr:.	O
+
+mr:हैद्राबादसाठी	B-LOC
+mr:एक	O
+mr:भाषिकाच	O
+mr:तत्त्व	O
+mr:तर	O
+mr:मुंबईसाठी	O
+mr:द्वैभाषिकाचं	O
+mr:.	O
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:सुनयना	B-PER
+mr:(	I-PER
+mr:अभिनेत्री	I-PER
+mr:)	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:युएफा	B-LOC
+mr:युरोपियन	I-LOC
+mr:फुटबॉल	I-LOC
+mr:अजिंक्यपद	I-LOC
+
+mr:पुनर्निर्देशन	O
+mr:सिडनी	B-ORG
+mr:ऑपेरा	I-ORG
+mr:हाउस	I-ORG
+
+mr:तत्पूर्वी	O
+mr:हा	O
+mr:अमेरिकी	B-ORG
+mr:प्रतिनिधिगृहात	I-ORG
+mr:इ.स	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:नाइट्स	B-ORG
+mr:(	I-ORG
+mr:क्रिकेट	I-ORG
+mr:संघ	I-ORG
+mr:)	I-ORG
+
+mr:'	O
+mr:''	O
+mr:मेरी	B-PER
+mr:कोम	I-PER
+mr:''	O
+mr:'	O
+
+mr:'	O
+mr:''	O
+mr:इरकल	O
+mr:''	O
+mr:'	O
+mr:हे	O
+mr:कर्नाटकातील	B-LOC
+mr:विजापूर	B-LOC
+mr:जिल्हयातील	I-LOC
+mr:,	O
+mr:हुनगुंद	O
+mr:तालुक्यांतील	O
+mr:गांव	O
+mr:आहे	O
+mr:.	O
+
+mr:हा	O
+mr:अहमदनगर	B-LOC
+mr:जिल्ह्यातील	I-LOC
+mr:उपविभाग	O
+mr:आहे	O
+mr:.	O
+
+mr:ए.एफ.सी	B-ORG
+mr:.	I-ORG
+mr:-	O
+mr:४	O
+mr:जागा	O
+
+mr:'	O
+mr:''	O
+mr:सारान्स्क	B-LOC
+mr:''	O
+mr:'	O
+
+mr:याचे	O
+mr:फूल	O
+mr:महाराष्ट्राचे	B-LOC
+mr:राज्यपुष्प	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:स्कायबस	B-ORG
+mr:सुपर	I-ORG
+mr:शटल	I-ORG
+
+mr:'	O
+mr:''	O
+mr:आना	B-PER
+mr:इवानोविच	I-PER
+
+mr:rect	O
+mr:770	O
+mr:465	O
+mr:823	O
+mr:485	O
+mr:इक्वाल्युईत	B-LOC
+
+mr:पुनर्निर्देशन	O
+mr:प्रिन्स	B-PER
+mr:(	I-PER
+mr:संगीतकार	I-PER
+mr:)	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:डेव्हिड	B-ORG
+mr:ससून	I-ORG
+mr:ग्रंथालय	I-ORG
+
+mr:याचे	O
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:होशियारपूर	B-LOC
+mr:येथे	O
+mr:आहे	O
+mr:.	O
+
+mr:भारतीय	B-ORG
+mr:राष्ट्रीय	I-ORG
+mr:राजमार्ग	I-ORG
+mr:प्राधिकरण	I-ORG
+
+mr:*१९६२	O
+mr:-	O
+mr:निरूपा	B-PER
+mr:रॉय	I-PER
+mr:-	O
+mr:छाया	O
+
+mr:रियो	B-LOC
+mr:दि	I-LOC
+mr:जानेरो	I-LOC
+mr:(	O
+mr:2002	O
+mr:)	O
+
+mr:फ्रेंच	B-LOC
+mr:ओपन	I-LOC
+mr:(	O
+mr:1	O
+mr:)	O
+
+mr:'	O
+mr:''	O
+mr:यती	O
+mr:''	O
+mr:'	O
+mr:हा	O
+mr:हिममानव	O
+mr:असून	O
+mr:हिमालयात	B-LOC
+mr:दिसतो	O
+mr:असे	O
+mr:म्हणतात	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:महासत्ता	O
+mr:''	O
+mr:'	O
+mr:हे	O
+mr:इचलकरंजी	B-LOC
+mr:शहरातुन	O
+mr:प्रकाशित	O
+mr:होणारे	O
+mr:दैनिक	O
+mr:आहे	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:धनकवडी	O
+mr:'	O
+mr:''	O
+mr:हा	O
+mr:पुण्याच्या	B-LOC
+mr:दक्षिणेकडील	O
+mr:भाग	O
+mr:आहे	O
+mr:.	O
+
+mr:आक्रा	B-LOC
+mr:ही	O
+mr:घानाची	O
+mr:राजधानी	O
+mr:व	O
+mr:सर्वांत	O
+mr:मोठे	O
+mr:शहर	O
+mr:आहे	O
+mr:.	O
+
+mr:तसेच	O
+mr:२०११	B-ORG
+mr:ए.एफ.सी.	I-ORG
+mr:आशिया	I-ORG
+mr:चषकातील	I-ORG
+mr:अनेक	O
+mr:सामने	O
+mr:दोहामध्ये	O
+mr:खेळवले	O
+mr:गेले	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:रविचंद्रन	B-PER
+mr:आश्विन	I-PER
+mr:''	O
+mr:'	O
+
+mr:भारतातील	B-LOC
+mr:संसद	O
+mr:ही	O
+mr:द्विगृही	O
+mr:(	O
+mr:Bicameral	O
+mr:)	O
+mr:आहे	O
+mr:.	O
+
+mr:कलोल	O
+mr:-	O
+mr:जयद्रथसिंह	O
+mr:परमार	O
+mr:भारतीय	B-ORG
+mr:जनता	I-ORG
+mr:पक्ष	I-ORG
+
+mr:लोकल	B-ORG
+mr:रेल्वेच्या	I-ORG
+mr:सगळ्या	O
+mr:गाड्या	O
+mr:येथे	O
+mr:थांबतात	O
+mr:.	O
+
+mr:नसिरुद्दीन	B-PER
+mr:शाह	I-PER
+mr:,	O
+mr:शबाना	B-PER
+mr:आझमी	I-PER
+
+mr:पुनर्निर्देशन	O
+mr:युनानी	B-ORG
+mr:औषधोपचार	I-ORG
+mr:पद्धती	I-ORG
+
+mr:'	O
+mr:''	O
+mr:आर्जेन्टिना	B-LOC
+mr:''	O
+mr:'	O
+
+mr:पुनर्निर्देशन	O
+mr:थ्रिसुर	B-ORG
+mr:(	I-ORG
+mr:लोकसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+mr:)	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:हेडिंग्ले	B-ORG
+mr:मैदान	I-ORG
+mr:,	I-ORG
+mr:लीड्स	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:राजमुंद्री	B-ORG
+mr:(	I-ORG
+mr:लोकसभा	I-ORG
+mr:मतदारसंघ	I-ORG
+mr:)	I-ORG
+
+mr:भारतात	O
+mr:यांना	O
+mr:सुवर्ण	B-ORG
+mr:चतुष्कोण	I-ORG
+mr:असे	O
+mr:नाव	O
+mr:दिले	O
+mr:गेले	O
+mr:आहे	O
+mr:.	O
+
+mr:मंदिराच्या	O
+mr:अवशेषांची	O
+mr:वास्तुवैशिष्ट्ये	O
+mr:आणि	O
+mr:काहिशा	O
+mr:तुटलेल्या	O
+mr:आणि	O
+mr:झीज	O
+mr:झालेल्या	O
+mr:मूर्तीची	O
+mr:शैली	O
+mr:यावरून	O
+mr:हे	O
+mr:मंदिर	O
+mr:वाकाटककालीन	B-ORG
+mr:शैलीचे	O
+mr:आहे	O
+mr:.	O
+
+mr:भारतात	O
+mr:ती	O
+mr:मुख्यत्वे	O
+mr:आंध्र	B-LOC
+mr:प्रदेश	I-LOC
+mr:राज्यात	O
+mr:बोलली	O
+mr:जाते	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:डेक्कन	B-ORG
+mr:चार्जर्स	I-ORG
+mr:''	O
+mr:'	O
+
+mr:घरची	O
+mr:आर्थिक	O
+mr:परिस्थिती	O
+mr:अगदी	O
+mr:बेताचीच	O
+mr:असल्याने	O
+mr:लहानपणी	O
+mr:ते	O
+mr:शिक्षणासाठी	O
+mr:कोलकातात	B-LOC
+mr:गेले	O
+mr:आणि	O
+mr:तेथील	O
+mr:हितैन्सी	O
+mr:प्रेसमध्ये	O
+mr:नोकरी	O
+mr:करून	O
+mr:आपली	O
+mr:शिक्षण	O
+mr:सुरू	O
+mr:ठेवले	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:शाकिब	B-PER
+mr:अल	I-PER
+mr:हसन	I-PER
+
+mr:जनता	B-ORG
+mr:दल	I-ORG
+mr:(	O
+mr:''संयुक्त	O
+mr:आधाडी	O
+mr:''	O
+mr:)	O
+
+mr:कॉम्रेड	O
+mr:श्रीपाद	B-PER
+mr:अमृत	I-PER
+mr:डांगे	I-PER
+mr:व	O
+mr:त्यांच्यात	O
+mr:गुरू-शिष्याचे	O
+mr:नाते	O
+mr:होते	O
+mr:.	O
+
+mr:सर्वात	O
+mr:जवळील	O
+mr:अनौपचारिक	O
+mr:प्रशिक्षणकेंद्र	O
+mr:उस्मानाबाद	B-LOC
+mr:येथे	O
+mr:१०	O
+mr:किलोमीटरहून	O
+mr:जास्त	O
+mr:अंतरावर	O
+mr:आहे	O
+mr:.	O
+
+mr:ईस्ट	B-ORG
+mr:बंगाल	I-ORG
+mr:एफ.सी	I-ORG
+mr:.	I-ORG
+mr:(	O
+mr:1996-2007	O
+mr:)	O
+
+mr:भारतीय	B-ORG
+mr:राष्ट्रीय	I-ORG
+mr:राजमार्ग	I-ORG
+mr:प्राधिकरण	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:मार्कस	B-PER
+mr:अॅनेयस	I-PER
+mr:लुकानस	I-PER
+
+mr:हे	O
+mr:शहर	O
+mr:कोटा	B-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:**	O
+mr:राजशाही	B-LOC
+mr:(	O
+mr:दुय्यम	O
+mr:हायकमिशन	O
+mr:)	O
+
+mr:५	O
+mr:लाखांपेक्षा	O
+mr:जास्त	O
+mr:लोकसंख्या	O
+mr:असलेले	O
+mr:सगळ्यात	O
+mr:जवळचे	O
+mr:पुणे	B-LOC
+mr:हे	O
+mr:शहर	O
+mr:५०८	O
+mr:किमी	O
+mr:अंतरावर	O
+mr:आहे	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:जॉन	B-PER
+mr:एफ.	I-PER
+mr:केनेडी	I-PER
+mr:''	O
+mr:'	O
+mr:(	O
+mr:1917–1963	O
+mr:)	O
+
+mr:ह्या	O
+mr:चित्रपटाचे	O
+mr:पुष्कळसे	O
+mr:चित्रण	O
+mr:जपानमध्ये	B-LOC
+mr:झाले	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:साओ	B-ORG
+mr:पाउलो	I-ORG
+mr:एफ.सी	I-ORG
+mr:.	I-ORG
+
+mr:'	O
+mr:''	O
+mr:फर्नांदो	B-PER
+mr:अलोन्सो	I-PER
+mr:''	O
+mr:'	O
+
+mr:यात	O
+mr:उमेश	B-PER
+mr:कामत	I-PER
+mr:,	O
+mr:स्पृहा	B-PER
+mr:जोशी	I-PER
+mr:यांनी	O
+mr:अभिनय	O
+mr:केला	O
+mr:आहे	O
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:किल्ल्याच्या	O
+mr:पाथ्याला	O
+mr:असलेल्या	O
+mr:पाली	B-LOC
+mr:गावात	O
+mr:प्रसिद्ध	O
+mr:अष्टविनायकांत	O
+mr:गणना	O
+mr:होत	O
+mr:असलेल्या	O
+mr:बल्लाळेश्वराचे	O
+mr:भव्य	O
+mr:मंदिर	O
+mr:आहे	O
+mr:.	O
+
+mr:स्टार	B-ORG
+mr:ट्रेक	I-ORG
+mr::	I-ORG
+mr:व्हॉयेजर	I-ORG
+
+mr:महाराष्ट्राच्या	B-LOC
+mr:सहा	O
+mr:प्रशासकीय	O
+mr:विभागांपैकी	O
+mr:कोकण	B-LOC
+mr:विभाग	I-LOC
+mr:हा	O
+mr:एक	O
+mr:आहे	O
+mr:.	O
+
+mr:ऑलिंपिक	B-LOC
+mr:मैदान	I-LOC
+mr:(	I-LOC
+mr:म्युनिक	I-LOC
+mr:)	I-LOC
+
+mr:पुनर्निर्देशन	O
+mr:महाराष्ट्र	B-ORG
+mr:क्रिकेट	I-ORG
+mr:असोसिएशन	I-ORG
+mr:स्टेडियम	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:येशू	B-ORG
+mr:ख्रिस्ताच्या	I-ORG
+mr:आधुनिक	I-ORG
+mr:संतांचे	I-ORG
+mr:चर्च	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:पंजाब	B-LOC
+mr:,	I-LOC
+mr:पाकिस्तान	I-LOC
+
+mr:भारतात	B-LOC
+mr:पूर्वी	O
+mr:त्यांचे	O
+mr:नाव	O
+mr:गाजत	O
+mr:होते	O
+mr:.	O
+
+mr:ही	O
+mr:वेळ	O
+mr:मध्य	B-LOC
+mr:आशियातील	I-LOC
+mr:कझाकस्तान	B-LOC
+mr:,	O
+mr:उझबेकिस्तान	B-LOC
+mr:,	O
+mr:ताजिकिस्तान	B-LOC
+mr:,	O
+mr:तुर्कमेनिस्तान	B-LOC
+mr:तसेच	O
+mr:पाकिस्तान	B-LOC
+mr:व	O
+mr:मालदीव	B-LOC
+mr:ह्या	O
+mr:देशांमध्ये	O
+mr:पाळली	O
+mr:जाते	O
+mr:.	O
+
+mr:colspan=3	O
+mr:width=600	O
+mr:महाराष्ट्र	B-ORG
+mr:विधानसभा	I-ORG
+mr:निवडणूक	I-ORG
+mr:२००९	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:आयव्हन	B-PER
+mr:पाचवा	I-PER
+mr:,	I-PER
+mr:रशिया	I-PER
+
+mr:हे	O
+mr:शहर	O
+mr:दिबांग	B-LOC
+mr:व्हॅली	I-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:हे	O
+mr:शहर	O
+mr:पाली	B-LOC
+mr:जिल्ह्याचे	I-LOC
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:आहे	O
+mr:.	O
+
+mr:'	O
+mr:''	O
+mr:आचरा	O
+mr:''	O
+mr:'	O
+mr:किंवा	O
+mr:'	O
+mr:''	O
+mr:आचरे	O
+mr:''	O
+mr:'	O
+mr:महाराष्ट्राच्या	B-LOC
+mr:सिंधुदुर्ग	B-LOC
+mr:जिल्ह्यातील	I-LOC
+mr:गाव	O
+mr:आहे	O
+mr:.	O
+
+mr:मॅडिसन	B-LOC
+mr:ही	O
+mr:विस्कॉन्सिनची	O
+mr:राजधानी	O
+mr:असून	O
+mr:मिलवॉकी	B-LOC
+mr:हे	O
+mr:सर्वात	O
+mr:मोठे	O
+mr:शहर	O
+mr:आहे	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:पहिला	B-PER
+mr:फियोदोर	I-PER
+mr:,	I-PER
+mr:रशिया	I-PER
+
+mr:'	O
+mr:''	O
+mr:जेकब	B-PER
+mr:ओराम	I-PER
+mr:''	O
+mr:'	O
+
+mr:इतिहासात	O
+mr:प्रसिद्ध	O
+mr:झालेली	O
+mr:ही	O
+mr:प्रदीर्घ	O
+mr:चाल	O
+mr:वर्षभराने	O
+mr:षा'न्शी	B-LOC
+mr:प्रांतात	O
+mr:पोहोचली	O
+mr:.	O
+
+mr:त्याच्या	O
+mr:गैरहजेरीत	O
+mr:विराट	B-PER
+mr:कोहलीकडे	I-PER
+mr:कर्णधार	O
+mr:पदाची	O
+mr:धुरा	O
+mr:सोपविण्यात	O
+mr:आली	O
+mr:व	O
+mr:अंबारती	O
+mr:रायडूला	O
+mr:खेळण्याची	O
+mr:संधी	O
+mr:मिळाली	O
+mr:.	O
+
+mr:पुनर्निर्देशन	O
+mr:एडवर्ड	B-ORG
+mr:फ्रेडरिक	I-ORG
+mr:लिंडले	I-ORG
+mr:वूड	I-ORG
+
+mr:पुनर्निर्देशन	O
+mr:डॉ.	B-ORG
+mr:कर्नीसिंग	I-ORG
+mr:शूटिंग	I-ORG
+mr:रेंज	I-ORG
+
+mr:लखनौ	B-LOC
+mr:भागात	O
+mr:नृत्याचा	O
+mr:प्रचार	O
+mr:जास्त	O
+mr:असल्याने	O
+mr:त्यास	O
+mr:अनुकल	O
+mr:हा	O
+mr:बाज	O
+mr:जोरदार	O
+mr:व	O
+mr:खुला	O
+mr:आहे	O
+mr:.	O
+
+mr:या	O
+mr:खोलीत	O
+mr:चांगदेव	B-PER
+mr:ऋषींनी	O
+mr:'	O
+mr:चौदाशे	O
+mr:वर्ष	O
+mr:तप	O
+mr:केले	O
+mr:होते	O
+mr:असे	O
+mr:स्थानिक	O
+mr:गावकरी	O
+mr:सांगतात	O
+mr:.	O
+
+mr:याचे	O
+mr:प्रशासकीय	O
+mr:केंद्र	O
+mr:बडगाम	B-LOC
+mr:येथे	O
+mr:आहे	O
+mr:.	O
+
+mr:टर्क्स	B-LOC
+mr:आणि	I-LOC
+mr:कैकास	I-LOC
+mr:द्वीपसमूह	I-LOC
+
+mr:नवस	O
+mr:पूर्ण	O
+mr:झाल्यामुळे	O
+mr:पेशवे	B-ORG
+mr:दरबाराकडून	O
+mr:विविध	O
+mr:रूपात	O
+mr:हा	O
+mr:नवस	O
+mr:फेडला	O
+mr:गेला	O
+mr:.	O
+
+mr:मालक	O
+mr:-	O
+mr:रिलायन्स	B-ORG
+mr:इंडस्ट्रीज	I-ORG
+mr:लिमिटेड	I-ORG
+
+mr:'	O
+mr:''	O
+mr:जॉर्डन	B-LOC
+mr:''	O
+mr:'	O
+
+mr:माहेला	B-PER
+mr:जयवर्दने	I-PER
+mr:(	O
+mr:संघनायक	O
+mr:)	O
+

@@ -1,0 +1,6867 @@
+ms:Engine	B-ORG
+ms:Sentai	I-ORG
+ms:Go-onger	I-ORG
+ms:''	O
+ms:(	O
+ms:2008-2009	O
+ms:)	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Ardennes	I-LOC
+
+ms:Ibu	O
+ms:kotanya	O
+ms:ialah	O
+ms:Porto	B-LOC
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Orne	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Maine-et-Loire	I-LOC
+
+ms:Bruno	B-PER
+ms:Senna	I-PER
+ms:melengkapkan	O
+ms:tiga	O
+ms:pusingan	O
+ms:pada	O
+ms:sesi	O
+ms:latihan	O
+ms:bebas	O
+ms:pertama	O
+ms:.	O
+
+ms:Seorang	O
+ms:lelaki	O
+ms:yang	O
+ms:mirip	O
+ms:Brad	B-PER
+ms:Pitt	I-PER
+ms:tetapi	O
+ms:dia	O
+ms:kelihatan	O
+ms:seperti	O
+ms:makhluk	O
+ms:yang	O
+ms:pelik	O
+ms:.	O
+
+ms:Aitakatta	B-ORG
+ms:(	O
+ms:会いたかった	O
+ms:)	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:air	I-ORG
+ms:St.	I-ORG
+ms:John	I-ORG
+ms:'s	I-ORG
+
+ms:The	B-ORG
+ms:Best	I-ORG
+ms:!	I-ORG
+ms:~Updated	I-ORG
+ms:Morning	I-ORG
+ms:Musume~	I-ORG
+ms:''	O
+
+ms:'	O
+ms:''	O
+ms:Burma	B-ORG
+ms:''	O
+ms:'	O
+
+ms:Agnes	B-PER
+ms:Monica	I-PER
+ms:``	O
+ms:Matahariku	O
+ms:''	O
+
+ms:Southern	B-ORG
+ms:Rural	I-ORG
+ms:Life	I-ORG
+ms:''	O
+
+ms:Daerah	B-LOC
+ms:Žďár	I-LOC
+ms:nad	I-LOC
+ms:Sázavou	I-LOC
+
+ms:Pasukan	B-ORG
+ms:bola	I-ORG
+ms:sepak	I-ORG
+ms:kebangsaan	I-ORG
+ms:bawah-17	I-ORG
+ms:Singapura	I-ORG
+
+ms:Ia	O
+ms:dikawal	O
+ms:oleh	O
+ms:Persatuan	B-ORG
+ms:Sepak	I-ORG
+ms:Bola	I-ORG
+ms:Indonesia	I-ORG
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Saône-et-Loire	I-LOC
+
+ms:Burung	B-LOC
+ms:Cecawi	I-LOC
+ms:Hamba	I-LOC
+ms:Kera	I-LOC
+
+ms:LENCONG	O
+ms:Negeri	B-LOC
+ms:di	I-LOC
+ms:Amerika	I-LOC
+ms:Syarikat	I-LOC
+
+ms:Hujan	B-ORG
+ms:–	O
+ms:``	O
+ms:Muda	O
+ms:''	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Corrèze	I-LOC
+
+ms:Lim	B-PER
+ms:Teong	I-PER
+ms:Kim	I-PER
+ms:,	O
+ms:Dollah	B-PER
+ms:Salleh	I-PER
+
+ms:Shaheizy	B-PER
+ms:Sam	I-PER
+ms:(	O
+ms:1	O
+ms:)	O
+
+ms:CSI	B-ORG
+ms::	I-ORG
+ms:NY	I-ORG
+
+ms:Viacom	B-ORG
+ms:(	I-ORG
+ms:1971–2005	I-ORG
+ms:)	I-ORG
+
+ms:Koi	B-ORG
+ms:no	I-ORG
+ms:Dance	I-ORG
+ms:Site	I-ORG
+ms:(	O
+ms:恋のダンスサイト	O
+ms:)	O
+
+ms:Jay	B-PER
+ms:Park	I-PER
+ms:)	O
+ms:(	O
+ms:2011	O
+ms:)	O
+
+ms:'	O
+ms:''	O
+ms:Hu	B-PER
+ms:Yun	I-PER
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Haute-Saône	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Marne	I-LOC
+
+ms:Pengawal	B-ORG
+ms:Pantai	I-ORG
+ms:Amerika	I-ORG
+ms:Syarikat	I-ORG
+
+ms:LENCONG	O
+ms:Aq	B-LOC
+ms:Qaleh	I-LOC
+ms:,	I-LOC
+ms:Azerbaijan	I-LOC
+ms:Barat	I-LOC
+
+ms:Dia	O
+ms:membuat	O
+ms:penampilan	O
+ms:sulungnya	O
+ms:ketika	O
+ms:kekalahan	O
+ms:1–0	O
+ms:kepada	O
+ms:Manchester	B-ORG
+ms:United	I-ORG
+ms:.	O
+
+ms:Sultan	B-ORG
+ms:Selangor	I-ORG
+ms:Sultan	B-PER
+ms:Sharafuddin	I-PER
+ms:Idris	I-PER
+ms:Shah	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Oise	I-LOC
+
+ms:Ketua	O
+ms:PJKR	O
+ms:Kedah	B-LOC
+ms:Johari	B-PER
+ms:Abdul	I-PER
+ms:dikatakan	O
+ms:sering	O
+ms:menghentam	O
+ms:prestasinya	O
+ms:sebagai	O
+ms:exco	O
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Vosges	I-LOC
+
+ms:Ulsan	B-LOC
+ms:,	I-LOC
+ms:South	I-LOC
+ms:Korea	I-LOC
+
+ms:''	O
+ms:Shaheizy	B-PER
+ms:Sam	I-PER
+ms:–	O
+ms:''SAM	O
+ms:''	O
+ms:'	O
+ms:''	O
+
+ms:Tentera	B-ORG
+ms:Darat	I-ORG
+ms:Amerika	I-ORG
+ms:Syarikat	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Eure	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Gironde	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Haute-Garonne	I-LOC
+
+ms:Liga	B-ORG
+ms:Malaysia	I-ORG
+ms:XI	I-ORG
+
+ms:This	O
+ms:is	O
+ms:Our	O
+ms:Year	O
+ms:(	O
+ms:Love	B-ORG
+ms:Me	I-ORG
+ms:Butch	I-ORG
+ms:)	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Charente-Maritime	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Maybank	B-ORG
+ms:HC	I-ORG
+ms:''	O
+ms:'	O
+
+ms:Keputusan	O
+ms:terperinci	O
+ms:kumpulan	O
+ms:4	O
+ms:Piala	B-ORG
+ms:Dunia	I-ORG
+ms:FIFA	I-ORG
+ms:1930	I-ORG
+
+ms:Pilihan	B-PER
+ms:raya	I-PER
+ms:kecil	I-PER
+ms:Permatang	I-PER
+ms:Pauh	I-PER
+ms:2008	I-PER
+
+ms:'	O
+ms:''	O
+ms:Andrea	B-PER
+ms:Dovizioso	I-PER
+ms:''	O
+ms:'	O
+
+ms:Christina	B-PER
+ms:Aguilera	I-PER
+ms:(	O
+ms:1993–1994	O
+ms:)	O
+
+ms:Utusan	B-ORG
+ms:Malaysia	I-ORG
+ms:mengatakan	O
+ms:``	O
+ms:CEO	O
+ms:bukan	O
+ms:cerita	O
+ms:korporat	O
+ms:biasa	O
+ms:.	O
+ms:''	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Côte-d'Or	I-LOC
+
+ms:Osama	B-PER
+ms:bin	I-PER
+ms:Laden	I-PER
+
+ms:[11.07.2007]	O
+ms:Meguru	B-ORG
+ms:Koi	I-ORG
+ms:no	I-ORG
+ms:Kisetsu	I-ORG
+ms:(	O
+ms:めぐる恋の季節	O
+ms:)	O
+
+ms:100px]]	O
+ms:Anjing	B-ORG
+ms:pengutip	I-ORG
+ms:keemasan	I-ORG
+ms:gelap	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Finistère	I-LOC
+
+ms:Werder	B-LOC
+ms:(	I-LOC
+ms:Havel	I-LOC
+ms:)	I-LOC
+
+ms:Matsui	B-PER
+ms:Rena	I-PER
+ms:(	O
+ms:12082	O
+ms:)	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Saône-et-Loire	I-LOC
+
+ms:Askar	O
+ms:infantry	O
+ms:menyerang	O
+ms:berduyun-duyun	O
+ms:dan	O
+ms:sentiasa	O
+ms:dapat	O
+ms:merusuki	O
+ms:(	O
+ms:outflank	O
+ms:)	O
+ms:kedudukan	O
+ms:11	B-ORG
+ms:Divisyen	I-ORG
+ms:.	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gampr	I-ORG
+ms:Armenia	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Doubs	I-LOC
+
+ms:Gol	B-ORG
+ms:&	I-ORG
+ms:Gincu	I-ORG
+ms:The	I-ORG
+ms:Series	I-ORG
+ms:''	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Maine-et-Loire	I-LOC
+
+ms:Penderia	B-ORG
+ms:aliran	I-ORG
+ms:jisim	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Alpes-de-Haute-Provence	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Rachael	B-PER
+ms:Grinham	I-PER
+
+ms:Piramid	B-ORG
+ms:Agung	I-ORG
+ms:Kufu	I-ORG
+
+ms:Pasukan	B-ORG
+ms:bola	I-ORG
+ms:sepak	I-ORG
+ms:kebangsaan	I-ORG
+ms:bawah-15	I-ORG
+ms:Brazil	I-ORG
+
+ms:'	O
+ms:''	O
+ms:Shaheizy	B-PER
+ms:Sam	I-PER
+ms:''	O
+ms:'	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Maine-et-Loire	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Haut-Rhin	I-LOC
+
+ms:LENCONG	O
+ms:Katovice	B-LOC
+ms:(	I-LOC
+ms:Daerah	I-LOC
+ms:Strakonice	I-LOC
+ms:)	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Alpes-Maritimes	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Sauber	B-ORG
+ms:''	O
+ms:'	O
+
+ms:LENCONG	O
+ms:Penguasa	B-ORG
+ms:Kewangan	I-ORG
+ms:Singapura	I-ORG
+
+ms:'	O
+ms:''	O
+ms:Michael	B-PER
+ms:Schumacher	I-PER
+ms:''	O
+ms:'	O
+
+ms:Republik	B-LOC
+ms:Kesatuan	I-LOC
+ms:Soviet	I-LOC
+
+ms:YB	B-PER
+ms:Dato	I-PER
+ms:Seri	I-PER
+ms:Panglima	I-PER
+ms:Haji	I-PER
+ms:Lajim	I-PER
+ms:Haji	I-PER
+ms:Ukin	I-PER
+
+ms:Empayar	B-ORG
+ms:Suci	I-ORG
+ms:Rom	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Haute-Vienne	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Gironde	I-LOC
+
+ms:[07.12.2005]	O
+ms:Special	B-ORG
+ms:!	I-ORG
+ms:Best	I-ORG
+ms:Mini	I-ORG
+ms:~2.5	I-ORG
+ms:Maime	I-ORG
+ms:no	I-ORG
+ms:Kare~	I-ORG
+ms:(	O
+ms:スッペシャル	O
+ms:!	O
+
+ms:Panel	B-ORG
+ms:Antara	I-ORG
+ms:Kerajaan	I-ORG
+ms:tentang	I-ORG
+ms:Perubahan	I-ORG
+ms:Cuaca	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Nièvre	I-LOC
+
+ms:Iiwake	B-ORG
+ms:Maybe	I-ORG
+ms:(	O
+ms:Tidak	O
+ms:terlibat	O
+ms:dalam	O
+ms:lagu	O
+ms:ini	O
+ms:)	O
+
+ms:LENCONG	O
+ms:Brumovice	B-LOC
+ms:(	I-LOC
+ms:Daerah	I-LOC
+ms:Břeclav	I-LOC
+ms:)	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Bas-Rhin	I-LOC
+
+ms:Eduard	B-PER
+ms:Freiherr	I-PER
+ms:von	I-PER
+ms:Bohm-Ermolli	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Seine-Maritime	I-LOC
+
+ms:Teispes	B-PER
+ms:dari	I-PER
+ms:Anshan	I-PER
+
+ms:Shaman	B-ORG
+ms:King	I-ORG
+ms:(	O
+ms:Mosuke	O
+ms:)	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Calvados	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Tarn-et-Garonne	I-LOC
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:penuding	I-ORG
+ms:berbulu	I-ORG
+ms:dawai	I-ORG
+ms:Jerman	I-ORG
+
+ms:Disney	B-ORG
+ms:Channel	I-ORG
+ms:Republik	I-ORG
+ms:Czech	I-ORG
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gembala	I-ORG
+ms:Belanda	I-ORG
+
+ms:``	O
+ms:Did	B-ORG
+ms:It	I-ORG
+ms:Again	I-ORG
+ms:''	O
+ms:-	O
+ms:IM	B-ORG
+
+ms:Posisi	O
+ms:ini	O
+ms:berbeza	O
+ms:dengan	O
+ms:Komandan	B-PER
+ms:Jeneral	I-PER
+ms:Marin	I-PER
+ms:Diraja	I-PER
+ms:,	O
+ms:iaitu	O
+ms:ketua	O
+ms:profesional	O
+ms:(	O
+ms:yang	O
+ms:berpangkat	O
+ms:seorang	O
+ms:Mejar	B-ORG
+ms:Jeneral	I-ORG
+ms:)	O
+ms:.	O
+
+ms:Perdana	B-PER
+ms:Menteri	I-PER
+ms:United	I-PER
+ms:Kingdom	I-PER
+
+ms:LENCONG	O
+ms:Terier	B-ORG
+ms:rubah	I-ORG
+ms:licin	I-ORG
+
+ms:'	O
+ms:''	O
+ms:Nico	B-PER
+ms:Rosberg	I-PER
+ms:''	O
+ms:'	O
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Somme	I-LOC
+
+ms:''Tapi	O
+ms:Bukan	O
+ms:Aku	O
+ms:''	O
+ms:(	O
+ms:Kerispatih	B-ORG
+ms:)	O
+
+ms:Sekolah	B-ORG
+ms:Kebangsaan	I-ORG
+ms:Convent	I-ORG
+ms:,	I-ORG
+ms:Taiping	I-ORG
+
+ms:Daerah	B-LOC
+ms:Ústí	I-LOC
+ms:nad	I-LOC
+ms:Orlicí	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Bas-Rhin	I-LOC
+
+ms:LENCONG	O
+ms:Hainfeld	B-LOC
+ms:,	I-LOC
+ms:Jerman	I-LOC
+
+ms:Pokok	B-LOC
+ms:Perupuk	I-LOC
+ms:Gunung	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Meuse	I-LOC
+
+ms:John	B-PER
+ms:Wayne	I-PER
+ms:(	O
+ms:1907-1979	O
+ms:)	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Vienne	I-LOC
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:rubah	I-ORG
+ms:kecil	I-ORG
+ms:Itali	I-ORG
+
+ms:Avatar	B-ORG
+ms::	I-ORG
+ms:The	I-ORG
+ms:Last	I-ORG
+ms:Airbender	I-ORG
+
+ms:LENCONG	O
+ms:Evolusi	B-ORG
+ms:uji	I-ORG
+ms:kaji	I-ORG
+
+ms:Tentera	B-ORG
+ms:Laut	I-ORG
+ms:Amerika	I-ORG
+ms:Syarikat	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Dordogne	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Yerevan	B-LOC
+ms:''	O
+ms:'	O
+ms:,	O
+ms:Armenia	B-LOC
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:pemburu	I-ORG
+ms:buruan	I-ORG
+ms:kecil	I-ORG
+ms:Inggeris-Perancis	I-ORG
+
+ms:Mohd	B-PER
+ms:Zaquan	I-PER
+ms:Adha	I-PER
+ms:Abdul	I-PER
+ms:Radzak	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Haute-Savoie	I-LOC
+
+ms:Sebuah	O
+ms:``	O
+ms:pepenjuru	O
+ms:''	O
+ms:seperti	O
+ms:itu	O
+ms:mempunyai	O
+ms:jumlah	O
+ms:yang	O
+ms:merupakan	O
+ms:sebuah	O
+ms:Nombor	B-ORG
+ms:Fibonacci	I-ORG
+ms:.	O
+
+ms:LENCONG	O
+ms:Gökçeada	B-LOC
+ms:(	I-LOC
+ms:daerah	I-LOC
+ms:)	I-LOC
+
+ms:Dia	O
+ms:menjaringkan	O
+ms:gol	O
+ms:pertamanya	O
+ms:untuk	O
+ms:kelab	O
+ms:itu	O
+ms:ketika	O
+ms:menentang	O
+ms:Bolton	B-ORG
+ms:Wanderers	I-ORG
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Bas-Rhin	I-LOC
+
+ms:Anjing	B-ORG
+ms:Gembala	I-ORG
+ms:Inggeris	I-ORG
+ms:Lama	I-ORG
+
+ms:Wilayah	B-LOC
+ms:Barat	I-LOC
+ms:Laut	I-LOC
+ms:(	O
+ms:Kanada	B-LOC
+ms:)	O
+
+ms:Disney	B-ORG
+ms:Channel	I-ORG
+ms:Eropah	I-ORG
+ms:Tengah	I-ORG
+ms:dan	I-ORG
+ms:Timur	I-ORG
+
+ms:Universiti	B-ORG
+ms:Martin	I-ORG
+ms:Luther	I-ORG
+ms:di	I-ORG
+ms:Halle-Wittenberg	I-ORG
+
+ms:Lee	B-PER
+ms:Chong	I-PER
+ms:Wei	I-PER
+ms:(	O
+ms:Withdraws	O
+ms:)	O
+
+ms:Dwight	B-PER
+ms:D.	I-PER
+ms:Eisenhower	I-PER
+
+ms:Pasukan	B-ORG
+ms:bola	I-ORG
+ms:sepak	I-ORG
+ms:kebangsaan	I-ORG
+ms:bawah-23	I-ORG
+ms:Indonesia	I-ORG
+
+ms:LENCONG	O
+ms:Big	B-ORG
+ms:Bang	I-ORG
+ms:(	I-ORG
+ms:kumpulan	I-ORG
+ms:muzik	I-ORG
+ms:)	I-ORG
+
+ms:Iljo	O
+ms:Azrinov	O
+ms:,	O
+ms:ditembak	O
+ms:jatuh	O
+ms:berdekatan	O
+ms:Priština	B-LOC
+ms:)	O
+ms:dan	O
+ms:No	O
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Dordogne	I-LOC
+
+ms:LENCONG	O
+ms:Săcel	B-LOC
+ms:,	I-LOC
+ms:Maramureș	I-LOC
+
+ms:Ue	B-ORG
+ms:kara	I-ORG
+ms:Mariko	I-ORG
+ms:(	O
+ms:Tidak	O
+ms:terlibat	O
+ms:dalam	O
+ms:lagu	O
+ms:ini	O
+ms:)	O
+
+ms:Kerajaan	B-ORG
+ms:United	I-ORG
+ms:Kingdom	I-ORG
+
+ms:Beliau	O
+ms:mula	O
+ms:dikenali	O
+ms:menerusi	O
+ms:Janice	B-PER
+ms:Dickinson	I-PER
+ms:Modeling	I-PER
+ms:Agency	I-PER
+ms:.	O
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Bas-Rhin	I-LOC
+
+ms:Kemudiannya	O
+ms:mereka	O
+ms:dicabar	O
+ms:melakonkan	O
+ms:satu	O
+ms:babak	O
+ms:dengan	O
+ms:Clay	B-PER
+ms:Aiken	I-PER
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Orne	I-LOC
+
+ms:Institut	B-ORG
+ms:Penyelidikan	I-ORG
+ms:Perhutanan	I-ORG
+ms:Malaysia	I-ORG
+ms:(	O
+ms:FRIM	O
+ms:)	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Gard	I-LOC
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:Persembahan	O
+ms:itu	O
+ms:dihadiri	O
+ms:oleh	O
+ms:Bonda	B-PER
+ms:Ratu	I-PER
+ms:Elizabeth	I-PER
+ms:.	O
+
+ms:LENCONG	O
+ms:Polis	B-PER
+ms:Pengawal	I-PER
+ms:Pantai	I-PER
+
+ms:David	B-PER
+ms:Vincent	I-PER
+ms:(	I-PER
+ms:pelakon	I-PER
+ms:)	I-PER
+
+ms:LENCONG	O
+ms:Dielsdorf	B-LOC
+ms:,	I-LOC
+ms:Zurich	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Kate	B-PER
+ms:Tsui	I-PER
+ms:''	O
+ms:'	O
+
+ms:'	O
+ms:''	O
+ms:Felipe	B-PER
+ms:Massa	I-PER
+ms:''	O
+ms:'	O
+
+ms:Joseph	B-PER
+ms:Entulu	I-PER
+ms:Anak	I-PER
+ms:Belaun	I-PER
+
+ms:Daerah	B-LOC
+ms:Vranov	I-LOC
+ms:nad	I-LOC
+ms:Topľou	I-LOC
+
+ms:Salmah	B-PER
+ms:binti	I-PER
+ms:Ismail	I-PER
+
+ms:Zain	B-PER
+ms:Saidin	I-PER
+ms:sebagai	O
+ms:Sham	O
+
+ms:8TV	B-ORG
+ms:HD	I-ORG
+ms:(	O
+ms:Saluran	O
+ms:108	O
+ms:)	O
+
+ms:Disney	B-PER
+ms:Channel	I-PER
+ms:United	I-PER
+ms:Kingdom	I-PER
+ms:dan	I-PER
+ms:Ireland	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Ardèche	I-LOC
+
+ms:Obinna	B-PER
+ms:Nwaneri	I-PER
+ms:'	O
+ms:''	O
+ms:(	O
+ms:Import	O
+ms:)	O
+ms:'	O
+ms:''	O
+
+ms:Pasukan	B-ORG
+ms:bola	I-ORG
+ms:sepak	I-ORG
+ms:kebangsaan	I-ORG
+ms:Myanmar	I-ORG
+
+ms:The	B-ORG
+ms:Drive	I-ORG
+ms:of	I-ORG
+ms:Life	I-ORG
+ms:''	O
+
+ms:LENCONG	O
+ms:Memanah	B-ORG
+ms:di	I-ORG
+ms:Sukan	I-ORG
+ms:Olimpik	I-ORG
+ms:Musim	I-ORG
+ms:Panas	I-ORG
+ms:2016	I-ORG
+
+ms:'	O
+ms:''	O
+ms:McLaren	B-ORG
+ms:''	O
+ms:'	O
+
+ms:Kongres	B-ORG
+ms:India	I-ORG
+ms:Malaysia	I-ORG
+
+ms:Ia	O
+ms:merupakan	O
+ms:Markas	B-ORG
+ms:Führer	I-ORG
+ms:(	O
+ms:''Führerhauptquartiere	O
+ms:''	O
+ms:)	O
+ms:terakhir	O
+ms:yang	O
+ms:digunakan	O
+ms:oleh	O
+ms:Adolf	B-PER
+ms:Hitler	I-PER
+ms:.	O
+
+ms:'	O
+ms:''	O
+ms:Tychy	B-LOC
+ms:''	O
+ms:'	O
+
+ms:Ismail	B-PER
+ms:Yaacob	I-PER
+ms:(	O
+ms:''Cari	O
+ms:''	O
+ms:)	O
+
+ms:Doraemon	B-ORG
+ms:dan	I-ORG
+ms:Rakan-Rakan	I-ORG
+
+ms:Khojeh	B-PER
+ms:Shamsuddin	I-PER
+ms:Muhammad	I-PER
+ms:Hafez	I-PER
+ms:Shirazi	I-PER
+
+ms:Uee	B-PER
+ms:(	O
+ms:episod	O
+ms:9	O
+ms:)	O
+
+ms:1998	B-ORG
+ms:–	O
+ms:''Tidak	O
+ms:menyertai	O
+ms:''	O
+
+ms:Terengganu	B-LOC
+ms:Darul	I-LOC
+ms:Iman	I-LOC
+ms:(	O
+ms:Kuala	B-LOC
+ms:Terengganu	I-LOC
+ms:)	O
+
+ms:Jason	B-PER
+ms:Lo	I-PER
+ms:(	O
+ms:2003–2007	O
+ms:)	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Lot	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Aveyron	I-LOC
+
+ms:Seni	B-ORG
+ms:khat	I-ORG
+ms:Islam	I-ORG
+
+ms:LENCONG	O
+ms:Terjun	B-ORG
+ms:di	I-ORG
+ms:Sukan	I-ORG
+ms:Olimpik	I-ORG
+ms:Musim	I-ORG
+ms:Panas	I-ORG
+ms:2016	I-ORG
+
+ms:5	O
+ms:/	O
+ms:8	O
+ms:Kenneth	B-PER
+ms:Jonassen	I-PER
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Selangor	B-ORG
+ms:FA	I-ORG
+ms:''	O
+ms:'	O
+
+ms:Goh	B-PER
+ms:V	I-PER
+ms:Shem	I-PER
+ms:Lim	B-PER
+ms:Khim	I-PER
+ms:Wah	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Haute-Marne	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Haute-Saône	I-LOC
+
+ms:La	B-LOC
+ms:Línea	I-LOC
+ms:de	I-LOC
+ms:la	I-LOC
+ms:Concepción	I-LOC
+
+ms:Ayahandanya	O
+ms:Sultan	B-PER
+ms:Alauddin	I-PER
+ms:Riayat	I-PER
+ms:Shah	I-PER
+ms:mangkat	O
+ms:pada	O
+ms:usia	O
+ms:yang	O
+ms:masih	O
+ms:muda	O
+ms:.	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:air	I-ORG
+ms:Friesland	I-ORG
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Vitantonio	B-PER
+ms:Liuzzi	I-PER
+ms:''	O
+ms:'	O
+
+ms:Sepanyol	B-ORG
+ms:menewaskan	O
+ms:Belanda	B-ORG
+ms:1–0	O
+ms:,	O
+ms:hasil	O
+ms:jaringan	O
+ms:Andrés	B-PER
+ms:Iniesta	I-PER
+ms:dalam	O
+ms:masa	O
+ms:tambahan	O
+ms:.	O
+
+ms:Tan	B-PER
+ms:Sri	I-PER
+ms:Joseph	I-PER
+ms:Pairin	I-PER
+ms:Kitingan	I-PER
+
+ms:Xie	B-PER
+ms:Zhongbo	I-PER
+ms:/	O
+ms:Zhang	B-PER
+ms:Yawen	I-PER
+
+ms:Rio	B-LOC
+ms:de	I-LOC
+ms:Janeiro	I-LOC
+ms:,	O
+ms:Brazil	B-LOC
+
+ms:National	B-ORG
+ms:Geographic	I-ORG
+ms:Channel	I-ORG
+ms:HD	I-ORG
+ms:Asia	I-ORG
+
+ms:LENCONG	O
+ms:Biskupice	B-LOC
+ms:(	I-LOC
+ms:Daerah	I-LOC
+ms:Svitavy	I-LOC
+ms:)	I-LOC
+
+ms:As	B-ORG
+ms:the	I-ORG
+ms:World	I-ORG
+ms:Turns	I-ORG
+ms:''	O
+
+ms:'	O
+ms:''	O
+ms:Pastor	B-PER
+ms:Maldonado	I-PER
+ms:''	O
+ms:'	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Somme	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Haute-Marne	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Hořovice	B-LOC
+ms:''	O
+ms:'	O
+ms:-	O
+
+ms:Pokok	B-LOC
+ms:Ulam	I-LOC
+ms:Raja	I-LOC
+
+ms:*1260-1277	O
+ms:al-Zahir	B-PER
+ms:Rukn-ad-Din	I-PER
+ms:Baibars	I-PER
+ms:al-Bunduqdari	I-PER
+ms:الظاهر	O
+ms:ركن	O
+ms:الدين	O
+ms:بيبرس	O
+ms:البندقدارى	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Rhône	I-LOC
+
+ms:Robert	B-PER
+ms:Ritter	I-PER
+ms:von	I-PER
+ms:Greim	I-PER
+
+ms:Semenyih	B-LOC
+ms:melalui	O
+ms:Lebuhraya	B-ORG
+ms:Lingkaran	I-ORG
+ms:Penyuraian	I-ORG
+ms:Trafik	I-ORG
+ms:Kajang	I-ORG
+
+ms:Polis	B-ORG
+ms:Di-Raja	I-ORG
+ms:Malaysia	I-ORG
+ms:(	I-ORG
+ms:PDRM	I-ORG
+ms:)	I-ORG
+
+ms:Ia	O
+ms:merupakan	O
+ms:salah	O
+ms:satu	O
+ms:subsidiari	O
+ms:ABS-CBN	B-ORG
+ms:.	O
+
+ms:24	O
+ms:,	O
+ms:Jakarta	B-LOC
+ms:Timur	I-LOC
+ms:,	O
+ms:Indonesia	B-LOC
+ms:.	O
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Marne	I-LOC
+
+ms:Ibu	O
+ms:kotanya	O
+ms:ialah	O
+ms:Piatra	B-LOC
+ms:Neamţ	I-LOC
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Gironde	I-LOC
+
+ms:Ia	O
+ms:adalah	O
+ms:subsidiari	O
+ms:kepada	O
+ms:kumpulan	O
+ms:Mitsubishi	B-ORG
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Somme	I-LOC
+
+ms:Beliau	O
+ms:merupakan	O
+ms:adik	O
+ms:lelaki	O
+ms:Fidel	B-PER
+ms:Castro	I-PER
+ms:-	O
+ms:pengasas	O
+ms:negara	O
+ms:Cuba	B-LOC
+ms:.	O
+
+ms:LENCONG	O
+ms:Kamenná	B-LOC
+ms:(	I-LOC
+ms:Daerah	I-LOC
+ms:Šumperk	I-LOC
+ms:)	I-LOC
+
+ms:Sistem	B-ORG
+ms:liga	I-ORG
+ms:bola	I-ORG
+ms:sepak	I-ORG
+ms:Jepun	I-ORG
+
+ms:Wilhelm	B-PER
+ms:Ritter	I-PER
+ms:von	I-PER
+ms:Leeb	I-PER
+
+ms:'	O
+ms:''	O
+ms:Kate	B-PER
+ms:Winslet	I-PER
+ms:''	O
+ms:'	O
+ms:‡	O
+
+ms:LENCONG	O
+ms:Philippe	B-PER
+ms:dari	I-PER
+ms:Belgium	I-PER
+
+ms:Ketika	O
+ms:itu	O
+ms:berlaku	O
+ms:pertikaian	O
+ms:antara	O
+ms:Chiang	B-PER
+ms:Kai-shek	I-PER
+ms:dan	O
+ms:Mao	B-PER
+ms:Zedong	I-PER
+ms:.	O
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:Bruce	B-PER
+ms:Lee	I-PER
+ms:sebagai	O
+ms:Cameo	O
+
+ms:Pusat	B-ORG
+ms:Persidangan	I-ORG
+ms:Nasional	I-ORG
+ms:(	I-ORG
+ms:Beijing	I-ORG
+ms:)	I-ORG
+
+ms:DreamWorks	B-ORG
+ms:Animation	I-ORG
+ms:''	O
+ms:Paramount	B-ORG
+ms:Pictures	I-ORG
+ms:''	O
+
+ms:Leipzig	B-LOC
+ms:,	O
+ms:Jerman	B-LOC
+ms:.	O
+
+ms:'	O
+ms:''	O
+ms:Rosyam	B-PER
+ms:Nor	I-PER
+ms:''	O
+ms:'	O
+
+ms:Tentera	B-ORG
+ms:Udara	I-ORG
+ms:Amerika	I-ORG
+ms:Syarikat	I-ORG
+
+ms:'	O
+ms:''	O
+ms:Rubens	B-PER
+ms:Barrichello	I-PER
+ms:''	O
+ms:'	O
+
+ms:Dinyanyikan	O
+ms:oleh	O
+ms:Yajima	B-PER
+ms:Maimi	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Eure	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Ronaldinho	B-PER
+ms:''	O
+ms:'	O
+
+ms:**	O
+ms:TV	B-ORG
+ms:AlHijrah	I-ORG
+ms:(	O
+ms:UHF	O
+ms:Saluran	O
+ms:55	O
+ms:)	O
+
+ms:**	O
+ms:Rossa	B-PER
+ms:-	O
+ms:''Hati	O
+ms:Yang	O
+ms:Terpilih	O
+ms:''	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Côte-d'Or	I-LOC
+
+ms:Dia	O
+ms:dilakonkan	O
+ms:oleh	O
+ms:Madeline	B-PER
+ms:Zima	I-PER
+ms:.	O
+
+ms:Ouran	B-PER
+ms:High	I-PER
+ms:School	I-PER
+ms:Host	I-PER
+ms:Club	I-PER
+ms:''	O
+
+ms:'	O
+ms:''	O
+ms:Bučovice	B-LOC
+ms:''	O
+ms:'	O
+ms:-	O
+
+ms:Chiang	B-PER
+ms:Kai-shek	I-PER
+ms:(	O
+ms:1887–1975	O
+ms:)	O
+ms:dikenali	O
+ms:sebagai	O
+ms:Generalissimo	O
+ms:.	O
+
+ms:National	B-ORG
+ms:Geographic	I-ORG
+ms:Wild	I-ORG
+
+ms:悲しみトワイライト	O
+ms:(	O
+ms:Kanashimi	B-ORG
+ms:Twilight	I-ORG
+ms:)	O
+ms:/	O
+ms:Morning	B-ORG
+ms:Musume	I-ORG
+
+ms:LENCONG	O
+ms:Angkatan	B-ORG
+ms:Tentera	I-ORG
+ms:Malaysia	I-ORG
+
+ms:'	O
+ms:''	O
+ms:Kashima	B-ORG
+ms:Antlers	I-ORG
+ms:''	O
+ms:'	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gembala	I-ORG
+ms:Lapland	I-ORG
+
+ms:LENCONG	O
+ms:Abdul	B-PER
+ms:Rahman	I-PER
+ms:III	I-PER
+
+ms:Lagu	O
+ms:ini	O
+ms:hanya	O
+ms:dinyanyikan	O
+ms:oleh	O
+ms:Okada	B-PER
+ms:Yui	I-PER
+ms:.	O
+
+ms:'	O
+ms:''	O
+ms:Juan	B-PER
+ms:Pablo	I-PER
+ms:Montoya	I-PER
+ms:''	O
+ms:'	O
+
+ms:**P114	O
+ms:–	O
+ms:Kepong	B-LOC
+ms:–	O
+ms:Tan	B-PER
+ms:Seng	I-PER
+ms:Giaw	I-PER
+
+ms:Celta	B-ORG
+ms:de	I-ORG
+ms:Vigo	I-ORG
+ms:(	O
+ms:pinjaman	O
+ms:)	O
+
+ms:Misaki	B-PER
+ms:Matsutomo	I-PER
+ms:&	O
+ms:Ayaka	B-PER
+ms:Takahashi	I-PER
+ms:2–0	O
+
+ms:Pasukan	B-ORG
+ms:bola	I-ORG
+ms:sepak	I-ORG
+ms:kebangsaan	I-ORG
+ms:bawah-17	I-ORG
+ms:Qatar	I-ORG
+
+ms:LENCONG	O
+ms:Aircraft	B-ORG
+ms:Communications	I-ORG
+ms:Addressing	I-ORG
+ms:and	I-ORG
+ms:Reporting	I-ORG
+ms:System	I-ORG
+
+ms:Emma	B-PER
+ms:Watson	I-PER
+ms:sebagai	O
+ms:Hermione	B-PER
+ms:Granger	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Vienne	I-LOC
+
+ms:Tetapi	O
+ms:sebelum	O
+ms:itu	O
+ms:,	O
+ms:beliau	O
+ms:harus	O
+ms:menetapkan	O
+ms:sama	O
+ms:ada	O
+ms:sekolah	O
+ms:akan	O
+ms:masih	O
+ms:dibuka	O
+ms:atau	O
+ms:tidak	O
+ms:dalam	O
+ms:kekelaman	O
+ms:waktu	O
+ms:setelah	O
+ms:Lord	B-PER
+ms:Voldemort	I-PER
+ms:kembali	O
+ms:berkuasa	O
+ms:.	O
+
+ms:Daerah	B-LOC
+ms:di	I-LOC
+ms:Afghanistan	I-LOC
+
+ms:Syed	B-PER
+ms:Sirajuddin	I-PER
+ms:Syed	B-PER
+ms:Putra	I-PER
+ms:Jamalulail	I-PER
+
+ms:'	O
+ms:''	O
+ms:Felipe	B-PER
+ms:Massa	I-PER
+ms:''	O
+ms:'	O
+
+ms:Dua	B-ORG
+ms:Belas	I-ORG
+ms:Koloni	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Dordogne	I-LOC
+
+ms:Dia	O
+ms:adalah	O
+ms:anak	O
+ms:kedua	O
+ms:dari	O
+ms:tiga	O
+ms:anak	O
+ms:perempuan	O
+ms:Sultan	B-PER
+ms:Mansur	I-PER
+ms:Shah	I-PER
+ms:yang	O
+ms:memerintah	O
+ms:negaranya	O
+ms:.	O
+
+ms:3	O
+ms:/	O
+ms:4	O
+ms:Xie	B-PER
+ms:Zhongbo	I-PER
+ms:/	O
+ms:Zhang	B-PER
+ms:Yawen	I-PER
+
+ms:Burung	B-LOC
+ms:Belatuk	I-LOC
+ms:Kecil	I-LOC
+ms:Tengkuk	I-LOC
+ms:Kuning	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Pierre	B-PER
+ms:Nkurunziza	I-PER
+ms:''	O
+ms:'	O
+ms:,	O
+ms:President	O
+
+ms:Cara	O
+ms:permainannya	O
+ms:dibandingkan	O
+ms:dengan	O
+ms:bekas	O
+ms:rakan	O
+ms:sepasukan	O
+ms:,	O
+ms:Luka	B-PER
+ms:Modrić	I-PER
+ms:.	O
+
+ms:LENCONG	O
+ms:King	B-ORG
+ms:Charles	I-ORG
+ms:spaniel	I-ORG
+
+ms:(	O
+ms:Daite	B-ORG
+ms:HOLD	I-ORG
+ms:ON	I-ORG
+ms:ME	I-ORG
+ms:!	I-ORG
+ms:)	O
+ms:===	O
+
+ms:5pb.	O
+ms:,	O
+ms:Nitroplus	B-ORG
+ms:(	O
+ms:Published	O
+ms:by	O
+ms:Kadokawa	B-ORG
+ms:Shoten	I-ORG
+ms:)	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Vienne	I-LOC
+
+ms:LENCONG	O
+ms:Nihon	B-ORG
+ms:Ken	I-ORG
+ms:Hozonkai	I-ORG
+
+ms:kepada	O
+ms:vokal	O
+ms:Rihanna	B-PER
+ms:and	O
+ms:Miley	B-PER
+ms:Cyrus	I-PER
+ms:.	O
+
+ms:Tapak	O
+ms:itu	O
+ms:kini	O
+ms:digunakan	O
+ms:oleh	O
+ms:Universiti	B-ORG
+ms:Teknologi	I-ORG
+ms:Petronas	I-ORG
+ms:.	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:air	I-ORG
+ms:Moscow	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Haute-Marne	I-LOC
+
+ms:Kamarul	B-PER
+ms:Bahrin	I-PER
+ms:Abbas	I-PER
+
+ms:Syed	B-PER
+ms:Amir	I-PER
+ms:Ali	I-PER
+
+ms:'	O
+ms:''	O
+ms:Rentak	O
+ms:Optimis	O
+ms:''	O
+ms:'	O
+ms:merupakan	O
+ms:lagu	O
+ms:tema	O
+ms:Coca-Cola	B-ORG
+ms:tahun	O
+ms:2009	O
+ms:sempena	O
+ms:kempen	O
+ms:pengiklanan	O
+ms:barunya	O
+ms:.	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gembala	I-ORG
+ms:Pyrénées	I-ORG
+
+ms:Ia	O
+ms:terkenal	O
+ms:sebagai	O
+ms:salah	O
+ms:satu	O
+ms:personel	O
+ms:The	B-ORG
+ms:Beatles	I-ORG
+ms:.	O
+
+ms:Interaksi	O
+ms:sebegini	O
+ms:mula-mula	O
+ms:diperikan	O
+ms:secara	O
+ms:rasmi	O
+ms:oleh	O
+ms:Gregor	B-PER
+ms:Mendel	I-PER
+ms:.	O
+
+ms:'	O
+ms:''	O
+ms:Mark	B-PER
+ms:Webber	I-PER
+ms:''	O
+ms:'	O
+
+ms:'	O
+ms:''	O
+ms:Mark	B-PER
+ms:Webber	I-PER
+ms:''	O
+ms:'	O
+
+ms:Pasukan	O
+ms:ini	O
+ms:dikendalikan	O
+ms:oleh	O
+ms:Persatuan	B-ORG
+ms:Bola	I-ORG
+ms:Sepak	I-ORG
+ms:Yaman	I-ORG
+ms:.	O
+
+ms:'	O
+ms:''	O
+ms:Sauber	B-ORG
+ms:''	O
+ms:'	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gunung	I-ORG
+ms:Formosa	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Aveyron	I-LOC
+
+ms:Dia	O
+ms:juga	O
+ms:merupakan	O
+ms:adik	O
+ms:kepada	O
+ms:pasangan	O
+ms:kembarnya	O
+ms:iaitu	O
+ms:Mohd	B-ORG
+ms:Aidil	I-ORG
+ms:Zafuan	I-ORG
+ms:Abdul	I-ORG
+ms:Radzak	I-ORG
+ms:.	O
+
+ms:Jawatankuasa	B-ORG
+ms:Hal	I-ORG
+ms:Ehwal	I-ORG
+ms:Awam	I-ORG
+ms:Amerika-Israel	I-ORG
+
+ms:Pihak	O
+ms:yang	O
+ms:terbabit	O
+ms:siri	O
+ms:Disney	B-ORG
+ms:Channel	I-ORG
+ms:dan	O
+ms:selebriti	O
+ms:lain	O
+ms:,	O
+ms:membuat	O
+ms:jenaka	O
+ms:kepada	O
+ms:peminatnya	O
+ms:.	O
+
+ms:'	O
+ms:''	O
+ms:Ducati	B-ORG
+ms:''	O
+ms:'	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Vosges	I-LOC
+
+ms:Baginda	O
+ms:digantikan	O
+ms:oleh	O
+ms:anakandanya	O
+ms:,	O
+ms:Sultan	B-PER
+ms:Iskandar	I-PER
+ms:ibni	I-PER
+ms:Almarhum	I-PER
+ms:Sultan	B-PER
+ms:Ismail	I-PER
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Bouches-du-Rhône	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Manche	I-LOC
+
+ms:Umar	B-PER
+ms:ibni	I-PER
+ms:Abd	I-PER
+ms:al-Aziz	I-PER
+
+ms:''Seksis	O
+ms:''	O
+ms:(	O
+ms:Anita	B-PER
+ms:Sarawak	I-PER
+ms:)	O
+
+ms:Tuan	O
+ms:Guru	O
+ms:Dato’	O
+ms:Dr.	O
+ms:Hj	O
+ms:Haron	B-PER
+ms:Din	I-PER
+
+ms:Bekas	O
+ms:Presiden	B-ORG
+ms:Bill	B-PER
+ms:Clinton	I-PER
+ms:ialah	O
+ms:salah	O
+ms:seorang	O
+ms:rakan	O
+ms:sedarjahnya	O
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Saône-et-Loire	I-LOC
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gembala	I-ORG
+ms:Switzerland	I-ORG
+ms:putih	I-ORG
+
+ms:Cheah	B-PER
+ms:Soon	I-PER
+ms:Kit	I-PER
+ms:Yap	B-PER
+ms:Kim	I-PER
+ms:Hock	I-PER
+
+ms:Dalam	O
+ms:dua	O
+ms:tahun	O
+ms:berikutnya	O
+ms:dia	O
+ms:menewaskan	O
+ms:Michelle	B-PER
+ms:Martin	I-PER
+ms:pada	O
+ms:pusingan	O
+ms:akhir	O
+ms:.	O
+
+ms:The	B-ORG
+ms:Legend	I-ORG
+ms:of	I-ORG
+ms:Korra	I-ORG
+
+ms:Kau	O
+ms:Curi	O
+ms:J-Rocks	B-ORG
+ms:''feat	O
+ms:''	O
+ms:Prisa	O
+
+ms:Perayu	O
+ms:,	O
+ms:sebagai	O
+ms:tambahan	O
+ms:,	O
+ms:telah	O
+ms:dilucutkan	O
+ms:kerusinya	O
+ms:dalam	O
+ms:Parlimen	B-ORG
+ms:dan	O
+ms:tidak	O
+ms:dibenarkan	O
+ms:menjalankan	O
+ms:praktik	O
+ms:profesionnya	O
+ms:selama	O
+ms:setahun	O
+ms:.	O
+
+ms:涙の太陽	O
+ms:(	O
+ms:Namida	B-ORG
+ms:no	I-ORG
+ms:Taiyou	I-ORG
+ms:)	O
+
+ms:Szayel	O
+ms:berkelakuan	O
+ms:agak	O
+ms:sadis	O
+ms:dan	O
+ms:melihat	O
+ms:orang	O
+ms:lain	O
+ms:hanya	O
+ms:sebagai	O
+ms:bahan	O
+ms:kajian	O
+ms:,	O
+ms:hampir	O
+ms:serupa	O
+ms:dengan	O
+ms:sifat-sifat	O
+ms:yang	O
+ms:ditunjukkan	O
+ms:Kurotsuchi	B-PER
+ms:Mayuri	I-PER
+ms:.	O
+
+ms:'	O
+ms:''	O
+ms:Nico	B-PER
+ms:Hülkenberg	I-PER
+ms:''	O
+ms:'	O
+
+ms:Menurut	O
+ms:Sri	B-PER
+ms:Ramakrishna	I-PER
+ms:,	O
+ms:apabila	O
+ms:seseorang	O
+ms:menjalinkan	O
+ms:hubungan	O
+ms:yang	O
+ms:akrab	O
+ms:dengan	O
+ms:Tuhan	O
+ms:,	O
+ms:dengan	O
+ms:mudah	O
+ms:dan	O
+ms:segera	O
+ms:,	O
+ms:dia	O
+ms:akan	O
+ms:mencapai	O
+ms:kesedaran-Tuhan	O
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Gard	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Bas-Rhin	I-LOC
+
+ms:GIVE	B-ORG
+ms:ME	I-ORG
+ms:FIVE	I-ORG
+ms:!	I-ORG
+
+ms:LENCONG	O
+ms:Tentera	B-ORG
+ms:Darat	I-ORG
+ms:Jerman	I-ORG
+ms:(	I-ORG
+ms:Wehrmacht	I-ORG
+ms:)	I-ORG
+
+ms:Zheng	B-PER
+ms:Bo	I-PER
+ms:/	O
+ms:Gao	B-PER
+ms:Ling	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Ardèche	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Oise	I-LOC
+
+ms:Sebelum	O
+ms:ini	O
+ms:dia	O
+ms:ditempatkan	O
+ms:dalam	O
+ms:Team	O
+ms:4	O
+ms:sebelum	O
+ms:ditukarkan	O
+ms:ke	O
+ms:Team	O
+ms:B	O
+ms:AKB48	B-ORG
+ms:.	O
+
+ms:Maktab	B-ORG
+ms:Rendah	I-ORG
+ms:Sains	I-ORG
+ms:MARA	I-ORG
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:air	I-ORG
+ms:Friesland	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Deux-Sèvres	I-LOC
+
+ms:***	O
+ms:Rubah	B-LOC
+ms:anak	I-LOC
+ms:,	O
+ms:''Vulpes	O
+ms:macrotis	O
+ms:''	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:penuding	I-ORG
+ms:berbulu	I-ORG
+ms:dawai	I-ORG
+ms:Jerman	I-ORG
+
+ms:Ia	O
+ms:menempatkan	O
+ms:negara	O
+ms:Panama	B-LOC
+ms:dan	O
+ms:Terusan	B-LOC
+ms:Panama	I-LOC
+ms:.	O
+
+ms:All	B-PER
+ms:Grown	I-PER
+ms:Up	I-PER
+ms:!	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Haute-Loire	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Vosges	I-LOC
+
+ms:Ia	O
+ms:menjadi	O
+ms:Setiausaha	B-PER
+ms:Negara	I-PER
+ms:Amerika	I-PER
+ms:Syarikat	I-PER
+ms:ke-63	O
+ms:selama	O
+ms:tempoh	O
+ms:pertama	O
+ms:pemerintahan	O
+ms:Presiden	B-ORG
+ms:,	O
+ms:Bill	B-PER
+ms:Clinton	I-PER
+ms:.	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gembala	I-ORG
+ms:Belanda	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Vosges	I-LOC
+
+ms:Christoph	B-PER
+ms:Willibald	I-PER
+ms:Gluck	I-PER
+ms:(	O
+ms:''Armide	O
+ms:''	O
+ms:)	O
+ms:,	O
+
+ms:Mohd	B-PER
+ms:Zaquan	I-PER
+ms:Adha	I-PER
+ms:Abdul	I-PER
+ms:Radzak	I-PER
+
+ms:Nová	B-LOC
+ms:Ves	I-LOC
+ms:u	I-LOC
+ms:Světlé	I-LOC
+ms:-	O
+
+ms:Arzew	B-LOC
+ms:''	O
+ms:(	O
+ms:43,327	O
+ms:)	O
+ms:''	O
+
+ms:'	O
+ms:''	O
+ms:Takuma	B-PER
+ms:Sato	I-PER
+ms:''	O
+ms:'	O
+
+ms:Kementerian	B-ORG
+ms:Perusahaan	I-ORG
+ms:Perladangan	I-ORG
+ms:dan	I-ORG
+ms:Komoditi	I-ORG
+ms:Malaysia	I-ORG
+
+ms:Risako	B-PER
+ms:Sugaya	I-PER
+ms:-	O
+ms:vokal	O
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Celsius	B-ORG
+ms:''	O
+ms:'	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Eure	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Finistère	I-LOC
+
+ms:[[ImageMovers	O
+ms:''	O
+ms:Warner	B-ORG
+ms:Bros	I-ORG
+ms:.	I-ORG
+ms:''	O
+
+ms:5.	O
+ms:ke	O
+ms:Kuala	B-LOC
+ms:Klawang	I-LOC
+ms:60	O
+ms:km	O
+
+ms:Bernama	B-ORG
+ms:TV	I-ORG
+ms:HD	I-ORG
+ms:(	O
+ms:Saluran	O
+ms:505	O
+ms:)	O
+
+ms:'	O
+ms:''	O
+ms:Maria	B-PER
+ms:Sharapova	I-PER
+ms:[4]	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Haute-Savoie	I-LOC
+
+ms:Orochimaru	B-PER
+ms:(	O
+ms:keluar	O
+ms:;	O
+ms:mati	O
+ms:ataupun	O
+ms:dikurung	O
+ms:;	O
+ms:tiada	O
+ms:pengganti	O
+ms:)	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Aube	I-LOC
+
+ms:==	O
+ms:Oricon	B-ORG
+ms:dan	O
+ms:jumalh	O
+ms:jualan	O
+ms:==	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gembala	I-ORG
+ms:Anatolia	I-ORG
+
+ms:To	B-ORG
+ms:Anyone	I-ORG
+ms:''	O
+ms:(	O
+ms:2010	O
+ms:)	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Cantal	I-LOC
+
+ms:The	B-ORG
+ms:Penguins	I-ORG
+ms:of	I-ORG
+ms:Madagascar	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Charente	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Nick	B-PER
+ms:Heidfeld	I-PER
+ms:''	O
+ms:'	O
+
+ms:LENCONG	O
+ms:Presiden	B-ORG
+ms:Republik	I-ORG
+ms:Dominica	I-ORG
+
+ms:Seramai	O
+ms:7	O
+ms:pegawai	O
+ms:serta	O
+ms:127	O
+ms:anggota	O
+ms:Batalion	O
+ms:Ketiga	O
+ms:Angkatan	B-ORG
+ms:Bersenjata	I-ORG
+ms:Diraja	I-ORG
+ms:Brunei	I-ORG
+ms:terlibat	O
+ms:.	O
+
+ms:Suku	B-ORG
+ms:Turki	I-ORG
+ms:di	I-ORG
+ms:Australia	I-ORG
+
+ms:Ia	O
+ms:dimiliki	O
+ms:oleh	O
+ms:Majlis	B-ORG
+ms:Perbandaran	I-ORG
+ms:Selayang	I-ORG
+ms:(	O
+ms:MPS	O
+ms:)	O
+ms:.	O
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:Hassan	B-PER
+ms:bin	I-PER
+ms:Ali	I-PER
+
+ms:Beliau	O
+ms:juga	O
+ms:menggalakkan	O
+ms:bidang	O
+ms:pendidikan	O
+ms:dengan	O
+ms:membina	O
+ms:sekolah-sekolah	O
+ms:serta	O
+ms:penterjemahan	O
+ms:karya-karya	O
+ms:ke	O
+ms:dalam	O
+ms:Bahasa	B-ORG
+ms:Arab	I-ORG
+ms:.	O
+
+ms:Pendudukan	B-ORG
+ms:Jerman	I-ORG
+ms:ke	I-ORG
+ms:atas	I-ORG
+ms:Czechoslovakia	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Dordogne	I-LOC
+
+ms:Disney	B-PER
+ms:Channel	I-PER
+ms:United	I-PER
+ms:Kingdom	I-PER
+ms:dan	I-PER
+ms:Ireland	I-PER
+
+ms:Parti	B-ORG
+ms:Rakyat	I-ORG
+ms:Malaysia	I-ORG
+
+ms:Pokok	B-LOC
+ms:Kembang	I-LOC
+ms:Semangkok	I-LOC
+ms:(	O
+ms:serphium	O
+ms:spp	O
+ms:)	O
+
+ms:Edisi	O
+ms:Terhad	O
+ms:A	O
+ms:dan	O
+ms:B	O
+ms:terdapat	O
+ms:bonus	O
+ms:DVD	B-ORG
+ms:.	O
+
+ms:'	O
+ms:''	O
+ms:Giancarlo	B-PER
+ms:Fisichella	I-PER
+ms:''	O
+ms:'	O
+
+ms:Baginda	O
+ms:diwarisi	O
+ms:oleh	O
+ms:puteranya	O
+ms:,	O
+ms:Robert	B-PER
+ms:II	I-PER
+ms:.	O
+
+ms:Yasmin	B-PER
+ms:Ahmad	I-PER
+ms:(	O
+ms:''Talentime	O
+ms:''	O
+ms:)	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gembala	I-ORG
+ms:miorița	I-ORG
+
+ms:Eduard	B-PER
+ms:Freiherr	I-PER
+ms:von	I-PER
+ms:Bohm-Ermolli	I-PER
+
+ms:Parti	B-ORG
+ms:Buruh	I-ORG
+ms:Jerman	I-ORG
+ms:Sosialis	I-ORG
+ms:Nasional	I-ORG
+
+ms:Posisi	O
+ms:dalam	O
+ms:sistem	O
+ms:kedudukan	O
+ms:Pekali	B-ORG
+ms:Pasukan	I-ORG
+ms:Kebangsaan	I-ORG
+ms:UEFA	I-ORG
+ms:;	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Haute-Savoie	I-LOC
+
+ms:Maharaja	B-PER
+ms:Meiji	I-PER
+ms:(	O
+ms:Jepun	B-LOC
+ms:)	O
+ms:.	O
+
+ms:Ono	B-PER
+ms:Erena	I-PER
+ms:(	O
+ms:9468	O
+ms:)	O
+
+ms:'	O
+ms:''	O
+ms:Nico	B-PER
+ms:Rosberg	I-PER
+ms:''	O
+ms:'	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Côte-d'Or	I-LOC
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:Eskimo	I-ORG
+ms:Kanada	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Ardennes	I-LOC
+
+ms:LENCONG	O
+ms:Molla	B-LOC
+ms:Mahmud	I-LOC
+ms:,	I-LOC
+ms:Azerbaijan	I-LOC
+ms:Timur	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Meurthe-et-Moselle	I-LOC
+
+ms:Jika	O
+ms:tiada	O
+ms:Pengerusi	O
+ms:,	O
+ms:Timbalan	O
+ms:Pengerusi	O
+ms:akan	O
+ms:mengetuai	O
+ms:semua	O
+ms:mesyuarat	O
+ms:Ketua	B-PER
+ms:Turus	I-PER
+ms:Bersama	I-PER
+ms:dan	O
+ms:semua	O
+ms:tugas-tugas	O
+ms:lain	O
+ms:seperti	O
+ms:dinyatakan	O
+ms:dibawah	O
+ms:dan	O
+ms:juga	O
+ms:boleh	O
+ms:melaksanakan	O
+ms:tugas-tugas	O
+ms:lain	O
+ms:seperti	O
+ms:yang	O
+ms:ditetapkan	O
+ms:Presiden	B-ORG
+ms:,	O
+ms:Pengerusi	O
+ms:,	O
+ms:atau	O
+ms:Setiausaha	B-PER
+ms:Pertahanan	I-PER
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Dordogne	I-LOC
+
+ms:Transformers	B-ORG
+ms::	I-ORG
+ms:Galaxy	I-ORG
+ms:Force	I-ORG
+
+ms:Pasukan	B-ORG
+ms:bola	I-ORG
+ms:sepak	I-ORG
+ms:kebangsaan	I-ORG
+ms:bawah-17	I-ORG
+ms:Singapura	I-ORG
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:pemburu	I-ORG
+ms:rubah	I-ORG
+ms:Virginia	I-ORG
+ms:hitam	I-ORG
+ms:dan	I-ORG
+ms:sawo	I-ORG
+ms:matang	I-ORG
+
+ms:Pilihan	B-ORG
+ms:raya	I-ORG
+ms:umum	I-ORG
+ms:Malaysia	I-ORG
+ms:1978	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Aisne	I-LOC
+
+ms:''	O
+ms:Hungry	B-ORG
+ms:Heart	I-ORG
+ms::	I-ORG
+ms:Wild	I-ORG
+ms:Striker	I-ORG
+ms:''	O
+
+ms:''	O
+ms:Topoľčany	B-LOC
+ms:''	O
+ms:'	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:air	I-ORG
+ms:Moscow	I-ORG
+
+ms:LENCONG	O
+ms:Afonso	B-PER
+ms:I	I-PER
+ms:dari	I-PER
+ms:Portugal	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Vosges	I-LOC
+
+ms:'	O
+ms:''	O
+ms:'	O
+ms:''	O
+ms:-	O
+ms:Demokrat	B-ORG
+ms:Sosial	I-ORG
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:pemburu	I-ORG
+ms:rubah	I-ORG
+ms:Inggeris	I-ORG
+
+ms:Pasukan	B-ORG
+ms:bola	I-ORG
+ms:sepak	I-ORG
+ms:kebangsaan	I-ORG
+ms:bawah-20	I-ORG
+ms:Singapura	I-ORG
+
+ms:Kini	O
+ms:,	O
+ms:beliau	O
+ms:berganding	O
+ms:dengan	O
+ms:Xu	B-PER
+ms:Chen	I-PER
+ms:dalam	O
+ms:acara	O
+ms:beregu	O
+ms:campuran	O
+ms:.	O
+
+ms:Anjing	B-ORG
+ms:penuding	I-ORG
+ms:berbulu	I-ORG
+ms:dawai	I-ORG
+ms:Jerman	I-ORG
+
+ms:'	O
+ms:''	O
+ms:Minardi	B-ORG
+ms:''	O
+ms:'	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Yonne	I-LOC
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gembala	I-ORG
+ms:Shiloh	I-ORG
+
+ms:Ramon	B-PER
+ms:De	I-PER
+ms:Lima	I-PER
+ms:Saro	I-PER
+
+ms:Beliau	O
+ms:menandatangani	O
+ms:kontrak	O
+ms:lima	O
+ms:tahun	O
+ms:bersama	O
+ms:kelab	O
+ms:Napoli	B-ORG
+ms:.	O
+
+ms:—	O
+ms:Mark	B-PER
+ms:Webber	I-PER
+ms:dan	O
+ms:Nico	B-PER
+ms:Rosberg	I-PER
+ms:dikenakan	O
+ms:lima-petak	O
+ms:kedudukan	O
+ms:kerana	O
+ms:menukar	O
+ms:kotak	O
+ms:gear	O
+ms:sebelum	O
+ms:perlumbaan	O
+ms:.	O
+
+ms:Daerah	B-LOC
+ms:Rychnov	I-LOC
+ms:nad	I-LOC
+ms:Kněžnou	I-LOC
+
+ms:LENCONG	O
+ms:Gerlachov	B-LOC
+ms:,	I-LOC
+ms:Daerah	I-LOC
+ms:Bardejov	I-LOC
+
+ms:Sultan	B-PER
+ms:Abdul	I-PER
+ms:Hamid	I-PER
+ms:Halim	I-PER
+ms:Shah	I-PER
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:penuding	I-ORG
+ms:Navarra	I-ORG
+
+ms:'	O
+ms:''	O
+ms:Rubens	B-PER
+ms:Barrichello	I-PER
+ms:''	O
+ms:'	O
+
+ms:Brazil	B-LOC
+ms:-	O
+ms:USD	O
+ms:9.67	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Doubs	I-LOC
+
+ms:Christinna	B-PER
+ms:Pedersen	I-PER
+ms:/	O
+ms:Kamilla	B-PER
+ms:Rytter	I-PER
+ms:Juhl	I-PER
+
+ms:'	O
+ms:''	O
+ms:Felipe	B-PER
+ms:Massa	I-PER
+ms:''	O
+ms:'	O
+
+ms:26.08	O
+ms:-	O
+ms:'	O
+ms:''	O
+ms:Super	B-ORG
+ms:Junior	I-ORG
+ms:-	O
+ms:Mr	O
+ms:.	O
+
+ms:'	O
+ms:''	O
+ms:Sebastian	B-PER
+ms:Vettel	I-PER
+ms:''	O
+ms:'	O
+
+ms:Boys	B-ORG
+ms:Over	I-ORG
+ms:Flowers	I-ORG
+ms:(	O
+ms:2009	O
+ms:)	O
+
+ms:'	O
+ms:''	O
+ms:Fernando	B-PER
+ms:Alonso	I-PER
+ms:''	O
+ms:'	O
+
+ms:Time	B-ORG
+ms:(	I-ORG
+ms:majalah	I-ORG
+ms:)	I-ORG
+
+ms:LENCONG	O
+ms:Perdana	B-ORG
+ms:Menteri	I-ORG
+ms:Korea	I-ORG
+ms:Utara	I-ORG
+
+ms:Beliau	O
+ms:berjaya	O
+ms:membuat	O
+ms:hantaran	O
+ms:kepada	O
+ms:Pedro	B-PER
+ms:Rodríguez	I-PER
+ms:pada	O
+ms:minit	O
+ms:ke-89	O
+ms:dan	O
+ms:berjaya	O
+ms:mengheret	O
+ms:ke	O
+ms:masa	O
+ms:tambahan	O
+ms:.	O
+
+ms:Jaraknya	O
+ms:ke	O
+ms:Bandaraya	B-LOC
+ms:Melaka	I-LOC
+ms:adalah	O
+ms:sebanyak	O
+ms:18	O
+ms:kilometer	O
+ms:,	O
+ms:dan	O
+ms:dari	O
+ms:Jasin	B-LOC
+ms:24	O
+ms:kilometer	O
+ms:dari	O
+ms:Muar	B-LOC
+ms:27	O
+ms:kilometer	O
+ms:.	O
+
+ms:'	O
+ms:''	O
+ms:Ralf	B-PER
+ms:Schumacher	I-PER
+ms:''	O
+ms:'	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:Pyrénées	I-ORG
+ms:besar	I-ORG
+
+ms:'	O
+ms:''	O
+ms:Ida	B-PER
+ms:Nerina	I-PER
+ms:''	O
+ms:'	O
+
+ms:Pada	O
+ms:tahun	O
+ms:2010	O
+ms:,	O
+ms:dia	O
+ms:menyertai	O
+ms:Southampton	B-ORG
+ms:.	O
+
+ms:Pasukan	B-ORG
+ms:bola	I-ORG
+ms:sepak	I-ORG
+ms:kebangsaan	I-ORG
+ms:Emiriah	I-ORG
+ms:Arab	I-ORG
+ms:Bersatu	I-ORG
+
+ms:Xie	B-PER
+ms:Zhongbo	I-PER
+ms:&	O
+ms:Zhang	B-PER
+ms:Yawen	I-PER
+
+ms:Rembau	B-LOC
+ms:(	O
+ms:'	O
+ms:''	O
+ms:رمباو	O
+ms:''	O
+ms:'	O
+ms:)	O
+
+ms:Srikanth	B-PER
+ms:Kidambi	I-PER
+ms:''	O
+ms:(	O
+ms:Pusingan	O
+ms:3	O
+ms:)	O
+
+ms:Majlis	B-ORG
+ms:Bandaraya	I-ORG
+ms:Shah	I-ORG
+ms:Alam	I-ORG
+
+ms:'	O
+ms:''	O
+ms:Wilhelm	B-PER
+ms:Frick	I-PER
+ms:''	O
+ms:'	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Allier	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Ardèche	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Indre-et-Loire	I-LOC
+
+ms:Koi	B-ORG
+ms:Suru	I-ORG
+ms:Fortune	I-ORG
+ms:Cookie	I-ORG
+
+ms:Markis	B-PER
+ms:Kido	I-PER
+ms:/	O
+ms:Hendra	B-PER
+ms:Setiawan	I-PER
+
+ms:LENCONG	O
+ms:Husain	B-PER
+ms:bin	I-PER
+ms:Ali	I-PER
+
+ms:LENCONG	O
+ms:Spaniel	B-ORG
+ms:air	I-ORG
+ms:Tweed	I-ORG
+
+ms:カリスマ･綺麗	O
+ms:(	O
+ms:Charisma	B-ORG
+ms:,	I-ORG
+ms:Kirei	I-ORG
+ms:)	O
+
+ms:Suzukake	B-ORG
+ms:no	I-ORG
+ms:Ki	I-ORG
+ms:no	I-ORG
+ms:Michi	I-ORG
+ms:de	I-ORG
+ms:``	I-ORG
+ms:Kimi	I-ORG
+ms:no	I-ORG
+ms:Hohoemi	I-ORG
+ms:wo	I-ORG
+ms:Yume	I-ORG
+ms:ni	I-ORG
+ms:Miru	I-ORG
+ms:''	I-ORG
+ms:to	I-ORG
+ms:Itte	I-ORG
+ms:Shimattara	I-ORG
+ms:Bokutachi	I-ORG
+ms:no	I-ORG
+ms:Kankei	I-ORG
+ms:wa	I-ORG
+ms:Dou	I-ORG
+ms:Kawatte	I-ORG
+ms:Shimau	I-ORG
+ms:no	I-ORG
+ms:ka	I-ORG
+ms:,	I-ORG
+ms:Bokunari	I-ORG
+ms:ni	I-ORG
+ms:Nannichi	I-ORG
+ms:ka	I-ORG
+ms:Kangaeta	I-ORG
+ms:Ue	I-ORG
+ms:de	I-ORG
+ms:no	I-ORG
+ms:Yaya	I-ORG
+ms:Kihazukashii	I-ORG
+ms:Ketsuron	I-ORG
+ms:no	I-ORG
+ms:You	I-ORG
+ms:na	I-ORG
+ms:Mono	I-ORG
+
+ms:==Eropah	O
+ms:(	O
+ms:UEFA	B-ORG
+ms:)	O
+ms:==	O
+
+ms:'	O
+ms:''	O
+ms:Jenson	B-PER
+ms:Button	I-PER
+ms:''	O
+ms:'	O
+
+ms:LENCONG	O
+ms:Bukovina	B-LOC
+ms:,	I-LOC
+ms:Daerah	I-LOC
+ms:Liptovský	I-LOC
+ms:Mikuláš	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Doubs	I-LOC
+
+ms:Glory	B-ORG
+ms:Glory	B-ORG
+ms:Man	I-ORG
+ms:United	I-ORG
+
+ms:When	B-ORG
+ms:Easterly	I-ORG
+ms:Showers	I-ORG
+ms:Fall	I-ORG
+ms:on	I-ORG
+ms:the	I-ORG
+ms:Sunny	I-ORG
+ms:West	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Haute-Garonne	I-LOC
+
+ms:Stossel	O
+ms:juga	O
+ms:memetik	O
+ms:kajian	O
+ms:Terry	B-PER
+ms:Gould	I-PER
+ms:yang	O
+ms:menyimpulkan	O
+ms:bahawa	O
+ms:``	O
+ms:pasangan	O
+ms:bertukar	O
+ms:pasangan	O
+ms:supaya	O
+ms:tidak	O
+ms:membohongi	O
+ms:pasangan	O
+ms:mereka	O
+ms:.	O
+ms:''	O
+
+ms:Nobuyuki	B-PER
+ms:Anzai	I-PER
+ms:(	O
+ms:安西	O
+ms:信行	O
+ms:)	O
+
+ms:Zaid	B-PER
+ms:bin	I-PER
+ms:Thabit	I-PER
+
+ms:Keempat-empat	O
+ms:luak	O
+ms:utama	O
+ms:ini	O
+ms:setiap	O
+ms:satu	O
+ms:diketuai	O
+ms:oleh	O
+ms:Undang	B-PER
+ms:.	O
+
+ms:LENCONG	O
+ms:County	B-LOC
+ms:Bibb	I-LOC
+ms:,	I-LOC
+ms:Alabama	I-LOC
+
+ms:Bad	B-LOC
+ms:Breisig1	I-LOC
+ms:,	O
+ms:2	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Aisne	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Eure	I-LOC
+
+ms:Abu	B-PER
+ms:Jafar	I-PER
+ms:Muhammad	I-PER
+ms:ibn	I-PER
+ms:al-Hasan	I-PER
+ms:Khazin	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Vaucluse	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Vendée	I-LOC
+
+ms:1	O
+ms:Gao	B-PER
+ms:Ling	I-PER
+ms:/	O
+ms:Huang	B-PER
+ms:Sui	I-PER
+
+ms:'	O
+ms:''	O
+ms:Yamaha	B-ORG
+ms:''	O
+ms:'	O
+
+ms:'	O
+ms:''	O
+ms:Khampheng	B-PER
+ms:Sayavutthi	I-PER
+ms:''	O
+ms:'	O
+
+ms:``	O
+ms:Tell	B-ORG
+ms:Me	I-ORG
+ms:Goodbye	I-ORG
+ms:''	O
+ms:''	O
+
+ms:'	O
+ms:''	O
+ms:Jenson	B-PER
+ms:Button	I-PER
+ms:''	O
+ms:'	O
+
+ms:Manatsu	B-ORG
+ms:no	I-ORG
+ms:Sounds	I-ORG
+ms:Good	I-ORG
+ms:!	I-ORG
+
+ms:Ahad	B-ORG
+ms:Berdarah	I-ORG
+ms:(	I-ORG
+ms:1972	I-ORG
+ms:)	I-ORG
+
+ms:'	O
+ms:''	O
+ms:Nathan	B-PER
+ms:Burns	I-PER
+ms:''	O
+ms:'	O
+
+ms:Dia	O
+ms:adalah	O
+ms:anggota	O
+ms:Team	O
+ms:4	O
+ms:AKB48	B-ORG
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Alpes-de-Haute-Provence	I-LOC
+
+ms:LENCONG	O
+ms:Chlístov	B-LOC
+ms:(	I-LOC
+ms:Daerah	I-LOC
+ms:Benešov	I-LOC
+ms:)	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Dordogne	I-LOC
+
+ms:LENCONG	O
+ms:Konská	B-LOC
+ms:,	I-LOC
+ms:Daerah	I-LOC
+ms:Liptovský	I-LOC
+ms:Mikuláš	I-LOC
+
+ms:Tamara	B-PER
+ms:Bleszynski	I-PER
+ms:sebagai	O
+ms:Halimah	O
+
+ms:Patros	O
+ms:merupakan	O
+ms:musuh	O
+ms:yang	O
+ms:hebat	O
+ms:,	O
+ms:mampu	O
+ms:menentang	O
+ms:Abarai	B-PER
+ms:Renji	I-PER
+ms:dengan	O
+ms:baik	O
+ms:.	O
+
+ms:Anna	B-PER
+ms:Kendrick	I-PER
+ms:sebagai	O
+ms:Cinderella	B-PER
+
+ms:Nova	B-PER
+ms:Widianto	I-PER
+ms:/	O
+ms:Lilyana	B-PER
+ms:Natsir	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Indre-et-Loire	I-LOC
+
+ms:Masashi	B-PER
+ms:Ueda	I-PER
+ms:(	O
+ms:植田	O
+ms:まさし	O
+ms:)	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Aisne	I-LOC
+
+ms:Your	B-ORG
+ms:Class	I-ORG
+ms:or	I-ORG
+ms:Mine	I-ORG
+ms:''	O
+ms:尖子攻略	O
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Jorge	B-PER
+ms:Lorenzo	I-PER
+ms:''	O
+ms:'	O
+
+ms:'	O
+ms:''	O
+ms:Sébastien	B-PER
+ms:Buemi	I-PER
+ms:''	O
+ms:'	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Pas-de-Calais	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Baru	B-PER
+ms:Bian	I-PER
+ms:''	O
+ms:'	O
+
+ms:Bao	B-PER
+ms:Yixin	I-PER
+ms:&	O
+ms:Tang	B-PER
+ms:Jinhua	I-PER
+ms:0–1	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Rhône	I-LOC
+
+ms:Edwin	B-PER
+ms:van	I-PER
+ms:der	I-PER
+ms:Sar	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Cantal	I-LOC
+
+ms:LENCONG	O
+ms:Kolej	B-ORG
+ms:St	I-ORG
+ms:Hugh	I-ORG
+ms:,	I-ORG
+ms:Oxford	I-ORG
+
+ms:'	O
+ms:''	O
+ms:Sauber	B-ORG
+ms:''	O
+ms:'	O
+
+ms:''Dinyanyikan	O
+ms:oleh	O
+ms:Okai	B-PER
+ms:Chisato	I-PER
+ms:.	O
+ms:''	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Orne	I-LOC
+
+ms:LENCONG	O
+ms:Baharuddin	B-PER
+ms:Jusuf	I-PER
+ms:Habibie	I-PER
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gembala	I-ORG
+ms:Australia	I-ORG
+ms:kecil	I-ORG
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gembala	I-ORG
+ms:Jerman	I-ORG
+
+ms:Megumi	B-PER
+ms:Tachikawa	I-PER
+ms:(	O
+ms:立川	O
+ms:恵	O
+ms:)	O
+
+ms:'	O
+ms:''	O
+ms:Robert	B-PER
+ms:Kubica	I-PER
+ms:''	O
+ms:'	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Seine-et-Marne	I-LOC
+
+ms:merupakan	O
+ms:orang	O
+ms:misteri	O
+ms:yang	O
+ms:sering	O
+ms:berpakaian	O
+ms:seperti	O
+ms:Santa	B-PER
+ms:Claus	I-PER
+ms:.	O
+
+ms:LENCONG	O
+ms:Gugarchin	B-LOC
+ms:,	I-LOC
+ms:Azerbaijan	I-LOC
+ms:Timur	I-LOC
+
+ms:Pengawal	B-ORG
+ms:Pantai	I-ORG
+ms:Amerika	I-ORG
+ms:Syarikat	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Manche	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Jahangir	B-PER
+ms:Khan	I-PER
+ms:''	O
+ms:'	O
+ms:(	O
+ms:Pakistan	B-LOC
+ms:)	O
+
+ms:Kota	B-LOC
+ms:Kinabalu	I-LOC
+ms:,	O
+ms:Sabah	B-LOC
+
+ms:'	O
+ms:''	O
+ms:Jenson	B-PER
+ms:Button	I-PER
+ms:''	O
+ms:'	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gembala	I-ORG
+ms:Pyrénées	I-ORG
+
+ms:Saluran	O
+ms:ini	O
+ms:sifatnya	O
+ms:hampir	O
+ms:sama	O
+ms:dengan	O
+ms:saudaranya	O
+ms:BBC	B-ORG
+ms:Food	I-ORG
+ms:yang	O
+ms:lebih	O
+ms:mengarah	O
+ms:ke	O
+ms:wisata	O
+ms:kuliner	O
+ms:.	O
+
+ms:'	O
+ms:''	O
+ms:Kimi	B-PER
+ms:Räikkönen	I-PER
+ms:''	O
+ms:'	O
+
+ms:Tatsuo	B-PER
+ms:Yoshida	I-PER
+ms:(	O
+ms:吉田	O
+ms:竜夫	O
+ms:)	O
+
+ms:(	O
+ms:TER	B-ORG
+ms:)	O
+ms:''Tidak	O
+ms:diketahui	O
+ms:''	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:pemburu	I-ORG
+ms:Jerman	I-ORG
+
+ms:Pengawal	B-ORG
+ms:Pantai	I-ORG
+ms:Amerika	I-ORG
+ms:Syarikat	I-ORG
+
+ms:'	O
+ms:''	O
+ms:Moussa	B-PER
+ms:Traoré	I-PER
+ms:''	O
+ms:'	O
+ms:,	O
+ms:President	O
+
+ms:Dia	O
+ms:ialah	O
+ms:salah	O
+ms:seorang	O
+ms:kawan	O
+ms:baik	O
+ms:Jackie	B-PER
+ms:Chan	I-PER
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Seine-Maritime	I-LOC
+
+ms:Mohd	B-PER
+ms:Najib	I-PER
+ms:bin	I-PER
+ms:Abdul	I-PER
+ms:Razak	I-PER
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:Burung	B-LOC
+ms:Hantu	I-LOC
+ms:Punggur	I-LOC
+
+ms:LENCONG	O
+ms:Spits	B-ORG
+ms:Jerman	I-ORG
+ms:sederhana	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Ariège	I-LOC
+
+ms:Tunku	B-PER
+ms:Abdul	I-PER
+ms:Rahman	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Bas-Rhin	I-LOC
+
+ms:Margaret	B-PER
+ms:J.	I-PER
+ms:Winkler	I-PER
+
+ms:Tai	B-PER
+ms:Tzu-ying	I-PER
+ms:(	O
+ms:Second	O
+ms:Round	O
+ms:)	O
+
+ms:Magical	B-ORG
+ms:Girl	I-ORG
+ms:Lyrical	I-ORG
+ms:Nanoha	I-ORG
+ms:A	I-ORG
+ms:'s	I-ORG
+
+ms:Kazakhstan	B-LOC
+ms:(	O
+ms:Astana	B-LOC
+ms:)	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:serigala	I-ORG
+ms:Kunming	I-ORG
+
+ms:2010	O
+ms:-	O
+ms:Christian	B-PER
+ms:Wulff	I-PER
+ms:terpilih	O
+ms:menjadi	O
+ms:Presiden	B-PER
+ms:Jerman	I-PER
+ms:.	O
+
+ms:Tobenai	O
+ms:Agehachou	O
+ms:(	O
+ms:Iiwake	B-ORG
+ms:Maybe	I-ORG
+ms:)	O
+
+ms:Abu	B-PER
+ms:Ali	I-PER
+ms:Al-Hussain	I-PER
+ms:Ibn	I-PER
+ms:Abdallah	I-PER
+ms:Ibn	I-PER
+ms:Sina	I-PER
+
+ms:Siti	B-PER
+ms:Hajar	I-PER
+ms:isteri	I-PER
+ms:Nabi	I-PER
+ms:Ibrahim	I-PER
+
+ms:Yang	B-PER
+ms:Wei	I-PER
+ms:/	O
+ms:Zhang	B-PER
+ms:Jiewen	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Orne	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Misha	B-PER
+ms:Omar	I-PER
+ms:''	O
+ms:'	O
+
+ms:'	O
+ms:''	O
+ms:Rubens	B-PER
+ms:Barrichello	I-PER
+ms:''	O
+ms:'	O
+
+ms:``	O
+ms:Some	B-ORG
+ms:Kind	I-ORG
+ms:of	I-ORG
+ms:Bliss	I-ORG
+ms:''	O
+
+ms:LENCONG	O
+ms:Deutsche	B-PER
+ms:Tourenwagen	I-PER
+ms:Masters	I-PER
+
+ms:Javed	B-PER
+ms:Ahmad	I-PER
+ms:Ghamidi	I-PER
+
+ms:'	O
+ms:''	O
+ms:Jennifer	B-PER
+ms:Lawrence	I-PER
+ms:''	O
+ms:'	O
+ms:‡	O
+
+ms:TV1	B-PER
+ms:HD	I-PER
+ms:(	O
+ms:Saluran	O
+ms:101	O
+ms:)	O
+
+ms:François	B-PER
+ms:I	I-PER
+ms:dari	I-PER
+ms:Perancis	I-PER
+
+ms:Kefar	B-LOC
+ms:Sava	I-LOC
+ms:כפר	O
+ms:סבא	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Côte-d'Or	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Essonne	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Côte-d'Or	I-LOC
+
+ms:Abul	B-PER
+ms:Waleed	I-PER
+ms:Muhammad	I-PER
+ms:Ibn	I-PER
+ms:Rushd	I-PER
+
+ms:Sekolah	B-ORG
+ms:Menengah	I-ORG
+ms:Sultan	I-ORG
+ms:Abdul	I-ORG
+ms:Halim	I-ORG
+ms:,	O
+ms:Jitra	B-LOC
+ms:(	O
+ms:SMSAH	O
+ms:)	O
+
+ms:Perlumbaan	O
+ms:yang	O
+ms:dipertandingkan	O
+ms:sebanyak	O
+ms:71	O
+ms:pusingan	O
+ms:ini	O
+ms:dimenangi	O
+ms:oleh	O
+ms:Mark	B-PER
+ms:Webber	I-PER
+ms:dari	O
+ms:pasukan	O
+ms:Red	B-ORG
+ms:Bull	I-ORG
+ms:.	O
+
+ms:LENCONG	O
+ms:Zaini	B-PER
+ms:Mohamad	I-PER
+ms:Said	I-PER
+
+ms:Koo	B-PER
+ms:Kien	I-PER
+ms:Keat	I-PER
+ms:/	O
+ms:Tan	B-PER
+ms:Boon	I-PER
+ms:Heong	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Marne	I-LOC
+
+ms:Kejora	B-ORG
+ms:dan	I-ORG
+ms:Bintang	I-ORG
+ms:(	O
+ms:2009	O
+ms:)	O
+
+ms:Pengawal	B-ORG
+ms:Pantai	I-ORG
+ms:Amerika	I-ORG
+ms:Syarikat	I-ORG
+
+ms:Wilayah	B-LOC
+ms:Ústí	I-LOC
+ms:nad	I-LOC
+ms:Labem	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Haute-Vienne	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Côte-d'Or	I-LOC
+
+ms:LENCONG	O
+ms:Senarai	B-PER
+ms:pahlawan	I-PER
+ms:kebangsaan	I-PER
+ms:Indonesia	I-PER
+
+ms:Pasukan	B-ORG
+ms:bola	I-ORG
+ms:sepak	I-ORG
+ms:kebangsaan	I-ORG
+ms:Taipei	I-ORG
+ms:Cina	I-ORG
+
+ms:Universiti	B-ORG
+ms:Multimedia	I-ORG
+ms:(	O
+ms:MMU	O
+ms:)	O
+ms:,	O
+
+ms:Cita-citanya	O
+ms:akan	O
+ms:menangkap	O
+ms:Kaitou	B-PER
+ms:Kid	I-PER
+ms:tetapi	O
+ms:sering	O
+ms:gagal	O
+ms:.	O
+
+ms:Fredrik	B-PER
+ms:Eklund	I-PER
+ms:a.k.a	O
+ms:.	O
+
+ms:Saa	B-ORG
+ms:!	I-ORG
+ms:Koibito	I-ORG
+ms:ni	I-ORG
+ms:Narou	I-ORG
+ms:(	O
+ms:さぁ！恋人になろう	O
+ms:)	O
+
+ms:Jason	B-PER
+ms:Statham	I-PER
+ms:sebagai	O
+ms:Tybalt	O
+
+ms:Sunan	B-PER
+ms:Kudus	I-PER
+ms:adalah	O
+ms:canggahnya	O
+ms:.	O
+
+ms:Sekarang	O
+ms:,	O
+ms:EMI	B-ORG
+ms:yang	O
+ms:mematuhi	O
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Vosges	I-LOC
+
+ms:Sultan	B-PER
+ms:Azlan	I-PER
+ms:Muhibbuddin	I-PER
+ms:Shah	I-PER
+ms:ibni	I-PER
+ms:Almarhum	I-PER
+ms:Yussuf	I-PER
+ms:Izzuddin	I-PER
+ms:Shah	I-PER
+
+ms:'	O
+ms:''	O
+ms:Kedah	B-ORG
+ms:FA	I-ORG
+ms:''	O
+ms:'	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:pemburu	I-ORG
+ms:rubah	I-ORG
+ms:Inggeris	I-ORG
+
+ms:''	O
+ms:J.	B-ORG
+ms:League	I-ORG
+ms:Divisyen	I-ORG
+ms:1	I-ORG
+ms:/	I-ORG
+ms:J1	I-ORG
+ms:League	I-ORG
+ms:''	O
+ms:'	O
+
+ms:Separuh	O
+ms:akhir	O
+ms:dikalahkan	O
+ms:kepada	O
+ms:Novak	B-PER
+ms:Djokovic	I-PER
+ms:[1]	O
+
+ms:**	O
+ms:Beijing	B-LOC
+ms:(	O
+ms:Kedutaan	O
+ms:)	O
+
+ms:Tahun	O
+ms:itu	O
+ms:,	O
+ms:beliau	O
+ms:mempunyai	O
+ms:gaji	O
+ms:kedua	O
+ms:terbesar	O
+ms:selepas	O
+ms:pemandu	O
+ms:Ferrari	B-ORG
+ms:,	O
+ms:Kimi	B-PER
+ms:Räikkönen	I-PER
+ms:.	O
+
+ms:TV1	B-PER
+ms:,	O
+ms:8.30	O
+ms:-	O
+ms:10	O
+ms:malam	O
+
+ms:Edisi	O
+ms:terhad	O
+ms:A	O
+ms:terdapat	O
+ms:bonus	O
+ms:DVD	B-ORG
+ms:.	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gunung	I-ORG
+ms:Entlebuch	I-ORG
+
+ms:'	O
+ms:''	O
+ms:Sergio	B-PER
+ms:Pérez	I-PER
+ms:''	O
+ms:'	O
+
+ms:'	O
+ms:''	O
+ms:Lê	B-PER
+ms:Công	I-PER
+ms:Vinh	I-PER
+ms:''	O
+ms:'	O
+ms:Kurniawan	B-PER
+ms:Dwi	I-PER
+ms:Yulianto	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Vosges	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Aube	I-LOC
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Perak	B-ORG
+ms:FA	I-ORG
+ms:''	O
+ms:'	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Aisne	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Bas-Rhin	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Manche	I-LOC
+
+ms:A.	B-PER
+ms:R.	I-PER
+ms:Murugadoss	I-PER
+ms:(	O
+ms:Penampilan	O
+ms:khas	O
+ms:dalam	O
+ms:lagu	O
+ms:'Google	O
+ms:'	O
+ms:)	O
+
+ms:'	O
+ms:''	O
+ms:Nico	B-PER
+ms:Hülkenberg	I-PER
+ms:''	O
+ms:'	O
+
+ms:Hukuman	O
+ms:mati	O
+ms:dimansuhkan	O
+ms:untuk	O
+ms:mematuhi	O
+ms:peraturan	O
+ms:Kesatuan	B-ORG
+ms:Eropah	I-ORG
+
+ms:LENCONG	O
+ms:Mohd	B-PER
+ms:Idris	I-PER
+ms:Jusi	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Lot	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Gironde	I-LOC
+
+ms:Joanne	B-PER
+ms:Kathleen	I-PER
+ms:Rowling	I-PER
+
+ms:''	O
+ms:Safa	B-ORG
+ms:dan	I-ORG
+ms:Marwah	I-ORG
+ms:''	O
+ms:(	O
+ms:2009-2010	O
+ms:)	O
+
+ms:'	O
+ms:''	O
+ms:Sebastian	B-PER
+ms:Vettel	I-PER
+ms:''	O
+ms:'	O
+
+ms:Liga	B-LOC
+ms:Perdana	I-LOC
+ms:Malaysia	I-LOC
+ms:2013	I-LOC
+
+ms:Anwar	B-PER
+ms:Ibrahim	I-PER
+ms:Wan	B-PER
+ms:Azizah	I-PER
+ms:Wan	B-PER
+ms:Ismail	I-PER
+ms:Lim	B-PER
+ms:Kit	I-PER
+ms:Siang	I-PER
+
+ms:'	O
+ms:''	O
+ms:Rubens	B-PER
+ms:Barrichello	I-PER
+ms:''	O
+ms:'	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Aveyron	I-LOC
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gampr	I-ORG
+ms:Armenia	I-ORG
+
+ms:1	O
+ms:Nova	B-PER
+ms:Widianto	I-PER
+ms:/	O
+ms:Lilyana	B-PER
+ms:Natsir	I-PER
+
+ms:Pasukan	B-ORG
+ms:bola	I-ORG
+ms:sepak	I-ORG
+ms:kebangsaan	I-ORG
+ms:bawah-23	I-ORG
+ms:Arab	I-ORG
+ms:Saudi	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Marne	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Tarn-et-Garonne	I-LOC
+
+ms:Pasukan	B-ORG
+ms:bola	I-ORG
+ms:sepak	I-ORG
+ms:kebangsaan	I-ORG
+ms:bawah-20	I-ORG
+ms:Qatar	I-ORG
+
+ms:戀愛革命21	O
+ms:(	O
+ms:Lian	B-ORG
+ms:Ai	I-ORG
+ms:Ge	I-ORG
+ms:Ming	I-ORG
+ms:21	I-ORG
+ms:)	O
+
+ms:Hangry	B-ORG
+ms:&	I-ORG
+ms:Angry	I-ORG
+
+ms:LENCONG	O
+ms:Střítež	B-LOC
+ms:(	I-LOC
+ms:Daerah	I-LOC
+ms:Český	I-LOC
+ms:Krumlov	I-LOC
+ms:)	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Bahasa	B-ORG
+ms:Arab	I-ORG
+ms:''	O
+ms:'	O
+
+ms:Mungkin	O
+ms:disebabkan	O
+ms:ini	O
+ms:,	O
+ms:baginda	O
+ms:bertindak	O
+ms:dengan	O
+ms:semerta	O
+ms:merta	O
+ms:dan	O
+ms:tergesa-gesa	O
+ms:,	O
+ms:tanpa	O
+ms:menunggu	O
+ms:sebarang	O
+ms:tenaga	O
+ms:bantuan	O
+ms:dari	O
+ms:London	B-LOC
+ms:.	O
+
+ms:The	B-ORG
+ms:Drive	I-ORG
+ms:of	I-ORG
+ms:Life	I-ORG
+ms:''	O
+
+ms:Oh	B-ORG
+ms:My	I-ORG
+ms:God	I-ORG
+ms:!	I-ORG
+
+ms:**	O
+ms:''	O
+ms:Jagalah	O
+ms:Diri	O
+ms:''	O
+ms:-	O
+ms:Jaclyn	B-PER
+ms:Victor	I-PER
+
+ms:Stesen	B-ORG
+ms:MRT	I-ORG
+ms:Marina	I-ORG
+ms:South	I-ORG
+ms:Pier	I-ORG
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Saône-et-Loire	I-LOC
+
+ms:S	B-ORG
+ms:/	I-ORG
+ms:mileage	I-ORG
+ms:(	O
+ms:スマイレージ	O
+ms:)	O
+
+ms:'	O
+ms:''	O
+ms:Robert	B-PER
+ms:Kubica	I-PER
+ms:''	O
+ms:'	O
+
+ms:Sekolah	B-ORG
+ms:Menengah	I-ORG
+ms:Kebangsaan	I-ORG
+ms:St.	I-ORG
+ms:Anthony	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Doubs	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Oise	I-LOC
+
+ms:Majlis	B-ORG
+ms:Amanah	I-ORG
+ms:Rakyat	I-ORG
+
+ms:LENCONG	O
+ms:Terier	B-ORG
+ms:putih	I-ORG
+ms:Inggeris	I-ORG
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:serigala	I-ORG
+ms:Kunming	I-ORG
+
+ms:Lingkaran	B-ORG
+ms:Luar	I-ORG
+ms:Pulau	I-ORG
+ms:Pinang	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Calvados	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Sébastien	B-PER
+ms:Bourdais	I-PER
+ms:''	O
+ms:'	O
+
+ms:Al-Mundhir	B-PER
+ms:dari	I-PER
+ms:Cordoba	I-PER
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:penuding	I-ORG
+ms:Ariège	I-ORG
+
+ms:Abbas	B-PER
+ms:bin	I-PER
+ms:Abdul	I-PER
+ms:Muttalib	I-PER
+
+ms:'	O
+ms:''	O
+ms:Pennsylvania	B-LOC
+ms:''	O
+ms:'	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Seine-et-Marne	I-LOC
+
+ms:Barisan	B-ORG
+ms:Pembebasan	I-ORG
+ms:Islam	I-ORG
+ms:Moro	I-ORG
+
+ms:Pasukan	B-ORG
+ms:bola	I-ORG
+ms:sepak	I-ORG
+ms:kebangsaan	I-ORG
+ms:bawah-23	I-ORG
+ms:Iraq	I-ORG
+
+ms:Pasukan	B-ORG
+ms:bola	I-ORG
+ms:sepak	I-ORG
+ms:kebangsaan	I-ORG
+ms:bawah-17	I-ORG
+ms:Myanmar	I-ORG
+
+ms:Abdul	B-PER
+ms:Al-Rahman	I-PER
+ms:Ibn	I-PER
+ms:Muhammad	I-PER
+ms:Ibn	I-PER
+ms:Khaldun	I-PER
+
+ms:|	O
+ms:'	O
+ms:''	O
+ms:CKC	B-ORG
+ms:''	O
+ms:'	O
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:Direction	B-ORG
+ms:des	I-ORG
+ms:Constructions	I-ORG
+ms:Navales	I-ORG
+ms:Services	I-ORG
+
+ms:Nova	B-PER
+ms:Widianto	I-PER
+ms:/	O
+ms:Lilyana	B-PER
+ms:Natsir	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Calvados	I-LOC
+
+ms:==	O
+ms:Kedudukan	O
+ms:Dalam	O
+ms:Carta	O
+ms:Oricon	B-ORG
+ms:dan	O
+ms:Jumlah	O
+ms:Jualan	O
+ms:==	O
+
+ms:Sa'ad	B-PER
+ms:ibn	I-PER
+ms:Abi	I-PER
+ms:Waqqas	I-PER
+
+ms:'	O
+ms:''	O
+ms:Rosyam	B-PER
+ms:Nor	I-PER
+ms:''	O
+ms:'	O
+
+ms:Muhammad	B-PER
+ms:Tawfiq	I-PER
+ms:Pasha	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Drôme	I-LOC
+
+ms:Maharaja	B-PER
+ms:Xuande	I-PER
+ms:dari	O
+ms:Dinasti	B-LOC
+ms:Ming	I-LOC
+
+ms:''Telescope	O
+ms:''	O
+ms:(	O
+ms:Titan	B-ORG
+ms:Media	I-ORG
+ms:)	O
+
+ms:—	O
+ms:Charles	B-PER
+ms:Pic	I-PER
+ms:diberikan	O
+ms:penalti	O
+ms:lima-petak	O
+ms:kedudukan	O
+ms:kerana	O
+ms:menukar	O
+ms:kotak	O
+ms:gear	O
+ms:tanpa	O
+ms:dijadualkan	O
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Cantal	I-LOC
+
+ms:Markis	B-PER
+ms:Kido	I-PER
+ms:/	O
+ms:Hendra	B-PER
+ms:Setiawan	I-PER
+
+ms:Schrum	B-LOC
+ms:(	O
+ms:77	O
+ms:)	O
+
+ms:Star	B-PER
+ms:Golden	I-PER
+ms:Bell	I-PER
+ms:(	O
+ms:2009	O
+ms:)	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gembala	I-ORG
+ms:Catalonia	I-ORG
+
+ms:Dia	O
+ms:menjalin	O
+ms:hubungan	O
+ms:erat	O
+ms:dengan	O
+ms:Amerika	B-LOC
+ms:Syarikat	I-LOC
+ms:.	O
+
+ms:Seifuku	B-ORG
+ms:ga	I-ORG
+ms:Jama	I-ORG
+ms:wo	I-ORG
+ms:Suru	I-ORG
+
+ms:CanalSatellite	O
+ms:/	O
+ms:D+Libertà	O
+ms:digitale]]	O
+ms:/	O
+ms:Sony	B-ORG
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gembala	I-ORG
+ms:miorița	I-ORG
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:mainan	I-ORG
+ms:Rusia	I-ORG
+
+ms:Berryz	B-ORG
+ms:Koubou	I-ORG
+ms:Special	I-ORG
+ms:Best	I-ORG
+ms:Vol.	I-ORG
+ms:1	I-ORG
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:Panduan	B-PER
+ms:gaya	I-PER
+ms:penulisan	I-PER
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:berjambul	I-ORG
+ms:China	I-ORG
+
+ms:United	B-ORG
+ms:Airlines	I-ORG
+ms:(	O
+ms:Washington-Dulles	O
+ms:)	O
+
+ms:==	O
+ms:Kedudukan	O
+ms:Carta	O
+ms:Oricon	B-ORG
+ms:==	O
+
+ms:'	O
+ms:''	O
+ms:Alexander	B-PER
+ms:Dubček	I-PER
+ms:''	O
+ms:'	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Eure-et-Loir	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Fernando	B-PER
+ms:Alonso	I-PER
+ms:''	O
+ms:'	O
+
+ms:Senarai	B-ORG
+ms:daerah	I-ORG
+ms:di	I-ORG
+ms:Pakistan	I-ORG
+
+ms:Louis	B-PER
+ms:II	I-PER
+ms:dari	I-PER
+ms:Hungary	I-PER
+
+ms:Kuil	B-ORG
+ms:Kek	I-ORG
+ms:Lok	I-ORG
+ms:Si	I-ORG
+
+ms:Benazir	B-PER
+ms:Bhutto	I-PER
+ms:(	O
+ms:1983-2007	O
+ms:)	O
+
+ms:Gang	B-ORG
+ms:Starz	I-ORG
+ms:bersama	O
+ms:Stacy	B-PER
+ms:(	I-PER
+ms:penyanyi	I-PER
+ms:)	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Cantal	I-LOC
+
+ms:Sejak	O
+ms:itu	O
+ms:bermula	O
+ms:operasi	O
+ms:memburu	O
+ms:Chin	B-PER
+ms:Peng	I-PER
+ms:yang	O
+ms:menjadi	O
+ms:pemimpin	O
+ms:Parti	B-ORG
+ms:Komunis	I-ORG
+ms:Malaya	I-ORG
+ms:.	O
+
+ms:Brodnica	B-LOC
+ms:(	O
+ms:28,200	O
+ms:)	O
+ms:;	O
+
+ms:Kementerian	B-ORG
+ms:Kerja	I-ORG
+ms:Raya	I-ORG
+ms:Malaysia	I-ORG
+
+ms:Rita	B-PER
+ms:Hayworth	I-PER
+ms:-	O
+ms:actress	O
+
+ms:Pasukan	B-ORG
+ms:bola	I-ORG
+ms:sepak	I-ORG
+ms:kebangsaan	I-ORG
+ms:Sepanyol	I-ORG
+
+ms:恋のダンスサイト	O
+ms:(	O
+ms:Koi	B-ORG
+ms:no	I-ORG
+ms:Dance	I-ORG
+ms:Site	I-ORG
+ms:)	O
+
+ms:Titi	B-PER
+ms:Kamal	I-PER
+ms:sebagai	O
+ms:Maura	O
+
+ms:Bandar	B-LOC
+ms:Seri	I-LOC
+ms:Begawan	I-LOC
+ms:,	O
+ms:Brunei	B-LOC
+
+ms:Ia	O
+ms:dimajukan	O
+ms:oleh	O
+ms:Maxis	B-ORG
+ms:Software	I-ORG
+ms:dan	O
+ms:diterbitkan	O
+ms:oleh	O
+ms:Electronic	B-ORG
+ms:Arts	I-ORG
+ms:.	O
+
+ms:Berikutan	O
+ms:serangan	B-ORG
+ms:11	I-ORG
+ms:September	I-ORG
+ms:,	O
+ms:Amerika	B-LOC
+ms:Syarikat	I-LOC
+ms:telah	O
+ms:mendesak	O
+ms:bahawa	O
+ms:kerajaan	O
+ms:Afghanistan	B-LOC
+ms:yang	O
+ms:dikuasai	O
+ms:Taliban	B-ORG
+ms:mengekstradisi	O
+ms:Osama	B-PER
+ms:bin	I-PER
+ms:Laden	I-PER
+ms:.	O
+
+ms:Tentera	B-ORG
+ms:Laut	I-ORG
+ms:Diraja	I-ORG
+ms:Malaysia	I-ORG
+
+ms:Kelayakan	B-ORG
+ms:Piala	I-ORG
+ms:Dunia	I-ORG
+ms:FIFA	I-ORG
+ms:1978	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Calvados	I-LOC
+
+ms:Ibn	B-PER
+ms:Tufail	I-PER
+ms:(	O
+ms:Abubacer	O
+ms:)	O
+
+ms:''Ketawa	O
+ms:Lagi	O
+ms:''	O
+ms:duet	O
+ms:bersama	O
+ms:Noraniza	B-PER
+ms:Idris	I-PER
+
+ms:LENCONG	O
+ms:Anjing	B-PER
+ms:gembala	I-PER
+ms:Mallorca	I-PER
+
+ms:Woody	B-PER
+ms:Harrelson	I-PER
+ms:sebagai	O
+ms:Haymitch	O
+ms:Abernathy	O
+
+ms:Bunk	B-ORG
+ms:Not	I-ORG
+ms:Dead	I-ORG
+ms:''	O
+ms:(	O
+ms:2012	O
+ms:)	O
+
+ms:'	O
+ms:''	O
+ms:Michael	B-PER
+ms:Schumacher	I-PER
+ms:''	O
+ms:'	O
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:''	O
+ms:Bunkface	B-ORG
+ms:''	O
+ms:'	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Somme	I-LOC
+
+ms:Sekolah	B-ORG
+ms:Menengah	I-ORG
+ms:Kebangsaan	I-ORG
+ms:Victoria	I-ORG
+
+ms:LENCONG	O
+ms:Qerkh	B-LOC
+ms:Bolagh	I-LOC
+ms:,	I-LOC
+ms:Azerbaijan	I-LOC
+ms:Barat	I-LOC
+
+ms:Stephen	B-PER
+ms:Chow	I-PER
+ms:-	O
+ms:Ti	O
+
+ms:Pada	O
+ms:2013	O
+ms:,	O
+ms:beliau	O
+ms:membuat	O
+ms:pemunculan	O
+ms:pertama	O
+ms:bersama	O
+ms:pasukan	B-ORG
+ms:seniior	I-ORG
+ms:dan	O
+ms:terpilih	O
+ms:untuk	O
+ms:ke	O
+ms:Piala	B-ORG
+ms:Dunia	I-ORG
+ms:2014	I-ORG
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Vienne	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Jan	B-PER
+ms:Ø.	I-PER
+ms:Jørgensen	I-PER
+
+ms:Abunya	O
+ms:mampu	O
+ms:memotong	O
+ms:bersih	O
+ms:objek-objek	O
+ms:sepertimana	O
+ms:yang	O
+ms:mampu	O
+ms:dilakukan	O
+ms:sebilah	O
+ms:pedang	O
+ms:,	O
+ms:menggunakan	O
+ms:prinsip	O
+ms:yang	O
+ms:serupa	O
+ms:dengan	O
+ms:Senbonzakura	O
+ms:Kuchiki	B-PER
+ms:Byakuya	I-PER
+ms:.	O
+
+ms:Nik	B-PER
+ms:Abdul	I-PER
+ms:Aziz	I-PER
+ms:bin	I-PER
+ms:Nik	B-PER
+ms:Mat	I-PER
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:Mahathir	B-PER
+ms:bin	I-PER
+ms:Mohamad	I-PER
+
+ms:Sex	B-ORG
+ms:and	I-ORG
+ms:the	I-ORG
+ms:City	I-ORG
+ms:''	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Lot	I-LOC
+
+ms:Mede	B-LOC
+ms:(	I-LOC
+ms:Itali	I-LOC
+ms:)	I-LOC
+
+ms:Mahathir	B-PER
+ms:bin	I-PER
+ms:Mohamad	I-PER
+
+ms:Achmad	B-PER
+ms:Soebardjo	I-PER
+ms:(	O
+ms:Anggota	O
+ms:)	O
+
+ms:Parti	B-ORG
+ms:Progresif	I-ORG
+ms:Penduduk	I-ORG
+
+ms:'	O
+ms:''	O
+ms:Gaetano	B-PER
+ms:Donizetti	I-PER
+ms:''	O
+ms:'	O
+
+ms:''	O
+ms:Nur	B-ORG
+ms:Kasih	I-ORG
+ms:''	O
+
+ms:Sweetness	B-ORG
+ms:in	I-ORG
+ms:the	I-ORG
+ms:Salt	I-ORG
+ms:''	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Oise	I-LOC
+
+ms:Abu	B-PER
+ms:Bakar	I-PER
+ms:Muhammad	I-PER
+ms:bin	I-PER
+ms:Zakaria	I-PER
+ms:al-Razi	I-PER
+
+ms:LENCONG	O
+ms:Zemeh	B-LOC
+ms:,	I-LOC
+ms:Azerbaijan	I-LOC
+ms:Barat	I-LOC
+
+ms:W.	B-PER
+ms:Somerset	I-PER
+ms:Maugham	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Ariège	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Drôme	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Mika	B-PER
+ms:Häkkinen	I-PER
+ms:''	O
+ms:'	O
+
+ms:Tentera	B-ORG
+ms:Darat	I-ORG
+ms:Panzer	I-ORG
+ms:Afrika	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Haute-Saône	I-LOC
+
+ms:Anggun	B-PER
+ms:C.	I-PER
+ms:Sasmi	I-PER
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:jalang	I-ORG
+ms:Uruguay	I-ORG
+
+ms:**	O
+ms:(	O
+ms:Maharaja	B-PER
+ms:Itoku	I-PER
+ms:)	O
+ms:''Ōyamato	O
+ms:Hikosukitomo	O
+ms:no	O
+ms:Sumeramikoto	O
+ms:.	O
+ms:''	O
+
+ms:Lembaga	B-ORG
+ms:Kemajuan	I-ORG
+ms:Tanah	I-ORG
+ms:Persekutuan	I-ORG
+
+ms:Shaheizy	B-PER
+ms:Sam	I-PER
+ms:sebagai	O
+ms:Alang	O
+
+ms:``	O
+ms:Shouganai	B-ORG
+ms:Yume	I-ORG
+ms:Oibito	I-ORG
+ms:''	O
+
+ms:Anjing	B-PER
+ms:penjaga	I-PER
+ms:haiwan	I-PER
+ms:ternakan	I-PER
+
+ms:LENCONG	O
+ms:Terier	B-ORG
+ms:putih	I-ORG
+ms:Inggeris	I-ORG
+
+ms:LENCONG	O
+ms:Mojilip	B-PER
+ms:bin	I-PER
+ms:Bumburing	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Gard	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Charente-Maritime	I-LOC
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:pemburu	I-ORG
+ms:putih	I-ORG
+ms:dan	I-ORG
+ms:jingga	I-ORG
+ms:Inggeris-Perancis	I-ORG
+ms:besar	I-ORG
+
+ms:==	O
+ms:Kedudukan	O
+ms:Oricon	B-ORG
+ms:dan	O
+ms:Jumlah	O
+ms:Jualan	O
+ms:==	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Ille-et-Vilaine	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Indre-et-Loire	I-LOC
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:daripada	O
+ms:Yang	B-ORG
+ms:di-Pertuan	I-ORG
+ms:Agong	I-ORG
+ms:pada	O
+ms:usia	O
+ms:27	O
+ms:tahun	O
+ms:.	O
+
+ms:**	O
+ms:Michishige	B-PER
+ms:Sayumi	I-PER
+ms:(	O
+ms:道重さゆみ	O
+ms:)	O
+
+ms:Takeuchi	B-PER
+ms:Akari	I-PER
+ms:(	O
+ms:竹内朱莉	O
+ms:)	O
+
+ms:Manakala	O
+ms:Jaclyn	B-PER
+ms:Victor	I-PER
+ms:merupakan	O
+ms:artis	O
+ms:yang	O
+ms:paling	O
+ms:banyak	O
+ms:menerima	O
+ms:pencalonan	O
+ms:dengan	O
+ms:enam	O
+ms:.	O
+
+ms:'	O
+ms:''	O
+ms:Leonid	B-PER
+ms:Kuchma	I-PER
+ms:''	O
+ms:'Леонід	O
+ms:Кучма	O
+
+ms:'	O
+ms:''	O
+ms:Mika	B-PER
+ms:Häkkinen	I-PER
+ms:''	O
+ms:'	O
+
+ms:'	O
+ms:''	O
+ms:Qatar	B-ORG
+ms:''	O
+ms:'	O
+ms:layak	O
+ms:ke	O
+ms:'	O
+ms:''	O
+ms:Pusingan	B-ORG
+ms:Akhir	I-ORG
+ms:Kejohanan	I-ORG
+ms:''	O
+ms:'	O
+ms:.	O
+
+ms:Giroux	B-LOC
+ms:,	I-LOC
+ms:Indre	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Creuse	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Eure	I-LOC
+
+ms:'	O
+ms:''	O
+ms:FC	B-ORG
+ms:Zürich	I-ORG
+ms:''	O
+ms:'	O
+
+ms:Stadium	B-ORG
+ms:Tan	I-ORG
+ms:Sri	I-ORG
+ms:Dato	I-ORG
+ms:Haji	I-ORG
+ms:Hassan	I-ORG
+ms:Yunos	I-ORG
+
+ms:'	O
+ms:''	O
+ms:Adrian	B-PER
+ms:Sutil	I-PER
+ms:''	O
+ms:'	O
+
+ms:Negara-negara	O
+ms:yang	O
+ms:mengambil	O
+ms:bahagian	O
+ms:adalah	O
+ms:Argentina	B-ORG
+ms:,	O
+ms:Chile	B-ORG
+ms:dan	O
+ms:Uruguay	B-ORG
+ms:.	O
+
+ms:Sayashi	B-PER
+ms:Riho	I-PER
+ms:(	O
+ms:鞘師里保	O
+ms:)	O
+
+ms:Qaboos	B-PER
+ms:bin	I-PER
+ms:Said	I-PER
+ms:Al	I-PER
+ms:Said	I-PER
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:pemburu	I-ORG
+ms:Transilvania	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Ille-et-Vilaine	I-LOC
+
+ms:LENCONG	O
+ms:Fila	B-ORG
+ms:São	I-ORG
+ms:Miguel	I-ORG
+
+ms:'	O
+ms:''	O
+ms:David	B-PER
+ms:Coulthard	I-PER
+ms:''	O
+ms:'	O
+
+ms:Universiti	B-ORG
+ms:Teknikal	I-ORG
+ms:Malaysia	I-ORG
+ms:Melaka	I-ORG
+ms:(	O
+ms:UTeM	O
+ms:)	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Meuse	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Aisne	I-LOC
+
+ms:Siti	B-PER
+ms:Nurhaliza	I-PER
+ms:binti	I-PER
+ms:Tarudin	I-PER
+
+ms:'	O
+ms:''	O
+ms:Proton	B-ORG
+ms:FC	I-ORG
+ms:''	O
+ms:'	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Calvados	I-LOC
+
+ms:Marwan	B-PER
+ms:bin	I-PER
+ms:Muhammad	I-PER
+
+ms:The	B-ORG
+ms:Ultimate	I-ORG
+ms:Crime	I-ORG
+ms:Fighter	I-ORG
+ms:-	O
+
+ms:5	O
+ms:/	O
+ms:8	O
+ms:Yao	B-PER
+ms:Jie	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Territoire	I-LOC
+ms:de	I-LOC
+ms:Belfort	I-LOC
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Bas-Rhin	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Somme	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Mika	B-PER
+ms:Häkkinen	I-PER
+ms:''	O
+ms:'	O
+
+ms:Ini	O
+ms:menyebabkan	O
+ms:Parti	B-ORG
+ms:Demokratik	I-ORG
+ms:Jepun	I-ORG
+ms:(	O
+ms:DPJ	O
+ms:)	O
+ms:kehilangan	O
+ms:kuasa	O
+ms:setelah	O
+ms:memerintah	O
+ms:selama	O
+ms:tiga	O
+ms:tahun	O
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Calvados	I-LOC
+
+ms:Koo	B-PER
+ms:Kien	I-PER
+ms:Keat	I-PER
+ms:Tan	B-PER
+ms:Boon	I-PER
+ms:Heong	I-PER
+
+ms:``	O
+ms:Daite	B-ORG
+ms:Hold	I-ORG
+ms:On	I-ORG
+ms:Me	I-ORG
+ms:!	I-ORG
+ms:''	O
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:Robbie	B-PER
+ms:Coltrane	I-PER
+ms:sebagai	O
+ms:Rubeus	B-PER
+ms:Hagrid	I-PER
+
+ms:LENCONG	O
+ms:Sistem	B-ORG
+ms:Maklumat	I-ORG
+ms:Taksonomi	I-ORG
+ms:Bersepadu	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Eure	I-LOC
+
+ms:Singa	B-ORG
+ms:Muda	I-ORG
+ms:(	I-ORG
+ms:pasukan	I-ORG
+ms:bola	I-ORG
+ms:sepak	I-ORG
+ms:Singapura	I-ORG
+ms:)	I-ORG
+
+ms:Tentera	B-ORG
+ms:Laut	I-ORG
+ms:Diraja	I-ORG
+ms:Malaysia	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Hautes-Alpes	I-LOC
+
+ms:(	O
+ms:Closed	O
+ms:)	O
+ms:-	O
+ms:Bahrain	B-LOC
+
+ms:'	O
+ms:''	O
+ms:Moses	B-PER
+ms:Chan	I-PER
+ms:''	O
+ms:'	O
+
+ms:'	O
+ms:''	O
+ms:Ku	O
+ms:Rindu	O
+ms:Padamu	O
+ms:''	O
+ms:'	O
+ms:merupakan	O
+ms:salah	O
+ms:sebuah	O
+ms:lagu	O
+ms:nyanyian	O
+ms:asal	O
+ms:P.	B-PER
+ms:Ramlee	I-PER
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Doubs	I-LOC
+
+ms:LENCONG	O
+ms:Aras	B-LOC
+ms:,	I-LOC
+ms:Navarra	I-LOC
+
+ms:Yang	B-PER
+ms:di-Pertua	I-PER
+ms:Negeri	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Deux-Sèvres	I-LOC
+
+ms:Elvis	B-PER
+ms:Presley	I-PER
+ms:(	O
+ms:1935-1977	O
+ms:)	O
+
+ms:LENCONG	O
+ms:Sant'Elena	B-LOC
+ms:,	I-LOC
+ms:Veneto	I-LOC
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:pemburu	I-ORG
+ms:firaun	I-ORG
+
+ms:William	B-PER
+ms:McKinley	I-PER
+ms:,	O
+ms:Theodore	B-PER
+ms:Roosevelt	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Gard	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Giacomo	B-PER
+ms:Puccini	I-PER
+ms:''	O
+ms:'	O
+
+ms:Go	B-PER
+ms:Nagai	I-PER
+ms:(	O
+ms:永井	O
+ms:豪	O
+ms:)	O
+
+ms:Pasukan	B-ORG
+ms:bola	I-ORG
+ms:sepak	I-ORG
+ms:kebangsaan	I-ORG
+ms:bawah-17	I-ORG
+ms:Singapura	I-ORG
+
+ms:Manchester	B-ORG
+ms:City	I-ORG
+ms:F.C	I-ORG
+ms:.	I-ORG
+ms:adalah	O
+ms:juara	O
+ms:bertahan	O
+ms:,	O
+ms:memenangi	O
+ms:kejuaraan	O
+ms:Liga	B-ORG
+ms:Perdana	I-ORG
+ms:Inggeris	I-ORG
+ms:buat	O
+ms:pertama	O
+ms:kali	O
+ms:.	O
+
+ms:LENCONG	O
+ms:Lumba	B-ORG
+ms:basikal	I-ORG
+ms:di	I-ORG
+ms:Sukan	I-ORG
+ms:Olimpik	I-ORG
+ms:Musim	I-ORG
+ms:Panas	I-ORG
+ms:2016	I-ORG
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:Pyrénées	I-ORG
+ms:besar	I-ORG
+
+ms:Tianjin	B-LOC
+ms:(	O
+ms:天津市	O
+ms:)	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Meuse	I-LOC
+
+ms:Beliau	O
+ms:mempertahankan	O
+ms:kedudukan	O
+ms:tersebut	O
+ms:daripada	O
+ms:Michael	B-PER
+ms:Schumacher	I-PER
+ms:,	O
+ms:yang	O
+ms:menetapkan	O
+ms:masa	O
+ms:pusingan	O
+ms:terpantas	O
+ms:perlumbaan	O
+ms:tersebut	O
+ms:.	O
+
+ms:Empayar	B-LOC
+ms:Tufan	I-LOC
+ms:(	I-LOC
+ms:Tibet	I-LOC
+ms:)	I-LOC
+ms:-	O
+ms:4.6	O
+ms:juta	O
+ms:km2	O
+ms:(	O
+ms:800	O
+ms:)	O
+
+ms:Syed	B-PER
+ms:Muhammad	I-PER
+ms:Naquib	I-PER
+ms:al-Attas	I-PER
+
+ms:Parti	B-ORG
+ms:Kebangsaan	I-ORG
+ms:(	I-ORG
+ms:Afrika	I-ORG
+ms:Selatan	I-ORG
+ms:)	I-ORG
+
+ms:Sekolah	B-ORG
+ms:Sukan	I-ORG
+ms:Bukit	I-ORG
+ms:Jalil	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Allier	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Mark	B-PER
+ms:Webber	I-PER
+ms:''	O
+ms:'	O
+
+ms:'	O
+ms:''	O
+ms:Ranavalona	B-PER
+ms:I	I-PER
+ms:''	O
+ms:'	O
+
+ms:Burung	B-LOC
+ms:Kelicap	I-LOC
+ms:Bukit	I-LOC
+
+ms:Christopher	B-PER
+ms:Nolan	I-PER
+ms:dan	O
+ms:Emma	B-PER
+ms:Thomas	I-PER
+
+ms:Nike	B-ORG
+ms:Inc	I-ORG
+ms:.	I-ORG
+
+ms:''Simucast	O
+ms:on	O
+ms:CCTV-1	B-PER
+ms:in	O
+ms:7-8.30am	O
+ms:''	O
+
+ms:Tentera	B-ORG
+ms:Udara	I-ORG
+ms:Amerika	I-ORG
+ms:Syarikat	I-ORG
+
+ms:'	O
+ms:''	O
+ms:Michael	B-PER
+ms:Miu	I-PER
+ms:''	O
+ms:'	O
+
+ms:'	O
+ms:''	O
+ms:Singapura	B-LOC
+ms:''	O
+ms:'	O
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:Datuk	O
+ms:Ibrahim	B-PER
+ms:Ali	I-PER
+ms:(	O
+ms:Bebas	O
+ms:)	O
+ms:6,198	O
+
+ms:LENCONG	O
+ms:Pasukan	B-ORG
+ms:bola	I-ORG
+ms:sepak	I-ORG
+ms:kebangsaan	I-ORG
+ms:bawah-17	I-ORG
+ms:Malaysia	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Gironde	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Takuma	B-PER
+ms:Sato	I-PER
+ms:''	O
+ms:'	O
+
+ms:Kes	O
+ms:pembunuhannya	O
+ms:,	O
+ms:Litvinenko	B-PER
+ms:menuduh	O
+ms:Putin	B-PER
+ms:kerana	O
+ms:membunuh	O
+ms:Politskovskaya	O
+ms:.	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:air	I-ORG
+ms:St.	I-ORG
+ms:John	I-ORG
+ms:'s	I-ORG
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:penuding	I-ORG
+ms:berbulu	I-ORG
+ms:kasar	I-ORG
+ms:Slovakia	I-ORG
+
+ms:Warren	B-PER
+ms:G.	I-PER
+ms:Harding	I-PER
+
+ms:Gail	B-PER
+ms:Emms	I-PER
+ms:/	O
+ms:Donna	B-PER
+ms:Kellogg	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Saône-et-Loire	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Drôme	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Seine-Maritime	I-LOC
+
+ms:Yurina	B-PER
+ms:Kumai	I-PER
+ms:(	O
+ms:熊井	O
+ms:友理奈	O
+ms:)	O
+
+ms:Ishikawa	B-PER
+ms:Rika	I-PER
+ms:(	O
+ms:石川梨華	O
+ms:)	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Meurthe-et-Moselle	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Eure	I-LOC
+
+ms:''	O
+ms:Laluan	B-ORG
+ms:Ampang	I-ORG
+ms:''	O
+ms:'	O
+ms:(	O
+ms:dahulunya	O
+ms:,	O
+ms:Star-LRT	O
+ms:)	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Charente	I-LOC
+
+ms:Tell	B-ORG
+ms:Me	I-ORG
+ms:Goodbye	I-ORG
+ms:''	O
+ms:(	O
+ms:2010	O
+ms:)	O
+
+ms:Jun	B-PER
+ms:Ji-hyun	I-PER
+ms:sebagai	O
+ms:Cheon	O
+ms:Song-yi	O
+
+ms:Stesen	B-ORG
+ms:LRT	I-ORG
+ms:Pending	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Saône-et-Loire	I-LOC
+
+ms:Salam	B-PER
+ms:Fayyad	I-PER
+ms:(	O
+ms:1952-	O
+ms:)	O
+
+ms:Mohd	B-PER
+ms:Ali	I-PER
+ms:bin	I-PER
+ms:Mohd	B-PER
+ms:Rustam	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Côte-d'Or	I-LOC
+
+ms:Iiwake	B-ORG
+ms:Maybe	I-ORG
+ms:(	O
+ms:言い訳Maybe	O
+ms:)	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Tarn	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Meurthe-et-Moselle	I-LOC
+
+ms:Perlumbaan	O
+ms:ini	O
+ms:dimenangi	O
+ms:oleh	O
+ms:pemandu	O
+ms:Ferrari	B-ORG
+ms:,	O
+ms:Michael	B-PER
+ms:Schumacher	I-PER
+ms:,	O
+ms:yang	O
+ms:bermula	O
+ms:dari	O
+ms:petak	O
+ms:pertama	O
+ms:.	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gembala	I-ORG
+ms:Jerman	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Gironde	I-LOC
+
+ms:Churchill	B-PER
+ms:,	I-PER
+ms:Winston	I-PER
+ms:.	O
+
+ms:LENCONG	O
+ms:Radang	B-LOC
+ms:hati	I-LOC
+ms:anjing	I-LOC
+ms:berjangkit	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Aisne	I-LOC
+
+ms:Ibu	O
+ms:negerinya	O
+ms:ialah	O
+ms:Porto	B-LOC
+ms:Alegre	I-LOC
+ms:.	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gembala	I-ORG
+ms:biri-biri	I-ORG
+ms:Jerman	I-ORG
+ms:lama	I-ORG
+
+ms:LENCONG	O
+ms:Nazmi	B-PER
+ms:Faiz	I-PER
+ms:Mansor	I-PER
+
+ms:LENCONG	O
+ms:Terier	B-ORG
+ms:biru	I-ORG
+ms:Kerry	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Eure	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Doubs	I-LOC
+
+ms:Meerbeck	B-LOC
+ms:(	O
+ms:2,098	O
+ms:)	O
+
+ms:'	O
+ms:''	O
+ms:Heikki	B-PER
+ms:Kovalainen	I-PER
+ms:''	O
+ms:'	O
+
+ms:poly	O
+ms:273	O
+ms:98	O
+ms:274	O
+ms:112	O
+ms:255	O
+ms:125	O
+ms:255	O
+ms:132	O
+ms:270	O
+ms:144	O
+ms:272	O
+ms:136	O
+ms:282	O
+ms:129	O
+ms:283	O
+ms:110	O
+ms:287	O
+ms:102	O
+ms:281	O
+ms:97	O
+ms:Gisborne	B-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Doubs	I-LOC
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:Manatsu	B-ORG
+ms:no	I-ORG
+ms:Sounds	I-ORG
+ms:Good	I-ORG
+ms:!	I-ORG
+
+ms:LENCONG	O
+ms:Hernani	B-LOC
+ms:,	I-LOC
+ms:Sepanyol	I-LOC
+
+ms:Galih	B-PER
+ms:Ginanjar	I-PER
+ms:sebagai	O
+ms:'	O
+ms:''	O
+ms:Rasya	O
+ms:''	O
+ms:'	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:tangkap	I-ORG
+ms:Canaria	I-ORG
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:penuding	I-ORG
+ms:berbulu	I-ORG
+ms:kasar	I-ORG
+ms:Slovakia	I-ORG
+
+ms:Datuk	O
+ms:Dr.	O
+ms:Wan	B-PER
+ms:Junaidi	I-PER
+ms:Bin	I-PER
+ms:Tuanku	I-PER
+ms:Jaafar	I-PER
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Mark	B-PER
+ms:Webber	I-PER
+ms:''	O
+ms:'	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:pemburu	I-ORG
+ms:bejar	I-ORG
+ms:Westfalia	I-ORG
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:サマーナイトタウン	O
+ms:(	O
+ms:Summer	B-ORG
+ms:Night	I-ORG
+ms:Town	I-ORG
+ms:)	O
+ms:-	O
+ms:3:50	O
+
+ms:LENCONG	O
+ms:Liběšice	B-LOC
+ms:(	I-LOC
+ms:Daerah	I-LOC
+ms:Louny	I-LOC
+ms:)	I-LOC
+
+ms:telah	O
+ms:digantikan	O
+ms:oleh	O
+ms:Roberto	B-PER
+ms:Mancini	I-PER
+ms:.	O
+
+ms:Beliau	O
+ms:menggantikan	O
+ms:Ralf	B-PER
+ms:Schumacher	I-PER
+ms:yang	O
+ms:bersara	O
+ms:pada	O
+ms:masa	O
+ms:yang	O
+ms:sama	O
+ms:.	O
+
+ms:Franz	B-PER
+ms:Joseph	I-PER
+ms:I	I-PER
+ms:dari	I-PER
+ms:Austria	I-PER
+
+ms:Gimnasium	B-ORG
+ms:Universiti	I-ORG
+ms:Sains	I-ORG
+ms:dan	I-ORG
+ms:Teknologi	I-ORG
+ms:Beijing	I-ORG
+
+ms:Chin	B-PER
+ms:Eei	I-PER
+ms:Hui	I-PER
+ms:Wong	B-PER
+ms:Pei	I-PER
+ms:Tty	I-PER
+
+ms:Republik	B-LOC
+ms:Rom	I-LOC
+ms:menjadi	O
+ms:Empayar	B-LOC
+ms:Rom	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Vosges	I-LOC
+
+ms:'	O
+ms:''	O
+ms:CONMEBOL	B-ORG
+ms:''	O
+ms:'	O
+
+ms:Upin	B-PER
+ms:&	I-PER
+ms:Ipin	I-PER
+
+ms:—	O
+ms:Adrian	B-PER
+ms:Sutil	I-PER
+ms:dikenakan	O
+ms:penalti	O
+ms:tiga-petak	O
+ms:kedudukan	O
+ms:kerana	O
+ms:menghalang	O
+ms:Lewis	B-PER
+ms:Hamilton	I-PER
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Indre	I-LOC
+
+ms:(	O
+ms:Sebagai	O
+ms:Juara	O
+ms:Kejohanan	B-ORG
+ms:Remaja	I-ORG
+ms:B-16	I-ORG
+ms:UEFA	I-ORG
+ms:1982	I-ORG
+ms:)	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Ille-et-Vilaine	I-LOC
+
+ms:Persatuan	B-ORG
+ms:Bola	I-ORG
+ms:Sepak	I-ORG
+ms:England	I-ORG
+
+ms:TV3	B-PER
+ms:,	O
+ms:9.00	O
+ms:-	O
+ms:11.30	O
+ms:malam	O
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Vosges	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Finistère	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Alpes-de-Haute-Provence	I-LOC
+
+ms:``	O
+ms:Koe	B-ORG
+ms:o	I-ORG
+ms:Kikasete	I-ORG
+ms:''	O
+ms:''	O
+ms:(	O
+ms:)	O
+
+ms:Nazirul	B-PER
+ms:Naim	I-PER
+ms:Che	I-PER
+ms:Hashim	I-PER
+
+ms:Aktres	O
+ms:kontroversi	O
+ms:Fasha	B-PER
+ms:Sandha	I-PER
+ms:dikaitkan	O
+ms:sebagai	O
+ms:punca	O
+ms:perpisahan	O
+ms:pasangan	O
+ms:ini	O
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Lot	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Orne	I-LOC
+
+ms:LENCONG	O
+ms:Lažánky	B-LOC
+ms:(	I-LOC
+ms:Daerah	I-LOC
+ms:Strakonice	I-LOC
+ms:)	I-LOC
+
+ms:''	O
+ms:Huntly	B-LOC
+ms:''	O
+ms:'	O
+
+ms:'	O
+ms:''	O
+ms:Rubens	B-PER
+ms:Barrichello	I-PER
+ms:''	O
+ms:'	O
+
+ms:'	O
+ms:''	O
+ms:AdWords	O
+ms:''	O
+ms:'	O
+ms:ialah	O
+ms:keluaran	O
+ms:pengiklanan	O
+ms:kemegahan	O
+ms:dan	O
+ms:sumber	O
+ms:hasil	O
+ms:Google	B-ORG
+ms:yang	O
+ms:utama	O
+ms:.	O
+
+ms:Lebih	O
+ms:daripada	O
+ms:10,500	O
+ms:atlet	O
+ms:dari	O
+ms:206	O
+ms:negara	O
+ms:mengambil	O
+ms:bahagian	O
+ms:termasuk	O
+ms:penyertaan	O
+ms:buat	O
+ms:pertama	O
+ms:kali	O
+ms:Kosovo	B-LOC
+ms:dan	O
+ms:Sudan	B-LOC
+ms:Selatan	I-LOC
+ms:.	O
+
+ms:Zeti	B-PER
+ms:Akhtar	I-PER
+ms:Aziz	I-PER
+ms:pernah	O
+ms:dicalonkan	O
+ms:sebagai	O
+ms:sebagai	O
+ms:Calon	O
+ms:Pengarah	O
+ms:Urusan	O
+ms:IMF	B-ORG
+ms:pada	O
+ms:2011	O
+ms:oleh	O
+ms:Bloomberg	B-ORG
+
+ms:'	O
+ms:''	O
+ms:Robert	B-PER
+ms:Kubica	I-PER
+ms:''	O
+ms:'	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Gironde	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Dordogne	I-LOC
+
+ms:Muhammad	B-PER
+ms:Radhi	I-PER
+ms:Razali	I-PER
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Aveyron	I-LOC
+
+ms:Maka	O
+ms:,	O
+ms:dia	O
+ms:ialah	O
+ms:kakak	O
+ms:kepada	O
+ms:Kankuro	B-PER
+ms:dan	O
+ms:Gaara	B-PER
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Somme	I-LOC
+
+ms:Menteri	B-ORG
+ms:Besar	I-ORG
+ms:Johor	I-ORG
+ms:,	O
+ms:Dato	B-PER
+ms:'	I-PER
+ms:Seri	I-PER
+ms:Mohamed	I-PER
+ms:Khaled	I-PER
+ms:dan	O
+ms:isteri	O
+
+ms:'	O
+ms:''	O
+ms:Nick	B-PER
+ms:Heidfeld	I-PER
+ms:''	O
+ms:'	O
+
+ms:Dia	O
+ms:adalah	O
+ms:bekas	O
+ms:anggota	O
+ms:AKB48	B-ORG
+ms:.	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:pemburu	I-ORG
+ms:buruan	I-ORG
+ms:kecil	I-ORG
+ms:Inggeris-Perancis	I-ORG
+
+ms:Akan	O
+ms:digantikan	O
+ms:oleh	O
+ms:Stesen	B-ORG
+ms:Komuter	I-ORG
+ms:Batu	I-ORG
+ms:Caves	I-ORG
+
+ms:'	O
+ms:''	O
+ms:Rubens	B-PER
+ms:Barrichello	I-PER
+ms:''	O
+ms:'	O
+
+ms:Banzai	B-ORG
+ms:Venus	I-ORG
+ms:(	O
+ms:バンザイVenus	O
+ms:)	O
+
+ms:'	O
+ms:''	O
+ms:Valtteri	B-PER
+ms:Bottas	I-PER
+ms:''	O
+ms:'	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Meurthe-et-Moselle	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Fernando	B-PER
+ms:Alonso	I-PER
+ms:''	O
+ms:'	O
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:penuding	I-ORG
+ms:Navarra	I-ORG
+
+ms:Aminah	B-PER
+ms:binti	I-PER
+ms:Wahb	I-PER
+
+ms:Senarai	B-ORG
+ms:daerah	I-ORG
+ms:di	I-ORG
+ms:Pakistan	I-ORG
+
+ms:LENCONG	O
+ms:Skorkov	B-LOC
+ms:(	I-LOC
+ms:Daerah	I-LOC
+ms:Havlíčkův	I-LOC
+ms:Brod	I-LOC
+ms:)	I-LOC
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:air	I-ORG
+ms:Moscow	I-ORG
+
+ms:(	O
+ms:Lihat	O
+ms:juga	O
+ms:Nāga	B-PER
+ms:''	O
+ms:.	O
+ms:)	O
+
+ms:LENCONG	O
+ms:Badminton	B-ORG
+ms:di	I-ORG
+ms:Sukan	I-ORG
+ms:Olimpik	I-ORG
+ms:Musim	I-ORG
+ms:Panas	I-ORG
+ms:2016	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Calvados	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Aude	I-LOC
+
+ms:Tamara	B-PER
+ms:Bleszynski	I-PER
+ms:sebagai	O
+ms:Halimah	O
+
+ms:きみがいる	O
+ms:(	O
+ms:Kimi	B-ORG
+ms:ga	I-ORG
+ms:Iru	I-ORG
+ms:)	O
+ms:ＳＨＩＰＳ	B-ORG
+
+ms:Malahan	O
+ms:diberikan	O
+ms:pengiktirafan	O
+ms:sebagai	O
+ms:Menteri	B-ORG
+ms:Besar	I-ORG
+ms:Perak	I-ORG
+ms:.	O
+
+ms:17.02	O
+ms:-	O
+ms:'	O
+ms:''	O
+ms:T-ara	B-ORG
+ms:-	O
+ms:Lovey-Dovey	O
+ms:''	O
+ms:'	O
+ms:[11,472	O
+ms:mata]	O
+
+ms:LENCONG	O
+ms:Kerajaan	B-ORG
+ms:Bani	I-ORG
+ms:Umaiyah	I-ORG
+
+ms:'	O
+ms:''	O
+ms:Jacques	B-PER
+ms:Villeneuve	I-PER
+ms:''	O
+ms:'	O
+
+ms:Pasukan	B-ORG
+ms:bola	I-ORG
+ms:sepak	I-ORG
+ms:kebangsaan	I-ORG
+ms:Tajikistan	I-ORG
+
+ms:Lee	B-PER
+ms:Kyung-won	I-PER
+ms:/	O
+ms:Lee	B-PER
+ms:Hyo-jung	I-PER
+
+ms:'	O
+ms:''	O
+ms:Robert	B-PER
+ms:Kubica	I-PER
+ms:''	O
+ms:'	O
+
+ms:''	O
+ms:America	B-ORG
+ms:'s	I-ORG
+ms:Next	I-ORG
+ms:Top	I-ORG
+ms:Model	I-ORG
+ms:''	O
+
+ms:Pengeboman	B-ORG
+ms:Mumbai	I-ORG
+ms:13	I-ORG
+ms:Julai	I-ORG
+ms:2011	I-ORG
+
+ms:Zulfikar	B-PER
+ms:Ali	I-PER
+ms:Bhutto	I-PER
+ms:(	O
+ms:1967-1979	O
+ms:)	O
+
+ms:Sebelum	O
+ms:ini	O
+ms:beliau	O
+ms:adalah	O
+ms:pengarah	O
+ms:eksekutif	O
+ms:Perodua	B-ORG
+ms:.	O
+
+ms:Jawatankuasa	B-LOC
+ms:pembangunan	I-LOC
+ms:kampung	I-LOC
+ms:di	I-LOC
+ms:Nepal	I-LOC
+
+ms:LENCONG	O
+ms:Stesen	B-ORG
+ms:keretapi	I-ORG
+ms:Rawang	I-ORG
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gembala	I-ORG
+ms:Bergamo	I-ORG
+
+ms:Astro	B-ORG
+ms:Xiao	I-ORG
+ms:Tai	I-ORG
+ms:Yang	I-ORG
+ms:HD	I-ORG
+ms:(	O
+ms:Saluran	O
+ms:320	O
+ms:)	O
+
+ms:Tentera	B-ORG
+ms:Laut	I-ORG
+ms:Amerika	I-ORG
+ms:Syarikat	I-ORG
+
+ms:LENCONG	O
+ms:Anjing	B-ORG
+ms:gembala	I-ORG
+ms:Chiribaya	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Rhône	I-LOC
+
+ms:17	O
+ms:,	O
+ms:Jakarta	B-LOC
+ms:Timur	I-LOC
+ms:,	O
+ms:Indonesia	B-LOC
+ms:.	O
+
+ms:'	O
+ms:''	O
+ms:Sebastian	B-PER
+ms:Vettel	I-PER
+ms:''	O
+ms:'	O
+
+ms:Maktab	B-ORG
+ms:Rendah	I-ORG
+ms:Sains	I-ORG
+ms:MARA	I-ORG
+
+ms:Pasukan	O
+ms:ini	O
+ms:menggunakan	O
+ms:enjin	B-ORG
+ms:Mercedes-Benz	I-ORG
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Manche	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Charente-Maritime	I-LOC
+
+ms:Manatsu	B-ORG
+ms:no	I-ORG
+ms:Sounds	I-ORG
+ms:Good	I-ORG
+ms:!	I-ORG
+
+ms:'	O
+ms:''	O
+ms:Kimi	B-PER
+ms:Räikkönen	I-PER
+ms:''	O
+ms:'	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Allier	I-LOC
+
+ms:Pasukan	B-ORG
+ms:bola	I-ORG
+ms:sepak	I-ORG
+ms:kebangsaan	I-ORG
+ms:bawah-23	I-ORG
+ms:Timor-Leste	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Yonne	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Aveyron	I-LOC
+
+ms:Tonight	B-ORG
+ms:''	O
+ms:(	O
+ms:2011	O
+ms:)	O
+
+ms:**	O
+ms:Hello	B-ORG
+ms:!	I-ORG
+ms:Pro	I-ORG
+ms:Kenshuusei	I-ORG
+ms:(	O
+ms:2011–2012	O
+ms:)	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Gard	I-LOC
+
+ms:LENCONG	O
+ms:Gölcük	B-LOC
+ms:(	I-LOC
+ms:Daerah	I-LOC
+ms:)	I-LOC
+ms:,	I-LOC
+ms:Kocaeli	I-LOC
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Creuse	I-LOC
+
+ms:Stesen	B-ORG
+ms:keretapi	I-ORG
+ms:Kuala	I-ORG
+ms:Kubu	I-ORG
+ms:Bharu	I-ORG
+
+ms:Running	B-ORG
+ms:Man	I-ORG
+ms:(	O
+ms:episod	O
+ms:35,36	O
+ms:)	O
+ms:(	O
+ms:2010	O
+ms:)	O
+
+ms:Masjid	B-ORG
+ms:Yeldrim	I-ORG
+ms:Beyazid	I-ORG
+ms:Kulliyesi	I-ORG
+
+ms:Haji	B-PER
+ms:Hassan	I-PER
+ms:bin	I-PER
+ms:Panglima	I-PER
+ms:Mat	I-PER
+ms:Munas	I-PER
+
+ms:Oda	B-PER
+ms:Sakura	I-PER
+ms:(	O
+ms:小田さくら	O
+ms:)	O
+
+ms:Seifuku	B-ORG
+ms:ga	I-ORG
+ms:Jama	I-ORG
+ms:wo	I-ORG
+ms:Suru	I-ORG
+
+ms:Siswazah	O
+ms:Universiti	B-ORG
+ms:Sains	I-ORG
+ms:Malaysia	I-ORG
+ms:,	O
+ms:En	O
+ms:.	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Aveyron	I-LOC
+
+ms:Phineas	B-ORG
+ms:dan	I-ORG
+ms:Ferb	I-ORG
+ms:''	O
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Calvados	I-LOC
+
+ms:LENCONG	O
+ms:Monreal	B-LOC
+ms:,	I-LOC
+ms:Jerman	I-LOC
+
+ms:'	O
+ms:''	O
+ms:Oshima	B-PER
+ms:Yuko	I-PER
+ms:(	O
+ms:31334	O
+ms:)	O
+ms:'	O
+ms:''	O
+
+ms:Dewan	B-ORG
+ms:Undangan	I-ORG
+ms:Negeri	I-ORG
+ms:Perak	I-ORG
+
+ms:Komun	B-LOC
+ms:di	I-LOC
+ms:jabatan	I-LOC
+ms:Rhône	I-LOC
+
+ms:Nombor	B-ORG
+ms:telefon	I-ORG
+ms:di	I-ORG
+ms:Indonesia	I-ORG
+
+ms:Juhi	B-PER
+ms:Chawla	I-PER
+ms:sebagai	O
+ms:Minty	O
+ms:Rolly	O
+
+ms:==	O
+ms:Kedudukan	O
+ms:Carta	O
+ms:Oricon	B-ORG
+ms:dan	O
+ms:Jumlah	O
+ms:Jualan	O
+ms:==	O
+
+ms:Nitya	B-PER
+ms:Krishinda	I-PER
+ms:Maheswari	I-PER
+ms:Greysia	B-PER
+ms:Polii	I-PER
+
+ms:Tol	O
+ms:RM1.60	O
+ms:dikenakan	O
+ms:sama	O
+ms:ada	O
+ms:hendak	O
+ms:ke	O
+ms:arah	O
+ms:Subang	B-ORG
+ms:atau	O
+ms:ke	O
+ms:Petaling	B-LOC
+ms:Jaya	I-LOC
+ms:.	O
+
+ms:Ikan	B-LOC
+ms:Debam	I-LOC
+ms:Dua	I-LOC
+ms:Tanda	I-LOC
+
+ms:Santa	B-LOC
+ms:Rosa	I-LOC
+ms:del	I-LOC
+ms:Sur	I-LOC
+
+ms:Tak	O
+ms:Ingin	O
+ms:Lagi	O
+ms:(	O
+ms:Dewi	B-PER
+ms:Sandra	I-PER
+ms:)	O
+
+ms:Aisyah	B-PER
+ms:Abu	I-PER
+ms:Bakar	I-PER
+
+ms:'	O
+ms:''	O
+ms:Felipe	B-PER
+ms:Massa	I-PER
+ms:''	O
+ms:'	O
+
+ms:Ritual	B-PER
+ms:pembunuhan	I-PER
+ms:Toa	I-PER
+ms:Payoh	I-PER
+

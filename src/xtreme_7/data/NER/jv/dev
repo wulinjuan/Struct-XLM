@@ -1,0 +1,685 @@
+jv:KE	O
+jv:-	O
+jv:Korean	B-ORG
+jv:Air	I-ORG
+
+jv:''Cipika-Cipiki	O
+jv:''	O
+jv:-	O
+jv:Trans7	B-ORG
+jv:(	O
+jv:2006-2007	O
+jv:)	O
+jv:,	O
+
+jv:Shulato	O
+jv:(	O
+jv:Indosiar	B-ORG
+jv:)	O
+
+jv:ALIH	O
+jv:Leuwiliang	B-LOC
+jv:,	I-LOC
+jv:Bogor	I-LOC
+
+jv:ALIH	O
+jv:Taman	B-ORG
+jv:Kadhaton	I-ORG
+jv:Osaka	I-ORG
+
+jv:'	O
+jv:''	O
+jv:Rafael	B-PER
+jv:Nadal	I-PER
+jv:[1]	O
+jv:''	O
+jv:'	O
+
+jv:Kabeh	O
+jv:laguné	O
+jv:digawé	O
+jv:karo	O
+jv:Matthew	B-ORG
+jv:Bellamy	I-ORG
+
+jv:Powiat	B-LOC
+jv:Brzeziny	I-LOC
+jv:,	O
+jv:Brzeziny	B-LOC
+
+jv:1930	B-ORG
+jv:-	O
+jv:Peringkat	O
+jv:ka-2	O
+jv:(	O
+jv:kalah	O
+jv:saka	O
+jv:Uruguay	B-ORG
+jv:)	O
+
+jv:Serama	O
+jv:turunan	O
+jv:Malaysia	B-LOC
+jv:iku	O
+jv:isih	O
+jv:kagolong	O
+jv:anyar	O
+jv:.	O
+
+jv:Tim	B-ORG
+jv:nasional	I-ORG
+jv:pria	I-ORG
+jv:Walanda	I-ORG
+
+jv:'	O
+jv:''	O
+jv:Singapura	B-LOC
+jv:''	O
+jv:'	O
+
+jv:ALIH	O
+jv:Kanton	B-LOC
+jv:St.	I-LOC
+jv:Gallen	I-LOC
+
+jv:Trango	B-LOC
+jv:Towers	I-LOC
+jv:(	O
+jv:6,350	O
+jv:m	O
+jv:)	O
+jv:,	O
+jv:Pakistan	B-LOC
+
+jv:FC	B-ORG
+jv:Barcelona	I-ORG
+jv:(	O
+jv:kaping	O
+jv:4	O
+jv:jawara	O
+jv:,	O
+jv:kaping	O
+jv:2	O
+jv:dadi	O
+jv:paringkat	O
+jv:kalara	O
+jv:)	O
+
+jv:'	O
+jv:''	O
+jv:Raihan	O
+jv:''	O
+jv:'	O
+jv:Kelompok	O
+jv:Nasyid	O
+jv:saka	O
+jv:Malaysia	B-LOC
+jv:.	O
+
+jv:ALIH	O
+jv:Tim	B-ORG
+jv:nasional	I-ORG
+jv:bal-balan	I-ORG
+jv:Portugal	I-ORG
+
+jv:*0911	O
+jv:-	O
+jv:'	O
+jv:''	O
+jv:Ambon	B-LOC
+jv:''	O
+jv:'	O
+
+jv:ALIH	O
+jv:Tim	B-ORG
+jv:nasional	I-ORG
+jv:bal-balan	I-ORG
+jv:Yunani	I-ORG
+
+jv:ALIH	O
+jv:Diego	B-PER
+jv:Armando	I-PER
+jv:Maradona	I-PER
+
+jv:Opera	B-ORG
+jv:Van	I-ORG
+jv:Java	I-ORG
+jv:''	O
+
+jv:Sinopsis	O
+jv:''Rigoletto	O
+jv:''	O
+jv:dari	O
+jv:Metropolitan	B-ORG
+jv:Opera	I-ORG
+jv:.	O
+
+jv:Posisiné	O
+jv:iku	O
+jv:doble	O
+jv:center	O
+jv:,	O
+jv:nembang	O
+jv:ing	O
+jv:nirwa	O
+jv:ngarep	O
+jv:kaliyan	O
+jv:Jurina	B-PER
+jv:Matsui	I-PER
+jv:saka	O
+jv:SKE48	B-ORG
+jv:.	O
+
+jv:'	O
+jv:''	O
+jv:Républik	B-LOC
+jv:Rakyat	I-LOC
+jv:Cina	I-LOC
+jv:''	O
+jv:'	O
+
+jv:Ana	O
+jv:ngisor	O
+jv:iki	O
+jv:rékapitulasining	O
+jv:pilihan	O
+jv:iki	O
+jv:sing	O
+jv:dibabar	O
+jv:Komisi	B-ORG
+jv:Pemilihan	I-ORG
+jv:Umum	I-ORG
+
+jv:Kopaonik	B-LOC
+jv:(	O
+jv:Pančićev	O
+jv:vrh	O
+jv:2,017	O
+jv:m	O
+jv:)	O
+jv:,	O
+jv:Serbia	B-LOC
+
+jv:Mlebet	O
+jv:wonten	O
+jv:ing	O
+jv:musim	O
+jv:2003-2004	O
+jv:Ligue	B-ORG
+jv:1	I-ORG
+jv:.	O
+
+jv:Dhaptar	B-LOC
+jv:pulo	I-LOC
+jv:ing	I-LOC
+jv:Segara	I-LOC
+jv:Aegea	I-LOC
+
+jv:Yūko	B-PER
+jv:Ōshima	I-PER
+jv:(	O
+jv:大島	O
+jv:優子	O
+jv:)	O
+
+jv:'	O
+jv:''	O
+jv:Acèh	B-LOC
+jv:''	O
+jv:'	O
+jv:-	O
+jv:Qory	B-PER
+jv:Sandioriva	I-PER
+
+jv:Napoli	B-ORG
+jv:(	O
+jv:1992-1995	O
+jv:)	O
+
+jv:Ibu	O
+jv:kita	O
+jv:Kartini	B-PER
+jv:,	O
+jv:putri	O
+jv:sejati	O
+
+jv:Kabupatèn	B-LOC
+jv:Timor	I-LOC
+jv:Tengah	I-LOC
+jv:Lor	I-LOC
+
+jv:1930	B-ORG
+jv:-	O
+jv:'	O
+jv:''	O
+jv:Juwara	O
+jv:''	O
+jv:'	O
+
+jv:Ananging	O
+jv:piyambakipun	O
+jv:gadhahi	O
+jv:réncang	O
+jv:anyar	O
+jv:inggih	O
+jv:punika	O
+jv:,	O
+jv:Gipsy	O
+jv:(	O
+jv:Gillian	B-PER
+jv:Chung	I-PER
+jv:)	O
+jv:.	O
+
+jv:Makedonia	B-ORG
+jv:Wétan	I-ORG
+jv:lan	I-ORG
+jv:Trasia	I-ORG
+jv:|	O
+
+jv:2002	B-ORG
+jv:-	O
+jv:'	O
+jv:''	O
+jv:Juwara	O
+jv:''	O
+jv:'	O
+
+jv:(	O
+jv:Anumerta	O
+jv:)	O
+jv:Mas	B-PER
+jv:Tirtodarmo	I-PER
+jv:Harjono	I-PER
+
+jv:``	O
+jv:Ponytail	B-ORG
+jv:to	I-ORG
+jv:Shushu	I-ORG
+jv:''	O
+
+jv:ALIH	O
+jv:Willem-Alexander	B-PER
+jv:saking	I-PER
+jv:Walandi	I-PER
+
+jv:Roti	B-ORG
+jv:iki	O
+jv:ora	O
+jv:digawe	O
+jv:saka	O
+jv:adonan	O
+jv:lan	O
+jv:ora	O
+jv:dipanggang	O
+jv:.	O
+
+jv:Powiat	B-LOC
+jv:Przemyśl	I-LOC
+jv:,	O
+jv:Przemyśl	B-LOC
+
+jv:Mula	O
+jv:Duryudana	O
+jv:iya	O
+jv:banjur	O
+jv:tansah	O
+jv:mungsuhi	O
+jv:marang	O
+jv:para	O
+jv:Pandhawa	B-PER
+
+jv:Ana	O
+jv:ngisor	O
+jv:iki	O
+jv:rékapitulasining	O
+jv:pilihan	O
+jv:iki	O
+jv:sing	O
+jv:dibabar	O
+jv:Komisi	B-ORG
+jv:Pemilihan	I-ORG
+jv:Umum	I-ORG
+
+jv:'	O
+jv:''	O
+jv:Afrika	B-LOC
+jv:''	O
+jv:'	O
+
+jv:ALIH	O
+jv:Tim	B-ORG
+jv:nasional	I-ORG
+jv:bal-balan	I-ORG
+jv:Swédia	I-ORG
+
+jv:Dhèwèké	O
+jv:nggantèni	O
+jv:Uri	B-PER
+jv:Lupolianski	I-PER
+jv:.	O
+
+jv:SQ	O
+jv:-	O
+jv:Singapore	B-ORG
+jv:Airlines	I-ORG
+
+jv:1930	B-ORG
+jv:-	O
+jv:Babak	O
+jv:1	O
+
+jv:Kasor	O
+jv:P3	O
+jv:vs	O
+jv:Roger	B-PER
+jv:Federer	I-PER
+jv:[3]	O
+
+jv:ALIH	O
+jv:Kebon	B-ORG
+jv:Botani	I-ORG
+jv:Aarhus	I-ORG
+
+jv:Dhèwèké	O
+jv:sawijining	O
+jv:sénator	O
+jv:Massachusetts	B-LOC
+jv:(	O
+jv:1967–1979	O
+jv:)	O
+jv:.	O
+
+jv:ALIH	O
+jv:Joanne	B-PER
+jv:Kathleen	I-PER
+jv:Rowling	I-PER
+
+jv:Ing	O
+jv:perjalanan	O
+jv:baliné	O
+jv:menyang	O
+jv:Wales	B-LOC
+jv:,	O
+jv:panjenengané	O
+jv:ditahan	O
+jv:lan	O
+jv:bandané	O
+jv:disita	O
+jv:.	O
+
+jv:ALIH	O
+jv:Badminton	B-ORG
+jv:ing	I-ORG
+jv:Olimpiade	I-ORG
+jv:2008	I-ORG
+
+jv:1998	B-ORG
+jv:-	O
+jv:Babak	O
+jv:2	O
+
+jv:ALIH	O
+jv:Tambora	B-ORG
+jv:,	I-ORG
+jv:Jakarta	I-ORG
+jv:Kulon	I-ORG
+
+jv:Powiat	B-LOC
+jv:Kutno	I-LOC
+jv:,	O
+jv:Kutno	B-LOC
+
+jv:ALIH	O
+jv:Cengkarèng	B-LOC
+jv:,	I-LOC
+jv:Jakarta	I-LOC
+jv:Kulon	I-LOC
+
+jv:Alih	O
+jv:Hasan	B-PER
+jv:di	I-PER
+jv:Tiro	I-PER
+
+jv:ALIH	O
+jv:Christiaan	B-PER
+jv:Snouck	I-PER
+jv:Hurgronje	I-PER
+
+jv:Cik	B-PER
+jv:Di	I-PER
+jv:Tiro	I-PER
+
+jv:****	O
+jv:Wisent	B-LOC
+jv:,	O
+jv:''Bison	O
+jv:bonasus	O
+jv:''	O
+
+jv:JL	O
+jv:-	O
+jv:Japan	B-ORG
+jv:Airlines	I-ORG
+
+jv:Miroslav	B-PER
+jv:Klose	I-PER
+jv:(	O
+jv:Jerman	B-LOC
+jv:)	O
+
+jv:Jean	B-PER
+jv:Baptiste	I-PER
+jv:Joseph	I-PER
+jv:Fourier	I-PER
+
+jv:Alih	O
+jv:Muséum	B-ORG
+jv:Nasional	I-ORG
+jv:Sejarah	I-ORG
+jv:Alam	I-ORG
+
+jv:'	O
+jv:''	O
+jv:Rafael	B-PER
+jv:Nadal	I-PER
+jv:[1]	O
+jv:''	O
+jv:'	O
+
+jv:Tim	B-ORG
+jv:nasional	I-ORG
+jv:bal-balan	I-ORG
+jv:Argentina	I-ORG
+
+jv:Lubuk	B-LOC
+jv:Linggau	I-LOC
+jv:41	O
+jv:UHF	O
+
+jv:Alih	O
+jv:Aston	B-ORG
+jv:Villa	I-ORG
+jv:F.C	I-ORG
+jv:.	I-ORG
+
+jv:Aqaba	B-LOC
+jv:(	O
+jv:العقبة	O
+jv:)	O
+
+jv:'	O
+jv:''	O
+jv:Penyerang	B-PER
+jv:''	O
+jv:'	O
+
+jv:Jawa	B-LOC
+jv:Tengah	I-LOC
+jv:-	O
+jv:Semarang	B-LOC
+
+jv:Ingkang	O
+jv:mandhapaken	O
+jv:punika	O
+jv:déning	O
+jv:Zeus	B-PER
+jv:.	O
+
+jv:ALIH	O
+jv:Inanwatan	B-LOC
+jv:,	I-LOC
+jv:Sorong	I-LOC
+jv:Kidul	I-LOC
+
+jv:Paus	B-PER
+jv:Zacharias	I-PER
+jv:--	O
+jv:--	O
+jv:YaYa	O
+
+jv:Alih	O
+jv:Makedonia	B-ORG
+jv:Wétan	I-ORG
+jv:lan	I-ORG
+jv:Trasia	I-ORG
+
+jv:Powiat	B-LOC
+jv:Żagań	I-LOC
+jv:,	O
+jv:Żagań	B-LOC
+
+jv:Salahé	O
+jv:Koes	O
+jv:Ploes	O
+jv:nalika	O
+jv:iku	O
+jv:nyanyekaké	O
+jv:lagu-lagu	O
+jv:The	B-ORG
+jv:Beatles	I-ORG
+jv:sing	O
+jv:dianggep	O
+jv:ngracun	O
+jv:kawula	O
+jv:mudha	O
+jv:.	O
+
+jv:Caribbean	B-ORG
+jv:Airlines	I-ORG
+jv:(	O
+jv:5	O
+jv:)	O
+
+jv:'	O
+jv:''	O
+jv:Kapuloan	B-LOC
+jv:Marshall	I-LOC
+jv:''	O
+jv:'	O
+
+jv:Chomsky	B-PER
+jv:,	I-PER
+jv:Noam	I-PER
+jv:.	O
+
+jv:ALIH	O
+jv:Jābir	B-ORG
+jv:ibn	I-ORG
+jv:Hayyān	I-ORG
+
+jv:Runner-up	O
+jv:Piala	B-ORG
+jv:Donya	I-ORG
+jv:FIFA	I-ORG
+jv:2006	I-ORG
+
+jv:Soekarno	B-PER
+jv:sing	O
+jv:didhampingi	O
+jv:déning	O
+jv:Drs	O
+jv:.	O
+
+jv:Organisasi	B-ORG
+jv:Internasional	I-ORG
+jv:kanggo	I-ORG
+jv:Standardisasi	I-ORG
+
+jv:Alih	O
+jv:Institut	B-ORG
+jv:Tèknologi	I-ORG
+jv:Sepuluh	I-ORG
+jv:Nopèmber	I-ORG
+
+jv:ALIH	O
+jv:Kabupatèn	B-LOC
+jv:Bone	I-LOC
+jv:Bolango	I-LOC
+
+jv:ALIH	O
+jv:Kreteg	B-ORG
+jv:Pont	I-ORG
+jv:Neuf	I-ORG
+
+jv:'	O
+jv:''	O
+jv:Aruba	B-LOC
+jv:''	O
+jv:'	O
+
+jv:Alih	O
+jv:Astrid	B-PER
+jv:Ellena	I-PER
+jv:Indriana	I-PER
+jv:Yunadi	I-PER
+
+jv:Dinten	O
+jv:Ulang	O
+jv:Taun	O
+jv:Garuda	B-ORG
+jv:Indonésia	I-ORG
+
+jv:Situs	O
+jv:''go	O
+jv:to	O
+jv:[[Cayo]	O
+jv:Belize	B-LOC
+
+jv:Sakwisé	O
+jv:iku	O
+jv:banjur	O
+jv:cuti	O
+jv:menyang	O
+jv:Éropah	B-LOC
+jv:.	O
+
+jv:Piyambakipun	O
+jv:anggadhahi	O
+jv:garwa	O
+jv:,	O
+jv:ingkang	O
+jv:asma	O
+jv:Dursala	B-PER
+jv:.	O
+
+jv:Masjid	B-ORG
+jv:Agung	I-ORG
+jv:Jawa	I-ORG
+jv:Tengah	I-ORG
+
+jv:Alih	O
+jv:Rangers	B-ORG
+jv:F.C	I-ORG
+jv:.	I-ORG
+
+jv:Masjid	B-ORG
+jv:Raya	I-ORG
+jv:Sabilal	I-ORG
+jv:Muhtadin	I-ORG
+
+jv:Powiat	B-LOC
+jv:Leszno	I-LOC
+jv:,	O
+jv:Leszno	B-LOC
+

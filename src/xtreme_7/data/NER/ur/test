@@ -1,0 +1,6027 @@
+ur:'	O
+ur:''	O
+ur:حیدرآباد	B-ORG
+ur:ہاکس	I-ORG
+ur:''	O
+ur:'	O
+
+ur:رجوع_مکرر	O
+ur:عبد	B-PER
+ur:الرحمن	I-PER
+ur:بن	I-PER
+ur:ابی	I-PER
+ur:بکر	I-PER
+
+ur:رجوع_مکرر	O
+ur:مولوی	B-PER
+ur:تمیز	I-PER
+ur:الدین	I-PER
+
+ur:رجوع_مکرر	O
+ur:مکڈونوف	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:الینوائے	I-LOC
+
+ur:رجوع_مکرر	O
+ur:پیرگنج	B-LOC
+ur:ذیلی	I-LOC
+ur:ضلع،	I-LOC
+ur:ٹھاکر	I-LOC
+ur:گاؤں	I-LOC
+
+ur:ساتخیرا	B-LOC
+ur:صدر	I-LOC
+ur:ذیلی	I-LOC
+ur:ضلع	I-LOC
+
+ur:رجوع_مکرر	O
+ur:روجھان	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:صحرائے	B-ORG
+ur:وادی	I-ORG
+ur:سندھ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:آئرلینڈ	B-ORG
+ur:کرکٹ	I-ORG
+ur:ٹیم	I-ORG
+
+ur:الیکشن	B-ORG
+ur:کمیشن	I-ORG
+ur:پاکستان	I-ORG
+
+ur:رجوع_مکرر	O
+ur:اسلام	B-ORG
+ur:آباد	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:برج	B-LOC
+ur:پورٹ،	I-LOC
+ur:نیو	I-LOC
+ur:یارک	I-LOC
+
+ur:رجوع_مکرر	O
+ur:وئینیگ	B-LOC
+ur:یی،	I-LOC
+ur:حوئی،	I-LOC
+ur:اور	I-LOC
+ur:میاو	I-LOC
+ur:خود	I-LOC
+ur:مختار	I-LOC
+ur:کاؤنٹی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:نور	B-PER
+ur:اللہ	I-PER
+ur:شوشتری	I-PER
+
+ur:رجوع_مکرر	O
+ur:پروویڈنس	B-ORG
+ur:میٹروپولیٹن	I-ORG
+ur:علاقہ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:یانگ	B-ORG
+ur:دی‌	I-ORG
+ur:پرتوان	I-ORG
+ur:آگونگ	I-ORG
+
+ur:'	O
+ur:''	O
+ur:پاگادیان	B-LOC
+ur:''	O
+ur:'	O
+
+ur:ماہ	B-ORG
+ur:فیروز	I-ORG
+ur:خدیجہ	I-ORG
+ur:سلطان	I-ORG
+
+ur:جان	B-PER
+ur:فوربس	I-PER
+ur:ناش	I-PER
+ur:جے	I-PER
+ur:آر	I-PER
+
+ur:رجوع_مکرر	O
+ur:زگرودے،	B-LOC
+ur:پووآوے	I-LOC
+ur:کاؤنٹی	I-LOC
+
+ur:ایران	B-LOC
+ur:میں	O
+ur:بہنے	O
+ur:والا	O
+ur:ایک	O
+ur:دریا-	O
+
+ur:حیدرآباد]]	O
+ur:,	O
+ur:پشاور	B-LOC
+ur:,	O
+ur:کوئٹہ	B-LOC
+
+ur:رجوع_مکرر	O
+ur:آرچر	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:ٹیکساس	I-LOC
+
+ur:رجوع_مکرر	O
+ur:جارج	B-PER
+ur:فریدریک	I-PER
+ur:ہاندل	I-PER
+
+ur:رجوع_مکرر	O
+ur:ایمی	B-PER
+ur:بائی	I-PER
+ur:جناح	I-PER
+
+ur:رجوع_مکرر	O
+ur:گولڑہ	B-ORG
+ur:شریف	I-ORG
+ur:ریلوے	I-ORG
+ur:عجائب	I-ORG
+ur:گھر	I-ORG
+
+ur:علیحدہ	O
+ur:از	O
+ur:ایل	B-LOC
+ur:سئیبو	I-LOC
+ur:صوبہ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ابوعبیدہ	B-PER
+ur:ابن	I-PER
+ur:جراح	I-PER
+
+ur:ابراہیم	B-PER
+ur:علیہ	I-PER
+ur:السلام	I-PER
+ur:(	O
+ur:پردادا	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:مارسیل	B-LOC
+ur:کانواں	I-LOC
+ur:اراؤنڈڈسمنٹ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:مری	B-ORG
+ur:انڈس	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:مرکزی	B-LOC
+ur:مغربی	I-LOC
+ur:علاقہ،	I-LOC
+ur:برازیل	I-LOC
+
+ur:بن	B-PER
+ur:روئے	I-PER
+ur:مٹل	I-PER
+ur:سن	I-PER
+
+ur:رجوع_مکرر	O
+ur:آئرلینڈ	B-ORG
+ur:کرکٹ	I-ORG
+ur:ٹیم	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ایڈمز	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:انڈیانا	I-LOC
+
+ur:(	O
+ur:)	O
+ur:سلیمان	B-PER
+ur:شاہ	I-PER
+ur:کی	O
+ur:بیوی	O
+ur:اور	O
+ur:ارطغرل	B-PER
+ur:کی	O
+ur:ماں	O
+ur:تھیں۔	O
+
+ur:رجوع_مکرر	O
+ur:یووالڈی	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:ٹیکساس	I-LOC
+
+ur:'	O
+ur:''	O
+ur:ایڈورڈ	B-PER
+ur:ہفتم	I-PER
+ur:''	O
+ur:'Albert	O
+ur:Edward22	O
+ur:جنوری	O
+ur:1901–6	O
+ur:مئی	O
+ur:1910	O
+
+ur:رجوع_مکرر	O
+ur:نور	B-PER
+ur:محمد	I-PER
+ur:مہاروی	I-PER
+
+ur:رجوع_مکرر	O
+ur:کینوشا	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:وسکونسن	I-LOC
+
+ur:نورمن	B-PER
+ur:فوسٹر	I-PER
+ur:رامسے	I-PER
+ur:جے	I-PER
+ur:آر	I-PER
+
+ur:بخش	B-ORG
+ur:جتوئی	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:شہزادہ	B-PER
+ur:فلپ،	I-PER
+ur:ڈیوک	I-PER
+ur:ایڈنبرا	I-PER
+
+ur:رجوع_مکرر	O
+ur:نارتھویل	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:مشی	I-LOC
+ur:گن	I-LOC
+
+ur:ہسپانیہ	B-ORG
+ur:کی	I-ORG
+ur:کمیونسٹ	I-ORG
+ur:پارٹی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:باندھی	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ولبارجر	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:ٹیکساس	I-LOC
+
+ur:رجوع_مکرر	O
+ur:عبدالعزیز	B-PER
+ur:ابن	I-PER
+ur:موسی	I-PER
+
+ur:رجوع_مکرر	O
+ur:حلقہ	B-LOC
+ur:این	I-LOC
+ur:اے۔52	I-LOC
+
+ur:رجوع_مکرر	O
+ur:بھارتیہ	B-ORG
+ur:مارکسوادی	I-ORG
+ur:کمیونسٹ	I-ORG
+ur:پارٹی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:سانتا	B-ORG
+ur:ماریا	I-ORG
+ur:گرجاگھر	I-ORG
+ur:(	I-ORG
+ur:آرسبال	I-ORG
+ur:)	I-ORG
+
+ur:صاحبزادہ	B-PER
+ur:یعقوب	I-PER
+ur:خان	I-PER
+ur:(	O
+ur:نگران	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:جان	B-PER
+ur:ولیم	I-PER
+ur:سٹرٹ	I-PER
+ur:,	I-PER
+ur:تھرڈبارون	I-PER
+ur:رےلیہ	I-PER
+
+ur:رسالے	B-ORG
+ur:والا	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:بٹلر	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:ویرمیلین	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:الینوائے	I-LOC
+
+ur:موسیٰ	B-PER
+ur:بن	I-PER
+ur:میمون	I-PER
+
+ur:رجوع_مکرر	O
+ur:بنہ	B-LOC
+ur:دیونگ	I-LOC
+ur:صوبہ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:سینٹ-گودینس،	B-LOC
+ur:ہوتے-گروں	I-LOC
+ur:نے	I-LOC
+
+ur:رجوع_مکرر	O
+ur:بین	B-ORG
+ur:الاقوامی	I-ORG
+ur:آب	I-ORG
+ur:نگاری	I-ORG
+ur:تنظیم	I-ORG
+
+ur:رجوع_مکرر	O
+ur:بیڈفورڈ	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:کالہون	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:مشی	I-LOC
+ur:گن	I-LOC
+
+ur:رجوع_مکرر	O
+ur:یوٹ	B-LOC
+ur:و	I-LOC
+ur:ضلع	I-LOC
+
+ur:کوٹ	B-ORG
+ur:لالو	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+ur:(	O
+ur:KQO	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:ڈافائینس	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:اوہائیو	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ہینری	B-LOC
+ur:جھیل،	I-LOC
+ur:وینکوور	I-LOC
+ur:جزیرہ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:اگوا	B-LOC
+ur:بلانکا	I-LOC
+ur:(	I-LOC
+ur:لا	I-LOC
+ur:ریوجا	I-LOC
+ur:)	I-LOC
+
+ur:رجوع_مکرر	O
+ur:آغا	B-PER
+ur:شورش	I-PER
+ur:کاشمیری	I-PER
+
+ur:رجوع_مکرر	O
+ur:داؤد	B-PER
+ur:علیہ	I-PER
+ur:السلام	I-PER
+
+ur:رجوع_مکرر	O
+ur:حلقہ	B-LOC
+ur:این	I-LOC
+ur:اے۔100	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ٹوگ	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:انور	B-PER
+ur:حسین	I-PER
+ur:(	I-PER
+ur:کرکٹ	I-PER
+ur:کھلاڑی	I-PER
+ur:)	I-PER
+
+ur:رجوع_مکرر	O
+ur:کارل	B-PER
+ur:فریڈرک	I-PER
+ur:گاؤس	I-PER
+
+ur:رجوع_مکرر	O
+ur:لا	B-LOC
+ur:کاناڈا	I-LOC
+ur:دے	I-LOC
+ur:ویریچ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:خلیفہ	B-PER
+ur:عبد	I-PER
+ur:الرحمن	I-PER
+
+ur:رجوع_مکرر	O
+ur:عبد	B-PER
+ur:الجبار	I-PER
+ur:(	I-PER
+ur:کینیڈا	I-PER
+ur:کرکٹ	I-PER
+ur:کھلاڑی	I-PER
+ur:)	I-PER
+
+ur:رجوع_مکرر	O
+ur:پاکستان	B-ORG
+ur:مسلم	I-ORG
+ur:لیگ	I-ORG
+ur:(	I-ORG
+ur:ن	I-ORG
+ur:)	I-ORG
+
+ur:رجوع_مکرر	O
+ur:خیر	B-PER
+ur:الدین	I-PER
+ur:بارباروسا	I-PER
+
+ur:رجوع_مکرر	O
+ur:گرانٹ	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:شمالی	I-LOC
+ur:ڈکوٹا	I-LOC
+
+ur:'	O
+ur:''	O
+ur:لندن	B-LOC
+ur:''	O
+ur:'	O
+
+ur:نوری	B-ORG
+ur:لال	I-ORG
+ur:ہالٹ	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:سینٹ	B-ORG
+ur:اینڈریو	I-ORG
+ur:پیرش	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ویبسٹر	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:رائس	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:مینیسوٹا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:لا	B-LOC
+ur:اسپیرانزا	I-LOC
+ur:ضلع،	I-LOC
+ur:ٹروجیلو	I-LOC
+
+ur:رجوع_مکرر	O
+ur:سعادت	B-PER
+ur:خاں	I-PER
+ur:برہان	I-PER
+ur:الملک	I-PER
+
+ur:نظام	B-ORG
+ur:آباد	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:نظامی	B-PER
+ur:گنجوی	I-PER
+ur:(	O
+ur:1140–1203	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:انجنئرنگ	B-ORG
+ur:کالج،	I-ORG
+ur:پونہ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:چچانا،	B-LOC
+ur:ژیشوف	I-LOC
+ur:کاؤنٹی	I-LOC
+
+ur:حمد	B-PER
+ur:بن	I-PER
+ur:خلیفہ	I-PER
+ur:الثانی	I-PER
+ur:–	O
+ur:امیر،	O
+ur:25	O
+ur:جون	O
+ur:2013	O
+ur:تک	O
+
+ur:ایوبی	B-ORG
+ur:سلطنت	I-ORG
+ur:(	O
+ur:1171–1341	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:حنا	B-PER
+ur:ربّانی	I-PER
+ur:کھر	I-PER
+
+ur:رجوع_مکرر	O
+ur:تمغاجات	B-ORG
+ur:سرمائی	I-ORG
+ur:اولمپکس	I-ORG
+ur:1976ء	I-ORG
+
+ur:رجوع_مکرر	O
+ur:براؤن	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:اوہائیو	I-LOC
+
+ur:رجوع_مکرر	O
+ur:اردو	B-ORG
+ur:کالج	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:علی	B-PER
+ur:بن	I-PER
+ur:ابی	I-PER
+ur:طالب	I-PER
+
+ur:رجوع_مکرر	O
+ur:مورگن	B-LOC
+ur:ٹاؤن،	I-LOC
+ur:کینٹکی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:محمد	B-PER
+ur:ادریس	I-PER
+ur:سنوسی	I-PER
+
+ur:'	O
+ur:''	O
+ur:بلاول	B-PER
+ur:بھٹی	I-PER
+ur:''	O
+ur:'	O
+
+ur:رجوع_مکرر	O
+ur:سید	B-PER
+ur:نذر	I-PER
+ur:الاسلام	I-PER
+
+ur:رجوع_مکرر	O
+ur:عالمی	B-ORG
+ur:سیاحتی	I-ORG
+ur:درجہ	I-ORG
+ur:بندی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:امامہ	B-PER
+ur:بنت	I-PER
+ur:زینب	I-PER
+
+ur:رجوع_مکرر	O
+ur:بینٹن	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:بینٹن	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:آئیووا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:پیر	B-PER
+ur:محمد	I-PER
+ur:کرم	I-PER
+ur:شاہ	I-PER
+
+ur:رجوع_مکرر	O
+ur:ریمنڈ	B-PER
+ur:ڈیوس	I-PER
+ur:(	I-PER
+ur:امریکی	I-PER
+ur:اہلکار	I-PER
+ur:)	I-PER
+
+ur:رجوع_مکرر	O
+ur:حفیظہ	B-PER
+ur:قادین	I-PER
+ur:افندی	I-PER
+
+ur:موہن	B-PER
+ur:داس	I-PER
+ur:گاندھی	I-PER
+
+ur:رجوع_مکرر	O
+ur:لنکاسٹر	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:جنوبی	I-LOC
+ur:کیرولائنا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:استونیا	B-LOC
+ur:کی	I-LOC
+ur:کاؤنٹیاں	I-LOC
+
+ur:رجوع_مکرر	O
+ur:اعظم	B-PER
+ur:طارق	I-PER
+ur:(	I-PER
+ur:سپاہ	I-PER
+ur:صحابہ	I-PER
+ur:پاکستان	I-PER
+ur:)	I-PER
+
+ur:رجوع_مکرر	O
+ur:اسرانی	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:آبرن	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:ٹسکاراویس	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:اوہائیو	I-LOC
+
+ur:نشریات	B-ORG
+ur:(	I-ORG
+ur:بعید	I-ORG
+ur:ابلاغیات	I-ORG
+ur:)	I-ORG
+
+ur:اے	B-ORG
+ur:آر	I-ORG
+ur:وائی	I-ORG
+ur:کیو	I-ORG
+ur:ٹی	I-ORG
+ur:وی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:قائدآباد	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:میڈیسن	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:شمالی	I-LOC
+ur:کیرولائنا	I-LOC
+
+ur:ٹیکسلا	B-ORG
+ur:کینٹ	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:کنگ	B-ORG
+ur:کے	I-ORG
+ur:100	I-ORG
+
+ur:فقیر	B-ORG
+ur:آباد	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:بھاونا	B-PER
+ur:(	I-PER
+ur:اداکارہ	I-PER
+
+ur:رجوع_مکرر	O
+ur:طاقوان	B-ORG
+ur:ایئر	I-ORG
+ur:سروسز	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ٹرنٹی	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:ٹیکساس	I-LOC
+
+ur:رجوع_مکرر	O
+ur:سونے	B-LOC
+ur:گاؤں	I-LOC
+ur:(	I-LOC
+ur:نیپانی	I-LOC
+ur:)	I-LOC
+
+ur:رجوع_مکرر	O
+ur:فینکس	B-LOC
+ur:,	I-LOC
+ur:ایریزونا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ولندیزی	B-ORG
+ur:گولڈ	I-ORG
+ur:کوسٹ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:الیگزینڈر	B-PER
+ur:آلے	I-PER
+ur:خائن	I-PER
+
+ur:رجوع_مکرر	O
+ur:ٹال	B-ORG
+ur:مین	I-ORG
+ur:ویسٹ	I-ORG
+ur:آبشار	I-ORG
+
+ur:رجوع_مکرر	O
+ur:پیری	B-LOC
+ur:(	I-LOC
+ur:گاؤں	I-LOC
+ur:)	I-LOC
+ur:،	I-LOC
+ur:نیو	I-LOC
+ur:یارک	I-LOC
+
+ur:رجوع_مکرر	O
+ur:لاہور	B-ORG
+ur:جنکشن	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:علی	B-LOC
+ur:پور	I-LOC
+ur:چٹھہ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ایلن	B-PER
+ur:ٹرنر	I-PER
+ur:(	I-PER
+ur:کرکٹر	I-PER
+ur:)	I-PER
+
+ur:رجوع_مکرر	O
+ur:کنجھجھی	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:سید	B-PER
+ur:حسین	I-PER
+ur:طباطبائی	I-PER
+ur:بروجردی	I-PER
+
+ur:ضلع	B-LOC
+ur:شہید	I-LOC
+ur:بھگت	I-LOC
+ur:سنگھ	I-LOC
+ur:نگر	I-LOC
+
+ur:محمد	B-PER
+ur:صلی	I-PER
+ur:اللہ	I-PER
+ur:علیہ	I-PER
+ur:و	I-PER
+ur:آلہ	I-PER
+ur:و	I-PER
+ur:سلم	I-PER
+
+ur:فتح	B-ORG
+ur:پور	I-ORG
+ur:سیکری	I-ORG
+
+ur:'	O
+ur:''	O
+ur:پشاور	B-ORG
+ur:پینتھرز	I-ORG
+ur:''	O
+ur:'	O
+
+ur:رجوع_مکرر	O
+ur:سگینؤ	B-LOC
+ur:ٹاؤنشپ	I-LOC
+ur:شمالی،	I-LOC
+ur:مشی	I-LOC
+ur:گن	I-LOC
+
+ur:رجوع_مکرر	O
+ur:محمد	B-PER
+ur:عاکف	I-PER
+ur:ارصوی	I-PER
+
+ur:رجوع_مکرر	O
+ur:پوٹسویل،	B-LOC
+ur:نیو	I-LOC
+ur:ساؤتھ	I-LOC
+ur:ویلز	I-LOC
+
+ur:رجوع_مکرر	O
+ur:جارج	B-PER
+ur:سوم،	I-PER
+ur:مملکت	I-PER
+ur:متحدہ	I-PER
+
+ur:16	O
+ur:نومبر	O
+ur:ویسٹ	B-ORG
+ur:منسٹر	I-ORG
+ur:پیلسعمر	I-ORG
+ur:65	O
+
+ur:رجوع_مکرر	O
+ur:مجدد	B-PER
+ur:الف	I-PER
+ur:ثانی	I-PER
+
+ur:رجوع_مکرر	O
+ur:ہبرڈ	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:مینیسوٹا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:خالد	B-PER
+ur:لطیف	I-PER
+ur:(	I-PER
+ur:کرکٹ	I-PER
+ur:کھلاڑی	I-PER
+ur:)	I-PER
+
+ur:رجوع_مکرر	O
+ur:ایچ	B-PER
+ur:ڈی	I-PER
+ur:دیوے	I-PER
+ur:گوڑا	I-PER
+
+ur:رجوع_مکرر	O
+ur:پیٹرزبرگ،	B-LOC
+ur:بون	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:کینٹکی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:لنڈسے	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:تھاچ	B-LOC
+ur:ہا	I-LOC
+ur:ضلع	I-LOC
+
+ur:رجوع_مکرر	O
+ur:فیئرفیلڈ	B-LOC
+ur:ٹاؤنشپ،	I-LOC
+ur:ٹیپیکانو	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:انڈیانا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:برززئے،	B-LOC
+ur:سٹراچووکے	I-LOC
+ur:کاؤنٹی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:کینٹ	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:ٹیکساس	I-LOC
+
+ur:غلام	B-PER
+ur:اسحاق	I-PER
+ur:خان	I-PER
+
+ur:ابو	B-PER
+ur:الکلام	I-PER
+ur:آزاد	I-PER
+
+ur:رجوع_مکرر	O
+ur:ٹوڈ	B-PER
+ur:(	I-PER
+ur:ماریو	I-PER
+ur:)	I-PER
+
+ur:رجوع_مکرر	O
+ur:حلقہ	B-LOC
+ur:این	I-LOC
+ur:اے۔257	I-LOC
+
+ur:رجوع_مکرر	O
+ur:اسلام	B-ORG
+ur:آباد	I-ORG
+ur:عدالت	I-ORG
+ur:عالیہ	I-ORG
+
+ur:زید	B-PER
+ur:بن	I-PER
+ur:حارثہ	I-PER
+ur:(	O
+ur:33:37	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:سین-کیلے-دے-وہیتوں	B-LOC
+ur:،	I-LOC
+ur:کیوبک	I-LOC
+
+ur:رجوع_مکرر	O
+ur:موسیٰ	B-PER
+ur:پاک	I-PER
+ur:شہید	I-PER
+
+ur:رجوع_مکرر	O
+ur:ڈیکیٹر	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:انڈیانا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:خصوصی	B-ORG
+ur:انتظامی	I-ORG
+ur:علاقہ	I-ORG
+ur:جات	I-ORG
+
+ur:رجوع_مکرر	O
+ur:توت	B-LOC
+ur:ہل،	I-LOC
+ur:جنوبی	I-LOC
+ur:ڈکوٹا	I-LOC
+
+ur:شاہ	B-PER
+ur:رخ	I-PER
+ur:خان،	I-PER
+ur:لارا	B-PER
+ur:دتا	I-PER
+
+ur:رجوع_مکرر	O
+ur:آرمسٹرانگ	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:لائکومنگ	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:پنسلوانیا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:یکساں	B-ORG
+ur:وسیلی	I-ORG
+ur:تعینگر	I-ORG
+
+ur:رجوع_مکرر	O
+ur:الاسکا	B-ORG
+ur:ایئر	I-ORG
+ur:گروپ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:لیک	B-LOC
+ur:ووڈ	I-LOC
+ur:(	I-LOC
+ur:سی	I-LOC
+ur:ڈی	I-LOC
+ur:پی	I-LOC
+ur:)	I-LOC
+ur:،	I-LOC
+ur:نیو	I-LOC
+ur:جرسی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:دلائی	B-PER
+ur:لاما	I-PER
+ur:ہفتم	I-PER
+
+ur:رجوع_مکرر	O
+ur:خدیجہ	B-PER
+ur:بنت	I-PER
+ur:خویلد	I-PER
+
+ur:رجوع_مکرر	O
+ur:کارو،	B-LOC
+ur:مشی	I-LOC
+ur:گن	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ردخان	B-ORG
+ur:والا	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رابرٹ	B-PER
+ur:سی	I-PER
+ur:.	I-PER
+ur:مرٹن	I-PER
+
+ur:رجوع_مکرر	O
+ur:لیک	B-LOC
+ur:جونالیوسکا،	I-LOC
+ur:شمالی	I-LOC
+ur:کیرولائنا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:پرتھ	B-LOC
+ur:امبوی،	I-LOC
+ur:نیو	I-LOC
+ur:جرسی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:متحدہ	B-ORG
+ur:عرب	I-ORG
+ur:امارات	I-ORG
+ur:قومی	I-ORG
+ur:کرکٹ	I-ORG
+ur:ٹیم	I-ORG
+
+ur:رجوع_مکرر	O
+ur:برازیل	B-LOC
+ur:کے	I-LOC
+ur:علاقے	I-LOC
+
+ur:رجوع_مکرر	O
+ur:شيخ	B-PER
+ur:عبدالقادر	I-PER
+ur:جيلانی	I-PER
+
+ur:رجوع_مکرر	O
+ur:جھوک	B-ORG
+ur:دتہ	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:مصطفٰی	B-PER
+ur:کمال	I-PER
+ur:اتاترک	I-PER
+
+ur:رجوع_مکرر	O
+ur:صبغت	B-PER
+ur:اللہ	I-PER
+ur:شاہ	I-PER
+ur:راشدی	I-PER
+
+ur:رجوع_مکرر	O
+ur:پیدا	B-LOC
+ur:تپا	I-LOC
+ur:سمدرم	I-LOC
+
+ur:داؤد	B-PER
+ur:علیہ	I-PER
+ur:السلام	I-PER
+
+ur:رجوع_مکرر	O
+ur:ٹریمبل	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:کینٹکی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ہارون	B-PER
+ur:راشد	I-PER
+ur:(	I-PER
+ur:گلو	I-PER
+ur:کار	I-PER
+ur:)	I-PER
+
+ur:رجوع_مکرر	O
+ur:گرو	B-PER
+ur:ارجن	I-PER
+ur:دیو	I-PER
+
+ur:یونیسکو	B-ORG
+ur:نے	O
+ur:1996-1997	O
+ur:سال	O
+ur:کو	O
+ur:ملا	O
+ur:نصرالدین	O
+ur:کا	O
+ur:سال	O
+ur:اعلان	O
+ur:کیا	O
+ur:.	O
+
+ur:'	O
+ur:''	O
+ur:شمعون	B-PER
+ur:پیریز	I-PER
+ur:''	O
+ur:'	O
+
+ur:رجوع_مکرر	O
+ur:اتیرا	B-LOC
+ur:پِلّی	I-LOC
+ur:آبشار	I-LOC
+
+ur:فہرست	B-ORG
+ur:قبرص	I-ORG
+ur:کے	I-ORG
+ur:شہر	I-ORG
+
+ur:رجوع_مکرر	O
+ur:لیکسنگٹن–فائیٹ،	B-LOC
+ur:کینٹکی	I-LOC
+ur:میٹروپولیٹن	I-LOC
+ur:شماریاتی	I-LOC
+ur:علاقہ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:رولف	B-PER
+ur:ایم	I-PER
+ur:زنکرنیج	I-PER
+
+ur:رجوع_مکرر	O
+ur:عایدہ	B-PER
+ur:حاجی	I-PER
+ur:علی	I-PER
+
+ur:رجوع_مکرر	O
+ur:بوداپور	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:محمود	B-PER
+ur:ہارون	I-PER
+ur:(	O
+ur:دوسری	O
+ur:مرتبہ	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:اے	B-ORG
+ur:آر	I-ORG
+ur:وائی	I-ORG
+ur:ڈیجیٹل	I-ORG
+ur:نیٹ	I-ORG
+ur:ورک	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ابو	B-PER
+ur:العباس	I-PER
+ur:النباتی	I-PER
+
+ur:'	O
+ur:''	O
+ur:'	O
+ur:(	O
+ur:ڈنمارک	B-LOC
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:پولینڈ	B-LOC
+ur:کے	I-LOC
+ur:صوبے	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ابو	B-PER
+ur:الکلام	I-PER
+ur:آزاد	I-PER
+
+ur:اب	O
+ur:درج	O
+ur:ذیل	O
+ur:یکلخت	B-ORG
+ur:لکیری	I-ORG
+ur:مساوات	I-ORG
+ur:کا	I-ORG
+ur:نظام	I-ORG
+ur:کا	O
+ur:حل	O
+ur:نکالو	O
+
+ur:رجوع_مکرر	O
+ur:قومی	B-ORG
+ur:اسمبلی	I-ORG
+ur:پاکستان	I-ORG
+
+ur:رجوع_مکرر	O
+ur:عظیم	B-ORG
+ur:فولو	I-ORG
+ur:سلطنت	I-ORG
+
+ur:رجوع_مکرر	O
+ur:منڈی	B-ORG
+ur:صادق	I-ORG
+ur:گنج	I-ORG
+ur:جنکشن	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:اصغر	B-ORG
+ur:علی	I-ORG
+ur:شاہ	I-ORG
+ur:کرکٹ	I-ORG
+ur:اسٹیڈیم	I-ORG
+
+ur:رجوع_مکرر	O
+ur:پس	B-PER
+ur:پردہ	I-PER
+ur:گلوکار	I-PER
+
+ur:رجوع_مکرر	O
+ur:تاہ	B-LOC
+ur:کوامینن	I-LOC
+ur:آبشار	I-LOC
+
+ur:رجوع_مکرر	O
+ur:اشاریہ	B-ORG
+ur:ای	I-ORG
+ur:ایف	I-ORG
+ur:انگریزی	I-ORG
+ur:مہارت	I-ORG
+
+ur:رجوع_مکرر	O
+ur:مریخ	B-ORG
+ur:کی	I-ORG
+ur:آب	I-ORG
+ur:و	I-ORG
+ur:ہوا	I-ORG
+
+ur:رجوع_مکرر	O
+ur:جبوانکا،	B-LOC
+ur:مسوویاں	I-LOC
+ur:صوبہ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:اینکیسٹر	B-LOC
+ur:ہائیٹس	I-LOC
+ur:آبشار	I-LOC
+
+ur:رجوع_مکرر	O
+ur:اوپن	B-ORG
+ur:ہینڈسیٹ	I-ORG
+ur:الائنس	I-ORG
+
+ur:رجوع_مکرر	O
+ur:روبن	B-PER
+ur:وین	I-PER
+ur:پرسی	I-PER
+
+ur:رجوع_مکرر	O
+ur:بشری	B-ORG
+ur:شماریات	I-ORG
+ur:طلاق	I-ORG
+
+ur:رجوع_مکرر	O
+ur:مقبرہ	B-ORG
+ur:جلال	I-ORG
+ur:الدین	I-ORG
+ur:بخاری	I-ORG
+
+ur:رجوع_مکرر	O
+ur:پوہینٹان	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:ورجینیا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:آڈوبن	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:آئیووا	I-LOC
+
+ur:'	O
+ur:''	O
+ur:محمد	B-PER
+ur:حفیظ	I-PER
+ur:''	O
+ur:'	O
+
+ur:ذوالفقارعلی	B-PER
+ur:بخاری	I-PER
+ur:(	O
+ur:1904-1975	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:وزیر	B-PER
+ur:خارجہ	I-PER
+ur:پاکستان	I-PER
+
+ur:رجوع_مکرر	O
+ur:ابن	B-PER
+ur:قتیبہ	I-PER
+ur:دینوری	I-PER
+
+ur:رجوع_مکرر	O
+ur:بارانی	B-ORG
+ur:انسٹیٹیؤٹ	I-ORG
+ur:آف	I-ORG
+ur:انفارمیشن	I-ORG
+ur:ٹیکنالوجی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:فقیر	B-ORG
+ur:والی	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:نیوآرک	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:کیرینی	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:نیبراسکا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:یارک	B-LOC
+ur:ٹاؤنشپ،	I-LOC
+ur:ستیبین	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:انڈیانا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:جنوو،	B-LOC
+ur:کونین	I-LOC
+ur:کاؤنٹی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:فہرست	B-LOC
+ur:الینوائے	I-LOC
+ur:کی	I-LOC
+ur:کاؤنٹیاں	I-LOC
+
+ur:اٹلی	B-LOC
+ur:کی	I-LOC
+ur:علاقائی	I-LOC
+ur:تقسیم	I-LOC
+
+ur:رجوع_مکرر	O
+ur:آل	B-ORG
+ur:پاٹیز	I-ORG
+ur:حریت	I-ORG
+ur:کانفرنس	I-ORG
+
+ur:رجوع_مکرر	O
+ur:بہاولپور	B-ORG
+ur:کرکٹ	I-ORG
+ur:ٹیم	I-ORG
+
+ur:رجوع_مکرر	O
+ur:سینٹ	B-LOC
+ur:انگے،	I-LOC
+ur:جنوبی	I-LOC
+ur:ڈکوٹا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:قصور	B-ORG
+ur:تحصیل	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:مشرقی	B-ORG
+ur:کیریبین	I-ORG
+ur:ریاستوں	I-ORG
+ur:کی	I-ORG
+ur:تنظیم	I-ORG
+
+ur:رجوع_مکرر	O
+ur:عبد	B-PER
+ur:الحکیم	I-PER
+ur:ارواسی	I-PER
+
+ur:رجوع_مکرر	O
+ur:فرسٹ	B-ORG
+ur:ویمن	I-ORG
+ur:بینک	I-ORG
+
+ur:جدول	B-ORG
+ur:انبیاء	I-ORG
+ur:ابراہیمی	I-ORG
+ur:ادیان	I-ORG
+
+ur:سانگی	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+ur:(	O
+ur:SGI	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:شاہ	B-PER
+ur:حسین	I-PER
+ur:بن	I-PER
+ur:طلال	I-PER
+
+ur:رجوع_مکرر	O
+ur:کوٹ	B-ORG
+ur:پیر	I-ORG
+ur:عبد	I-ORG
+ur:العزیز	I-ORG
+ur:ہالٹ	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:چیچیسٹر،	B-LOC
+ur:نیو	I-LOC
+ur:ہیمپشائر	I-LOC
+
+ur:رجوع_مکرر	O
+ur:لا	B-LOC
+ur:کاپیلا	I-LOC
+ur:ضلع	I-LOC
+
+ur:رجوع_مکرر	O
+ur:نی	B-LOC
+ur:پوا،	I-LOC
+ur:مینی	I-LOC
+ur:ٹوبا	I-LOC
+
+ur:حمد	B-PER
+ur:بن	I-PER
+ur:عیسی	I-PER
+ur:آل	I-PER
+ur:خلیفہ	I-PER
+
+ur:رجوع_مکرر	O
+ur:ٹم	B-PER
+ur:برنرز	I-PER
+ur:لی	I-PER
+
+ur:رجوع_مکرر	O
+ur:فلپائن	B-LOC
+ur:کے	I-LOC
+ur:صوبے	I-LOC
+
+ur:دوعومو	B-ORG
+ur:دی	I-ORG
+ur:میلانو	I-ORG
+
+ur:رجوع_مکرر	O
+ur:سلطان	B-PER
+ur:غیاث	I-PER
+ur:الدین	I-PER
+ur:تغلق	I-PER
+ur:شاہ	I-PER
+
+ur:رجوع_مکرر	O
+ur:نیو	B-LOC
+ur:لندن	I-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:چیسٹر	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:پنسلوانیا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:دی	B-ORG
+ur:ریور	I-ORG
+ur:(	I-ORG
+ur:فلک	I-ORG
+ur:بوس	I-ORG
+ur:عمارت	I-ORG
+ur:)	I-ORG
+
+ur:رجوع_مکرر	O
+ur:کنگسٹن،	B-LOC
+ur:ایلی	I-LOC
+ur:نوائے	I-LOC
+
+ur:رجوع_مکرر	O
+ur:تخلین،صوبہ	B-LOC
+ur:ماسوریان	I-LOC
+ur:ورمیان	I-LOC
+
+ur:رجوع_مکرر	O
+ur:گورنر	B-PER
+ur:بینک	I-PER
+ur:دولت	I-PER
+ur:پاکستان	I-PER
+
+ur:رجوع_مکرر	O
+ur:وائی	B-PER
+ur:یس	I-PER
+ur:راجشیکھر	I-PER
+ur:ریڈی	I-PER
+
+ur:گوٹفریڈ	B-PER
+ur:ویلہم	I-PER
+ur:لائبنیز	I-PER
+
+ur:رجوع_مکرر	O
+ur:لاڑ	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:قصی	B-PER
+ur:بن	I-PER
+ur:کلاب	I-PER
+
+ur:رجوع_مکرر	O
+ur:زبورزے،	B-LOC
+ur:میسزکوو	I-LOC
+ur:کاؤنٹی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:سپرنگفیلڈ	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:یونین	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:نیو	I-LOC
+ur:جرسی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:فرینکلن	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:الینوائے	I-LOC
+
+ur:رجوع_مکرر	O
+ur:یزید	B-PER
+ur:ثالث	I-PER
+ur:بن	I-PER
+ur:ولید	I-PER
+
+ur:رجوع_مکرر	O
+ur:گولڈ	B-LOC
+ur:کوسٹ	I-LOC
+ur:(	I-LOC
+ur:برطانوی	I-LOC
+ur:نوآبادی	I-LOC
+ur:)	I-LOC
+
+ur:رجوع_مکرر	O
+ur:حلقہ	B-LOC
+ur:این	I-LOC
+ur:اے۔73	I-LOC
+
+ur:رجوع_مکرر	O
+ur:مولوی	B-ORG
+ur:والا	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:اسکندریہ	B-ORG
+ur:کا	I-ORG
+ur:روشن	I-ORG
+ur:مینار	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ہڈن	B-LOC
+ur:آبشار	I-LOC
+ur:(	I-LOC
+ur:شمالی	I-LOC
+ur:کیرولائنا	I-LOC
+ur:)	I-LOC
+
+ur:رجوع_مکرر	O
+ur:بیڈفورڈ	B-LOC
+ur:پارک،	I-LOC
+ur:لندن	I-LOC
+
+ur:رجوع_مکرر	O
+ur:وی	B-PER
+ur:ایس	I-PER
+ur:.	I-PER
+ur:نیپاول	I-PER
+
+ur:رجوع_مکرر	O
+ur:وینیسا	B-PER
+ur:لی	I-PER
+ur:چیسٹر	I-PER
+
+ur:واشنگٹن	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:ہیریسن	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:اوہائیو	I-LOC
+
+ur:رجوع_مکرر	O
+ur:عامر	B-PER
+ur:خان	I-PER
+ur:(	I-PER
+ur:اداکار	I-PER
+ur:)	I-PER
+
+ur:'	O
+ur:''	O
+ur:اقوام	B-ORG
+ur:متحدہ	I-ORG
+ur:(	O
+ur:2011	O
+ur:)	O
+ur:'	O
+ur:''	O
+
+ur:رجوع_مکرر	O
+ur:آئین	B-ORG
+ur:پاکستان	I-ORG
+ur:میں	I-ORG
+ur:تیسری	I-ORG
+ur:ترمیم	I-ORG
+
+ur:رجوع_مکرر	O
+ur:میڈیسون	B-LOC
+ur:(	I-LOC
+ur:ٹاؤن	I-LOC
+ur:)	I-LOC
+ur:،	I-LOC
+ur:وسکونسن	I-LOC
+
+ur:بروکلین	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:لی	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:الینوائے	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ای	B-ORG
+ur:ٹی	I-ORG
+ur:وی	I-ORG
+ur:نیٹ	I-ORG
+ur:ورک	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ماسکو	B-LOC
+ur:(	I-LOC
+ur:کمیونٹی	I-LOC
+ur:)	I-LOC
+ur:،	I-LOC
+ur:وسکونسن	I-LOC
+
+ur:رجوع_مکرر	O
+ur:2014	B-ORG
+ur:سڈنی	I-ORG
+ur:کیفے	I-ORG
+ur:یرغمالی	I-ORG
+ur:بحران	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ہیرالڈ	B-PER
+ur:زر	I-PER
+ur:ہاوسن	I-PER
+
+ur:دوسرے	O
+ur:الفاظ	O
+ur:میں	O
+ur:یکلخت	B-ORG
+ur:لکیری	I-ORG
+ur:مساوات	I-ORG
+ur:کا	I-ORG
+ur:نظام	I-ORG
+
+ur:رجوع_مکرر	O
+ur:مغربی	B-LOC
+ur:مارلبورو	I-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:چیسٹر	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:پنسلوانیا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:نوبل	B-PER
+ur:انعام	I-PER
+ur:برائے	I-PER
+ur:معاشیات	I-PER
+ur:وصول	I-PER
+ur:کنندگان	I-PER
+ur:کی	I-PER
+ur:فہرست	I-PER
+
+ur:رجوع_مکرر	O
+ur:نیا	B-ORG
+ur:چھوڑ	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:سون	B-ORG
+ur:ڈونگ	I-ORG
+ur:غار	I-ORG
+
+ur:رجوع_مکرر	O
+ur:جیکسن	B-LOC
+ur:ٹاؤنشپ،	I-LOC
+ur:سٹارک	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:اوہائیو	I-LOC
+
+ur:رجوع_مکرر	O
+ur:پستہ	B-ORG
+ur:قامت	I-ORG
+ur:میمتھ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:رچرڈ	B-PER
+ur:آر	I-PER
+ur:ارنسٹ	I-PER
+
+ur:رجوع_مکرر	O
+ur:لٹل	B-LOC
+ur:کامپٹن،	I-LOC
+ur:روڈ	I-LOC
+ur:آئلینڈ	I-LOC
+
+ur:حضرت	B-PER
+ur:امام	I-PER
+ur:علی	I-PER
+ur:رضا	I-PER
+ur:علیہ	I-PER
+ur:السلام	I-PER
+
+ur:رجوع_مکرر	O
+ur:محمد	B-PER
+ur:صلی	I-PER
+ur:اللہ	I-PER
+ur:علیہ	I-PER
+ur:و	I-PER
+ur:آلہ	I-PER
+ur:و	I-PER
+ur:سلم	I-PER
+
+ur:رجوع_مکرر	O
+ur:فہرست	B-ORG
+ur:آسٹریلیا	I-ORG
+ur:کے	I-ORG
+ur:شہر	I-ORG
+ur:بلحاظ	I-ORG
+ur:آبادی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:میرپوریونیورسٹی	B-ORG
+ur:آف	I-ORG
+ur:سائنس	I-ORG
+ur:اینڈ	I-ORG
+ur:ٹیکنالوجی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:وصول	B-ORG
+ur:کنندہ	I-ORG
+ur:(	I-ORG
+ur:ریڈیو	I-ORG
+ur:)	I-ORG
+
+ur:این	B-PER
+ur:ٹی	I-PER
+ur:آر	I-PER
+ur:جونئیر،	I-PER
+ur:غزالہ	O
+
+ur:رجوع_مکرر	O
+ur:جسترزیبے،	B-LOC
+ur:لپنو	I-LOC
+ur:کاؤنٹی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:محمد	B-PER
+ur:صلی	I-PER
+ur:اللہ	I-PER
+ur:علیہ	I-PER
+ur:و	I-PER
+ur:آلہ	I-PER
+ur:و	I-PER
+ur:سلم	I-PER
+
+ur:رجوع_مکرر	O
+ur:راہوجہ	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:سٹیو	B-PER
+ur:سمتھ	I-PER
+ur:(	I-PER
+ur:کرکٹ	I-PER
+ur:کھلاڑی،	I-PER
+ur:پیدائش	I-PER
+ur:1989ء	I-PER
+ur:)	I-PER
+
+ur:رجوع_مکرر	O
+ur:شارغ	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:بھارتیہ	B-ORG
+ur:جنتا	I-ORG
+ur:پارٹی	I-ORG
+
+ur:یوکرائن	B-ORG
+ur:انٹرنیشنل	I-ORG
+ur:ایئر	I-ORG
+ur:لائنز	I-ORG
+
+ur:رجوع_مکرر	O
+ur:سینٹ	B-LOC
+ur:وینسینٹ	I-LOC
+ur:و	I-LOC
+ur:گریناڈائنز	I-LOC
+
+ur:رجوع_مکرر	O
+ur:عکرمہ	B-PER
+ur:بن	I-PER
+ur:عمرو	I-PER
+
+ur:رجوع_مکرر	O
+ur:ریاضی	B-ORG
+ur:کے	I-ORG
+ur:ہزار	I-ORG
+ur:سالہ	I-ORG
+ur:انعامی	I-ORG
+ur:مسائل	I-ORG
+
+ur:رجوع_مکرر	O
+ur:لینور	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:شمالی	I-LOC
+ur:کیرولائنا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ریواز	B-ORG
+ur:ویسٹ	I-ORG
+ur:بنک	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:تحصیل	B-LOC
+ur:کوٹ	I-LOC
+ur:رادھا	I-LOC
+ur:کشن	I-LOC
+
+ur:رجوع_مکرر	O
+ur:صالح	B-PER
+ur:علیہ	I-PER
+ur:السلام	I-PER
+
+ur:رجوع_مکرر	O
+ur:برلنگٹن،	B-LOC
+ur:شمالی	I-LOC
+ur:کیرولائنا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:سانتیاغو	B-LOC
+ur:صوبہ	I-LOC
+ur:(	I-LOC
+ur:جمہوریہ	I-LOC
+ur:ڈومینیکن	I-LOC
+ur:)	I-LOC
+
+ur:رجوع_مکرر	O
+ur:محمد	B-PER
+ur:ضیاء	I-PER
+ur:الحق	I-PER
+
+ur:رجوع_مکرر	O
+ur:ہیمپسٹیڈ	B-LOC
+ur:(	I-LOC
+ur:گاؤں	I-LOC
+ur:)	I-LOC
+ur:،	I-LOC
+ur:نیو	I-LOC
+ur:یارک	I-LOC
+
+ur:رجوع_مکرر	O
+ur:لا	B-LOC
+ur:مارشی،	I-LOC
+ur:نیوری	I-LOC
+
+ur:رجوع_مکرر	O
+ur:عبد	B-PER
+ur:الحلیم	I-PER
+ur:معظم	I-PER
+ur:شاہ	I-PER
+
+ur:رجوع_مکرر	O
+ur:کیمونسٹ	B-ORG
+ur:مزدور	I-ORG
+ur:کسان	I-ORG
+ur:پارٹی	I-ORG
+
+ur:صنعت	B-ORG
+ur:مصنع	I-ORG
+ur:لطیف	I-ORG
+
+ur:رجوع_مکرر	O
+ur:معاویہ	B-PER
+ur:بن	I-PER
+ur:یزید	I-PER
+
+ur:رجوع_مکرر	O
+ur:جنووکا،	B-LOC
+ur:پوترکوو	I-LOC
+ur:کاؤنٹی	I-LOC
+
+ur:جعفر	B-PER
+ur:بن	I-PER
+ur:ابی	I-PER
+ur:طالب	I-PER
+ur:المعروف	O
+ur:بہ	O
+ur:جعفر	B-PER
+ur:طیار	I-PER
+
+ur:رجوع_مکرر	O
+ur:عبد	B-PER
+ur:الرؤف	I-PER
+ur:روفی	I-PER
+
+ur:کالیگولا	B-PER
+ur:(	O
+ur:37–41	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:مرکز	B-ORG
+ur:برائے	I-ORG
+ur:انٹرنیٹ	I-ORG
+ur:و	I-ORG
+ur:سوسائٹی	I-ORG
+ur:(	I-ORG
+ur:بھارت	I-ORG
+ur:)	I-ORG
+
+ur:رجوع_مکرر	O
+ur:واروک،	B-LOC
+ur:روڈ	I-LOC
+ur:آئلینڈ	I-LOC
+
+ur:'	O
+ur:''	O
+ur:اورموک	B-LOC
+ur:''	O
+ur:'	O
+
+ur:رجوع_مکرر	O
+ur:مفتی	B-PER
+ur:منیب	I-PER
+ur:الرحمان	I-PER
+
+ur:رجوع_مکرر	O
+ur:سینٹ	B-LOC
+ur:جیمز	I-LOC
+ur:ونڈورڈ	I-LOC
+ur:پیرش	I-LOC
+
+ur:رجوع_مکرر	O
+ur:حلقہ	B-LOC
+ur:این	I-LOC
+ur:اے۔165	I-LOC
+
+ur:رجوع_مکرر	O
+ur:لیک	B-LOC
+ur:شور	I-LOC
+ur:گارڈینس-ہیڈڈین	I-LOC
+ur:اکریس،	I-LOC
+ur:ٹیکساس	I-LOC
+
+ur:ہر	B-PER
+ur:برٹ	I-PER
+ur:سپنسر	I-PER
+ur:گیسر	I-PER
+
+ur:رجوع_مکرر	O
+ur:ڈیکسٹر	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:مشی	I-LOC
+ur:گن	I-LOC
+
+ur:'	O
+ur:''	O
+ur:زغرب	B-LOC
+ur:''	O
+ur:'	O
+
+ur:اسامہ	B-PER
+ur:بن	I-PER
+ur:لادن	I-PER
+
+ur:عبید	B-PER
+ur:اللہ	I-PER
+ur:مہدی،	I-PER
+ur:سلطنت	B-ORG
+ur:فاطمیہ	I-ORG
+ur:کا	O
+ur:بانی۔	O
+
+ur:انجمن	B-ORG
+ur:اقتصادی	I-ORG
+ur:تعاون	I-ORG
+ur:و	I-ORG
+ur:ترقی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:سرینام	B-LOC
+ur:کے	I-LOC
+ur:اضلاع	I-LOC
+
+ur:رجوع_مکرر	O
+ur:منڈی	B-ORG
+ur:بورے	I-ORG
+ur:والا	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:وینہ	B-LOC
+ur:تھانھ	I-LOC
+ur:ضلع،	I-LOC
+ur:کآن	I-LOC
+ur:تھؤ	I-LOC
+
+ur:4	O
+ur:مہینے	O
+ur:اور	O
+ur:10	O
+ur:دن	O
+ur:مکہ	B-LOC
+ur:میں	O
+ur:قیام	O
+ur:کیا؛	O
+
+ur:رجوع_مکرر	O
+ur:قاضی	B-PER
+ur:نذر	I-PER
+ur:الاسلام	I-PER
+
+ur:رجوع_مکرر	O
+ur:یاری	B-LOC
+ur:آباد،	I-LOC
+ur:قزوین	I-LOC
+
+ur:ماورائے	B-ORG
+ur:قفقازی	I-ORG
+ur:وفاقی	I-ORG
+ur:جمہوری	I-ORG
+ur:جمہوریہ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:سارےکلہ،	B-LOC
+ur:سارے	I-LOC
+ur:کاؤنٹی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ہینسن	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:جنوبی	I-LOC
+ur:ڈکوٹا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:لیاقت	B-ORG
+ur:آباد	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:عبادہ	B-PER
+ur:بن	I-PER
+ur:صامت	I-PER
+
+ur:کانگیوان	B-LOC
+ur:وا	I-LOC
+ur:خود	I-LOC
+ur:مختار	I-LOC
+ur:کاؤنٹی	I-LOC
+
+ur:عالمی	B-ORG
+ur:تنظیم	I-ORG
+ur:برائے	I-ORG
+ur:فکری	I-ORG
+ur:ملکیت	I-ORG
+
+ur:رجوع_مکرر	O
+ur:جیکوو،	B-LOC
+ur:ردومسکو	I-LOC
+ur:کاؤنٹی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:مارسیل	B-LOC
+ur:کاچھٹا	I-LOC
+ur:اراؤنڈڈسمنٹ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:علاء	B-PER
+ur:الدین	I-PER
+ur:خلجی	I-PER
+
+ur:رجوع_مکرر	O
+ur:چوہدری	B-PER
+ur:پرویز	I-PER
+ur:الٰہی	I-PER
+
+ur:ملک	B-PER
+ur:منور	I-PER
+ur:خان	I-PER
+ur:اعوان	I-PER
+ur:ستارہِ	O
+ur:جرات	O
+
+ur:رجوع_مکرر	O
+ur:انڈونیشیا	B-ORG
+ur:ائیر	I-ORG
+ur:ایشیا	I-ORG
+
+ur:رجوع_مکرر	O
+ur:مشتاق	B-PER
+ur:احمد	I-PER
+ur:يوسفی	I-PER
+
+ur:رجوع_مکرر	O
+ur:پورٹ	B-ORG
+ur:ٹاور	I-ORG
+ur:کمپلیکس	I-ORG
+
+ur:مزار	O
+ur:بہاؤالدین	B-PER
+ur:زکریا	I-PER
+ur:ملتانی	I-PER
+
+ur:نظامی	B-PER
+ur:گنجوی	I-PER
+ur:(	O
+ur:1141–1209	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:سین	B-LOC
+ur:مآن	I-LOC
+ur:ضلع	I-LOC
+
+ur:رجوع_مکرر	O
+ur:اسلامی	B-ORG
+ur:مرکز	I-ORG
+ur:واشنگٹن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ہا	B-LOC
+ur:تنہ	I-LOC
+ur:صوبہ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:نورجہاں	B-PER
+ur:(	I-PER
+ur:ملکہ	I-PER
+ur:)	I-PER
+
+ur:رجوع_مکرر	O
+ur:پآک	B-LOC
+ur:نآم	I-LOC
+ur:ضلع	I-LOC
+
+ur:رجوع_مکرر	O
+ur:جنوبی	B-LOC
+ur:سطح	I-LOC
+ur:مرتفع	I-LOC
+ur:صوبہ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:آرمی	B-ORG
+ur:پبلک	I-ORG
+ur:اسکول	I-ORG
+ur:اینڈ	I-ORG
+ur:کالج	I-ORG
+ur:سسٹم	I-ORG
+
+ur:رجوع_مکرر	O
+ur:لیک	B-LOC
+ur:ٹاؤن،	I-LOC
+ur:اتاہ	I-LOC
+
+ur:'	O
+ur:''	O
+ur:بان	B-PER
+ur:کی	I-PER
+ur:مون	I-PER
+ur:''	O
+ur:'	O
+
+ur:رجوع_مکرر	O
+ur:عزیز	B-PER
+ur:حامد	I-PER
+ur:مدنی	I-PER
+
+ur:رجوع_مکرر	O
+ur:عطاء	B-PER
+ur:اللہ	I-PER
+ur:خان	I-PER
+ur:عیسی	I-PER
+ur:خیلوی	I-PER
+
+ur:رجوع_مکرر	O
+ur:رچلینڈ	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:ونٹن	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:اوہائیو	I-LOC
+
+ur:ہری	B-PER
+ur:ونش	I-PER
+ur:بچن	I-PER
+
+ur:ٹوگو	B-LOC
+ur:کے	I-LOC
+ur:علاقہ	I-LOC
+ur:جات	I-LOC
+
+ur:فہرست	B-ORG
+ur:قبرص	I-ORG
+ur:کے	I-ORG
+ur:شہر	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ابوالقاسم	B-ORG
+ur:عبدالکریم	I-ORG
+ur:بن	I-ORG
+ur:ہوازن	I-ORG
+ur:قشیری	I-ORG
+
+ur:رجوع_مکرر	O
+ur:واجد	B-PER
+ur:علی	I-PER
+ur:شاہ	I-PER
+
+ur:رجوع_مکرر	O
+ur:ابو	B-PER
+ur:سفیان	I-PER
+ur:بن	I-PER
+ur:حارث	I-PER
+
+ur:'	O
+ur:''	O
+ur:پاکستان	B-ORG
+ur:مسلم	I-ORG
+ur:لیگ	I-ORG
+ur:(	I-ORG
+ur:ف	I-ORG
+ur:)	I-ORG
+ur:''	O
+ur:'	O
+
+ur:رجوع_مکرر	O
+ur:اشفاق	B-PER
+ur:پرویز	I-PER
+ur:کیانی	I-PER
+
+ur:رجوع_مکرر	O
+ur:پورتو	B-LOC
+ur:پلاتا	I-LOC
+ur:(	I-LOC
+ur:شہر	I-LOC
+ur:)	I-LOC
+
+ur:رجوع_مکرر	O
+ur:سنتا	B-ORG
+ur:ماریہ	I-ORG
+ur:لا	I-ORG
+ur:رے	I-ORG
+ur:آل	I-ORG
+ur:دے	I-ORG
+ur:لاس	I-ORG
+ur:ہوئے	I-ORG
+ur:لگاس	I-ORG
+
+ur:رجوع_مکرر	O
+ur:دوست	B-ORG
+ur:محمد	I-ORG
+ur:آباد	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ہکمین	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:کینٹکی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:سعادت	B-LOC
+ur:آباد،	I-LOC
+ur:سپیدان	I-LOC
+
+ur:رجوع_مکرر	O
+ur:آئی	B-ORG
+ur:بی	I-ORG
+ur:ای	I-ORG
+ur:ایکس	I-ORG
+ur:ائیرلائنز	I-ORG
+
+ur:رجوع_مکرر	O
+ur:زہرادکا	B-LOC
+ur:(	I-LOC
+ur:پلزین-شمالی	I-LOC
+ur:ضلع	I-LOC
+ur:)	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ٹرمبل	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:اوہائیو	I-LOC
+
+ur:رجوع_مکرر	O
+ur:سید	B-PER
+ur:عطاء	I-PER
+ur:اللہ	I-PER
+ur:شاہ	I-PER
+ur:بخاری	I-PER
+
+ur:رجوع_مکرر	O
+ur:پریا	B-PER
+ur:انجلی	I-PER
+ur:رائے	I-PER
+
+ur:رجوع_مکرر	O
+ur:آفتاب	B-PER
+ur:احمد	I-PER
+ur:(	I-PER
+ur:کرکٹ	I-PER
+ur:کھلاڑی،	I-PER
+ur:پیدائش	I-PER
+ur:1983	I-PER
+ur:)	I-PER
+
+ur:سینٹ	B-LOC
+ur:مارٹن	I-LOC
+ur:(	I-LOC
+ur:فرانس	I-LOC
+ur:)	I-LOC
+
+ur:شمال	B-LOC
+ur:وسطی	I-LOC
+ur:ساحل	I-LOC
+ur:(	I-LOC
+ur:ویتنام	I-LOC
+ur:)	I-LOC
+
+ur:رجوع_مکرر	O
+ur:یرغمالیٔ	B-ORG
+ur:مسجد	I-ORG
+ur:حرام	I-ORG
+
+ur:امیر	B-PER
+ur:مجلس	I-PER
+ur:ایوان	I-PER
+ur:بالا	I-PER
+ur:پاکستان	I-PER
+
+ur:رجوع_مکرر	O
+ur:چیرنگ	B-ORG
+ur:کراس،	I-ORG
+ur:لاہور	I-ORG
+
+ur:تمنا	B-PER
+ur:بھاٹیہ	I-PER
+ur:-	O
+ur:اَوَنتیکا	O
+
+ur:'	O
+ur:''	O
+ur:عائشہ	B-PER
+ur:حفصہ	I-PER
+ur:سلطان	I-PER
+ur:''	O
+ur:'	O
+
+ur:رجوع_مکرر	O
+ur:بریڈفورڈ	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:چکاسا	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:آئیووا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:پاکستان	B-ORG
+ur:شراکت	I-ORG
+ur:ایشیائی	I-ORG
+ur:کھیل	I-ORG
+ur:2014	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ابوعبیدہ	B-PER
+ur:ابن	I-PER
+ur:جراح	I-PER
+
+ur:رجوع_مکرر	O
+ur:سرن	B-LOC
+ur:کھولا	I-LOC
+ur:ذیلی	I-LOC
+ur:ضلع	I-LOC
+
+ur:رجوع_مکرر	O
+ur:جلیل	B-LOC
+ur:آباد،	I-LOC
+ur:بوانات	I-LOC
+
+ur:رجوع_مکرر	O
+ur:کاجول	B-PER
+ur:دیوگن	I-PER
+ur:مکھرجی	I-PER
+
+ur:رجوع_مکرر	O
+ur:کارل	B-PER
+ur:فریڈرک	I-PER
+ur:گاؤس	I-PER
+
+ur:رجوع_مکرر	O
+ur:مولانا	B-PER
+ur:جلال	I-PER
+ur:‌الدین	I-PER
+ur:محمد	I-PER
+ur:بلخی	I-PER
+ur:رومی	I-PER
+
+ur:رجوع_مکرر	O
+ur:کیپٹن	B-PER
+ur:محمد	I-PER
+ur:سرور	I-PER
+ur:شہید	I-PER
+
+ur:رجوع_مکرر	O
+ur:نظام	B-PER
+ur:الملک	I-PER
+ur:آصف	I-PER
+ur:جاہ	I-PER
+ur:اول	I-PER
+
+ur:عبد	B-PER
+ur:الرحمٰن	I-PER
+ur:الناصر	I-PER
+
+ur:رجوع_مکرر	O
+ur:کوٹ	B-ORG
+ur:نجیب	I-ORG
+ur:اللہ	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:مير	B-PER
+ur:تقی	I-PER
+ur:میر،	I-PER
+ur:شاعر	O
+
+ur:رجوع_مکرر	O
+ur:لافیت،	B-LOC
+ur:نیو	I-LOC
+ur:یارک	I-LOC
+
+ur:رجوع_مکرر	O
+ur:فہرست	B-LOC
+ur:متعلقہ	I-LOC
+ur:مضامین	I-LOC
+ur:شمالی	I-LOC
+ur:قبرص	I-LOC
+
+ur:حضرت	O
+ur:عبدالرحمن	B-PER
+ur:بن	I-PER
+ur:عوف	I-PER
+ur:رضی	O
+ur:اللہ	O
+ur:تعالٰی	O
+ur:عنہ	O
+
+ur:رجوع_مکرر	O
+ur:ریاض	B-PER
+ur:احمد	I-PER
+ur:گوھر	I-PER
+ur:شاہی	I-PER
+
+ur:رجوع_مکرر	O
+ur:ایبنگٹن	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:وین	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:انڈیانا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:بلوم	B-LOC
+ur:فیلڈ	I-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:ہیوران	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:مشی	I-LOC
+ur:گن	I-LOC
+
+ur:محمد	B-PER
+ur:ضیاء	I-PER
+ur:الحق	I-PER
+
+ur:رجوع_مکرر	O
+ur:چچانکا،	B-LOC
+ur:کیلتسے	I-LOC
+ur:کاؤنٹی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:احمد	B-PER
+ur:شاہ	I-PER
+ur:ابدالی	I-PER
+
+ur:رجوع_مکرر	O
+ur:مرزا	B-PER
+ur:فرحت	I-PER
+ur:اللہ	I-PER
+ur:بیگ	I-PER
+
+ur:رجوع_مکرر	O
+ur:فری	B-LOC
+ur:پورٹ،	I-LOC
+ur:مغربی	I-LOC
+ur:ورجینیا	I-LOC
+
+ur:محمد	B-PER
+ur:یونس	I-PER
+ur:(	O
+ur:born	O
+ur:28	O
+ur:June	O
+ur:1940	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:کیل،	B-LOC
+ur:آزاد	I-LOC
+ur:کشمیر	I-LOC
+
+ur:رجوع_مکرر	O
+ur:لا	B-LOC
+ur:پیوبلا	I-LOC
+ur:دے	I-LOC
+ur:ہیجار	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ہمپ	B-ORG
+ur:یارڈ	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:محمد	B-PER
+ur:آصف	I-PER
+ur:(	I-PER
+ur:کرکٹ	I-PER
+ur:)	I-PER
+ur:،	I-PER
+
+ur:آئی	B-LOC
+ur:سی	I-LOC
+ur:سی	I-LOC
+ur:عالمی	I-LOC
+ur:ٹوئنٹی20	I-LOC
+
+ur:Gurudwara	O
+ur:Amb	O
+ur:Sahib	O
+ur:,	O
+ur:اجیت	B-LOC
+ur:گڑھ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:لیچر	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:کینٹکی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ژوان	B-PER
+ur:انریک	I-PER
+ur:ویویس	I-PER
+ur:سیسیلیا	I-PER
+
+ur:رجوع_مکرر	O
+ur:وی	B-PER
+ur:وی	B-PER
+ur:گیری	I-PER
+
+ur:بورگونووہ	B-LOC
+ur:وال	I-LOC
+ur:تیدونے	I-LOC
+
+ur:رجوع_مکرر	O
+ur:محمد	B-PER
+ur:صلی	I-PER
+ur:اللہ	I-PER
+ur:علیہ	I-PER
+ur:و	I-PER
+ur:آلہ	I-PER
+ur:و	I-PER
+ur:سلم	I-PER
+
+ur:رجوع_مکرر	O
+ur:کارل	B-PER
+ur:فان	I-PER
+ur:اوسیتزکی	I-PER
+
+ur:رجوع_مکرر	O
+ur:ہیکری،	B-LOC
+ur:شمالی	I-LOC
+ur:کیرولائنا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:آسیانہ	B-ORG
+ur:ایئر	I-ORG
+ur:لائنز	I-ORG
+
+ur:جان	B-PER
+ur:فوربس	I-PER
+ur:ناش	I-PER
+ur:جے	I-PER
+ur:آر	I-PER
+
+ur:رجوع_مکرر	O
+ur:ترز،	B-LOC
+ur:ڈراسکو	I-LOC
+ur:کاؤنٹی	I-LOC
+
+ur:میر	B-ORG
+ur:دوستالی	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:حلقہ	B-LOC
+ur:این	I-LOC
+ur:اے۔240	I-LOC
+
+ur:علی	B-PER
+ur:بن	I-PER
+ur:ابی	I-PER
+ur:طالب	I-PER
+
+ur:رجوع_مکرر	O
+ur:خلیفہ	B-PER
+ur:بن	I-PER
+ur:حمد	I-PER
+ur:الثانی	I-PER
+
+ur:رجوع_مکرر	O
+ur:کارلائل،	B-LOC
+ur:مغربی	I-LOC
+ur:آسٹریلیا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:آزاد	B-ORG
+ur:ریاستوں	I-ORG
+ur:کی	I-ORG
+ur:دولت	I-ORG
+ur:مشترکہ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:نیو	B-LOC
+ur:ٹاؤن،	I-LOC
+ur:ایل	I-LOC
+ur:ڈوراڈو	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:کیلیفورنیا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:اوگلالا	B-ORG
+ur:لاکوٹا	I-ORG
+ur:کاؤنٹی،	I-ORG
+ur:جنوبی	I-ORG
+ur:ڈکوٹا	I-ORG
+
+ur:رجوع_مکرر	O
+ur:فہرست	B-ORG
+ur:ممالک	I-ORG
+ur:بلحاظ	I-ORG
+ur:تناسب	I-ORG
+ur:آبادی	I-ORG
+ur:و	I-ORG
+ur:شکار	I-ORG
+ur:زیر	I-ORG
+ur:تغذیہ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:مقبول	B-ORG
+ur:تحریک	I-ORG
+ur:برائے	I-ORG
+ur:آزادی	I-ORG
+ur:انگولا	I-ORG
+
+ur:پرنسز	B-PER
+ur:عابدہ	I-PER
+ur:سلطان	I-PER
+
+ur:رجوع_مکرر	O
+ur:شمالی	B-LOC
+ur:ضلع	I-LOC
+ur:(	I-LOC
+ur:ہانگ	I-LOC
+ur:کانگ	I-LOC
+ur:)	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ابو	B-PER
+ur:الکلام	I-PER
+ur:آزاد	I-PER
+
+ur:پاکستان	B-ORG
+ur:قومی	I-ORG
+ur:کرکٹ	I-ORG
+ur:ٹیم	I-ORG
+
+ur:جسر	B-ORG
+ur:جنکشن	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:پاکستان	B-ORG
+ur:مسلم	I-ORG
+ur:لیگ	I-ORG
+ur:(	I-ORG
+ur:ف	I-ORG
+ur:)	I-ORG
+
+ur:رجوع_مکرر	O
+ur:عبد	B-PER
+ur:اللہ	I-PER
+ur:ابن	I-PER
+ur:زبیر	I-PER
+
+ur:رجوع_مکرر	O
+ur:ووڈلینڈ	B-LOC
+ur:ہلز،	I-LOC
+ur:کینٹکی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:اردنی	B-ORG
+ur:کمیونسٹ	I-ORG
+ur:پارٹی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:سردار	B-PER
+ur:داؤد	I-PER
+ur:خان	I-PER
+
+ur:رجوع_مکرر	O
+ur:غلام	B-PER
+ur:عباس	I-PER
+ur:(	I-PER
+ur:کرکٹ	I-PER
+ur:کھلاڑی	I-PER
+ur:)	I-PER
+
+ur:رجوع_مکرر	O
+ur:ادا	B-PER
+ur:دل	I-PER
+ur:قادین	I-PER
+ur:افندی	I-PER
+
+ur:رجوع_مکرر	O
+ur:ملبورن	B-ORG
+ur:کرکٹ	I-ORG
+ur:گراؤنڈ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:کینی	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:ٹیکساس	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ویش	B-ORG
+ur:بورڈ	I-ORG
+ur:آبشار	I-ORG
+
+ur:رجوع_مکرر	O
+ur:تمیم	B-PER
+ur:بن	I-PER
+ur:حمد	I-PER
+ur:آل	I-PER
+ur:ثانی	I-PER
+
+ur:رجوع_مکرر	O
+ur:برک	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:شمالی	I-LOC
+ur:کیرولائنا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:میریدا	B-LOC
+ur:(	I-LOC
+ur:ریاست	I-LOC
+ur:)	I-LOC
+
+ur:رجوع_مکرر	O
+ur:گریسن	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:ٹیکساس	I-LOC
+
+ur:رجوع_مکرر	O
+ur:انور	B-PER
+ur:ظہیر	I-PER
+ur:جمالی	I-PER
+
+ur:رجوع_مکرر	O
+ur:دلائی	B-PER
+ur:لاما	I-PER
+ur:دہم	I-PER
+
+ur:رجوع_مکرر	O
+ur:میانمار	B-ORG
+ur:ائیرویز	I-ORG
+ur:انٹرنیشنل	I-ORG
+
+ur:رجوع_مکرر	O
+ur:بہاء	B-PER
+ur:الدین	I-PER
+ur:عاملی	I-PER
+
+ur:رجوع_مکرر	O
+ur:انیکشئیی	B-LOC
+ur:ضلع	I-LOC
+ur:بلدیہ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:جنوویک،	B-LOC
+ur:گمنا	I-LOC
+ur:پاسکی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:علاء	B-PER
+ur:الدین	I-PER
+ur:بہمن	I-PER
+ur:شاہ	I-PER
+
+ur:رجوع_مکرر	O
+ur:آرکیڈیا	B-LOC
+ur:پارک	I-LOC
+ur:شیل	I-LOC
+
+ur:رجوع_مکرر	O
+ur:اٹک	B-ORG
+ur:سٹی	I-ORG
+ur:جنکشن	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:'	O
+ur:''	O
+ur:ملتان	B-ORG
+ur:ٹائیگرز	I-ORG
+ur:''	O
+ur:'	O
+
+ur:رجوع_مکرر	O
+ur:امیو	B-ORG
+ur:ٹاؤن	I-ORG
+ur:حال	I-ORG
+
+ur:رجوع_مکرر	O
+ur:جنوپولے،	B-LOC
+ur:مکوو	I-LOC
+ur:کاؤنٹی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:شہیداںوالا	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:'	O
+ur:''	O
+ur:عالمی	B-ORG
+ur:بنک	I-ORG
+ur:(	O
+ur:2005–11	O
+ur:)	O
+ur:'	O
+ur:''	O
+
+ur:رجوع_مکرر	O
+ur:جمکے	B-ORG
+ur:چھٹہ	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:محکمہ	B-ORG
+ur:خارجہ	I-ORG
+ur:ودولت	I-ORG
+ur:مشترکہ	I-ORG
+ur:برطانیہ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:چیانگ	B-PER
+ur:کائی	I-PER
+ur:شیک	I-PER
+
+ur:رجوع_مکرر	O
+ur:دیا	B-PER
+ur:شنکر	I-PER
+ur:نسیم	I-PER
+
+ur:رجوع_مکرر	O
+ur:ڈیرہ	B-ORG
+ur:غازی	I-ORG
+ur:خا	I-ORG
+ur:ن	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:جمہوریہ	B-LOC
+ur:مونٹینیگرو	I-LOC
+ur:(	I-LOC
+ur:1992–2006	I-LOC
+ur:)	I-LOC
+
+ur:رجوع_مکرر	O
+ur:امیر	B-PER
+ur:عبداللہ	I-PER
+ur:خان	I-PER
+ur:نیازی	I-PER
+
+ur:رجوع_مکرر	O
+ur:اوگوتھورپ	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:جارجیا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:حبیب	B-ORG
+ur:آباد	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ڈی	B-ORG
+ur:موافر	I-ORG
+ur:کلیہ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:رچرڈ	B-PER
+ur:آر.	I-PER
+ur:شروک	I-PER
+
+ur:رجوع_مکرر	O
+ur:بنگہم	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:کلنٹن	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:مشی	I-LOC
+ur:گن	I-LOC
+
+ur:رجوع_مکرر	O
+ur:خوارزم	B-ORG
+ur:شاہی	I-ORG
+ur:سلطنت	I-ORG
+
+ur:عبد	B-PER
+ur:العلیم	I-PER
+ur:صدیقی	I-PER
+ur:عمر	O
+ur:بوقت	O
+ur:حفظ	O
+ur:4	O
+
+ur:رجوع_مکرر	O
+ur:ملتان	B-ORG
+ur:چھاؤنی	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رتی	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+ur:(	O
+ur:RTE	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:میگوئیل	B-PER
+ur:د	I-PER
+ur:سروانتس	I-PER
+
+ur:رجوع_مکرر	O
+ur:مشتاق	B-PER
+ur:احمد	I-PER
+ur:يوسفی	I-PER
+
+ur:رجوع_مکرر	O
+ur:لیگنیز	B-ORG
+ur:ائیرینیز	I-ORG
+ur:کونگولایسس	I-ORG
+
+ur:سلطنت	B-ORG
+ur:عثمانیہ	I-ORG
+ur:ملوث	I-ORG
+ur:جنگوں	I-ORG
+ur:کی	I-ORG
+ur:فہرست	I-ORG
+
+ur:رجوع_مکرر	O
+ur:سکھ	B-ORG
+ur:حوالہ	I-ORG
+ur:جاتی	I-ORG
+ur:کتب	I-ORG
+ur:خانہ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:محمد	B-PER
+ur:ابراہیم	I-PER
+ur:خان	I-PER
+ur:جھگڑا	I-PER
+
+ur:رجوع_مکرر	O
+ur:چک	B-ORG
+ur:امرو	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:بارٹوسز،	B-LOC
+ur:صوبہ	I-LOC
+ur:ماسووی	I-LOC
+
+ur:اسلامی	B-ORG
+ur:مرکز	I-ORG
+ur:واشنگٹن	I-ORG
+
+ur:یونیورسٹی	B-ORG
+ur:آف	I-ORG
+ur:انجینئرنگ	I-ORG
+ur:اینڈ	I-ORG
+ur:ٹیکنالوجی،	I-ORG
+ur:لاہور	I-ORG
+
+ur:رجوع_مکرر	O
+ur:حمید	B-PER
+ur:الدین	I-PER
+ur:فراہی	I-PER
+
+ur:رجوع_مکرر	O
+ur:105	B-LOC
+ur:مائل	I-LOC
+ur:ہاؤس	I-LOC
+
+ur:رجوع_مکرر	O
+ur:یونین	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:کلے	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:کنساس	I-LOC
+
+ur:رجوع_مکرر	O
+ur:صادق	B-PER
+ur:حسین	I-PER
+ur:قریشی	I-PER
+
+ur:رجوع_مکرر	O
+ur:جارج	B-PER
+ur:اول،	I-PER
+ur:برطانیہ	I-PER
+ur:عظمی	I-PER
+
+ur:رجوع_مکرر	O
+ur:رتو	B-ORG
+ur:کالا	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:'	O
+ur:''	O
+ur:انجمن	B-ORG
+ur:اقتصادی	I-ORG
+ur:تعاون	I-ORG
+ur:و	I-ORG
+ur:ترقی	I-ORG
+ur:(	O
+ur:2010	O
+ur:)	O
+ur:'	O
+ur:''	O
+
+ur:رجوع_مکرر	O
+ur:جنس	B-PER
+ur:کرسچئین	I-PER
+ur:سکو	I-PER
+
+ur:رجوع_مکرر	O
+ur:ہیوز	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:اوکلاہوما	I-LOC
+
+ur:*2009-10	O
+ur:-	O
+ur:سوئی	B-ORG
+ur:ناردرن	I-ORG
+ur:گیس	I-ORG
+ur:پائپ	I-ORG
+ur:لائنز	I-ORG
+ur:لمیٹڈ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:کارل	B-PER
+ur:فرڈیننڈ	I-PER
+ur:کوری	I-PER
+
+ur:رجوع_مکرر	O
+ur:ہند	B-PER
+ur:بنت	I-PER
+ur:عوف	I-PER
+ur:بن	I-PER
+ur:زہیر	I-PER
+
+ur:رجوع_مکرر	O
+ur:بولڈر	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:کولوراڈو	I-LOC
+
+ur:رجوع_مکرر	O
+ur:بحر	B-LOC
+ur:الکاہل	I-LOC
+ur:منطقۂ	I-LOC
+ur:وقت	I-LOC
+
+ur:رجوع_مکرر	O
+ur:سفصف	B-LOC
+ur:یل	I-LOC
+ur:وسرا	I-LOC
+
+ur:سید	B-PER
+ur:علی	I-PER
+ur:محمد	I-PER
+ur:باب	I-PER
+
+ur:رجوع_مکرر	O
+ur:بھکر	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:companion]]	O
+ur:محمد	B-PER
+ur:صلی	I-PER
+ur:اللہ	I-PER
+ur:علیہ	I-PER
+ur:و	I-PER
+ur:آلہ	I-PER
+ur:و	I-PER
+ur:سلم	I-PER
+
+ur:رجوع_مکرر	O
+ur:شفافیت	B-ORG
+ur:بین	I-ORG
+ur:الاقوامی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:لا	B-LOC
+ur:گرینج،	I-LOC
+ur:براؤن	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:الینیوائے	I-LOC
+
+ur:رجوع_مکرر	O
+ur:یونین	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:بینٹن	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:انڈیانا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:نیو	B-LOC
+ur:ٹاؤن،	I-LOC
+ur:کارڈف	I-LOC
+
+ur:رجوع_مکرر	O
+ur:سد	B-LOC
+ur:آباد،	I-LOC
+ur:نیشاپور	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ویراکروز	B-LOC
+ur:(	I-LOC
+ur:سٹی	I-LOC
+ur:)	I-LOC
+
+ur:رجوع_مکرر	O
+ur:جاپانی	B-ORG
+ur:شاہی	I-ORG
+ur:محل	I-ORG
+
+ur:رجوع_مکرر	O
+ur:خدیجہ	B-PER
+ur:بنت	I-PER
+ur:خویلد	I-PER
+
+ur:رجوع_مکرر	O
+ur:یسو،	B-LOC
+ur:برکینا	I-LOC
+ur:فاسو	I-LOC
+
+ur:سپرنگ	B-LOC
+ur:ویلی،	I-LOC
+ur:سان	I-LOC
+ur:ڈیگو	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:کیلیفورنیا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ایس	B-ORG
+ur:ایف	I-ORG
+ur:آئی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:مخاد	B-ORG
+ur:روڈ	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:حلقہ	B-LOC
+ur:این	I-LOC
+ur:اے۔225	I-LOC
+
+ur:ریاض	B-PER
+ur:احمد	I-PER
+ur:گوھر	I-PER
+ur:شاہی	I-PER
+
+ur:معین	B-PER
+ur:الدین	I-PER
+ur:احمد	I-PER
+ur:قریشی	I-PER
+
+ur:رجوع_مکرر	O
+ur:آل	B-ORG
+ur:پاٹیز	I-ORG
+ur:حریت	I-ORG
+ur:کانفرنس	I-ORG
+
+ur:رجوع_مکرر	O
+ur:شاہ	B-PER
+ur:اسماعیل	I-PER
+ur:دہلوی	I-PER
+
+ur:رجوع_مکرر	O
+ur:گوبند	B-LOC
+ur:گنج	I-LOC
+ur:ذیلی	I-LOC
+ur:ضلع	I-LOC
+
+ur:رجوع_مکرر	O
+ur:بدین	B-ORG
+ur:زئی	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:جامعہ	B-ORG
+ur:علیمیہ	I-ORG
+ur:اسلامیہ	I-ORG
+ur:کراچی	I-ORG
+
+ur:نیو	B-LOC
+ur:ٹاؤن،	I-LOC
+ur:نیواڈا	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:کیلیفورنیا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:خیبر	B-ORG
+ur:پختونخوا	I-ORG
+ur:کی	I-ORG
+ur:صوبائی	I-ORG
+ur:اسمبلی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:میکومب	B-LOC
+ur:ٹاؤنشپ،	I-LOC
+ur:مکڈونوگہ	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:الینوائے	I-LOC
+
+ur:آل	B-ORG
+ur:انڈیا	I-ORG
+ur:مسلم	I-ORG
+ur:لیگ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:آسام	B-ORG
+ur:علیحدگی	I-ORG
+ur:پسند	I-ORG
+ur:تحاریک	I-ORG
+
+ur:'	O
+ur:''	O
+ur:کنشاسا	B-LOC
+ur:''	O
+ur:'	O
+
+ur:رجوع_مکرر	O
+ur:محمد	B-PER
+ur:آصف	I-PER
+ur:(	I-PER
+ur:کرکٹ	I-PER
+ur:)	I-PER
+
+ur:رجوع_مکرر	O
+ur:ہوآئی	B-LOC
+ur:نہؤن	I-LOC
+ur:ضلع	I-LOC
+
+ur:رجوع_مکرر	O
+ur:خوشبو	B-PER
+ur:(	I-PER
+ur:پاکستانی	I-PER
+ur:اداکارہ	I-PER
+ur:)	I-PER
+
+ur:لاہور	B-ORG
+ur:جنکشن	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:آل	B-ORG
+ur:پاکستان	I-ORG
+ur:نیوز	I-ORG
+ur:پیپر	I-ORG
+ur:سوسائٹی	I-ORG
+
+ur:ماٹینس	B-PER
+ur:جے	I-PER
+ur:جی	I-PER
+ur:ولٹمین	I-PER
+
+ur:رجوع_مکرر	O
+ur:اسلینا	B-ORG
+ur:ایئر	I-ORG
+ur:لائنز	I-ORG
+
+ur:محمد	B-PER
+ur:ظفر	I-PER
+ur:اللہ	I-PER
+ur:خان	I-PER
+ur:(	O
+ur:1893–1985	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:دنیا	B-ORG
+ur:کی	I-ORG
+ur:سب	I-ORG
+ur:سے	I-ORG
+ur:بڑی	I-ORG
+ur:بلدیات	I-ORG
+ur:بلحاظ	I-ORG
+ur:آبادی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:کیوبا	B-ORG
+ur:کی	I-ORG
+ur:کمیونسٹ	I-ORG
+ur:پارٹی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:سینٹ	B-LOC
+ur:تھامس	I-LOC
+ur:مڈل	I-LOC
+ur:آئلینڈ	I-LOC
+ur:پیرش	I-LOC
+
+ur:رجوع_مکرر	O
+ur:سیکرٹ	B-ORG
+ur:انٹیلی	I-ORG
+ur:جنس	I-ORG
+ur:سروس	I-ORG
+
+ur:ضلع	B-LOC
+ur:شہید	I-LOC
+ur:بینظیر	I-LOC
+ur:آباد	I-LOC
+
+ur:رفیق	B-ORG
+ur:آباد	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:سائیلینٹ	B-ORG
+ur:ویلی	I-ORG
+ur:قومی	I-ORG
+ur:باغستان	I-ORG
+
+ur:'	O
+ur:''	O
+ur:مصباح	B-PER
+ur:الحق	I-PER
+ur:''	O
+ur:'	O
+
+ur:رجوع_مکرر	O
+ur:حکیم	B-PER
+ur:نور	I-PER
+ur:الدین	I-PER
+
+ur:رجوع_مکرر	O
+ur:حلقہ	B-LOC
+ur:این	I-LOC
+ur:اے۔89	I-LOC
+
+ur:rect	O
+ur:341	O
+ur:158	O
+ur:427	O
+ur:185	O
+ur:Famagusta	B-LOC
+
+ur:ندیم]]	O
+ur:،	O
+ur:ممتاز	O
+ur:،	O
+ur:شمیم	B-PER
+ur:آرا	I-PER
+ur:،	O
+ur:گلو	O
+ur:،	O
+ur:لہری	O
+
+ur:رجوع_مکرر	O
+ur:بیضا	B-LOC
+ur:(	I-LOC
+ur:آثار	I-LOC
+ur:قدیمہ	I-LOC
+ur:مقام	I-LOC
+ur:)	I-LOC
+
+ur:رجوع_مکرر	O
+ur:نواب	B-PER
+ur:بہادر	I-PER
+ur:یار	I-PER
+ur:جنگ	I-PER
+
+ur:رجوع_مکرر	O
+ur:اسلس	B-ORG
+ur:آف	I-ORG
+ur:سسلی	I-ORG
+ur:سکائی	I-ORG
+ur:بس	I-ORG
+
+ur:رجوع_مکرر	O
+ur:سلطان	B-LOC
+ur:مستورہ،	I-LOC
+ur:ماگوئنداناؤ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:اکرا	B-ORG
+ur:(	I-ORG
+ur:قلعہ	I-ORG
+ur:)	I-ORG
+
+ur:رجوع_مکرر	O
+ur:خدیجہ	B-PER
+ur:معزز	I-PER
+ur:سلطان	I-PER
+
+ur:رجوع_مکرر	O
+ur:اشاریہ	B-ORG
+ur:ای	I-ORG
+ur:ایف	I-ORG
+ur:انگریزی	I-ORG
+ur:مہارت	I-ORG
+
+ur:رجوع_مکرر	O
+ur:نرگس	B-PER
+ur:(	I-PER
+ur:پاکستانی	I-PER
+ur:اداکارہ	I-PER
+ur:)	I-PER
+
+ur:حسن	B-PER
+ur:بن	I-PER
+ur:علی	I-PER
+ur:عسکری	I-PER
+
+ur:رجوع_مکرر	O
+ur:ایشیائی	B-ORG
+ur:کھیل	I-ORG
+ur:1951	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ماسکو	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:مشی	I-LOC
+ur:گن	I-LOC
+
+ur:رجوع_مکرر	O
+ur:مدھاریاں	B-ORG
+ur:والا	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:ٹوکیو	B-LOC
+ur:عظمی	I-LOC
+ur:علاقہ	I-LOC
+ur:(	O
+ur:35,676,000	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:یاس	B-PER
+ur:یگانہ	I-PER
+ur:چنگیزی	I-PER
+
+ur:رجوع_مکرر	O
+ur:کمالیہ	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:یونین	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:وینڈربرگ	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:انڈیانا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:آصف	B-PER
+ur:احمد	I-PER
+ur:علی	I-PER
+
+ur:رجوع_مکرر	O
+ur:جیو	B-ORG
+ur:ٹی	I-ORG
+ur:وی	I-ORG
+
+ur:مرزا	B-PER
+ur:فرحت	I-PER
+ur:اللہ	I-PER
+ur:بیگ	I-PER
+
+ur:رجوع_مکرر	O
+ur:بیرین	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:مشی	I-LOC
+ur:گن	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ووڈبریج	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:نیو	I-LOC
+ur:جرسی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ورجل،	B-LOC
+ur:روان	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:مغربی	I-LOC
+ur:ورجینیا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:کعب	B-PER
+ur:بن	I-PER
+ur:زہیر	I-PER
+
+ur:رجوع_مکرر	O
+ur:قائم	B-ORG
+ur:پور	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:چھٹی	B-ORG
+ur:افواج	I-ORG
+ur:ریاستہائے	I-ORG
+ur:متحدہ	I-ORG
+ur:امریکہ	I-ORG
+
+ur:گوجرخان	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+ur:(	O
+ur:GKN	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:آیت	B-PER
+ur:اللہ	I-PER
+ur:منتظری	I-PER
+
+ur:رجوع_مکرر	O
+ur:یمن	B-ORG
+ur:میں	I-ORG
+ur:حوثی	I-ORG
+ur:بغاوت	I-ORG
+
+ur:رجوع_مکرر	O
+ur:بلیو	B-ORG
+ur:آئی	I-ORG
+ur:لینڈ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ہیوسٹن	B-ORG
+ur:انڈیپنڈنٹ	I-ORG
+ur:اسکول	I-ORG
+ur:ڈسٹرکٹ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:فالکلینڈ،	B-LOC
+ur:شمالی	I-LOC
+ur:کیرولائنا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:نیشنل	B-ORG
+ur:کمرشل	I-ORG
+ur:بینک	I-ORG
+
+ur:1982	B-ORG
+ur:فیفا	I-ORG
+ur:عالمی	I-ORG
+ur:کپ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:اینڈرسن	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:تھرسٹن	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:نیبراسکا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:بون	B-ORG
+ur:(	I-ORG
+ur:مذہب	I-ORG
+ur:)	I-ORG
+
+ur:رجوع_مکرر	O
+ur:صحراوی	B-LOC
+ur:عرب	I-LOC
+ur:عوامی	I-LOC
+ur:جمہوریہ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:لیلہ	B-ORG
+ur:ٹاؤن	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:جسٹس	B-PER
+ur:صبیح	I-PER
+ur:الدین	I-PER
+
+ur:رجوع_مکرر	O
+ur:ڈیرہ	B-ORG
+ur:مراد	I-ORG
+ur:جمالی	I-ORG
+ur:آئبیکسز	I-ORG
+
+ur:رجوع_مکرر	O
+ur:مونٹیزوما	B-ORG
+ur:کاسٹل	I-ORG
+ur:نیشنل	I-ORG
+ur:منومنٹ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:سعید	B-PER
+ur:خان	I-PER
+ur:رنگیلا	I-PER
+
+ur:رجوع_مکرر	O
+ur:قتیبہ	B-PER
+ur:بن	I-PER
+ur:مسلم	I-PER
+
+ur:رجوع_مکرر	O
+ur:عثمانی	B-ORG
+ur:شجرہ	I-ORG
+ur:نسب	I-ORG
+ur:(	I-ORG
+ur:آسان	I-ORG
+ur:)	I-ORG
+
+ur:رجوع_مکرر	O
+ur:جلال	B-LOC
+ur:آباد	I-LOC
+ur:دزک	I-LOC
+
+ur:رجوع_مکرر	O
+ur:چیمپیئن	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:مینیسوٹا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:اسرائیل	B-ORG
+ur:کے	I-ORG
+ur:شہر	I-ORG
+
+ur:==	O
+ur:کاونٹ	B-PER
+ur:جولین	I-PER
+ur:کی	O
+ur:دعوت	O
+ur:==	O
+
+ur:نورجہاں	B-PER
+ur:(	I-PER
+ur:ملکہ	I-PER
+ur:)	I-PER
+
+ur:رجوع_مکرر	O
+ur:برطانوی	B-ORG
+ur:ہندی	I-ORG
+ur:فوج	I-ORG
+
+ur:رجوع_مکرر	O
+ur:بورڈ	B-ORG
+ur:آف	I-ORG
+ur:انٹرمیڈیٹ	I-ORG
+ur:اینڈ	I-ORG
+ur:سیکنڈری	I-ORG
+ur:ایجوکیشن،	I-ORG
+ur:لاڑکانہ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:محمد	B-PER
+ur:عاکف	I-PER
+ur:ارصوی	I-PER
+
+ur:رجوع_مکرر	O
+ur:طلحہ	B-PER
+ur:بن	I-PER
+ur:عبید	I-PER
+ur:اللہ	I-PER
+
+ur:چک	B-ORG
+ur:نورنگ	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:صلاح	B-PER
+ur:الدین	I-PER
+ur:ایوبی	I-PER
+
+ur:احمدیہ	B-ORG
+ur:مسلم	I-ORG
+ur:جماعت	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ایکٹن	B-LOC
+ur:علاقائی	I-LOC
+ur:کاؤنٹی	I-LOC
+ur:بلدیہ،	I-LOC
+ur:کیوبیک	I-LOC
+
+ur:اے	B-ORG
+ur:آر	I-ORG
+ur:وائی	I-ORG
+ur:کیو	I-ORG
+ur:ٹی	I-ORG
+ur:وی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:پرتگیزی	B-ORG
+ur:ایسٹ	I-ORG
+ur:انڈیا	I-ORG
+ur:کمپنی	I-ORG
+
+ur:شیریں	B-PER
+ur:عبادی	I-PER
+ur:(	O
+ur:born	O
+ur:21	O
+ur:June	O
+ur:1947	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:علی	B-ORG
+ur:گڑھ	I-ORG
+ur:مسلم	I-ORG
+ur:یونیورسٹی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:منہاج	B-ORG
+ur:ویلفیئر	I-ORG
+ur:فاؤنڈیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:شاہ	B-PER
+ur:عبداللطیف	I-PER
+ur:بھٹائی	I-PER
+
+ur:رجوع_مکرر	O
+ur:عائشہ	B-PER
+ur:خاتون	I-PER
+ur:(	I-PER
+ur:مراد	I-PER
+ur:رابع	I-PER
+ur:کی	I-PER
+ur:بیوی	I-PER
+ur:)	I-PER
+
+ur:رجوع_مکرر	O
+ur:کارل	B-PER
+ur:ایڈلف	I-PER
+ur:گجرلپ	I-PER
+
+ur:رجوع_مکرر	O
+ur:ٹیٹن	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:وائیومنگ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:عبد	B-PER
+ur:اللہ	I-PER
+ur:ابن	I-PER
+ur:زبیر	I-PER
+
+ur:کومسٹس	B-ORG
+ur:انسٹیٹیوٹ	I-ORG
+ur:آف	I-ORG
+ur:انفارمیشن	I-ORG
+ur:ٹیکنالوجی	I-ORG
+ur:,	O
+ur:اسلام	B-LOC
+ur:آباد	I-LOC
+ur:(	O
+ur:ایبٹ	B-LOC
+ur:آباد	I-LOC
+ur:Campus	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:میجر	B-PER
+ur:محمد	I-PER
+ur:اکرم	I-PER
+ur:شہید	I-PER
+
+ur:چک	B-ORG
+ur:عصمت	I-ORG
+ur:الله	I-ORG
+ur:ہالٹ	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:مونٹگمری	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:مونٹگمری	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:پنسلوانیا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:متھن	B-PER
+ur:(	I-PER
+ur:موسیقار	I-PER
+ur:)	I-PER
+
+ur:رجوع_مکرر	O
+ur:پلیزینٹ	B-LOC
+ur:ہل،	I-LOC
+ur:ڈیلاس	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:الاباما	I-LOC
+
+ur:رجوع_مکرر	O
+ur:بہاؤالدین	B-PER
+ur:نقشبندی	I-PER
+ur:بخاری	I-PER
+
+ur:رجوع_مکرر	O
+ur:نیشیمومیا	B-LOC
+ur:,	I-LOC
+ur:ہیوگو	I-LOC
+
+ur:رجوع_مکرر	O
+ur:آر	B-PER
+ur:اے	I-PER
+ur:نکلسن	I-PER
+
+ur:رجوع_مکرر	O
+ur:لیبیا	B-ORG
+ur:خانہ	I-ORG
+ur:جنگی	I-ORG
+ur:(	I-ORG
+ur:2011ء	I-ORG
+ur:)	I-ORG
+
+ur:رجوع_مکرر	O
+ur:2002ء	B-ORG
+ur:کراچی	I-ORG
+ur:بس	I-ORG
+ur:پر	I-ORG
+ur:بم	I-ORG
+ur:حملہ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:لافراگوا	B-LOC
+ur:(	I-LOC
+ur:میونسپلٹی	I-LOC
+ur:)	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ایون	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:لیک	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:الینوائے	I-LOC
+
+ur:بھارتی	B-ORG
+ur:نوبل	I-ORG
+ur:انعام	I-ORG
+ur:یافتگان	I-ORG
+
+ur:روہڑی	B-ORG
+ur:جنکشن	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:بنہ	B-LOC
+ur:تھوے	I-LOC
+ur:ضلع	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ڈربی	B-PER
+ur:لائڈ	I-PER
+ur:رینز	I-PER
+
+ur:یاکوبس	B-PER
+ur:ہینریکوس	I-PER
+ur:وانت	I-PER
+ur:ہوف	I-PER
+
+ur:رجوع_مکرر	O
+ur:آئرن	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:یوٹاہ	I-LOC
+
+ur:'	O
+ur:''	O
+ur:شعیب	B-PER
+ur:ملک	I-PER
+ur:''	O
+ur:'	O
+
+ur:رجوع_مکرر	O
+ur:الطاف	B-PER
+ur:حسین	I-PER
+ur:حالی	I-PER
+
+ur:'	O
+ur:''	O
+ur:یگال	B-PER
+ur:آلون	I-PER
+ur:''	O
+ur:'	O
+
+ur:رجوع_مکرر	O
+ur:احمد	B-PER
+ur:بن	I-PER
+ur:علی	I-PER
+ur:الثانی	I-PER
+
+ur:رجوع_مکرر	O
+ur:بال	B-PER
+ur:گنگا	I-PER
+ur:دھر	I-PER
+ur:تلک	I-PER
+
+ur:فرح	B-PER
+ur:دیبا	I-PER
+ur:پہلوی	I-PER
+
+ur:رجوع_مکرر	O
+ur:تووائی	B-ORG
+ur:عوامی	I-ORG
+ur:جمہوریہ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ہیلی	B-ORG
+ur:ایئر	I-ORG
+ur:موناکو	I-ORG
+
+ur:رجوع_مکرر	O
+ur:میرا	B-ORG
+ur:سلطان	I-ORG
+ur:(	I-ORG
+ur:سیریل	I-ORG
+ur:)	I-ORG
+
+ur:رجوع_مکرر	O
+ur:روزنامہ	B-ORG
+ur:ٹیلی	I-ORG
+ur:گراف	I-ORG
+
+ur:رجوع_مکرر	O
+ur:محمد	B-PER
+ur:اسد	I-PER
+ur:الله	I-PER
+ur:الغالب	I-PER
+
+ur:رجوع_مکرر	O
+ur:کے	B-PER
+ur:آر	I-PER
+ur:نارائن	I-PER
+
+ur:رجوع_مکرر	O
+ur:کالاویریس	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:کیلیفورنیا	I-LOC
+
+ur:ولٹن،	B-LOC
+ur:سومرسیٹ	I-LOC
+ur:(	O
+ur:1885	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:عبد	B-PER
+ur:الستار	I-PER
+ur:ایدھی	I-PER
+
+ur:رجوع_مکرر	O
+ur:زاوالا	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:ٹیکساس	I-LOC
+
+ur:رجوع_مکرر	O
+ur:آل	B-ORG
+ur:انڈیا	I-ORG
+ur:مسلم	I-ORG
+ur:لیگ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:شاہ	B-PER
+ur:رخ	I-PER
+ur:تیموری	I-PER
+
+ur:فہرست	B-ORG
+ur:ممالک	I-ORG
+ur:بلحاظ	I-ORG
+ur:رقبہ	I-ORG
+
+ur:قطب	B-PER
+ur:الدین	I-PER
+ur:بختیار	I-PER
+ur:کاکی	I-PER
+
+ur:رجوع_مکرر	O
+ur:جزیرہ	B-LOC
+ur:نما	I-LOC
+ur:کریمیا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:تالسا	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:اوکلاہوما	I-LOC
+
+ur:جمعیت	B-ORG
+ur:اتحاد	I-ORG
+ur:و	I-ORG
+ur:ترقی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:تنظیم	B-ORG
+ur:برائے	I-ORG
+ur:بین	I-ORG
+ur:الاقوامی	I-ORG
+ur:عفو	I-ORG
+ur:عام	I-ORG
+
+ur:مریدکے	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+ur:(	O
+ur:MDK	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:صفر	B-PER
+ur:مراد	I-PER
+ur:نیازاف	I-PER
+
+ur:رجوع_مکرر	O
+ur:مجد	B-PER
+ur:الدین	I-PER
+ur:فیروز	I-PER
+ur:آبادی	I-PER
+
+ur:رجوع_مکرر	O
+ur:فیئرویو	B-LOC
+ur:پارک،	I-LOC
+ur:اوہائیو	I-LOC
+
+ur:رجوع_مکرر	O
+ur:گرین	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:ٹینیسی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:لاکین	B-LOC
+ur:ٹاؤنشپ،	I-LOC
+ur:ہاروی	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:کنساس	I-LOC
+
+ur:'	O
+ur:''	O
+ur:کل	O
+ur:بھارت	B-LOC
+ur:اوسط	O
+ur:''	O
+ur:'	O
+
+ur:'	O
+ur:''	O
+ur:پوزنان	B-LOC
+ur:''	O
+ur:'	O
+
+ur:رجوع_مکرر	O
+ur:رحیمہ	B-PER
+ur:پریستو	I-PER
+ur:سلطان	I-PER
+
+ur:رجوع_مکرر	O
+ur:2000ء	B-ORG
+ur:میں	I-ORG
+ur:پاکستان	I-ORG
+ur:میں	I-ORG
+ur:دہشت	I-ORG
+ur:گردی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:جارج	B-PER
+ur:ایمل	I-PER
+ur:پلاڈے	I-PER
+
+ur:رجوع_مکرر	O
+ur:جارج	B-LOC
+ur:ٹاؤن،	I-LOC
+ur:پرائیس	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:وسکونسن	I-LOC
+
+ur:رجوع_مکرر	O
+ur:غلام	B-PER
+ur:ربانی	I-PER
+ur:آگرو	I-PER
+
+ur:رجوع_مکرر	O
+ur:واٹر	B-LOC
+ur:ٹاؤن	I-LOC
+ur:(	I-LOC
+ur:ٹاؤن	I-LOC
+ur:)	I-LOC
+ur:،	I-LOC
+ur:وسکونسن	I-LOC
+
+ur:جند	B-ORG
+ur:جنکشن	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:رودلف	B-PER
+ur:2	I-PER
+ur:ہیبسبرگ	I-PER
+
+ur:رجوع_مکرر	O
+ur:اورلینز	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:ورمونٹ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ابراہیم	B-PER
+ur:بن	I-PER
+ur:ادہم	I-PER
+
+ur:رجوع_مکرر	O
+ur:سری	B-ORG
+ur:لنکا	I-ORG
+ur:کرکٹ	I-ORG
+ur:ٹیم	I-ORG
+ur:پر	I-ORG
+ur:حملہ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:داتو	B-LOC
+ur:عبداللہ	I-LOC
+ur:سانگکی،	I-LOC
+ur:ماگوئنداناؤ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:بوکا	B-LOC
+ur:دیل	I-LOC
+ur:ریو،	I-LOC
+ur:ویراکروز	I-LOC
+
+ur:سینٹ	B-LOC
+ur:جارج،	I-LOC
+ur:لاوڈرہل،	I-LOC
+ur:فلوریڈا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:2013ء	B-ORG
+ur:مصری	I-ORG
+ur:فوجی	I-ORG
+ur:تاخت	I-ORG
+
+ur:رجوع_مکرر	O
+ur:خلیفہ	B-PER
+ur:بن	I-PER
+ur:زائد	I-PER
+ur:آل	I-PER
+ur:نہیان	I-PER
+
+ur:رجوع_مکرر	O
+ur:جارج	B-PER
+ur:دوم،	I-PER
+ur:برطانیہ	I-PER
+ur:عظمی	I-PER
+
+ur:رجوع_مکرر	O
+ur:ماؤنٹ	B-LOC
+ur:کیرل،	I-LOC
+ur:الینوائے	I-LOC
+
+ur:محمد	B-PER
+ur:صلی	I-PER
+ur:اللہ	I-PER
+ur:علیہ	I-PER
+ur:و	I-PER
+ur:آلہ	I-PER
+ur:و	I-PER
+ur:سلم	I-PER
+
+ur:کیپٹن	B-PER
+ur:محمد	I-PER
+ur:سرور	I-PER
+ur:شہید	I-PER
+
+ur:مظفر	B-ORG
+ur:آباد	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:منڈی،	B-LOC
+ur:ہماچل	I-LOC
+ur:پردیش	I-LOC
+
+ur:عبد	B-PER
+ur:اللہ	I-PER
+ur:گل	I-PER
+
+ur:ہانگ	B-LOC
+ur:کانگ	I-LOC
+ur:(	O
+ur:چین	B-LOC
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:گولڈسٹریم	B-LOC
+ur:دریا،	I-LOC
+ur:وینکوور	I-LOC
+ur:جزیرہ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ساحلی	B-LOC
+ur:رورل	I-LOC
+ur:ضلع	I-LOC
+
+ur:رجوع_مکرر	O
+ur:کوری،	B-LOC
+ur:اسلام	I-LOC
+ur:آباد	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ولیم	B-PER
+ur:میک	I-PER
+ur:کنلے	I-PER
+
+ur:رجوع_مکرر	O
+ur:جبران	B-PER
+ur:خلیل	I-PER
+ur:جبران	B-PER
+
+ur:سید	B-PER
+ur:مصطفیٰ	I-PER
+ur:کمال	I-PER
+
+ur:رجوع_مکرر	O
+ur:ہومز	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:مسیسپی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ایروپلیکن	B-ORG
+ur:ایئر	I-ORG
+ur:سروسز	I-ORG
+
+ur:رجوع_مکرر	O
+ur:جنوبی	B-LOC
+ur:ایکٹن،	I-LOC
+ur:لندن	I-LOC
+
+ur:عائشہ	B-PER
+ur:بنت	I-PER
+ur:ابی	I-PER
+ur:بکر	I-PER
+
+ur:رجوع_مکرر	O
+ur:وجیہ	B-PER
+ur:الدین	I-PER
+ur:احمد	I-PER
+
+ur:رجوع_مکرر	O
+ur:پاکستان	B-ORG
+ur:پیپلز	I-ORG
+ur:پارٹی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ڈیوس	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:یوٹاہ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:گارفیلڈ	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:واشنگٹن	I-LOC
+
+ur:اصغر	B-ORG
+ur:علی	I-ORG
+ur:شاہ	I-ORG
+ur:کرکٹ	I-ORG
+ur:اسٹیڈیم	I-ORG
+
+ur:رجوع_مکرر	O
+ur:پلیزینٹ	B-ORG
+ur:ہل،	I-ORG
+ur:کینٹکی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ابن	B-ORG
+ur:جریر	I-ORG
+ur:طبری	I-ORG
+
+ur:رجوع_مکرر	O
+ur:گوانگژو	B-ORG
+ur:بین	I-ORG
+ur:الاقوامی	I-ORG
+ur:فنانس	I-ORG
+ur:سینٹر	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ایرا	B-ORG
+ur:ایوی	I-ORG
+ur:ایشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:آدم	B-ORG
+ur:جی	I-ORG
+ur:سائنس	I-ORG
+ur:کالج	I-ORG
+
+ur:رجوع_مکرر	O
+ur:حسین	B-PER
+ur:ابن	I-PER
+ur:علی	I-PER
+
+ur:رجوع_مکرر	O
+ur:صوفی	B-ORG
+ur:آباد	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:کیرول	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:اوہائیو	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ویٹلینڈ	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:فائیٹ	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:الینوائے	I-LOC
+
+ur:رجوع_مکرر	O
+ur:بلدیہ	B-ORG
+ur:ماوروو	I-ORG
+ur:اور	I-ORG
+ur:روستوشا	I-ORG
+
+ur:رجوع_مکرر	O
+ur:وائن	B-LOC
+ur:ماؤنٹ	I-LOC
+ur:ویسٹ	I-LOC
+ur:آبشار	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ابراہیم	B-PER
+ur:ابن	I-PER
+ur:محمد	I-PER
+
+ur:رجوع_مکرر	O
+ur:بن	B-PER
+ur:یمین	I-PER
+ur:فرینکلن	I-PER
+
+ur:رجوع_مکرر	O
+ur:موہن	B-PER
+ur:داس	I-PER
+ur:گاندھی	I-PER
+
+ur:رجوع_مکرر	O
+ur:سید	B-PER
+ur:علی	I-PER
+ur:محمد	I-PER
+ur:باب	I-PER
+
+ur:رجوع_مکرر	O
+ur:جارسی،	B-LOC
+ur:لاانے-ورو	I-LOC
+ur:کاؤنٹی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:آرنلڈ	B-PER
+ur:ٹائن	I-PER
+ur:بی	I-PER
+
+ur:رجوع_مکرر	O
+ur:اگست	B-PER
+ur:فرڈیننڈ	I-PER
+ur:موبیوس	I-PER
+
+ur:رجوع_مکرر	O
+ur:وینڈم	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:بریڈفورڈ	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:پنسلوانیا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:نیشنل	B-ORG
+ur:ڈیفنس	I-ORG
+ur:یونیورسٹی،	I-ORG
+ur:پاکستان	I-ORG
+
+ur:پاکستان	B-ORG
+ur:مسلم	I-ORG
+ur:لیگ	I-ORG
+ur:(	I-ORG
+ur:ن	I-ORG
+ur:)	I-ORG
+
+ur:ابو	B-ORG
+ur:ریحان	I-ORG
+ur:البیرونی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ارجنٹائن	B-ORG
+ur:قومی	I-ORG
+ur:فٹ	I-ORG
+ur:بال	I-ORG
+ur:ٹیم	I-ORG
+
+ur:رجوع_مکرر	O
+ur:جینیفر	B-PER
+ur:جونز	I-PER
+ur:(	I-PER
+ur:اداکارہ	I-PER
+ur:)	I-PER
+
+ur:رجوع_مکرر	O
+ur:صوبہ	B-LOC
+ur:ام	I-LOC
+ur:البواقی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:بلانکا	B-PER
+ur:(	I-PER
+ur:اسٹریٹ	I-PER
+ur:فائٹر	I-PER
+ur:)	I-PER
+
+ur:رجوع_مکرر	O
+ur:گرینڈ	B-ORG
+ur:جامع	I-ORG
+ur:مسجد	I-ORG
+
+ur:رجوع_مکرر	O
+ur:مقدونیہ،	B-LOC
+ur:ساؤ	I-LOC
+ur:پاؤلو	I-LOC
+
+ur:رجوع_مکرر	O
+ur:نور	B-PER
+ur:محمد	I-PER
+ur:مہاروی	I-PER
+
+ur:رجوع_مکرر	O
+ur:بہاؤالدین	B-PER
+ur:زکریا	I-PER
+ur:ملتانی	I-PER
+
+ur:رجوع_مکرر	O
+ur:نظام	B-ORG
+ur:سما	I-ORG
+ur:ہالٹ	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:جمال	B-LOC
+ur:آباد	I-LOC
+ur:نظامی	I-LOC
+ur:وند	I-LOC
+
+ur:رجوع_مکرر	O
+ur:تحریک	B-ORG
+ur:بحالی	I-ORG
+ur:جمہوریت	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ابو	B-PER
+ur:الکلام	I-PER
+ur:آزاد	I-PER
+
+ur:رجوع_مکرر	O
+ur:اللہ	B-PER
+ur:رکھا	I-PER
+ur:رحمان	I-PER
+
+ur:رجوع_مکرر	O
+ur:جمال	B-LOC
+ur:آباد	I-LOC
+ur:دیہی	I-LOC
+ur:ضلع	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ٹسکروس،	B-LOC
+ur:کشکٹن	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:اوہائیو	I-LOC
+
+ur:مملکت	B-PER
+ur:عراق	I-PER
+ur:(	I-PER
+ur:تعہدی	I-PER
+ur:انتظامیہ	I-PER
+ur:)	I-PER
+
+ur:براؤدآباد	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+ur:(	O
+ur:BKB	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:یادگار	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:ممنون	B-PER
+ur:حسین	I-PER
+ur:(	O
+ur:1940–	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:ارک	B-PER
+ur:ایف.	I-PER
+ur:وسچاوس	I-PER
+
+ur:رجوع_مکرر	O
+ur:بابا	B-PER
+ur:فرید	I-PER
+ur:الدین	I-PER
+ur:گنج	I-PER
+ur:شکر	I-PER
+
+ur:رجوع_مکرر	O
+ur:کپیسا	B-ORG
+ur:میں	I-ORG
+ur:خواتین	I-ORG
+ur:کا	I-ORG
+ur:مرکز	I-ORG
+
+ur:رجوع_مکرر	O
+ur:پیرانوالہ	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:علی	B-PER
+ur:بن	I-PER
+ur:ابی	I-PER
+ur:طالب	I-PER
+
+ur:رجوع_مکرر	O
+ur:محمد	B-PER
+ur:کریم	I-PER
+ur:(	I-PER
+ur:الپائین	I-PER
+ur:اسکیر	I-PER
+ur:)	I-PER
+
+ur:نائف	B-PER
+ur:بن	I-PER
+ur:عبدالعزیز	I-PER
+ur:آل	I-PER
+ur:سعود	I-PER
+
+ur:رجوع_مکرر	O
+ur:راجہ	B-PER
+ur:سروپ	I-PER
+ur:خان	I-PER
+
+ur:رجوع_مکرر	O
+ur:بوٹ	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:کیلیفورنیا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:یارک	B-LOC
+ur:بیچ،	I-LOC
+ur:مہینے	I-LOC
+
+ur:رجوع_مکرر	O
+ur:فیئرمونٹ،	B-LOC
+ur:شمالی	I-LOC
+ur:کیرولائنا	I-LOC
+
+ur:ریشم	B-PER
+ur:(	I-PER
+ur:اداکارہ	I-PER
+ur:)	I-PER
+
+ur:رجوع_مکرر	O
+ur:ابراہیم	B-PER
+ur:بن	I-PER
+ur:ادہم	I-PER
+
+ur:سعید	B-PER
+ur:الزماں	I-PER
+ur:صدیقی	I-PER
+ur:-	O
+ur:153	O
+ur:ووٹ	O
+
+ur:رجوع_مکرر	O
+ur:ہیروک	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:مظفر	B-ORG
+ur:آباد	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+ur:(	O
+ur:MZJ	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:شیریں	B-PER
+ur:(	I-PER
+ur:اداکارہ	I-PER
+ur:)	I-PER
+
+ur:بیت	B-LOC
+ur:اللحم	I-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:سٹارک	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:اوہائیو	I-LOC
+
+ur:رجوع_مکرر	O
+ur:عبدالعزیز	B-PER
+ur:ابن	I-PER
+ur:سعود	I-PER
+
+ur:رجوع_مکرر	O
+ur:صبر	B-ORG
+ur:(	I-ORG
+ur:پودا	I-ORG
+ur:)	I-ORG
+
+ur:رجوع_مکرر	O
+ur:پونا	B-LOC
+ur:بایاباو،	I-LOC
+ur:لاناؤ	I-LOC
+ur:جنوبی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ریمیش	B-LOC
+ur:(	I-LOC
+ur:صوبہ	I-LOC
+ur:)	I-LOC
+
+ur:فہرست	B-ORG
+ur:قبرص	I-ORG
+ur:کے	I-ORG
+ur:شہر	I-ORG
+
+ur:رجوع_مکرر	O
+ur:مہا	B-PER
+ur:رشی	I-PER
+ur:مہیش	I-PER
+ur:یوگی	I-PER
+
+ur:رجوع_مکرر	O
+ur:محمد	B-PER
+ur:صلی	I-PER
+ur:اللہ	I-PER
+ur:علیہ	I-PER
+ur:و	I-PER
+ur:آلہ	I-PER
+ur:و	I-PER
+ur:سلم	I-PER
+
+ur:رجوع_مکرر	O
+ur:روسی	B-ORG
+ur:آرتھوڈاکس	I-ORG
+ur:چرچ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:یوم	B-ORG
+ur:راست	I-ORG
+ur:اقدام	I-ORG
+
+ur:رجوع_مکرر	O
+ur:وزیر	B-ORG
+ur:اعظم	I-ORG
+ur:ترکی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:فہرست	B-ORG
+ur:قومی	I-ORG
+ur:دارالحکومت	I-ORG
+ur:بلحاظ	I-ORG
+ur:کثافت	I-ORG
+ur:آبادی	I-ORG
+
+ur:'	O
+ur:''	O
+ur:کراچی	B-LOC
+ur:''	O
+ur:'	O
+
+ur:رجوع_مکرر	O
+ur:سنجے	B-PER
+ur:لیلا	I-PER
+ur:بھنسالی	I-PER
+
+ur:الہ	B-LOC
+ur:آباد	I-LOC
+ur:،	O
+ur:آگرہ	B-LOC
+ur:،	O
+ur:جھانسی	B-LOC
+
+ur:حضرت	O
+ur:زینب	B-PER
+ur:بنت	I-PER
+ur:علی	I-PER
+
+ur:رجوع_مکرر	O
+ur:پرتگال	B-LOC
+ur:کے	I-LOC
+ur:اضلاع	I-LOC
+
+ur:رجوع_مکرر	O
+ur:میر	B-PER
+ur:گل	I-PER
+ur:خان	I-PER
+ur:نصیر	I-PER
+
+ur:رجوع_مکرر	O
+ur:بہاؤالدین	B-PER
+ur:زکریا	I-PER
+ur:ملتانی	I-PER
+
+ur:رجوع_مکرر	O
+ur:اوکاڑہ	B-ORG
+ur:کینٹ	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:'	O
+ur:''	O
+ur:عراق	B-LOC
+ur:''	O
+ur:'	O
+
+ur:رجوع_مکرر	O
+ur:بادل	B-ORG
+ur:نالا	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:شاہراستی	B-LOC
+ur:ذیلی	I-LOC
+ur:ضلع	I-LOC
+
+ur:رجوع_مکرر	O
+ur:کیپٹن	B-PER
+ur:محمد	I-PER
+ur:سرور	I-PER
+ur:شہید	I-PER
+
+ur:رجوع_مکرر	O
+ur:ووڈلینڈ	B-ORG
+ur:(	I-ORG
+ur:سینٹ	I-ORG
+ur:تھامس	I-ORG
+ur:ٹاؤن	I-ORG
+ur:شپ،	I-ORG
+ur:فرینکلن	I-ORG
+ur:کاؤنٹی،	I-ORG
+ur:پنسلوانیا	I-ORG
+ur:)	I-ORG
+
+ur:رجوع_مکرر	O
+ur:مونٹی	B-ORG
+ur:نیگرو	I-ORG
+ur:ایئر	I-ORG
+ur:لائنز	I-ORG
+
+ur:رجوع_مکرر	O
+ur:چولوتیکا	B-LOC
+ur:,	I-LOC
+ur:چولوتیکا	B-LOC
+
+ur:رجوع_مکرر	O
+ur:دریائے	B-LOC
+ur:چاو	I-LOC
+ur:پھرایا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:وزیر	B-ORG
+ur:اعظم	I-ORG
+ur:پاکستان	I-ORG
+
+ur:**	O
+ur:فخرالدین	B-PER
+ur:جی	I-PER
+ur:ابراہیم،	I-PER
+ur:(	O
+ur:وکیل	O
+ur:)	O
+
+ur:'	O
+ur:''	O
+ur:بلیدہ	B-LOC
+ur:''	O
+ur:'	O
+
+ur:شاہ	B-PER
+ur:رخ	I-PER
+ur:خان،	I-PER
+ur:کٹرینا	B-PER
+ur:کیف،	I-PER
+
+ur:رجوع_مکرر	O
+ur:آبگرم	B-LOC
+ur:(	I-LOC
+ur:نائین	I-LOC
+ur:)	I-LOC
+
+ur:رجوع_مکرر	O
+ur:علی	B-PER
+ur:بن	I-PER
+ur:ابی	I-PER
+ur:طالب	I-PER
+
+ur:Patrick	B-ORG
+ur:M.	I-ORG
+ur:S.	I-ORG
+ur:Blackett	I-ORG
+
+ur:خواجہ	B-PER
+ur:ناظم	I-PER
+ur:الدین	I-PER
+ur:(	O
+ur:1894–1964	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:شیث	B-PER
+ur:علیہ	I-PER
+ur:السلام	I-PER
+
+ur:رجوع_مکرر	O
+ur:اومفانگ	B-ORG
+ur:تی	I-ORG
+ur:لر	I-ORG
+ur:سو	I-ORG
+ur:آبشار	I-ORG
+
+ur:رجوع_مکرر	O
+ur:سد	B-LOC
+ur:آباد،	I-LOC
+ur:زاویہ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ماسیو،	B-LOC
+ur:لاناؤ	I-LOC
+ur:جنوبی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:جموں	B-LOC
+ur:و	I-LOC
+ur:کشمیر	I-LOC
+
+ur:رجوع_مکرر	O
+ur:شمس	B-PER
+ur:الرحمٰن	I-PER
+ur:فاروقی	I-PER
+
+ur:تارندہ	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+ur:(	O
+ur:TRD	O
+ur:)	O
+
+ur:لال	B-ORG
+ur:سوہانرا	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:نہ	B-ORG
+ur:ٹوٹے	I-ORG
+ur:رشتہ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ارووی	B-LOC
+ur:کوژی	I-LOC
+ur:آبشار	I-LOC
+
+ur:رجوع_مکرر	O
+ur:رچمنڈ	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:شمالی	I-LOC
+ur:کیرولائنا	I-LOC
+
+ur:کرسچئین	O
+ur:(	O
+ur:راسخُ	B-ORG
+ur:الا	I-ORG
+ur:عتقاد	I-ORG
+ur:کلیسا	I-ORG
+ur:)	O
+
+ur:'	O
+ur:''	O
+ur:سینٹ	B-LOC
+ur:وینسینٹ	I-LOC
+ur:و	I-LOC
+ur:گریناڈائنز	I-LOC
+ur:''	O
+ur:'	O
+
+ur:مخدوم	B-ORG
+ur:صاحب	I-ORG
+ur:ہالٹ	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ساؤ	B-LOC
+ur:ٹومے	I-LOC
+ur:و	I-LOC
+ur:پرنسپے	I-LOC
+
+ur:رجوع_مکرر	O
+ur:محمد	B-PER
+ur:بن	I-PER
+ur:ثانی	I-PER
+ur:الثانی	I-PER
+
+ur:رجوع_مکرر	O
+ur:لا	B-LOC
+ur:کونکوردیا	I-LOC
+ur:کینٹون	I-LOC
+
+ur:عمر	B-ORG
+ur:خیام	I-ORG
+ur:(	O
+ur:1048–1131	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:محمد	B-PER
+ur:ابراہیم	I-PER
+ur:ذوق	I-PER
+
+ur:رجوع_مکرر	O
+ur:فاؤنٹین	B-LOC
+ur:ہل،	I-LOC
+ur:پنسلوانیا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:بہاؤالدین	B-PER
+ur:نقشبندی	I-PER
+ur:بخاری	I-PER
+
+ur:رجوع_مکرر	O
+ur:جنوبی	B-ORG
+ur:کوریا	I-ORG
+ur:شراکت	I-ORG
+ur:ایشیائی	I-ORG
+ur:کھیل	I-ORG
+ur:2014	I-ORG
+
+ur:محمد	B-PER
+ur:صلی	I-PER
+ur:اللہ	I-PER
+ur:علیہ	I-PER
+ur:و	I-PER
+ur:آلہ	I-PER
+ur:و	I-PER
+ur:سلم	I-PER
+
+ur:کاذبی	B-ORG
+ur:تصادفی	I-ORG
+ur:عدد	I-ORG
+ur:مولّد	I-ORG
+
+ur:ٹوبیاس	B-PER
+ur:مائیکل	I-PER
+ur:کارل	I-PER
+ur:اسر	I-PER
+
+ur:'	O
+ur:''	O
+ur:گوانگڈونگ	B-LOC
+ur:''	O
+ur:'	O
+
+ur:رجوع_مکرر	O
+ur:راجہ	B-ORG
+ur:جنگ	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:کلیبرن	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:الاباما	I-LOC
+
+ur:رجوع_مکرر	O
+ur:اور	B-LOC
+ur:(	I-LOC
+ur:محکمہ	I-LOC
+ur:)	I-LOC
+
+ur:رجوع_مکرر	O
+ur:صدر	B-ORG
+ur:متحدہ	I-ORG
+ur:عرب	I-ORG
+ur:امارات	I-ORG
+
+ur:رجوع_مکرر	O
+ur:پرمبی	B-LOC
+ur:کولم	I-LOC
+ur:جنگلی	I-LOC
+ur:حیات	I-LOC
+ur:پناہ	I-LOC
+ur:گاہ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:اکرا	B-ORG
+ur:(	I-ORG
+ur:قلعہ	I-ORG
+ur:)	I-ORG
+
+ur:رجوع_مکرر	O
+ur:1938	B-ORG
+ur:فیفا	I-ORG
+ur:عالمی	I-ORG
+ur:کپ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:پورٹیج	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:ہینکوک	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:اوہائیو	I-LOC
+
+ur:رجوع_مکرر	O
+ur:بھارتیہ	B-ORG
+ur:مارکسوادی	I-ORG
+ur:کمیونسٹ	I-ORG
+ur:پارٹی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:علاء	B-PER
+ur:الدین	I-PER
+ur:خلجی	I-PER
+
+ur:محمد	B-PER
+ur:وحید	I-PER
+ur:الدین	I-PER
+
+ur:رجوع_مکرر	O
+ur:یارک،	B-ORG
+ur:پرنس	I-ORG
+ur:ایڈورڈ	I-ORG
+ur:آئی	I-ORG
+ur:لینڈ	I-ORG
+
+ur:رجوع_مکرر	O
+ur:گینیسی	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:مشی	I-LOC
+ur:گن	I-LOC
+
+ur:کٹا	B-ORG
+ur:کشتہ	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:آیت‌	B-PER
+ur:اللہ	I-PER
+ur:سید	I-PER
+ur:علی	I-PER
+ur:خامنہ	I-PER
+ur:ای	I-PER
+
+ur:رجوع_مکرر	O
+ur:برینڈن،	B-LOC
+ur:کاؤنٹی	I-LOC
+ur:ڈرہم	I-LOC
+
+ur:رجوع_مکرر	O
+ur:فہرست	B-ORG
+ur:ممالک	I-ORG
+ur:بلحاظ	I-ORG
+ur:فی	I-ORG
+ur:کس	I-ORG
+ur:ذاتی	I-ORG
+ur:آمدن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:یتلا،	B-LOC
+ur:سری	I-LOC
+ur:لنکا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:نور	B-PER
+ur:محمد	I-PER
+ur:مہاروی	I-PER
+
+ur:رجوع_مکرر	O
+ur:سروے	B-PER
+ur:پلی	I-PER
+ur:رادھاکرشنن	I-PER
+
+ur:لینس	B-PER
+ur:پالنگ	I-PER
+ur:لینس	B-PER
+ur:پالنگ	I-PER
+
+ur:رجوع_مکرر	O
+ur:رقیہ	B-PER
+ur:بنت	I-PER
+ur:محمد	I-PER
+
+ur:چوہدری	B-PER
+ur:رحمت	I-PER
+ur:علی	I-PER
+
+ur:آرائیں	B-ORG
+ur:روڈ	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:بلوچستان	B-ORG
+ur:یونیورسٹی	I-ORG
+ur:آف	I-ORG
+ur:انجینئرنگ	I-ORG
+ur:اینڈ	I-ORG
+ur:ٹیکنالوجی	I-ORG
+ur:خضدار	I-ORG
+
+ur:رجوع_مکرر	O
+ur:لانکیسٹر،	B-LOC
+ur:نیو	I-LOC
+ur:ہیمپ	I-LOC
+ur:شائر	I-LOC
+
+ur:رجوع_مکرر	O
+ur:چچانکا،	B-LOC
+ur:کیلتسے	I-LOC
+ur:کاؤنٹی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:جارج	B-PER
+ur:دوم،	I-PER
+ur:برطانیہ	I-PER
+ur:عظمی	I-PER
+
+ur:رجوع_مکرر	O
+ur:میڈیا	B-ORG
+ur:ون	I-ORG
+ur:ٹیلی	I-ORG
+ur:ویژن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:محمد	B-PER
+ur:بن	I-PER
+ur:عوض	I-PER
+ur:بن	I-PER
+ur:لادن	I-PER
+
+ur:رجوع_مکرر	O
+ur:ہائر	B-ORG
+ur:ایجوکیشن	I-ORG
+ur:کمیشن	I-ORG
+
+ur:ہرقل	B-PER
+ur:اپنے	O
+ur:امیروں	O
+ur:پر	O
+ur:انحصار	O
+ur:کرنے	O
+ur:پر	O
+ur:مجبور	O
+ur:تھا	O
+ur:اور	O
+ur:اس	O
+ur:کا	O
+ur:نتیجہ	O
+ur:مکمل	O
+ur:تباہی	O
+ur:ثابت	O
+ur:ہوا۔	O
+
+ur:رجوع_مکرر	O
+ur:پاکستان	B-ORG
+ur:مسلم	I-ORG
+ur:لیگ	I-ORG
+ur:(	I-ORG
+ur:ق	I-ORG
+ur:)	I-ORG
+
+ur:رجوع_مکرر	O
+ur:کنجوانی	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:محمد	B-PER
+ur:آفتاب	I-PER
+ur:عالم	I-PER
+ur:(	I-PER
+ur:نیپالی	I-PER
+ur:سیاستدان	I-PER
+ur:)	I-PER
+
+ur:جسٹس	O
+ur:سید	B-PER
+ur:سجاد	I-PER
+ur:علی	I-PER
+ur:شاہ،	I-PER
+
+ur:رجوع_مکرر	O
+ur:کیمبرج	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:گرنزی	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:اوہائیو	I-LOC
+
+ur:رجوع_مکرر	O
+ur:مونٹمورینسی	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:مشی	I-LOC
+ur:گن	I-LOC
+
+ur:رجوع_مکرر	O
+ur:حلقہ	B-LOC
+ur:این	I-LOC
+ur:اے۔255	I-LOC
+
+ur:رجوع_مکرر	O
+ur:موسولس	B-ORG
+ur:کا	I-ORG
+ur:مزار	I-ORG
+
+ur:رجوع_مکرر	O
+ur:راشد	B-PER
+ur:منہاس	I-PER
+ur:شہید	I-PER
+
+ur:رجوع_مکرر	O
+ur:عارف	B-PER
+ur:حسین	I-PER
+ur:الحسینی	I-PER
+
+ur:رجوع_مکرر	O
+ur:ہری	B-PER
+ur:ونش	I-PER
+ur:بچن	I-PER
+
+ur:(	O
+ur:نئی	B-LOC
+ur:دہلی	I-LOC
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:نیلس	B-PER
+ur:ریبرگ	I-PER
+ur:فنسن	I-PER
+
+ur:پاکستان	B-ORG
+ur:مسلم	I-ORG
+ur:لیگ	I-ORG
+ur:(	I-ORG
+ur:ن	I-ORG
+ur:)	I-ORG
+
+ur:رجوع_مکرر	O
+ur:یارموتھ	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:نوا	I-LOC
+ur:سکوٹیا	I-LOC
+
+ur:آدم	B-ORG
+ur:واہن	I-ORG
+ur:برج	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:رابرٹ	B-PER
+ur:جے۔	I-PER
+ur:شیلر	I-PER
+
+ur:'	O
+ur:''	O
+ur:عمر	B-PER
+ur:اکمل	I-PER
+ur:''	O
+ur:'	O
+
+ur:رجوع_مکرر	O
+ur:فرح	B-PER
+ur:دیبا	I-PER
+ur:پہلوی	I-PER
+
+ur:کنگن	B-ORG
+ur:پور	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:عبداللہ	B-PER
+ur:بن	I-PER
+ur:ابی	I-PER
+ur:السرح	O
+
+ur:رجوع_مکرر	O
+ur:خلیفہ	B-PER
+ur:بن	I-PER
+ur:حمد	I-PER
+ur:الثانی	I-PER
+
+ur:رجوع_مکرر	O
+ur:خواجہ	B-PER
+ur:احمد	I-PER
+ur:عباس	I-PER
+
+ur:رجوع_مکرر	O
+ur:رملہ	B-PER
+ur:بنت	I-PER
+ur:ابوسفیان	I-PER
+
+ur:رجوع_مکرر	O
+ur:لٹل	B-ORG
+ur:ڈیوس	I-ORG
+ur:آبشار	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ولبھ	B-PER
+ur:بھائی	I-PER
+ur:پٹیل	I-PER
+
+ur:دیبا	B-PER
+ur:،	O
+ur:روزینہ	O
+ur:،	O
+ur:ساقی	O
+ur:،	O
+ur:قوی	O
+ur:،	O
+ur:منور	O
+ur:ظریف	O
+
+ur:رجوع_مکرر	O
+ur:برززنکا،	B-LOC
+ur:کروسنو	I-LOC
+ur:ودرزہنسکے	I-LOC
+ur:کاؤنٹی	I-LOC
+
+ur:حبیب	B-PER
+ur:جالب	I-PER
+ur:(	O
+ur:1928–1993	O
+ur:)	O
+
+ur:چارلس	B-LOC
+ur:ٹاؤن،	I-LOC
+ur:کاؤنٹی	I-LOC
+ur:میو	I-LOC
+
+ur:رجوع_مکرر	O
+ur:ابوعبیدہ	B-PER
+ur:ابن	I-PER
+ur:جراح	I-PER
+
+ur:رجوع_مکرر	O
+ur:لاہور	B-ORG
+ur:کالج	I-ORG
+ur:برائے	I-ORG
+ur:خواتین	I-ORG
+ur:یونیورسٹی	I-ORG
+
+ur:پاکستان	B-ORG
+ur:مسلم	I-ORG
+ur:لیگ	I-ORG
+ur:(	I-ORG
+ur:ن	I-ORG
+ur:)	I-ORG
+
+ur:ریاض	B-PER
+ur:احمد	I-PER
+ur:گوھر	I-PER
+ur:شاہی	I-PER
+
+ur:''	O
+ur:'X=2	O
+ur:''	O
+ur:'	O
+ur:وارد	B-ORG
+ur:پاکستان	I-ORG
+
+ur:رجوع_مکرر	O
+ur:غازی	B-PER
+ur:علم	I-PER
+ur:دین	I-PER
+
+ur:رجوع_مکرر	O
+ur:حمید	B-PER
+ur:الدین	I-PER
+ur:فراہی	I-PER
+
+ur:'	O
+ur:''	O
+ur:احمد	B-PER
+ur:شہزاد	I-PER
+ur:''	O
+ur:'	O
+
+ur:دونوں	O
+ur:مواقع	O
+ur:پر	O
+ur:یہ	O
+ur:خصوصی	O
+ur:نمازیں	O
+ur:عام	O
+ur:طور	O
+ur:پر	O
+ur:عید	B-ORG
+ur:گاہ	I-ORG
+ur:میں	O
+ur:ادا	O
+ur:کی	O
+ur:جاتی	O
+ur:ہیں۔	O
+
+ur:رجوع_مکرر	O
+ur:1986	B-ORG
+ur:فیفا	I-ORG
+ur:عالمی	I-ORG
+ur:کپ	I-ORG
+
+ur:وائٹ	B-ORG
+ur:پلینز	I-ORG
+ur:(	I-ORG
+ur:پٹنم	I-ORG
+ur:کاؤنٹی،	I-ORG
+ur:ٹینیسی	I-ORG
+ur:)	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ڈائل	B-ORG
+ur:اپ	I-ORG
+ur:انٹرنیٹ	I-ORG
+ur:رسائی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:عبد	B-PER
+ur:الالہ	I-PER
+ur:بن	I-PER
+ur:علی	I-PER
+
+ur:رجوع_مکرر	O
+ur:خضر	B-PER
+ur:علیہ	I-PER
+ur:السلام	I-PER
+
+ur:جگدیش	B-PER
+ur:چندر	I-PER
+ur:بوس	I-PER
+
+ur:رجوع_مکرر	O
+ur:نور	B-PER
+ur:اللہ	I-PER
+ur:شوشتری	I-PER
+
+ur:سید	B-PER
+ur:محی	I-PER
+ur:الدیں	I-PER
+ur:قادری	I-PER
+ur:زور	I-PER
+
+ur:رجوع_مکرر	O
+ur:ینیول،	B-LOC
+ur:بے	I-LOC
+ur:سار	I-LOC
+
+ur:رجوع_مکرر	O
+ur:کولمبیا	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:جیکسن	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:مشی	I-LOC
+ur:گن	I-LOC
+
+ur:پروفیسر	B-PER
+ur:عبد	I-PER
+ur:الباری	I-PER
+
+ur:رجوع_مکرر	O
+ur:لا	B-LOC
+ur:کونشیتا،	I-LOC
+ur:کیلیفورنیا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:عبدالقادر	B-PER
+ur:(	I-PER
+ur:کرکٹ	I-PER
+ur:کھلاڑی	I-PER
+ur:)	I-PER
+
+ur:رجوع_مکرر	O
+ur:خان	B-PER
+ur:عبدالجبار	I-PER
+ur:خان	B-PER
+
+ur:رجوع_مکرر	O
+ur:قرینہ	B-LOC
+ur:(	I-LOC
+ur:مافوق	I-LOC
+ur:فطرت	I-LOC
+ur:)	I-LOC
+
+ur:محمود	B-PER
+ur:ہارون	I-PER
+ur:(	O
+ur:نگران	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:ٹونیکا	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:مسیسپی	I-LOC
+
+ur:پیری	B-PER
+ur:گلز	I-PER
+ur:ڈی	I-PER
+ur:جینز	I-PER
+
+ur:بئیر	B-LOC
+ur:کریک،	I-LOC
+ur:ساوک	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:وسکونسن	I-LOC
+
+ur:رجوع_مکرر	O
+ur:افغانستان	B-ORG
+ur:قومی	I-ORG
+ur:کرکٹ	I-ORG
+ur:ٹیم	I-ORG
+
+ur:رجوع_مکرر	O
+ur:جزیرہ	B-ORG
+ur:نما	I-ORG
+ur:باجا	I-ORG
+ur:کیلیفورنیا	I-ORG
+
+ur:رجوع_مکرر	O
+ur:نشترآباد	B-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:محمد	B-PER
+ur:ابراہیم	I-PER
+ur:خان	I-PER
+ur:جھگڑا	I-PER
+
+ur:فیئرفیکس	B-ORG
+ur:کاؤنٹی	I-ORG
+ur:پبلک	I-ORG
+ur:اسکول	I-ORG
+
+ur:'	O
+ur:''	O
+ur:پیرم	B-LOC
+ur:کرائی	I-LOC
+ur:''	O
+ur:'	O
+
+ur:جارجز	B-PER
+ur:جے	I-PER
+ur:ایف	I-PER
+ur:کوہلر	I-PER
+
+ur:رجوع_مکرر	O
+ur:پوکاہانٹس	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:آئیووا	I-LOC
+
+ur:'	O
+ur:''	O
+ur:کراچی	B-ORG
+ur:ڈولفنز	I-ORG
+ur:''	O
+ur:'	O
+
+ur:رجوع_مکرر	O
+ur:2014	B-ORG
+ur:فیفا	I-ORG
+ur:عالمی	I-ORG
+ur:کپ	I-ORG
+ur:گروپ	I-ORG
+ur:ایچ	I-ORG
+
+ur:عارف	B-ORG
+ur:والا	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رسالپور	B-ORG
+ur:کینٹ	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ایلسورتھ،	B-LOC
+ur:نیو	I-LOC
+ur:ہیمپشائر	I-LOC
+
+ur:رجوع_مکرر	O
+ur:شاہ	B-ORG
+ur:سلطان	I-ORG
+ur:ہالٹ	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:لاگوو،	B-LOC
+ur:سویبوڈزین	I-LOC
+ur:کاؤنٹی	I-LOC
+
+ur:جامع	B-ORG
+ur:القیروان	I-ORG
+ur:الاکبر	I-ORG
+
+ur:محمد	B-PER
+ur:صلی	I-PER
+ur:اللہ	I-PER
+ur:علیہ	I-PER
+ur:و	I-PER
+ur:آلہ	I-PER
+ur:و	I-PER
+ur:سلم	I-PER
+
+ur:رجوع_مکرر	O
+ur:ایڈمز	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:مسیسپی	I-LOC
+
+ur:رجوع_مکرر	O
+ur:برطانوی	B-ORG
+ur:ہندی	I-ORG
+ur:فوج	I-ORG
+
+ur:رجوع_مکرر	O
+ur:بارٹلیٹ،	B-LOC
+ur:نیو	I-LOC
+ur:ہیمپشائر	I-LOC
+
+ur:رجوع_مکرر	O
+ur:تہران	B-ORG
+ur:عجائب	I-ORG
+ur:گھر	I-ORG
+ur:برائے	I-ORG
+ur:عصری	I-ORG
+ur:فنون	I-ORG
+
+ur:رجوع_مکرر	O
+ur:اطالوی	B-LOC
+ur:جزیرہ	I-LOC
+ur:نما	I-LOC
+
+ur:رجوع_مکرر	O
+ur:توت	B-ORG
+ur:آئل	I-ORG
+ur:فیلڈ	I-ORG
+
+ur:سعید	B-PER
+ur:خان	I-PER
+ur:رنگیلا	I-PER
+
+ur:رجوع_مکرر	O
+ur:ثانی	B-PER
+ur:بن	I-PER
+ur:جاسم	I-PER
+ur:بن	I-PER
+ur:محمد	I-PER
+ur:الثانی	I-PER
+
+ur:اریا	B-PER
+ur:وارشل	I-PER
+ur:and	O
+ur:مائیکل	B-PER
+ur:لیوٹ	I-PER
+
+ur:محمد	B-PER
+ur:علی	I-PER
+ur:بوگرہ	I-PER
+ur:(	O
+ur:1909–1963	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:مرزا	B-PER
+ur:حسین	I-PER
+ur:علی	I-PER
+ur:نوری	I-PER
+
+ur:رجوع_مکرر	O
+ur:سید	B-PER
+ur:امیر	I-PER
+ur:الدین	I-PER
+ur:کدوائی	I-PER
+
+ur:رجوع_مکرر	O
+ur:اے	B-ORG
+ur:آر	I-ORG
+ur:وائی	I-ORG
+ur:نیوز	I-ORG
+
+ur:رجوع_مکرر	O
+ur:نیو	B-LOC
+ur:ٹاؤن	I-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:بکس	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:پنسلوانیا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:تنظیم	B-ORG
+ur:دعوت	I-ORG
+ur:اسلامی	I-ORG
+ur:افغانستان	I-ORG
+
+ur:قومی	B-ORG
+ur:عجائب	I-ORG
+ur:گھر	I-ORG
+ur:پاکستان	I-ORG
+
+ur:رجوع_مکرر	O
+ur:سید	B-PER
+ur:حسین	I-PER
+ur:طباطبائی	I-PER
+ur:بروجردی	I-PER
+
+ur:رجوع_مکرر	O
+ur:جان	B-PER
+ur:جیمز	I-PER
+ur:رکرڈ	I-PER
+ur:میکلاؤڈ	I-PER
+
+ur:رجوع_مکرر	O
+ur:رایؤ	B-PER
+ur:(	I-PER
+ur:اسٹریٹ	I-PER
+ur:فائٹر	I-PER
+ur:)	I-PER
+
+ur:حضرت	O
+ur:محمد	B-PER
+ur:کا	O
+ur:شجرہ	O
+ur:ان	O
+ur:تک	O
+ur:یوں	O
+ur:پہنچتا	O
+ur:ہے	O
+
+ur:رجوع_مکرر	O
+ur:جمال	B-LOC
+ur:آباد	I-LOC
+ur:کوسہ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:آرکیڈیا	B-LOC
+ur:ٹاؤن	I-LOC
+ur:شپ،	I-LOC
+ur:مینسٹی	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:مشی	I-LOC
+ur:گن	I-LOC
+
+ur:رجوع_مکرر	O
+ur:بھارتیہ	B-ORG
+ur:مارکسوادی	I-ORG
+ur:کمیونسٹ	I-ORG
+ur:پارٹی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:میڈیسون	B-LOC
+ur:ٹاؤنشپ،	I-LOC
+ur:فرینکلن	I-LOC
+ur:کاؤنٹی،	I-LOC
+ur:اوہائیو	I-LOC
+
+ur:رجوع_مکرر	O
+ur:لیمیمر	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:کولوراڈو	I-LOC
+
+ur:'	O
+ur:''	O
+ur:وزیر	B-ORG
+ur:اعلیٰ	I-ORG
+ur:خیبر	I-ORG
+ur:پختونخوا	I-ORG
+ur:''	O
+ur:'	O
+
+ur:رجوع_مکرر	O
+ur:جلال	B-PER
+ur:الدین	I-PER
+ur:اکبر	I-PER
+
+ur:رجوع_مکرر	O
+ur:جزیرہ	B-LOC
+ur:نما	I-LOC
+ur:کریمیا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:نیوبیری	B-LOC
+ur:کاؤنٹی،	I-LOC
+ur:جنوبی	I-LOC
+ur:کیرولائنا	I-LOC
+
+ur:طب	B-ORG
+ur:یونانی	I-ORG
+ur:(	I-ORG
+ur:Yunani	I-ORG
+ur:medicine	I-ORG
+ur:)	I-ORG
+
+ur:رجوع_مکرر	O
+ur:تفسیر	B-ORG
+ur:ابن	I-ORG
+ur:کثیر	I-ORG
+
+ur:رجوع_مکرر	O
+ur:پسکان	B-ORG
+ur:ایوی	I-ORG
+ur:ایشن	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ابوعبیدہ	B-PER
+ur:ابن	I-PER
+ur:جراح	I-PER
+
+ur:رجوع_مکرر	O
+ur:فہرست	B-ORG
+ur:گھانا	I-ORG
+ur:کی	I-ORG
+ur:بڑی	I-ORG
+ur:آبادیاں	I-ORG
+ur:(	I-ORG
+ur:بلحاظ	I-ORG
+ur:آبادی	I-ORG
+ur:)	I-ORG
+
+ur:رجوع_مکرر	O
+ur:ریاستہائے	B-LOC
+ur:متحدہ	I-LOC
+ur:امریکا	I-LOC
+
+ur:رجوع_مکرر	O
+ur:فرانسیسی	B-ORG
+ur:ایسٹ	I-ORG
+ur:انڈیا	I-ORG
+ur:کمپنی	I-ORG
+
+ur:لیاقت	B-PER
+ur:علی	I-PER
+ur:خان	I-PER
+ur:(	O
+ur:1895–1951	O
+ur:)	O
+
+ur:اسلام	B-LOC
+ur:آباد	I-LOC
+ur:کا	I-LOC
+ur:وفاقی	I-LOC
+ur:علاقہ	I-LOC
+
+ur:Rongwo	O
+ur:Town]]	O
+ur:,	O
+ur:تونگرین	B-ORG
+ur:کاؤنٹی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:لٹورل	B-LOC
+ur:ڈیپارٹمنٹ	I-LOC
+ur:کاساتواں	I-LOC
+ur:اراؤنڈڈسمنٹ	I-LOC
+
+ur:رجوع_مکرر	O
+ur:جارجز	B-PER
+ur:جے	I-PER
+ur:ایف	I-PER
+ur:کوہلر	I-PER
+
+ur:مراد	B-ORG
+ur:چشتی	I-ORG
+ur:ریلوے	I-ORG
+ur:اسٹیشن	I-ORG
+
+ur:انجمن	B-ORG
+ur:اقتصادی	I-ORG
+ur:تعاون	I-ORG
+ur:و	I-ORG
+ur:ترقی	I-ORG
+
+ur:رجوع_مکرر	O
+ur:صوبہ	B-LOC
+ur:ابون	I-LOC
+ur:راتچاتھانی	I-LOC
+
+ur:پاکستان	B-LOC
+ur:سے	O
+ur:راحت	B-PER
+ur:نصرت	I-PER
+ur:فتح	I-PER
+ur:علی	I-PER
+ur:خان	I-PER
+
+ur:سلیمان	B-PER
+ur:دیمیرل	I-PER
+ur:(	O
+ur:1924–	O
+ur:)	O
+
+ur:رجوع_مکرر	O
+ur:سٹیٹن	B-LOC
+ur:جزیرہ،	I-LOC
+ur:نیویارک	I-LOC
+
+ur:**	O
+ur:بئیر	B-ORG
+ur:کریک	I-ORG
+ur:گاؤں	I-ORG
+ur:تاریخی	I-ORG
+ur:ضلع	I-ORG
+
+ur:رجوع_مکرر	O
+ur:اکبر	B-PER
+ur:شاہ	I-PER
+ur:ثانی	I-PER
+
+ur:رجوع_مکرر	O
+ur:ترنتوو،	B-LOC
+ur:صوبہ	I-LOC
+ur:وارمیان	I-LOC
+ur:ماسوریان	I-LOC
+
+ur:رجوع_مکرر	O
+ur:سوانت	B-PER
+ur:اوگست	I-PER
+ur:آرنیوس	I-PER
+

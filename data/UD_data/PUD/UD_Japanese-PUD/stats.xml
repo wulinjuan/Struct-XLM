@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>1000</sentences><tokens>28788</tokens><words>28788</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>1000</sentences><tokens>28788</tokens><words>28788</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="4902" /><!-- の, 、, は, に, 。, た, 為る, を, だ, が, て, と, 居る, で, 有る -->
+  <forms unique="5219" /><!-- の, 、, に, は, 。, た, を, が, て, と, で, し, こと, ・, いる -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="16">
+    <tag name="ADJ">614</tag><!-- 無い, 可能, 新しい, 高い, 大きな, 必要, 非常, 完全, 様々, 同じ -->
+    <tag name="ADP">6642</tag><!-- の, は, に, を, が, と, で, も, から, や -->
+    <tag name="ADV">323</tag><!-- 最も, より, 既に, どう, 更に, 初めて, 殆ど, 特に, 現在, 直ぐ -->
+    <tag name="AUX">3322</tag><!-- た, 為る, だ, れる, ます, ない, られる, 出来る, 様, せる -->
+    <tag name="CCONJ">145</tag><!-- 然し, 又, 及び, そして, 更に, 一方, 其れ, 或いは, だ, です -->
+    <tag name="DET">210</tag><!-- 其の, 此の, 或る, 何の, あらゆる, 彼の -->
+    <tag name="INTJ">1</tag><!-- おい -->
+    <tag name="NOUN">7424</tag><!-- 事, 年, 人, 者, 月, 等, 達, 後, 為, 日 -->
+    <tag name="NUM">655</tag><!-- 1, 2, 3, 10, 一, 4, 万, 6, 5, 何 -->
+    <tag name="PART">210</tag><!-- 的, か, さ, まで, たり, ほど, だけ, い, がかる, だらけ -->
+    <tag name="PRON">443</tag><!-- 彼, 其れ, 此れ, 私, 彼女, 其処, 誰, 何, 何れ, 何処 -->
+    <tag name="PROPN">1363</tag><!-- 英国, 米国, 中国, アメリカ, フランス, ヨーロッパ, ローマ, スペイン, オーストラリア, ギリシャ -->
+    <tag name="PUNCT">3054</tag><!-- 、, 。, 「, 」, （, ）, 『, 』, ,, ？ -->
+    <tag name="SCONJ">990</tag><!-- て, が, の, と, に, ば, 為, ながら, から, ず -->
+    <tag name="SYM">223</tag><!-- ・, ＝, 〜, -, /, –, ＆, ／ -->
+    <tag name="VERB">3169</tag><!-- 居る, 有る, 成る, 因る, 為る, 言う, 対する, つく, 於く, 見る -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="1">
+    <feat name="Polarity" value="Neg" upos="AUX,NOUN,SCONJ">180</feat><!-- ない, なかっ, ず, 不, ん, なけれ, なく, なし, 未, 非 -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="25">
+    <dep name="acl">1100</dep>
+    <dep name="advcl">916</dep>
+    <dep name="advmod">314</dep>
+    <dep name="amod">84</dep>
+    <dep name="appos">50</dep>
+    <dep name="aux">2763</dep>
+    <dep name="case">6496</dep>
+    <dep name="cc">145</dep>
+    <dep name="ccomp">75</dep>
+    <dep name="compound">3061</dep>
+    <dep name="cop">347</dep>
+    <dep name="csubj">8</dep>
+    <dep name="dep">11</dep>
+    <dep name="det">210</dep>
+    <dep name="discourse">1</dep>
+    <dep name="fixed">1457</dep>
+    <dep name="mark">971</dep>
+    <dep name="nmod">2286</dep>
+    <dep name="nsubj">1446</dep>
+    <dep name="nsubj:outer">71</dep>
+    <dep name="nummod">432</dep>
+    <dep name="obj">843</dep>
+    <dep name="obl">1647</dep>
+    <dep name="punct">3054</dep>
+    <dep name="root">1000</dep>
+  </deps>
+</treebank>

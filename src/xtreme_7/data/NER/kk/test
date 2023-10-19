@@ -1,0 +1,8936 @@
+kk:АЙДАУ	O
+kk:Николай	B-PER
+kk:Михайлович	I-PER
+kk:Карамзин	I-PER
+
+kk:Адольф	B-PER
+kk:Гитлер	I-PER
+kk:-	O
+kk:Трирдің	O
+kk:құрметті	O
+kk:азаматы	O
+kk:.	O
+
+kk:И.	B-PER
+kk:А.	I-PER
+kk:Крыловтан	I-PER
+kk:аударған	O
+kk:мысал	O
+kk:өлеңі	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Ухловица	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:Атлантикалық	B-LOC
+kk:Пиреней	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:Пархим	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:ӘМ	B-ORG
+kk:2006	I-ORG
+kk:—	O
+kk:''Іріктеу	O
+kk:турнирі	O
+kk:''	O
+
+kk:'	O
+kk:''	O
+kk:Сыдиево	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:Абылай	B-PER
+kk:ханның	I-PER
+kk:сенімді	O
+kk:серігі	O
+kk:,	O
+kk:оң	O
+kk:қолы	O
+kk:болған	O
+kk:.	O
+
+kk:Аристотель	B-PER
+kk:болса	O
+kk:оны	O
+kk:біртұтас	O
+kk:``	O
+kk:қозғалыс	O
+kk:себебі	O
+kk:''	O
+kk:деп	O
+kk:атаған	O
+kk:және	O
+kk:белгілі	O
+kk:төрт	O
+kk:түрлі	O
+kk:себеп	O
+kk:арқылы	O
+kk:болмыс	O
+kk:болуының	O
+kk:өзгерісті	O
+kk:жүйесін	O
+kk:түсіндіруге	O
+kk:тырысқан	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Ділназ	B-PER
+kk:Мұратқызы	I-PER
+kk:Ахмадиева	I-PER
+
+kk:Фербенк	O
+kk:Оскар	B-PER
+kk:Уайльд	I-PER
+kk:шығармашылығының	O
+kk:табынушысы	O
+kk:болған	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:УЕФА	B-ORG
+kk:''	O
+kk:'	O
+
+kk:'	O
+kk:''	O
+kk:Хори-элк	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Александр	B-PER
+kk:Альфредович	I-PER
+kk:Бек	I-PER
+
+kk:Агеда	B-LOC
+kk:муниципалитетінің	O
+kk:құрамдас	O
+kk:бөлігі	O
+kk:болып	O
+kk:табылады	O
+kk:.	O
+
+kk:Аудан	O
+kk:орталығы	O
+kk:—	O
+kk:Остерхольц-Шармбек	B-LOC
+kk:қаласы	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Ивака	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Арагон	B-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Теруэль	B-LOC
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Шемонаиха	B-LOC
+kk:қаласы	O
+kk:әкiмшiлiк	O
+kk:орталығы	O
+kk:болып	O
+kk:табылады	O
+kk:,	O
+kk:он	O
+kk:жетi	O
+kk:мыңнан	O
+kk:астам	O
+kk:адам	O
+kk:тұрады	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Клайнриденталь	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Аустриядағы	B-LOC
+kk:қала	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Белланж	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Франциядағы	B-LOC
+kk:коммуна	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Мостовая	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Нойштадт	B-LOC
+kk:(	I-LOC
+kk:Вальднаб	I-LOC
+kk:)	I-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:Хасан	B-PER
+kk:ибн	I-PER
+kk:Әли	I-PER
+kk:—	O
+kk:Әли	B-PER
+kk:ибн	I-PER
+kk:Әбу	I-PER
+kk:Талибтың	I-PER
+kk:баласы	O
+
+kk:АЙДАУ	O
+kk:Константин	B-PER
+kk:Дмитриевич	I-PER
+kk:Бальмонт	I-PER
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Осыдан	O
+kk:кейін	O
+kk:көп	O
+kk:ұзамай	O
+kk:Әмір	B-PER
+kk:Темір	I-PER
+kk:құрған	O
+kk:мемлекет	O
+kk:ыдырап	O
+kk:кетті	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Қанатжан	B-PER
+kk:Байзақұлы	I-PER
+kk:Әлібеков	I-PER
+
+kk:'	O
+kk:''	O
+kk:Тодювци	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Францияның	B-LOC
+kk:әкімшілік	I-LOC
+kk:бөлінуі	I-LOC
+
+kk:Кейбір	O
+kk:бертінгі	O
+kk:деректемелерде	O
+kk:локаятаның	B-ORG
+kk:бір	O
+kk:түрі	O
+kk:ретінде	O
+kk:көрінеді	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Куганду	O
+kk:(	O
+kk:Кугандух	O
+kk:)	O
+kk:'	O
+kk:''	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Спутниктік	O
+kk:хабар	O
+kk:тарату	O
+kk:аймағының	O
+kk:көлемі	O
+kk:бойынша	O
+kk:''Dubai	O
+kk:''	O
+kk:тек	O
+kk:қана	O
+kk:CNN-нен	B-ORG
+kk:қалыс	O
+kk:қалады	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Әбу	B-ORG
+kk:Ханифа	I-ORG
+kk:мешіті	I-ORG
+
+kk:АЙДАУ	O
+kk:Ұлы	B-PER
+kk:III	I-PER
+kk:Альфонсо	I-PER
+
+kk:Аристотель	B-PER
+kk:сол	O
+kk:қолымен	O
+kk:өзінің	O
+kk:``	O
+kk:Этикасын	O
+kk:''	O
+kk:ұстап	O
+kk:тұр	O
+kk:,	O
+kk:оң	O
+kk:қолының	O
+kk:ишарасымен	O
+kk:ол	O
+kk:бейне	O
+kk:бір	O
+kk:Платонның	B-PER
+kk:шабытты	O
+kk:пафосын	O
+kk:сабасына	O
+kk:түсіріп	O
+kk:,	O
+kk:сабырлы	O
+kk:қалпына	O
+kk:келтіргісі	O
+kk:келіп	O
+kk:тұрғандай	O
+kk:.	O
+
+kk:Бұқалар	B-ORG
+kk:және	I-ORG
+kk:сиырлар	I-ORG
+
+kk:Фиссельхёфеде	B-LOC
+kk:(	O
+kk:10	O
+kk:659	O
+kk:)	O
+
+kk:Сондықтан	O
+kk:,	O
+kk:Шыңғыс	B-PER
+kk:хан	I-PER
+kk:ол	O
+kk:екеуін	O
+kk:бірі	O
+kk:-	O
+kk:бірінен	O
+kk:жарып	O
+kk:қарамай	O
+kk:,	O
+kk:қатар	O
+kk:қоятын	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Ласкар	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Корма	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Өзен	O
+kk:сағасы	O
+kk:Тром-Юган	B-LOC
+kk:өзенінің	O
+kk:оң	O
+kk:жағалауынан	O
+kk:150	O
+kk:км	O
+kk:қашықтықта	O
+kk:орналасқан	O
+kk:.	O
+
+kk:Саяси	O
+kk:қайраткер	O
+kk:ретіндегі	O
+kk:идеалы	O
+kk:-	O
+kk:Н.Ә.	B-PER
+kk:Назарбаев	I-PER
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Ун-Вож-Юган	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Беляевка	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Виктор	B-PER
+kk:Вячеславович	I-PER
+kk:Храпунов	I-PER
+
+kk:'	O
+kk:''	O
+kk:Бад-Дойч-Альтенбург	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Аустриядағы	B-LOC
+kk:коммуна	O
+kk:.	O
+
+kk:Люпита	B-PER
+kk:Нионго	I-PER
+kk:—	O
+kk:''Пэтси	O
+kk:''	O
+
+kk:АЙДАУ	O
+kk:Аман	B-PER
+kk:Ғұмырұлы	I-PER
+kk:Төлеев	I-PER
+
+kk:АЙДАУ	O
+kk:Мартин	B-PER
+kk:Лютер	I-PER
+kk:Кинг	I-PER
+
+kk:'	O
+kk:''	O
+kk:Хамес	B-PER
+kk:Родригес	I-PER
+kk:''	O
+kk:'	O
+
+kk:Нейтрон	B-ORG
+kk:—	O
+kk:тұрақты	O
+kk:бөлшек	O
+kk:емес	O
+kk:.	O
+
+kk:Зальцведель	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:Ол	O
+kk:әлі	O
+kk:де	O
+kk:DC	B-ORG
+kk:Comics	I-ORG
+kk:компаниясың	O
+kk:әйгілі	O
+kk:қаһармандардың	O
+kk:бірі	O
+kk:.	O
+
+kk:Онда	O
+kk:бұған	O
+kk:дейінгі	O
+kk:деректерде	O
+kk:қамтылмаған	O
+kk:Қазақ	B-ORG
+kk:хандығының	I-ORG
+kk:ертедегі	O
+kk:тарихы	O
+kk:баяндалады	O
+kk:.	O
+
+kk:Википедияның	O
+kk:негізін	O
+kk:қалаушы	O
+kk:Джимми	B-PER
+kk:Уэйлс	I-PER
+kk:;	O
+
+kk:Саяси	O
+kk:қайраткер	O
+kk:ретіндегі	O
+kk:идеалы	O
+kk:-	O
+kk:Н.Ә.	B-PER
+kk:Назарбаев	I-PER
+kk:,	O
+kk:У.	B-PER
+kk:Черчилль	I-PER
+kk:.	O
+
+kk:**	O
+kk:''Бирма	O
+kk:үшін	O
+kk:Мианма	B-ORG
+kk:сілтемесін	O
+kk:қараңыз	O
+kk:''	O
+
+kk:'	O
+kk:''	O
+kk:Быстрый	O
+kk:Куль-Еган	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Құрылтай	B-ORG
+kk:шартының	O
+kk:қолданылуы	O
+kk:шаруашылық	O
+kk:серiктестiгiне	O
+kk:қатысушылар	O
+kk:тiзiлiмi	O
+kk:қалыптастырылған	O
+kk:күннен	O
+kk:бастап	O
+kk:тоқтатылады	O
+kk:.	O
+
+kk:Халық	O
+kk:бұл	O
+kk:идеяны	O
+kk:құптап	O
+kk:Marvel	B-ORG
+kk:Comics-ның	I-ORG
+kk:№59	O
+kk:санында	O
+kk:алғаш	O
+kk:рет	O
+kk:көрген	O
+kk:болатын	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Тундровая	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:100-	O
+kk:дей	O
+kk:түрі	O
+kk:бар-	O
+kk:көбінесе	O
+kk:тропикалық	O
+kk:аймақтарда	O
+kk:кездеседі	O
+kk:;	O
+kk:ТМД-да	B-ORG
+kk:30	O
+kk:түрден	O
+kk:аспайды	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Он	B-PER
+kk:екі	I-PER
+kk:имам	I-PER
+
+kk:Арагон	B-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Сарагоса	B-LOC
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Apple	B-ORG
+kk:Inc	I-ORG
+kk:.	I-ORG
+
+kk:Қазіргі	O
+kk:Күн	O
+kk:батареясының	O
+kk:ПӘК	B-ORG
+kk:8-10	O
+kk:%	O
+kk:,	O
+kk:олай	O
+kk:болса	O
+kk:1	O
+kk:м2	O
+kk:ауданға	O
+kk:(	O
+kk:ғарыш	O
+kk:аппаратының	O
+kk:Күннен	O
+kk:қашықтығы	O
+kk:150	O
+kk:млн	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Семен	B-PER
+kk:Ульянович	I-PER
+kk:Ремезов	I-PER
+
+kk:Софокл	B-PER
+kk:шығармаларында	O
+kk:адамдар	O
+kk:өз	O
+kk:мінез-құлқы	O
+kk:бойынша	O
+kk:толықтай	O
+kk:дербес	O
+kk:болды	O
+kk:(	O
+kk:“Антигона”	O
+kk:,	O
+kk:“Филоктет”	O
+kk:,	O
+kk:“Электра”	O
+kk:)	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Африка	B-ORG
+kk:Футбол	I-ORG
+kk:Конфедерациясы	I-ORG
+
+kk:Ондай	O
+kk:партия	O
+kk:құруға	O
+kk:шешім	O
+kk:қабылданып	O
+kk:,	O
+kk:оны	O
+kk:Мұсылмандар	B-ORG
+kk:одағы	I-ORG
+kk:-	O
+kk:«Иттифок-и-Муслимун»	O
+kk:деп	O
+kk:атау	O
+kk:ұйғарылды	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Нессельвенгле	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Аустриядағы	B-LOC
+kk:коммуна	O
+kk:.	O
+
+kk:Сонымен	O
+kk:бірге	O
+kk:Қазақстан	B-LOC
+kk:Республикасының	I-LOC
+kk:Словения	B-LOC
+kk:Республикасындағы	I-LOC
+kk:,	O
+kk:Хорватия	B-LOC
+kk:Республикасындағы	I-LOC
+kk:,	O
+kk:Македония	B-LOC
+kk:Республикасындағы	I-LOC
+kk:,	O
+kk:Сербия	B-ORG
+kk:және	I-ORG
+kk:Черногория	I-ORG
+kk:Одақтас	I-ORG
+kk:Республикасындағы	I-ORG
+kk:Төтенше	O
+kk:және	O
+kk:Өкілетті	O
+kk:Елшісі	O
+kk:қызметін	O
+kk:қоса	O
+kk:атқарушы	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Куржене	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Франциядағы	B-LOC
+kk:коммуна	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Темір	B-PER
+kk:Нұрбақытұлы	I-PER
+kk:Бекмамбетов	I-PER
+
+kk:АЙДАУ	O
+kk:Б.	B-ORG
+kk:з.	I-ORG
+kk:д.	I-ORG
+kk:749	I-ORG
+kk:жыл	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Раздел	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Лев	B-ORG
+kk:Николаевич	I-ORG
+kk:Гумилев	I-ORG
+
+kk:АЙДАУ	O
+kk:Таңшолпан	B-ORG
+kk:(	I-ORG
+kk:бағдарлама	I-ORG
+kk:)	I-ORG
+
+kk:Штендаль	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:әндерін	O
+kk:А.В.Затаевич	B-PER
+kk:Айтбайдың	O
+kk:балаларынан	O
+kk:жазып	O
+kk:алып	O
+kk:,	O
+kk:нотаға	O
+kk:түсірғен	O
+kk:.	O
+
+kk:Саяси	O
+kk:қайраткер	O
+kk:ретіндегі	O
+kk:идеалы	O
+kk:-	O
+kk:Н.Ә.	B-PER
+kk:Назарбаев	I-PER
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Ш	B-ORG
+kk:ш	O
+kk:''	O
+kk:'	O
+
+kk:АЙДАУ	O
+kk:Гавриил	B-PER
+kk:Адрианович	I-PER
+kk:Тихов	I-PER
+
+kk:``	O
+kk:ЦСКА	B-ORG
+kk:(	I-ORG
+kk:Мәскеу	I-ORG
+kk:)	I-ORG
+kk:''	O
+kk:клубында	O
+kk:ойнайды	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Амель	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Франциядағы	B-LOC
+kk:коммуна	O
+kk:.	O
+
+kk:Битигхайм	B-LOC
+kk:(	O
+kk:6	O
+kk:076	O
+kk:)	O
+
+kk:'	O
+kk:''	O
+kk:Тиаго	B-PER
+kk:Силва	I-PER
+kk:''	O
+kk:'	O
+
+kk:АЙДАУ	O
+kk:Готфрид	B-PER
+kk:Вильгельм	I-PER
+kk:Лейбниц	I-PER
+
+kk:Мұндай	O
+kk:шабуылдың	O
+kk:мақсаты	O
+kk:—	O
+kk:жеңіске	O
+kk:жету	O
+kk:үшін	O
+kk:карсыластың	O
+kk:әскери	B-ORG
+kk:күшін	I-ORG
+kk:жеткілікті	O
+kk:мөлшерде	O
+kk:жою	O
+kk:.	O
+
+kk:Әли	B-PER
+kk:ибн	I-PER
+kk:Әбу	I-PER
+kk:Талиб	I-PER
+
+kk:Италияны	B-LOC
+kk:аралап	O
+kk:,	O
+kk:Микеланджело	B-PER
+kk:шығармашылық	O
+kk:ықпалында	O
+kk:болды	O
+kk:.	O
+
+kk:Бұқаралық	B-ORG
+kk:ақпарат	I-ORG
+kk:құралдарында	I-ORG
+kk:жұмыс	I-ORG
+kk:істейтін	I-ORG
+kk:әйелдердің	I-ORG
+kk:халықаралық	I-ORG
+kk:қоры	I-ORG
+
+kk:Алғашқы	O
+kk:патшасы	O
+kk:Терес	B-PER
+kk:болды	O
+kk:.	O
+
+kk:Михелау	B-LOC
+kk:(	O
+kk:6	O
+kk:871	O
+kk:)	O
+
+kk:★	O
+kk:'	O
+kk:''	O
+kk:Джек	B-PER
+kk:Николсон	I-PER
+kk:''	O
+kk:'	O
+
+kk:Сена	B-LOC
+kk:және	I-LOC
+kk:Марна	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:Қайсар	B-ORG
+kk:(	I-ORG
+kk:Қызылорда	I-ORG
+kk:)	I-ORG
+
+kk:Өз	O
+kk:уақытының	O
+kk:басым	O
+kk:бөлігін	O
+kk:ол	O
+kk:жақын	O
+kk:досы	O
+kk:Эрнест	B-PER
+kk:Хэмингуэйдің	I-PER
+kk:ранчосында	O
+kk:өткізетін	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Карагай	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Портал	O
+kk:солтүстіктен	O
+kk:40	O
+kk:градус	O
+kk:еңкейіп	O
+kk:Қожа	B-ORG
+kk:Ахмет	I-ORG
+kk:Ясауи	I-ORG
+kk:кесенесіне	I-ORG
+kk:бағытталған	O
+kk:.	O
+
+kk:Графит	B-ORG
+kk:—	O
+kk:өте	O
+kk:жұмсақ	O
+kk:зат	O
+kk:,	O
+kk:ол	O
+kk:қолға	O
+kk:жұғады	O
+kk:,	O
+kk:қағазға	O
+kk:жазылады	O
+kk:,	O
+kk:түсі	O
+kk:қара	O
+kk:сұр	O
+kk:.	O
+
+kk:Балқаш	B-LOC
+kk:жұмысшысы»	O
+kk:газетінде	O
+kk:әдеби	O
+kk:Қызметкер	O
+kk:болады	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Мағрибтың	O
+kk:солтүстік-батысында	O
+kk:Идрис	B-ORG
+kk:(	I-ORG
+kk:Ыдырыс	I-ORG
+kk:)	I-ORG
+kk:әулеті	I-ORG
+kk:билеген	O
+kk:мемлекет	O
+kk:орнады	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Бәрінен	O
+kk:гөрі	O
+kk:Демокриттің	B-PER
+kk:,	O
+kk:Пифагордың	B-PER
+kk:,	O
+kk:Аристотельдің	B-PER
+kk:(	O
+kk:б.з.б	O
+kk:.	O
+
+kk:Сағд	B-PER
+kk:ибн	I-PER
+kk:әбу	I-PER
+kk:Уаққас	I-PER
+
+kk:АЙДАУ	O
+kk:Қазақстан	B-ORG
+kk:Ұлттық	I-ORG
+kk:футбол	I-ORG
+kk:құрама	I-ORG
+kk:командасы	I-ORG
+
+kk:Халықтың	O
+kk:ауыз	O
+kk:әдебиетінің	O
+kk:асыл	O
+kk:мұралары	O
+kk:,	O
+kk:жыраулық	O
+kk:әдебиеттің	O
+kk:үздік	O
+kk:үлгілері	O
+kk:,	O
+kk:Абайдың	B-PER
+kk:,	O
+kk:Жамбылдың	B-PER
+kk:шығармалары	O
+kk:''“Жазушы”	O
+kk:''	O
+kk:баспасынан	O
+kk:сан	O
+kk:рет	O
+kk:басылып	O
+kk:шықты	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Поскотина-Ёль	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Аспан	B-ORG
+kk:ағашы	I-ORG
+kk:Токио	I-ORG
+
+kk:Марк	B-PER
+kk:Цукерберг	I-PER
+kk:өз	O
+kk:идеясының	O
+kk:атауын	O
+kk:''Facebook	O
+kk:''	O
+kk:деп	O
+kk:қоюы	O
+kk:,	O
+kk:жоғары	O
+kk:сыныптардағы	O
+kk:оқу	O
+kk:жылдарына	O
+kk:байналанысты	O
+kk:болды	O
+kk:.	O
+
+kk:Атлантикалық	B-LOC
+kk:Пиреней	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:Алексей	B-PER
+kk:Николаевич	I-PER
+kk:Куропаткин	I-PER
+
+kk:Бад-Доберан	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:І.Жансүгіровтің	B-PER
+kk:``	O
+kk:Ала	O
+kk:бие	O
+kk:''	O
+
+kk:'	O
+kk:''	O
+kk:Рибен-Дол	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:Содан	O
+kk:соң	O
+kk:,	O
+kk:әл-Пырақты	O
+kk:Иерусалимде	B-LOC
+kk:қалдырып	O
+kk:,	O
+kk:Мұхаммед	B-PER
+kk:(	O
+kk:с.а.у	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Көп	O
+kk:кешікпей	O
+kk:Nike	B-ORG
+kk:компаниясы	O
+kk:онымен	O
+kk:келісім	O
+kk:шартқа	O
+kk:отырады	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Б.	B-ORG
+kk:з.	I-ORG
+kk:д.	I-ORG
+kk:533	I-ORG
+kk:жыл	I-ORG
+
+kk:Атом	B-ORG
+kk:электр	I-ORG
+kk:стансасы	I-ORG
+
+kk:Ниуе	B-LOC
+kk:14	O
+kk:ауылға	O
+kk:бөлінеді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:I	B-PER
+kk:Қажы	I-PER
+kk:Керей	I-PER
+
+kk:'	O
+kk:''	O
+kk:Пропасть-Ю	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Міне	O
+kk:,	O
+kk:содан	O
+kk:бері	O
+kk:Вавилон	B-LOC
+kk:зынданында	O
+kk:,	O
+kk:кісендеулі	O
+kk:жатқанға	O
+kk:ұқсайды	O
+kk:.	O
+
+kk:Нұрсұлтан	B-PER
+kk:Әбішұлы	I-PER
+kk:Назарбаев	I-PER
+
+kk:Әкесі	O
+kk:Зәкәрия	B-PER
+kk:әлі	O
+kk:мылқау	O
+kk:болып	O
+kk:жүрді	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Яунадея-Яха	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Григорий	B-PER
+kk:Львович	I-PER
+kk:Рошаль	I-PER
+
+kk:АЙДАУ	O
+kk:Қазақстан	B-ORG
+kk:Республикасы	I-ORG
+kk:Қарулы	I-ORG
+kk:Күштері	I-ORG
+
+kk:•	O
+kk:'	O
+kk:''	O
+kk:Питер	B-PER
+kk:Джексон	I-PER
+
+kk:Мансфельд	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:Каратэ	B-ORG
+kk:(	O
+kk:18	O
+kk:)	O
+
+kk:'	O
+kk:''	O
+kk:Удан	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Франциядағы	B-LOC
+kk:коммуна	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Иван	B-PER
+kk:Владимирович	I-PER
+kk:Мичурин	I-PER
+
+kk:*2004-2006	O
+kk:жылдары	O
+kk:—	O
+kk:Ақпараттық	O
+kk:бағдарлама	O
+kk:тілшісі	O
+kk:,	O
+kk:«Қазақстан»	B-ORG
+kk:телеарнасы	I-ORG
+kk:;	O
+
+kk:Алканена	B-ORG
+kk:муниципалитетінің	O
+kk:құрамдас	O
+kk:бөлігі	O
+kk:болып	O
+kk:табылады	O
+kk:.	O
+
+kk:Әлихан	B-PER
+kk:Нұрмұхамедұлы	I-PER
+kk:Бөкейхан	I-PER
+
+kk:АЙДАУ	O
+kk:Юрий	B-PER
+kk:Анатольевич	I-PER
+kk:Красножан	I-PER
+
+kk:Маморе	B-LOC
+kk:өзенінің	O
+kk:бастауынан	O
+kk:есептегенде	O
+kk:ұзындығы	O
+kk:3200	O
+kk:км	O
+kk:,	O
+kk:алабының	O
+kk:аумағы	O
+kk:1,4	O
+kk:млн	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Мұхтар	B-PER
+kk:Мұқанұлы	I-PER
+kk:Мағауин	I-PER
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Арока	B-ORG
+kk:муниципалитетінің	O
+kk:құрамдас	O
+kk:бөлігі	O
+kk:болып	O
+kk:табылады	O
+kk:.	O
+
+kk:Гагель	B-LOC
+kk:(	O
+kk:125	O
+kk:)	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Б.	B-ORG
+kk:з.	I-ORG
+kk:д.	I-ORG
+kk:744	I-ORG
+kk:жыл	I-ORG
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Лангедок-Руссильон	B-LOC
+kk:аймағына	O
+kk:қарасты	O
+kk:Гар	B-LOC
+kk:департаментінде	O
+kk:орналасқан	O
+kk:.	O
+
+kk:Леонардо	B-PER
+kk:да	I-PER
+kk:Винчи	I-PER
+
+kk:'	O
+kk:''	O
+kk:Ромелу	B-PER
+kk:Лукаку	I-PER
+kk:''	O
+kk:'	O
+
+kk:АЙДАУ	O
+kk:Бельгия	B-ORG
+kk:Ұлттық	I-ORG
+kk:футбол	I-ORG
+kk:құрама	I-ORG
+kk:командасы	I-ORG
+
+kk:''«	O
+kk:...	O
+kk:ол	O
+kk:енді	O
+kk:Ғайниді	O
+kk:айтқанына	O
+kk:сөзбен	O
+kk:көндірмек	O
+kk:болып	O
+kk:,	O
+kk:алдап-арбап	O
+kk:айналдыруға	O
+kk:тырысты»	O
+kk:''	O
+kk:(	O
+kk:Сәкен	B-PER
+kk:Сейфуллин	I-PER
+kk:)	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Thomson	B-ORG
+kk:(	I-ORG
+kk:компания	I-ORG
+kk:)	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Коллери	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Франциядағы	B-LOC
+kk:коммуна	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Мұхаммед	B-ORG
+kk:ибн	I-ORG
+kk:Джәрир	I-ORG
+kk:әт-Табари	I-ORG
+
+kk:АЙДАУ	O
+kk:Шыңжаң	B-LOC
+kk:Ұйғыр	I-LOC
+kk:автономиялық	I-LOC
+kk:ауданы	I-LOC
+
+kk:Қожа	B-PER
+kk:Ахмет	I-PER
+kk:Ясауи	I-PER
+kk:«Диуани	O
+kk:хикметте»	O
+kk:«Аллаға	O
+kk:жақындай	O
+kk:түсу	O
+kk:үшін»	O
+kk:әрбір	O
+kk:адам	O
+kk:өзінің	O
+kk:өмір	O
+kk:жолында	O
+kk:төрт	O
+kk:басқыштан	O
+kk:өтуі	O
+kk:керектігін	O
+kk:айтады	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Қожа	B-ORG
+kk:Ахмет	I-ORG
+kk:Ясауи	I-ORG
+kk:кесенесі	I-ORG
+
+kk:Чехия	B-LOC
+kk:құрамасы	O
+kk:топтық	O
+kk:кезіңнің	O
+kk:стадионда	O
+kk:3	O
+kk:матчін	O
+kk:өткізеді	O
+kk:.	O
+
+kk:Саяси	O
+kk:қайраткер	O
+kk:ретіндегі	O
+kk:идеалы	O
+kk:-	O
+kk:Қ.К.	B-PER
+kk:Тоқаев	I-PER
+kk:.	O
+
+kk:Қазақстан	B-ORG
+kk:Республикасының	I-ORG
+kk:Ұлттық	I-ORG
+kk:банкінде	I-ORG
+kk:аударма	O
+kk:бөлімін	O
+kk:басқарды	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Юрий	B-PER
+kk:Осипович	I-PER
+kk:Домбровский	I-PER
+
+kk:АЙДАУ	O
+kk:Секундына	B-ORG
+kk:5	I-ORG
+kk:сантиметр	I-ORG
+
+kk:★	O
+kk:'	O
+kk:''	O
+kk:Роберт	B-PER
+kk:Дюваль	I-PER
+kk:''	O
+kk:'	O
+
+kk:'	O
+kk:''	O
+kk:Россошка	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Төлебай	O
+kk:''	O
+kk:'	O
+kk:–	O
+kk:Абылай	B-PER
+kk:ханның	I-PER
+kk:қол	O
+kk:астына	O
+kk:жиналған	O
+kk:батырлардың	O
+kk:бірі	O
+kk:.	O
+
+kk:Ұлттық	B-ORG
+kk:азаматтық	I-ORG
+kk:авиация	I-ORG
+kk:мектебі	I-ORG
+
+kk:Денесі	O
+kk:Қожа	B-ORG
+kk:Ахмет	I-ORG
+kk:Ясауи	I-ORG
+kk:кесенесінің	I-ORG
+kk:маңайына	O
+kk:жерленген	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Марёта	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Уильям	B-PER
+kk:Моррис	I-PER
+kk:Дейвис	I-PER
+kk:(	O
+kk:1850–1934	O
+kk:)	O
+kk:-	O
+kk:америкалық	O
+kk:геологы	O
+kk:және	O
+kk:географы	O
+kk:.	O
+
+kk:Қазақстан	B-ORG
+kk:Халық	I-ORG
+kk:Жинақ	I-ORG
+kk:Банкі	I-ORG
+
+kk:Қазақстан	B-ORG
+kk:темір	I-ORG
+kk:жолы	I-ORG
+kk:ҰК»	O
+kk:ЖАҚ	O
+kk:(	O
+kk:2003-2004	O
+kk:)	O
+kk:директорлар	O
+kk:кеңесінің	O
+kk:мүшесі	O
+kk:;	O
+
+kk:Мюриц	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:ҚазМұнайГаз	B-ORG
+kk:ҰК»	O
+kk:АҚ	O
+kk:грамотасымен	O
+kk:марапатталған	O
+
+kk:'	O
+kk:''	O
+kk:Мусь	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Ухтома	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:1987-2000	O
+kk:жылдар	O
+kk:аралығында	O
+kk:Деми	B-PER
+kk:Мур	I-PER
+kk:атты	O
+kk:актрисамен	O
+kk:некеде	O
+kk:болды	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Гриш-Вань-Ю	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Одан	O
+kk:кейін	O
+kk:мектептің	O
+kk:бағытымен	O
+kk:Орынбордағы	B-LOC
+kk:рухани	O
+kk:консисторияға	O
+kk:түседі	O
+kk:.	O
+
+kk:Петер	B-PER
+kk:Симон	I-PER
+kk:Паллас	I-PER
+
+kk:Мисбах	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:Л.Н.Толстойдың	B-PER
+kk:И.В.Колесниковпен	O
+kk:хат	O
+kk:жазысуы	O
+kk:оданда	O
+kk:маңызды	O
+kk:.	O
+
+kk:====	O
+kk:Оскар	B-PER
+kk:Дела	I-PER
+kk:Хойямен	I-PER
+kk:айқас	O
+kk:====	O
+
+kk:АЙДАУ	O
+kk:Әлжан	B-PER
+kk:Мүсірбекұлы	I-PER
+kk:Жармұхамедов	I-PER
+
+kk:'	O
+kk:''	O
+kk:Медаевка	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Штормарн	B-ORG
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:Levi	B-ORG
+kk:Strauss	I-ORG
+kk:&	I-ORG
+kk:Co	I-ORG
+kk:.	I-ORG
+kk:компаниясы	O
+kk:енші	O
+kk:бойынша	O
+kk:жиендеріне	O
+kk:өтті	O
+kk:.	O
+
+kk:Зегеберг	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:*Саяси	O
+kk:қайраткер	O
+kk:ретіндегі	O
+kk:идеалы	O
+kk:-	O
+kk:Н.Ә.	B-PER
+kk:Назарбаев	I-PER
+kk:.	O
+
+kk:Клайнвалльштадт	B-LOC
+kk:(	O
+kk:5	O
+kk:838	O
+kk:)	O
+
+kk:Христовтың	O
+kk:əншілік	O
+kk:таланты	O
+kk:жас	O
+kk:кезінде	O
+kk:,	O
+kk:Александр	B-PER
+kk:Невский	I-PER
+kk:шіркеуінің	O
+kk:хор	O
+kk:ұжымына	O
+kk:қосылғанда	O
+kk:белгілі	O
+kk:болды	O
+kk:.	O
+
+kk:Цюрих	B-ORG
+kk:Швейцария	I-ORG
+kk:жоғарғы	I-ORG
+kk:техникалық	I-ORG
+kk:мектебі	I-ORG
+
+kk:Халықаралық	B-ORG
+kk:бокс	I-ORG
+kk:федерациясы	I-ORG
+kk:IBF	I-ORG
+
+kk:АЙДАУ	O
+kk:Әбу	B-PER
+kk:Хамид	I-PER
+kk:әл-Ғазали	I-PER
+
+kk:|	O
+kk:'	O
+kk:''	O
+kk:Павел	B-PER
+kk:I	I-PER
+kk:Петрович	I-PER
+kk:''	O
+kk:'	O
+
+kk:Аудан	O
+kk:орталығы	O
+kk:Қарқаралы	B-ORG
+kk:каласында	O
+kk:орналасқан	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Ошкашор	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Спортинг	B-ORG
+kk:Лиссабон	I-ORG
+kk:(	O
+kk:7	O
+kk:)	O
+
+kk:'	O
+kk:''	O
+kk:Сексеуілдідала	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Бетпақдала	B-ORG
+kk:ныңоңтүстік-шығыс	O
+kk:бөлігі	O
+kk:.	O
+
+kk:Альтенкирхен-Вестервальд	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:және	O
+kk:«Жібек	B-ORG
+kk:Жолы»	I-ORG
+kk:бекеттерінің	O
+kk:арасында	O
+kk:орналасады	O
+kk:.	O
+
+kk:Штормарн	B-ORG
+kk:аймағының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Iss	O
+kk:Pyaar	O
+kk:Ko	O
+kk:Kya	O
+kk:Naam	O
+kk:Doon	O
+kk:?	O
+kk:/	O
+kk:Мұздан	B-ORG
+kk:суық	I-ORG
+kk:,	I-ORG
+kk:оттан	I-ORG
+kk:ыстық	I-ORG
+
+kk:Мёрт	B-LOC
+kk:және	I-LOC
+kk:Мозель	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:АЙДАУ	O
+kk:2012	B-ORG
+kk:Жазғы	I-ORG
+kk:Олимпиада	I-ORG
+kk:ойындарындағы	I-ORG
+kk:ауыр	I-ORG
+kk:атлетика	I-ORG
+kk:—	I-ORG
+kk:56	I-ORG
+kk:кг	I-ORG
+kk:дейін	I-ORG
+kk:(	I-ORG
+kk:еркектер	I-ORG
+kk:)	I-ORG
+
+kk:(	O
+kk:Архимед	B-PER
+kk:)	O
+kk:,	O
+
+kk:Гипстің	B-ORG
+kk:қалыңдығы	O
+kk:70	O
+kk:м-ге	O
+kk:жетеді	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Шардара	B-ORG
+kk:су	I-ORG
+kk:электр	I-ORG
+kk:станциясы	I-ORG
+
+kk:Шыңғыс	B-PER
+kk:ханның	I-PER
+kk:замандасы	O
+kk:екен	O
+kk:.	O
+
+kk:Осы	O
+kk:кезде	O
+kk:Қара	B-LOC
+kk:теңіз	I-LOC
+kk:бен	O
+kk:Жер	B-LOC
+kk:Орта	I-LOC
+kk:теңіздері	I-LOC
+kk:оқшауланып	O
+kk:өз	O
+kk:алдына	O
+kk:бөлініп	O
+kk:қалған	O
+kk:.	O
+
+kk:Шіркеудің	O
+kk:саяси	O
+kk:биліғі	O
+kk:артып	O
+kk:,	O
+kk:Алтын	B-ORG
+kk:Орда	I-ORG
+kk:ханынан	O
+kk:бірқатар	O
+kk:жеңілдіктер	O
+kk:алып	O
+kk:отырды	O
+kk:.	O
+
+kk:Қазақстанның	B-ORG
+kk:``	I-ORG
+kk:Қызыл	I-ORG
+kk:кітабына	I-ORG
+kk:''	I-ORG
+kk:енгізілген	O
+kk:.	O
+
+kk:Жоғарғы	B-LOC
+kk:Рейн	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:Араб	B-ORG
+kk:тілінде	I-ORG
+kk:сөз	O
+kk:түбірі	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Стивен	B-PER
+kk:Уильям	I-PER
+kk:Хокинг	I-PER
+
+kk:•	O
+kk:'	O
+kk:''	O
+kk:Джон	B-PER
+kk:Форд	I-PER
+
+kk:'	O
+kk:''	O
+kk:Чичиборка	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Қарағанды	B-LOC
+kk:облысы	I-LOC
+kk:Қарқаралы	B-ORG
+kk:қаласынан	O
+kk:оңтүстікке	O
+kk:қарай	O
+kk:10	O
+kk:км	O
+kk:жерде	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Вангенрид	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Швейцарияның	B-LOC
+kk:Берн	B-LOC
+kk:кантонында	O
+kk:орналасқан	O
+kk:коммуна	O
+kk:.	O
+
+kk:Ал	O
+kk:оның	O
+kk:өлімінен	O
+kk:соң	O
+kk:,	O
+kk:бұл	O
+kk:жерді	O
+kk:Тимуридтер	B-ORG
+kk:басқарды	O
+kk:.	O
+
+kk:бұдан	O
+kk:кейінгі	O
+kk:жылдарда	O
+kk:Қазақстан	B-ORG
+kk:жазушылар	I-ORG
+kk:одағында	I-ORG
+kk:әдеби	O
+kk:кеңесші	O
+
+kk:АЙДАУ	O
+kk:Б.	B-ORG
+kk:з.	I-ORG
+kk:д.	I-ORG
+kk:662	I-ORG
+kk:жыл	I-ORG
+
+kk:АЙДАУ	O
+kk:Михаил	B-PER
+kk:Михайлович	I-PER
+kk:Сперанский	I-PER
+
+kk:2004ж	O
+kk:бастап	O
+kk:-	O
+kk:«ҚазМұнайГаз»	B-ORG
+kk:ҰК	O
+kk:Барлау	O
+kk:Өндіру»	O
+kk:АҚ	O
+kk:атқарушы	O
+kk:директоры	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Змиево	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:Саяси	O
+kk:қайраткер	O
+kk:ретіндегі	O
+kk:идеалы	O
+kk:-	O
+kk:Д.А.	B-PER
+kk:Қонаев	I-PER
+kk:,	O
+kk:Н.Ә.	B-PER
+kk:Назарбаев	I-PER
+kk:.	O
+
+kk:Гедин	B-PER
+kk:Свен	I-PER
+kk:Андерс	I-PER
+
+kk:Авторы	O
+kk:Гомер	B-PER
+kk:болып	O
+kk:есептеледі	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Ғажайып	O
+kk:әйел	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:DC	B-ORG
+kk:Comics-тің	I-ORG
+kk:жасанды	O
+kk:суперқаһарманы	O
+kk:.	O
+
+kk:Даниал	B-PER
+kk:Кенжетайұлы	I-PER
+kk:Ахметов	I-PER
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Наталия	B-PER
+kk:Ильинична	I-PER
+kk:Сац	I-PER
+
+kk:Кашмир	B-LOC
+kk:мен	O
+kk:Израиль	B-LOC
+kk:арасындағы	O
+kk:байланыс	O
+kk:тілдік	O
+kk:ұқсастықта	O
+kk:жақсы	O
+kk:көрініс	O
+kk:тапқан	O
+kk:.	O
+
+kk:•	O
+kk:'	O
+kk:''	O
+kk:Оливер	B-PER
+kk:Стоун	I-PER
+
+kk:АЙДАУ	O
+kk:Oasis	B-ORG
+kk:(	I-ORG
+kk:топ	I-ORG
+kk:)	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Кутловица	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:Тоқтар	B-PER
+kk:Оңғарбайұлы	I-PER
+kk:Әубәкіров	I-PER
+
+kk:Жоғарғы	B-LOC
+kk:Рейн	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:Шахтер]]	O
+kk:(	O
+kk:Қарағанды	B-LOC
+kk:)	O
+kk:'	O
+kk:''	O
+
+kk:Әлемге	O
+kk:әйгілі	O
+kk:Мұхаммед	B-PER
+kk:Әли	I-PER
+kk:құрметіне	O
+kk:арналған	O
+kk:1-халықар	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Радуловци	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:Бұларда	O
+kk:Рабиа	O
+kk:әл-Адауийа	O
+kk:Тәңірі	B-ORG
+kk:үшін	O
+kk:жалған	O
+kk:дүниенің	O
+kk:азғырынды	O
+kk:әрекеттеріне	O
+kk:жол	O
+kk:ашатын	O
+kk:қылықтардың	O
+kk:барлығынан	O
+kk:бас	O
+kk:тартып	O
+kk:,	O
+kk:шын	O
+kk:берілген	O
+kk:тақуа	O
+kk:ретінде	O
+kk:дәріптеледі	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Вена-Юган	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Алижо	B-LOC
+kk:муниципалитетінің	O
+kk:құрамдас	O
+kk:бөлігі	O
+kk:болып	O
+kk:табылады	O
+kk:.	O
+
+kk:Дүниежүзiлiк	B-ORG
+kk:бокс	I-ORG
+kk:сериясы	I-ORG
+
+kk:Кейіпкер	B-PER
+kk:журналиске	O
+kk:өзі	O
+kk:немесе	O
+kk:жолдастары	O
+kk:жайында	O
+kk:мәлімет	O
+kk:беруге	O
+kk:міндетті	O
+kk:емес	O
+kk:.	O
+
+kk:Мольмерсвенде	B-LOC
+kk:(	O
+kk:259	O
+kk:)	O
+
+kk:Гагарин	B-PER
+kk:,	I-PER
+kk:Юрий	I-PER
+kk:Алексеев	I-PER
+
+kk:'	O
+kk:''	O
+kk:Медвен	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:Екібастұз	B-ORG
+kk:(	I-ORG
+kk:Екібастұз	B-ORG
+kk:)	I-ORG
+
+kk:Хардт	B-LOC
+kk:(	O
+kk:427	O
+kk:)	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Робин	B-PER
+kk:ван	I-PER
+kk:Перси	I-PER
+
+kk:Тәжібаев	B-PER
+kk:(	O
+kk:“Жамбыл”	O
+kk:,	O
+kk:“Шұғылада	O
+kk:болған	O
+kk:еді”	O
+kk:)	O
+kk:,	O
+kk:Ш	O
+kk:.	O
+
+kk:Монетаның	O
+kk:сырт	O
+kk:жағының	O
+kk:(	O
+kk:реверсінің	O
+kk:)	O
+kk:ортасына	O
+kk:сауда	O
+kk:керуені	O
+kk:және	O
+kk:Қожа	B-ORG
+kk:Ахмет	I-ORG
+kk:Ясауи	I-ORG
+kk:кесенесі	I-ORG
+kk:бейнеленген	O
+kk:.	O
+
+kk:Yavuz	O
+kk:)	O
+kk:өзіне	O
+kk:Халифа	B-ORG
+kk:атағын	O
+kk:алады	O
+kk:.	O
+
+kk:Сонымен	O
+kk:бірге	O
+kk:''Вольф	O
+kk:''	O
+kk:схоластиканы	B-ORG
+kk:жаңартшы	O
+kk:ретінде	O
+kk:көрінді	O
+kk:.	O
+
+kk:Арагон	B-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Сарагоса	B-LOC
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Кабо	B-LOC
+kk:Верде	I-LOC
+kk:мемлекетінің	O
+kk:халқының	O
+kk:54	O
+kk:%	O
+kk:қалаларда	O
+kk:тұрады	O
+kk:.	O
+
+kk:3-5	O
+kk:сайланған	O
+kk:КСРО	B-ORG
+kk:Жоғарғы	I-ORG
+kk:Кеңесінің	I-ORG
+kk:депутаты	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:жылдан	O
+kk:ҚазТрансОйл	B-ORG
+kk:ЖАҚ	O
+kk:ғылыми-технология	O
+kk:орт	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Данияр	B-PER
+kk:Маратұлы	I-PER
+kk:Елеусінов	I-PER
+
+kk:АЙДАУ	O
+kk:Сегізінші	B-ORG
+kk:гвардиялық	I-ORG
+kk:атқыштар	I-ORG
+kk:дивизиясы	I-ORG
+
+kk:Авторы	O
+kk:-	O
+kk:Мұхтар	B-PER
+kk:Әуезов	I-PER
+kk:.	O
+
+kk:Мешітке	O
+kk:көзіңде	O
+kk:Абай	B-PER
+kk:да	O
+kk:барып	O
+kk:тұрған	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Михаил	B-PER
+kk:Васильевич	I-PER
+kk:Ломоносов	I-PER
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Қазақстан	B-ORG
+kk:жазушылар	I-ORG
+kk:одағындағы	I-ORG
+kk:көркем	O
+kk:әдебиетті	O
+kk:насихаттау	O
+kk:бюросында	O
+
+kk:'	O
+kk:''	O
+kk:Карты-Кат-Игый	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Ал	O
+kk:,	O
+kk:Google	B-ORG
+kk:Maps	I-ORG
+kk:сізге	O
+kk:онлайн	O
+kk:режимде	O
+kk:бірқатар	O
+kk:мүмкіншіліктерін	O
+kk:қолдануға	O
+kk:мүмкіндік	O
+kk:береді	O
+kk:.	O
+
+kk:|width=	O
+kk:''	O
+kk:10	O
+kk:%	O
+kk:''	O
+kk:Қалмұханбет	B-PER
+kk:Қасымов	I-PER
+
+kk:Бад-Бирнбах	B-LOC
+kk:(	O
+kk:5	O
+kk:546	O
+kk:)	O
+
+kk:Төменгі	B-LOC
+kk:Альгой	I-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Томас	B-PER
+kk:Алва	I-PER
+kk:Эдисон	I-PER
+
+kk:'	O
+kk:''	O
+kk:Владиченци	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Миғражнама	O
+kk:''	O
+kk:'	O
+kk:–	O
+kk:Мұхаммед	B-PER
+kk:пайғамбардың	I-PER
+kk:(	O
+kk:ғ.с	O
+kk:.	O
+
+kk:★	O
+kk:'	O
+kk:''	O
+kk:Гэри	B-PER
+kk:Купер	I-PER
+
+kk:Зальцведель	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:Авторды	O
+kk:Шығыстың	O
+kk:Плутархы	B-PER
+kk:атайды	O
+kk:.	O
+
+kk:Футболшылық	O
+kk:карьерасын	O
+kk:Қызылорданың	B-LOC
+kk:Қайсар	B-ORG
+kk:ФК-ында	I-ORG
+kk:бастаған	O
+kk:.	O
+
+kk:Аттенхофен	B-LOC
+kk:(	O
+kk:1	O
+kk:369	O
+kk:)	O
+
+kk:'	O
+kk:''	O
+kk:Цаггинг	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Аустриядағы	B-LOC
+kk:коммуна	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Морбад-Харбах	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Аустриядағы	B-LOC
+kk:коммуна	O
+kk:.	O
+
+kk:*Саяси	O
+kk:қайраткер	O
+kk:ретіндегі	O
+kk:идеалы	O
+kk:-	O
+kk:Н.Ә.	B-PER
+kk:Назарбаев	I-PER
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Пербовка	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Долна-Кабда	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:====	O
+kk:'	O
+kk:''	O
+kk:Серхио	B-PER
+kk:Мартинеспен	I-PER
+kk:''	O
+kk:'	O
+kk:''	O
+kk:айқас	O
+kk:====	O
+
+kk:Жүрек	B-ORG
+kk:тәрізді	O
+kk:жапырағы	O
+kk:кезектесіп	O
+kk:орналасқан	O
+kk:.	O
+
+kk:Бүкіләлемдік	B-ORG
+kk:бокс	I-ORG
+kk:ұйымы	I-ORG
+kk:WBO	I-ORG
+
+kk:Иль	B-LOC
+kk:және	I-LOC
+kk:Вилен	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:АЙДАУ	O
+kk:Қазақстан	B-ORG
+kk:мұзды	I-ORG
+kk:хоккей	I-ORG
+kk:ұлттық	I-ORG
+kk:құрамасы	I-ORG
+
+kk:АЙДАУ	O
+kk:Зәйд	B-PER
+kk:ибн	I-PER
+kk:Әли	I-PER
+
+kk:Долли	O
+kk:сақтап	O
+kk:қалған	O
+kk:заттардың	O
+kk:арасында	O
+kk:Джордж	B-PER
+kk:Вашингтонның	I-PER
+kk:суреті	O
+kk:де	O
+kk:болды	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Халықаралық	B-ORG
+kk:ақпараттық	I-ORG
+kk:технологиялар	I-ORG
+kk:университеті	I-ORG
+
+kk:Василий	B-PER
+kk:Васильевич	I-PER
+kk:Радлов	I-PER
+
+kk:'	O
+kk:''	O
+kk:Эбелю	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Оо	O
+kk:VI	B-PER
+kk:Георгтың	I-PER
+kk:алғашқы	O
+kk:немересі	O
+kk:атанды	O
+kk:.	O
+
+kk:Мұнай	B-ORG
+kk:экспорттаушы	I-ORG
+kk:елдер	I-ORG
+kk:ұйымы	I-ORG
+
+kk:Эссинген	B-ORG
+kk:(	O
+kk:6	O
+kk:432	O
+kk:)	O
+
+kk:Джек	B-PER
+kk:Блэк	I-PER
+kk:—	O
+kk:''По	O
+kk:''	O
+
+kk:'	O
+kk:''	O
+kk:Безымянка	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Ол	O
+kk:екі	O
+kk:жақ	O
+kk:арасында	O
+kk:шешілуі	O
+kk:қиын	O
+kk:келіспеүшіліктер	O
+kk:болуымен	O
+kk:,	O
+kk:кем	O
+kk:дегенде	O
+kk:олардың	O
+kk:бірінде	O
+kk:әскери	B-ORG
+kk:күшті	I-ORG
+kk:қолдану	O
+kk:пиғылының	O
+kk:болуымен	O
+kk:,	O
+kk:елдің	O
+kk:және	O
+kk:қарулы	O
+kk:күштер	O
+kk:топтастықтарынын	O
+kk:койылған	O
+kk:міндеттерді	O
+kk:орындауға	O
+kk:экономикалық	O
+kk:дайындығымен	O
+kk:сипатталады	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Қазақстан	B-ORG
+kk:Республикасы	I-ORG
+kk:Қарулы	I-ORG
+kk:Күштері	I-ORG
+
+kk:бойындағы	O
+kk:Абылай	B-PER
+kk:хан	I-PER
+kk:ордасына	O
+kk:жіберген	O
+kk:елшілігі	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Гонконг	B-ORG
+kk:ғылым	I-ORG
+kk:және	I-ORG
+kk:технология	I-ORG
+kk:университеті	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Санкт-Георген-на-Гузене	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Аустриядағы	B-LOC
+kk:жәрмеңкелік	O
+kk:коммуна	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Константин	B-PER
+kk:Эдуардович	I-PER
+kk:Циолковский	I-PER
+
+kk:АЙДАУ	O
+kk:Қазақ	B-ORG
+kk:ұлттық	I-ORG
+kk:медицина	I-ORG
+kk:университеті	I-ORG
+
+kk:Байдаркада	B-ORG
+kk:және	I-ORG
+kk:каноэде	I-ORG
+kk:есу	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Иглика	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:Шерлок	B-PER
+kk:Холмс	I-PER
+kk:рөліндегі	O
+kk:Бенедикт	B-PER
+kk:Камбербэтч	I-PER
+kk:.	O
+
+kk:Қазақ	B-PER
+kk:ханы	I-PER
+kk:Абылайға	I-PER
+kk:қарсы	O
+kk:соғыстың	O
+kk:басшыларының	O
+kk:бiрi	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Нюмылга-Вож	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Александр	B-PER
+kk:Владимирович	I-PER
+kk:Парыгин	I-PER
+
+kk:''Елордасы	O
+kk:''	O
+kk:—	O
+kk:Якутск	B-LOC
+kk:қаласы	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Қазақстан	B-ORG
+kk:жазушылар	I-ORG
+kk:одағы	I-ORG
+
+kk:АЙДАУ	O
+kk:Левон	B-PER
+kk:Исаевич	I-PER
+kk:Мирзоян	I-PER
+
+kk:'	O
+kk:''	O
+kk:Ла	B-ORG
+kk:Лига	I-ORG
+kk:''	O
+kk:'	O
+
+kk:Cosmopolitan	B-ORG
+kk:(	I-ORG
+kk:журнал	I-ORG
+kk:)	I-ORG
+
+kk:Сәкен	B-PER
+kk:Сейфуллиннің	I-PER
+kk:өмірі	O
+kk:мен	O
+kk:шығармашылығына	O
+kk:арналған	O
+kk:«Последние	O
+kk:дни	O
+kk:Сакена»	O
+kk:,	O
+kk:«Қазақтың	O
+kk:Сәкені»	O
+kk:,	O
+kk:«Непокоренный	O
+kk:сын	O
+kk:степи»	O
+kk:атты	O
+kk:еңбектердің	O
+kk:және	O
+kk:«Түркістан	O
+kk:легионы»	O
+kk:кітабының	O
+kk:авторы	O
+kk:.	O
+
+kk:Ким	B-PER
+kk:Нелли	I-PER
+kk:Владимировна	I-PER
+
+kk:Standard	B-ORG
+kk:&	I-ORG
+kk:Poor	I-ORG
+kk:'s	I-ORG
+kk:''	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Кестеде	O
+kk:нысандар	O
+kk:Әлемдік	B-ORG
+kk:мұра	I-ORG
+kk:нысандары	I-ORG
+kk:тізіміне	I-ORG
+kk:кіру	O
+kk:уақыты	O
+kk:бойынша	O
+kk:орналасқан	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Самат-Ега	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Вульканайфель	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Әл-Фараби	B-ORG
+kk:атындағы	I-ORG
+kk:Қазақ	I-ORG
+kk:ұлттық	I-ORG
+kk:университеті	I-ORG
+
+kk:АЙДАУ	O
+kk:Америкалық	B-ORG
+kk:тіл	I-ORG
+kk:қоғамы	I-ORG
+
+kk:Беккерель	B-ORG
+kk:ұзақ	O
+kk:уақыт	O
+kk:осы	O
+kk:тектес	O
+kk:құбылысты	O
+kk:—	O
+kk:алдын	O
+kk:ала	O
+kk:күн	O
+kk:жарығына	O
+kk:сәулелендiрiлген	O
+kk:заттардың	O
+kk:соңынан	O
+kk:сәуле	O
+kk:шығаруын	O
+kk:зерттеумен	O
+kk:шұғылданған	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Alright	B-ORG
+kk:,	I-ORG
+kk:Still	I-ORG
+kk:''	O
+kk:'	O
+kk:''	O
+
+kk:Ұлттық	B-ORG
+kk:Олимпиада	I-ORG
+kk:комитеттері	I-ORG
+kk:!	O
+kk:!	O
+
+kk:АЙДАУ	O
+kk:Б.	B-ORG
+kk:з.	I-ORG
+kk:д.	I-ORG
+kk:526	I-ORG
+kk:жыл	I-ORG
+
+kk:Тәуке	B-PER
+kk:ханның	I-PER
+kk:жасағы	O
+kk:80	O
+kk:мыңға	O
+kk:жуық	O
+kk:жауынгерден	O
+kk:тұрды	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:және	I-LOC
+kk:Леон	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Леон	B-LOC
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Гота	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:Антонов	B-ORG
+kk:атындағы	I-ORG
+kk:ТКБ-ды	I-ORG
+kk:жобаланған	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Николай	B-PER
+kk:Михайлович	I-PER
+kk:Ядринцев	I-PER
+
+kk:Абай	B-PER
+kk:Құнанбайұлы	I-PER
+kk:(	O
+kk:1845-1904	O
+kk:)	O
+
+kk:Тәжібаевпен	B-PER
+kk:бірігіп	O
+kk:жазған	O
+kk:“Ақ	O
+kk:қайыңдағы”	O
+kk:Алтыншаш	O
+kk:рөлдерін	O
+kk:келістіріп	O
+kk:ойнады	O
+kk:.	O
+
+kk:Эмсланд	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Спартак	B-ORG
+kk:(	I-ORG
+kk:футбол	I-ORG
+kk:клубы	I-ORG
+kk:,	I-ORG
+kk:Мәскеу	I-ORG
+kk:)	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Петринка	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Потсдам-Миттельмарк	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:Халықаралық	B-ORG
+kk:әуесқой	I-ORG
+kk:бокс	I-ORG
+kk:ассоциациясы	I-ORG
+
+kk:АЙДАУ	O
+kk:Мигель	B-PER
+kk:де	I-PER
+kk:Сервантес	I-PER
+
+kk:'	O
+kk:''	O
+kk:«Қасқыр	O
+kk:ұлыған	O
+kk:түнде»	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Оралхан	B-PER
+kk:Бөкей	I-PER
+kk:жазған	O
+kk:әңгіме	O
+kk:.	O
+
+kk:Конституция	B-ORG
+kk:бойынша	O
+kk:парламенттке	O
+kk:Төраға	O
+kk:мен	O
+kk:оның	O
+kk:екі	O
+kk:орынбасары	O
+kk:төрағалық	O
+kk:етеді	O
+kk:.	O
+
+kk:Мойра	B-LOC
+kk:(	O
+kk:504	O
+kk:)	O
+
+kk:«Қазақ»	O
+kk:газетін	O
+kk:шығаруды	O
+kk:ұйымдастырушы	O
+kk:,	O
+kk:редакторы	O
+kk:-	O
+kk:Ахмет	B-PER
+kk:Байтұрсынұлы	I-PER
+kk:,	O
+kk:оның	O
+kk:өкілетті	O
+kk:өкілі	O
+kk:М.Дулатұлы	B-PER
+kk:болды	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Тар-Я	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Повзас	O
+kk:(	O
+kk:Поуксас	O
+kk:)	O
+kk:'	O
+kk:''	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:«Исмаилды	O
+kk:,	O
+kk:әл-Йасаны	O
+kk:,	O
+kk:Зул-Кифлды	B-ORG
+kk:еске	O
+kk:ал	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Берёзка	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Дүние	B-ORG
+kk:жүзіндегі	I-ORG
+kk:көптеген	O
+kk:экономикалық	O
+kk:және	O
+kk:саяси	O
+kk:жаһандау	O
+kk:үдерістері	O
+kk:халықаралық	O
+kk:құқықтың	O
+kk:басты-басты	O
+kk:қағидаларын	O
+kk:алға	O
+kk:қойып	O
+kk:отыр	O
+kk:.	O
+
+kk:Атлантикалық	B-LOC
+kk:Пиреней	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:Бад-Кройцнах	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Сағид	B-PER
+kk:ибн	I-PER
+kk:Зәйд	I-PER
+
+kk:Жүлдені	O
+kk:Жан	B-PER
+kk:Доссемен	I-PER
+kk:және	O
+kk:Джордж	B-PER
+kk:Снеллмен	I-PER
+kk:бөлісті	O
+kk:.	O
+
+kk:Зиргенштайн	B-LOC
+kk:(	O
+kk:3	O
+kk:607	O
+kk:)	O
+
+kk:Платон	B-PER
+kk:Сократ	B-PER
+kk:ілімін	O
+kk:ары	O
+kk:қарай	O
+kk:жалғастырды	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Марид	B-PER
+kk:Камилович	I-PER
+kk:Муталимов	I-PER
+
+kk:Вальдсхут	B-LOC
+kk:—	O
+kk:Waldshut	O
+kk:(	O
+kk:WT	O
+kk:)	O
+
+kk:Емшектегі	B-ORG
+kk:бала	I-ORG
+kk:тамақты	O
+kk:көп	O
+kk:талап	O
+kk:етеді	O
+kk:,	O
+kk:бірақ	O
+kk:оның	O
+kk:ас	O
+kk:қорытатын	O
+kk:органдары	O
+kk:әлі	O
+kk:жетілмегендіктен	O
+kk:,	O
+kk:ішкенін	O
+kk:сіңіру	O
+kk:мүмкіндігі	O
+kk:өте	O
+kk:шектеулі	O
+kk:.	O
+
+kk:Төменгі	B-LOC
+kk:Рейн	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:Заале-Орла	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Big	B-ORG
+kk:Time	I-ORG
+kk:Rush	I-ORG
+
+kk:АЙДАУ	O
+kk:Eurovision	B-ORG
+kk:ән	I-ORG
+kk:байқауы	I-ORG
+kk:2013	I-ORG
+
+kk:)	O
+kk:,	O
+kk:Қарашығанақ	B-ORG
+kk:(	O
+kk:1989ж	O
+kk:.	O
+
+kk:Съез	O
+kk:ашу	O
+kk:жөнінде	O
+kk:Қазақ	B-ORG
+kk:газетінде	I-ORG
+kk:,	O
+kk:Айқап	B-ORG
+kk:журналында	O
+kk:бірқатар	O
+kk:мақала	O
+kk:сипатындағы	O
+kk:хаттар	O
+kk:жарық	O
+kk:көрді	O
+kk:.	O
+
+kk:Луис	B-PER
+kk:Суарес	I-PER
+kk:''	O
+kk:4	O
+kk:''	O
+
+kk:'	O
+kk:''	O
+kk:Манчестер	B-ORG
+kk:Юнайтед	I-ORG
+kk:''	O
+kk:'	O
+
+kk:Оның	O
+kk:жиені	O
+kk:,	O
+kk:Август	B-PER
+kk:,	O
+kk:қолданыста	O
+kk:осы	O
+kk:шифрлеу	O
+kk:әдісін	O
+kk:ұстанған	O
+kk:.	O
+
+kk:•	O
+kk:'	O
+kk:''	O
+kk:Кэтрин	B-PER
+kk:Хепбёрн	I-PER
+
+kk:Файд	B-LOC
+kk:(	O
+kk:1	O
+kk:164	O
+kk:)	O
+
+kk:''	O
+kk:Мезгілсіз	B-ORG
+kk:сезім	I-ORG
+kk:''	O
+kk:(	O
+kk:2008-2010	O
+kk:)	O
+
+kk:АЙДАУ	O
+kk:Қазақстан	B-ORG
+kk:(	I-ORG
+kk:телеарна	I-ORG
+kk:)	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Петра	B-ORG
+kk:''	O
+kk:'	O
+
+kk:АЙДАУ	O
+kk:Б.	B-ORG
+kk:з.	I-ORG
+kk:д.	I-ORG
+kk:742	I-ORG
+kk:жыл	I-ORG
+
+kk:АЙДАУ	O
+kk:Колумбия	B-ORG
+kk:Ұлттық	I-ORG
+kk:футбол	I-ORG
+kk:құрама	I-ORG
+kk:командасы	I-ORG
+
+kk:***	O
+kk:1	O
+kk:''sui	O
+kk:generis	O
+kk:''	O
+kk:(	O
+kk:арнайы	O
+kk:күйі	O
+kk:бар	O
+kk:)	O
+kk:коммуна	O
+kk:(	O
+kk:Жаңа	B-LOC
+kk:Каледония	I-LOC
+kk:''	O
+kk:)	O
+kk:.	O
+
+kk:Мысалы	O
+kk:,	O
+kk:''Тамаша	O
+kk:өмір	O
+kk:,	O
+kk:шаттық	O
+kk:жыр	O
+kk:,	O
+kk:қала	O
+kk:,	O
+kk:дала	O
+kk:,	O
+kk:ой	O
+kk:мен	O
+kk:қыр	O
+kk:''	O
+kk:(	O
+kk:Жамбыл	B-PER
+kk:)	O
+kk:;	O
+
+kk:2	O
+kk:жылдан	O
+kk:кейін	O
+kk:Starbucks	B-ORG
+kk:бұрынғы	O
+kk:басшылығы	O
+kk:жұмыс	O
+kk:орнын	O
+kk:ауыстыруды	O
+kk:және	O
+kk:Peet’s	O
+kk:Coffee	O
+kk:&	O
+kk:Tea-ге	O
+kk:көшуді	O
+kk:жөн	O
+kk:көрді	O
+kk:.	O
+
+kk:Іргесі	O
+kk:Түркістан-Сібір	B-ORG
+kk:темір	I-ORG
+kk:жолының	I-ORG
+kk:салынуына	O
+kk:байланысты	O
+kk:қаланған	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Мусса	B-PER
+kk:Сиссоко	I-PER
+kk:''	O
+kk:'	O
+
+kk:•	O
+kk:'	O
+kk:''	O
+kk:Мерил	B-PER
+kk:Стрип	I-PER
+
+kk:АЙДАУ	O
+kk:Big	B-ORG
+kk:Time	I-ORG
+kk:Rush	I-ORG
+
+kk:Галисия	B-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Понтеведра	B-LOC
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Кантеле	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Франциядағы	B-LOC
+kk:коммуна	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Чухча	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Сысь	O
+kk:Мадмас	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Траунштайн	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:Клаусталь-Целлерфельд	B-LOC
+kk:(	O
+kk:14	O
+kk:384	O
+kk:)	O
+
+kk:Әрине	O
+kk:,	O
+kk:бұл	O
+kk:шығарма	O
+kk:Артур	B-PER
+kk:Шопенгауэрдің	I-PER
+kk:'	O
+kk:''	O
+kk:Тіршілік	O
+kk:еркі	O
+kk:''	O
+kk:'	O
+kk:идеясын	O
+kk:негіз	O
+kk:етіп	O
+kk:жазылғаны	O
+kk:бірден	O
+kk:байқалады	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Таймс	B-ORG
+kk:әлем	I-ORG
+kk:университеттерінің	I-ORG
+kk:рейтингісі	I-ORG
+
+kk:31	B-ORG
+kk:(	I-ORG
+kk:телеарна	I-ORG
+kk:)	I-ORG
+
+kk:Сенімділік	O
+kk:пен	O
+kk:өміршеңдік	O
+kk:автокөліктің	O
+kk:,	O
+kk:əсіресе	O
+kk:Аустралияда	B-LOC
+kk:,	O
+kk:тасығыш	O
+kk:раманың	O
+kk:жəне	O
+kk:төрт	O
+kk:дөңгелегінің	O
+kk:бірдей	O
+kk:қозғалуы	O
+kk:кең	O
+kk:танымалдылығына	O
+kk:алып	O
+kk:келді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Араб	B-ORG
+kk:мемлекеттерінің	I-ORG
+kk:Лигасы	I-ORG
+
+kk:АЙДАУ	O
+kk:Дінмұхамед	B-PER
+kk:Ахметұлы	I-PER
+kk:Қонаев	I-PER
+
+kk:'	O
+kk:''	O
+kk:Каймъяха	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Б.	B-ORG
+kk:з.	I-ORG
+kk:д.	I-ORG
+kk:527	I-ORG
+kk:жыл	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Лаке	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Қаныш	B-ORG
+kk:Сәтбаев	I-ORG
+kk:атындағы	I-ORG
+kk:Қазақ	I-ORG
+kk:ұлттық	I-ORG
+kk:техникалық	I-ORG
+kk:университеті	I-ORG
+
+kk:Ұшақ	O
+kk:1982-2005	O
+kk:жылдары	O
+kk:американдық	O
+kk:Боинг	B-ORG
+kk:компаниясымен	O
+kk:өндірілген	O
+kk:.	O
+
+kk:М.	B-PER
+kk:Әуезов	I-PER
+kk:«Қорғансыздың	O
+kk:күні»	O
+kk:деген	O
+kk:әңгімесінде	O
+kk:Күшікбай	O
+kk:кезеңінде	O
+kk:болған	O
+kk:қайғылы	O
+kk:оқиғаны	O
+kk:шынайы	O
+kk:бейнелеген	O
+kk:.	O
+
+kk:Қарағанды	B-LOC
+kk:облысы	I-LOC
+kk:Қарқаралы	B-LOC
+kk:ауданы	I-LOC
+kk:,	O
+kk:аудан	O
+kk:орталығы	O
+kk:Қарқаралы	B-ORG
+kk:қаласының	O
+kk:оңтүстік-батысына	O
+kk:қарай	O
+kk:50	O
+kk:км	O
+kk:жерде	O
+kk:орналасқан	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Б.	B-ORG
+kk:з.	I-ORG
+kk:д.	I-ORG
+kk:746	I-ORG
+kk:жыл	I-ORG
+
+kk:Максим	B-PER
+kk:Горькийдің	I-PER
+kk:бірқатар	O
+kk:әнгімелері	O
+kk:мен	O
+kk:ертегілерін	O
+kk:қазақшаға	O
+kk:тәржімалаған	O
+kk:.	O
+
+kk:Бірнеше	O
+kk:тыңдалымнан	O
+kk:кейін	O
+kk:Шерилді	O
+kk:Николь	B-PER
+kk:Шерзингермен	I-PER
+kk:ауыстырды	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Ақорда	B-ORG
+kk:(	I-ORG
+kk:резиденция	I-ORG
+kk:)	I-ORG
+
+kk:қызмет	O
+kk:істері	O
+kk:агенттігінің	O
+kk:Астана	B-LOC
+kk:қаласы	O
+kk:бойынша	O
+kk:аумақтық	O
+kk:басқармасы	O
+kk:бастығының	O
+kk:орынбасары	O
+kk:.	O
+
+kk:Мұхаммед	B-PER
+kk:ибн	I-PER
+kk:Идрис	I-PER
+kk:әш-Шафиғи	I-PER
+
+kk:Кейін	O
+kk:Абылай	B-PER
+kk:ханның	I-PER
+kk:қыздарының	O
+kk:біріне	O
+kk:үйленеді	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Аргауз	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Арагон	B-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Сарагоса	B-LOC
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Клод	B-PER
+kk:Луи	I-PER
+kk:Бертолле	I-PER
+
+kk:===	O
+kk:Людвиг	B-PER
+kk:ван	I-PER
+kk:Бетховеннің	I-PER
+kk:№	O
+kk:5	O
+kk:симфония	O
+kk:===	O
+
+kk:АЙДАУ	O
+kk:Роберт	B-PER
+kk:Джеймс	I-PER
+kk:Фишер	I-PER
+
+kk:АЙДАУ	O
+kk:Джеймс	B-PER
+kk:Фенимор	I-PER
+kk:Купер	I-PER
+
+kk:АЙДАУ	O
+kk:Ақсай	B-ORG
+kk:Қазақ	I-ORG
+kk:автономиялық	I-ORG
+kk:ауданы	I-ORG
+
+kk:Фемарн	B-LOC
+kk:(	O
+kk:12	O
+kk:909	O
+kk:)	O
+
+kk:Хамза	B-PER
+kk:ибн	I-PER
+kk:Әлидің	I-PER
+kk:және	O
+kk:көпшіліктің	O
+kk:қарсылығына	O
+kk:кездескен	O
+kk:дүрзілік	O
+kk:әрекеті	O
+kk:жасырын	O
+kk:түрде	O
+kk:жүргізілген	O
+kk:.	O
+
+kk:Ол	O
+kk:оны	O
+kk:Александр	B-PER
+kk:І-ге	I-PER
+kk:сыйлайды	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Нэтем-Шор	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Айфель-Битбург-Прюм	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Старчиште	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Ано-Харвута	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Шмалькальден-Майнинген	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:Франклин	B-ORG
+kk:онымен	O
+kk:танысуға	O
+kk:келiп	O
+kk:,	O
+kk:Шарлдiң	O
+kk:қабiлеттiлiгiн	O
+kk:атады	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Сонда	O
+kk:Қарқаралының	B-ORG
+kk:аты	O
+kk:Алатау-Арқаға	O
+kk:мәлім	O
+
+kk:Шеткі	O
+kk:жақтары	O
+kk:Тобыл	B-LOC
+kk:,	O
+kk:Үй	B-LOC
+kk:,	O
+kk:Обаған	B-LOC
+kk:өзендерінің	O
+kk:және	O
+kk:олардың	O
+kk:шағын	O
+kk:салаларының	O
+kk:аңғарларымен	O
+kk:тілімделген	O
+kk:.	O
+
+kk:Оның	O
+kk:аты	O
+kk:Леонардо	B-PER
+kk:да	I-PER
+kk:Винчиның	I-PER
+kk:құрметіне	O
+kk:қойылған	O
+kk:.	O
+
+kk:Астанасы	O
+kk:–	O
+kk:Петра	B-ORG
+kk:қаласы	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:«Қайын	O
+kk:ене»	O
+kk:комедиясы	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Теренций	B-PER
+kk:комедияларының	O
+kk:ішінде	O
+kk:өміршеңдігімен	O
+kk:,	O
+kk:мағыналылығымен	O
+kk:оқырманды	O
+kk:ерекше	O
+kk:баурап	O
+kk:алатыны	O
+kk:.	O
+
+kk:ескерткіштерінің	O
+kk:үлгілерін	O
+kk:Т.Г.	B-PER
+kk:Шевченко	I-PER
+kk:мен	O
+kk:Б.	B-PER
+kk:Ф.	I-PER
+kk:Залесский	I-PER
+kk:қағазға	O
+kk:түсірді	O
+kk:.	O
+
+kk:Бірақ	O
+kk:бұл	O
+kk:Кіші	B-ORG
+kk:жүздегі	I-ORG
+kk:үй	O
+kk:санының	O
+kk:⅓	O
+kk:бөлігінен	O
+kk:де	O
+kk:аз	O
+kk:еді	O
+kk:.	O
+
+kk:Мұстафа	B-PER
+kk:Шоқай	I-PER
+kk:серіктерінің	O
+kk:бірі	O
+kk:болған	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:және	I-LOC
+kk:Леон	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Сория	B-LOC
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Бұл	O
+kk:Эйлер	B-ORG
+kk:теоремасы	I-ORG
+kk:болып	O
+kk:табылады	O
+kk:;	O
+
+kk:«Көргені	O
+kk:мен	O
+kk:білгені	O
+kk:,	O
+kk:Жүзге	O
+kk:келген	O
+kk:шалдан	O
+kk:көп	O
+kk:...	O
+kk:»	O
+kk:-	O
+kk:деген	O
+kk:жолдар	O
+kk:да	O
+kk:Абайдың	B-PER
+kk:адам	O
+kk:өмірінің	O
+kk:өлшемі	O
+kk:мен	O
+kk:бағасы	O
+kk:көп	O
+kk:жасауда	O
+kk:емес	O
+kk:,	O
+kk:артына	O
+kk:із	O
+kk:қалдыруда	O
+kk:деген	O
+kk:данышпандық	O
+kk:ойының	O
+kk:дәлелі	O
+kk:.	O
+
+kk:Оның	O
+kk:орнына	O
+kk:“Қазақ	O
+kk:мәселесі”	O
+kk:мен	O
+kk:Известия”	B-ORG
+kk:шығарылсын	O
+kk:деген	O
+kk:қаулы	O
+kk:қабылданған	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Халықаралық	B-ORG
+kk:бокс	I-ORG
+kk:федерациясы	I-ORG
+
+kk:АЙДАУ	O
+kk:Сергей	B-PER
+kk:Александрович	I-PER
+kk:Есенин	I-PER
+
+kk:'	O
+kk:''	O
+kk:Сарайная	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Соның	O
+kk:арасында	O
+kk:елші	O
+kk:аса	O
+kk:ықпалды	O
+kk:Бөгенбай	B-PER
+kk:батырмен	I-PER
+kk:жасырын	O
+kk:жолығып	O
+kk:,	O
+kk:оны	O
+kk:өз	O
+kk:сөзін	O
+kk:сөйлеуге	O
+kk:көндіреді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Георг	B-PER
+kk:Фридрих	I-PER
+kk:Гендель	I-PER
+
+kk:айдау	O
+kk:Джон	B-PER
+kk:Дэвисон	I-PER
+kk:Рокфеллер	I-PER
+
+kk:Кіші	B-ORG
+kk:жүздің	I-ORG
+kk:қожагелді	O
+kk:руынан	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Войпты-Яха	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Игол	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Жамбылтану	O
+kk:ғылымының	O
+kk:іргетасын	O
+kk:қалаған	O
+kk:''	O
+kk:'	O
+kk:–	O
+kk:М.О.Әуезов	B-PER
+kk:.	O
+
+kk:Боливар	B-PER
+kk:екеуін	O
+kk:көтере	O
+kk:алмайды	O
+kk:(	O
+kk:Боливарға	O
+kk:екеуін	O
+kk:апару	O
+kk:қиынға	O
+kk:соғады	O
+kk:)	O
+kk:.»	O
+kk:(	O
+kk:Біз	O
+kk:таңдайтын	O
+kk:жолдар	O
+kk:)	O
+
+kk:Джон	B-PER
+kk:Говард	I-PER
+kk:Нортроп	I-PER
+kk:(	O
+kk:1	O
+kk:/	O
+kk:4-і	O
+kk:)	O
+
+kk:Әбілқайыр	B-PER
+kk:хан	I-PER
+kk:(	I-PER
+kk:Өзбек	I-PER
+kk:хандығы	I-PER
+kk:)	I-PER
+
+kk:Бұл	O
+kk:мейрамға	O
+kk:Франциск	B-PER
+kk:І	I-PER
+kk:Леонардо	B-PER
+kk:да	I-PER
+kk:Винчиді	I-PER
+kk:шақырған	O
+kk:болатын	O
+kk:.	O
+
+kk:Цоллернальб	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Ұлттық	B-ORG
+kk:Олимпиада	I-ORG
+kk:комитеттері	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Оселна	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:және	I-LOC
+kk:Леон	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Авила	B-LOC
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Бұл	O
+kk:Аристотельдің	B-PER
+kk:жасампаз	O
+kk:ақыл	O
+kk:жөніндегі	O
+kk:көзқарасын	O
+kk:әрі	O
+kk:қарай	O
+kk:дамыту	O
+kk:еді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Ержан	B-PER
+kk:Хозеұлы	I-PER
+kk:Қазыханов	I-PER
+
+kk:Саяси	O
+kk:қайраткер	O
+kk:ретіндегі	O
+kk:идеалы	O
+kk:-	O
+kk:Н.Ә.	B-PER
+kk:Назарбаев	I-PER
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Вильдунгсмауэр	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Аустриядағы	B-LOC
+kk:коммуна	O
+kk:.	O
+
+kk:Сүйіп	O
+kk:тұтатын	O
+kk:әншісі	O
+kk:–	O
+kk:Селена	B-PER
+kk:Гомез	I-PER
+kk:.	O
+
+kk:Айқап	B-ORG
+kk:,	O
+kk:Қазақ	B-ORG
+kk:газеттерінде	O
+kk:өлеңдер	O
+kk:,	O
+kk:мақалалар	O
+kk:жариялайды	O
+kk:.	O
+
+kk:Қалай	O
+kk:бағаласақ	O
+kk:та	O
+kk:,	O
+kk:бұл	O
+kk:салада	O
+kk:Абайдың	B-PER
+kk:өнегелі	O
+kk:еңбегі	O
+kk:бар	O
+kk:екені	O
+kk:даусыз	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Паничино	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Елэнг-Юган	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Оғыздардың	O
+kk:тарихи	O
+kk:аңыздары	O
+kk:да	O
+kk:осы	O
+kk:пікірді	O
+kk:қуаттайды	O
+kk:,	O
+kk:оларда	O
+kk:оғыздардың	O
+kk:алғашқы	O
+kk:ата-бабаларының	O
+kk:бірінін	O
+kk:Ыстықкөл	B-ORG
+kk:маңында	O
+kk:болғаны	O
+kk:айтылады	O
+kk:.	O
+
+kk:Төменгі	B-LOC
+kk:Рейн	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:У.Шекспир	B-PER
+kk:–	O
+kk:«Король	O
+kk:Лир»	O
+
+kk:'	O
+kk:''	O
+kk:Лун-Вож	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Валерий	B-PER
+kk:Борисович	I-PER
+kk:Харламов	I-PER
+
+kk:Мюннерштадт	B-LOC
+kk:(	O
+kk:8	O
+kk:019	O
+kk:)	O
+
+kk:Бұл	O
+kk:еңбегінде	O
+kk:Аристотель	B-PER
+kk:Платонның	B-PER
+kk:``	O
+kk:Мінсіз	O
+kk:мемлекет	O
+kk:''	O
+kk:ілімін	O
+kk:сынға	O
+kk:алады	O
+kk:.	O
+
+kk:Иван	B-PER
+kk:І	I-PER
+kk:Калитаның	O
+kk:немересі	O
+kk:.	O
+
+kk:Барлебен	B-LOC
+kk:(	O
+kk:9	O
+kk:169	O
+kk:)	O
+
+kk:Александрия	B-ORG
+kk:(	I-ORG
+kk:Кировоград	I-ORG
+kk:облысы	I-ORG
+kk:)	I-ORG
+
+kk:Iss	O
+kk:Pyaar	O
+kk:Ko	O
+kk:Kya	O
+kk:Naam	O
+kk:Doon	O
+kk:?	O
+kk:/	O
+kk:Мұздан	B-ORG
+kk:суық	I-ORG
+kk:,	I-ORG
+kk:оттан	I-ORG
+kk:ыстық	I-ORG
+
+kk:Анти	O
+kk:Юрген	O
+kk:балеринаның	O
+kk:киімін	O
+kk:киіп	O
+kk:,	O
+kk:макарон	B-ORG
+kk:ұстап	O
+kk:жүреді	O
+kk:.	O
+
+kk:Ольга	B-PER
+kk:Васильевна	I-PER
+kk:Шишигина	I-PER
+
+kk:Осы	O
+kk:бірегей	O
+kk:әрі	O
+kk:іргелі	O
+kk:еңбегі	O
+kk:үшін	O
+kk:ол	O
+kk:«Қазақ	O
+kk:тарихының	O
+kk:Геродоты	B-PER
+kk:деген	O
+kk:атаққа	O
+kk:лайықты	O
+kk:ие	O
+kk:болды	O
+kk:.	O
+
+kk:Мёрт	B-LOC
+kk:және	I-LOC
+kk:Мозель	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:АЙДАУ	O
+kk:Әбсаттар	B-PER
+kk:Бағысбайұлы	I-PER
+kk:Дербісәлі	I-PER
+
+kk:1	O
+kk:)	O
+kk:''шайбандықтар	O
+kk:''	O
+kk:,	O
+kk:яғни	O
+kk:Мұхаммед	B-PER
+kk:Шайбаниға	I-PER
+kk:бағынған	O
+kk:шығыс-қыпшақ	O
+kk:тайпалары	O
+kk:;	O
+
+kk:'	O
+kk:''	O
+kk:Сулуайры	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Бақтықожа	B-PER
+kk:Салахатдинұлы	I-PER
+kk:Ізмұхамбетов	I-PER
+
+kk:Хиллари	B-ORG
+kk:Клинтон	I-ORG
+kk:осындай	O
+kk:жас	O
+kk:көшбасшылар	O
+kk:ассоциацияларына	O
+kk:жақсы	O
+kk:көңіл	O
+kk:бөледі	O
+kk:екен	O
+kk:.	O
+
+kk:Вордингборг	B-LOC
+kk:(	O
+kk:Vordingborg	O
+kk:)	O
+
+kk:АЙДАУ	O
+kk:Владимир	B-PER
+kk:Всеволодович	I-PER
+kk:Мономах	I-PER
+
+kk:Штендаль	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:Басты	O
+kk:жобалаушы	O
+kk:О.	B-ORG
+kk:К.	I-ORG
+kk:Антонов	I-ORG
+kk:атындағы	I-ORG
+kk:ТКБ	I-ORG
+kk:.	O
+
+kk:Шөлейт	B-LOC
+kk:аймақтарда	O
+kk:жүк	O
+kk:тасуға	O
+kk:көнбіс	O
+kk:.	O
+
+kk:Лангедок-Руссильон	B-LOC
+kk:аймағына	O
+kk:қарасты	O
+kk:Од	B-LOC
+kk:департаментінде	O
+kk:орналасқан	O
+kk:.	O
+
+kk:Махатхир	B-PER
+kk:бин	I-PER
+kk:Мохамад	I-PER
+
+kk:Һижра	B-ORG
+kk:бойынша	O
+kk:467	O
+kk:ж	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Пальник-Шор	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Архимед	B-PER
+kk:''	O
+kk:'	O
+kk:(	O
+kk:б.з.б	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Нильс	B-PER
+kk:Хенрик	I-PER
+kk:Абель	I-PER
+
+kk:АЙДАУ	O
+kk:Израиль	B-PER
+kk:Моисеевич	I-PER
+kk:Гельфанд	I-PER
+
+kk:АЙДАУ	O
+kk:Спонж	B-PER
+kk:Боб	I-PER
+kk:шаршы	I-PER
+kk:шалбар	I-PER
+
+kk:Аталған	O
+kk:тұжырымдаманы	O
+kk:ең	O
+kk:алғаш	O
+kk:Томас	B-PER
+kk:Хант	I-PER
+kk:Морган	I-PER
+kk:ашты	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Мезень-Соим	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Дунаева	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Альт-Кренцлин	B-LOC
+kk:(	O
+kk:829	O
+kk:)	O
+
+kk:АЙДАУ	O
+kk:Ұлттық	B-ORG
+kk:Олимпиада	I-ORG
+kk:комитеттері	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Худящевка	O
+kk:(	O
+kk:Берёзовая	O
+kk:)	O
+kk:'	O
+kk:''	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Қайтар	O
+kk:жолда	O
+kk:Жамбылмен	B-PER
+kk:жүздеседі	O
+kk:.	O
+
+kk:Саяси	O
+kk:қайраткер	O
+kk:ретіндегі	O
+kk:идеапы	O
+kk:-	O
+kk:Абылай	B-PER
+kk:хан	I-PER
+kk:,	O
+kk:Д.А	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:2012	B-ORG
+kk:Жазғы	I-ORG
+kk:Олимпиада	I-ORG
+kk:ойындарындағы	I-ORG
+kk:байдаркада	I-ORG
+kk:және	I-ORG
+kk:каноэде	I-ORG
+kk:есу	I-ORG
+
+kk:Біз	O
+kk:мұнда	O
+kk:оның	O
+kk:сөзінен	O
+kk:көп	O
+kk:ауытқымаймыз	O
+kk:,	O
+kk:замандастарымыздың	O
+kk:Птолемейден	B-PER
+kk:өзгеше	O
+kk:әдістерін	O
+kk:кейбір	O
+kk:жерлерде	O
+kk:ғана	O
+kk:келтіреміз…	O
+kk:Біздің	O
+kk:мұндағы	O
+kk:көздеген	O
+kk:негізгі	O
+kk:мақсатымыз	O
+kk:–	O
+kk:бұл	O
+kk:кітаптың	O
+kk:мазмұнының	O
+kk:көпшілікке	O
+kk:барынша	O
+kk:түсінікті	O
+kk:болуы»	O
+kk:деп	O
+kk:тұжырымдайды	O
+
+kk:Микроблогингтің	O
+kk:ең	O
+kk:танымал	O
+kk:әрі	O
+kk:көп	O
+kk:қолданылатын	O
+kk:қызметі	O
+kk:Twitter	B-ORG
+kk:.	O
+
+kk:Қазақстан	B-ORG
+kk:Республикасының	I-ORG
+kk:Президенті	I-ORG
+kk:Н.Ә	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Жүретін	B-ORG
+kk:өліктер	I-ORG
+kk:(	I-ORG
+kk:телехикая	I-ORG
+kk:)	I-ORG
+
+kk:Әбу	B-ORG
+kk:Райхан	I-ORG
+kk:әл-Бируни	I-ORG
+
+kk:Намаз	B-ORG
+kk:оқығанда	O
+kk:тек	O
+kk:жайнамазды	O
+kk:ғана	O
+kk:пайдалану	O
+kk:міндетті	O
+kk:емес	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Вик	B-LOC
+kk:(	I-LOC
+kk:Нор	I-LOC
+kk:)	I-LOC
+
+kk:АЙДАУ	O
+kk:Халықаралық	B-ORG
+kk:ақпараттық	I-ORG
+kk:технологиялар	I-ORG
+kk:университеті	I-ORG
+
+kk:Саяси	O
+kk:қайраткер	O
+kk:ретіндегі	O
+kk:идеалы	O
+kk:-	O
+kk:Н.Ә.	B-PER
+kk:Назарбаев	I-PER
+kk:.	O
+
+kk:Сүлейман	B-ORG
+kk:Демирел	I-ORG
+kk:атындағы	I-ORG
+kk:университет	I-ORG
+
+kk:Николай	B-PER
+kk:Андреевич	I-PER
+kk:Римский-Корсаков	I-PER
+
+kk:Семен	B-PER
+kk:Петрович	I-PER
+kk:Бабаевский	I-PER
+
+kk:'	O
+kk:''	O
+kk:Аллер	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Франциядағы	B-LOC
+kk:коммуна	O
+kk:.	O
+
+kk:айдау	O
+kk:Жұмысшы-шаруа	B-ORG
+kk:қызыл	I-ORG
+kk:әскері	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Кочебиловка	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:1938-1939	O
+kk:жылдары	O
+kk:Қазақстан	B-ORG
+kk:жазушылар	I-ORG
+kk:одағының	I-ORG
+kk:төрағасы	O
+
+kk:АЙДАУ	O
+kk:Дмитрий	B-PER
+kk:Константинович	I-PER
+kk:Гирс	I-PER
+
+kk:*2003-2004	O
+kk:жылдары	O
+kk:—	O
+kk:«Информбюро»	O
+kk:ақпараттық	O
+kk:бағдарламасында	O
+kk:тілші	O
+kk:,	O
+kk:31-телеарна	B-ORG
+kk:;	O
+
+kk:Атап	O
+kk:айтқанда	O
+kk:Карл	B-PER
+kk:Линней	I-PER
+kk:,	O
+kk:оған	O
+kk:дейінгі	O
+kk:барлық	O
+kk:ғалымдар	O
+kk:және	O
+kk:одан	O
+kk:кейінгі	O
+kk:бірнеше	O
+kk:ұрпақтар	O
+kk:сол	O
+kk:өлшемді	O
+kk:қолданып	O
+kk:келді	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Хановейю	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Арнольд	B-PER
+kk:Джозеф	I-PER
+kk:Тойнби	I-PER
+
+kk:АЙДАУ	O
+kk:Girls	B-ORG
+kk:'	I-ORG
+kk:generation	I-ORG
+
+kk:==	O
+kk:Лев	B-PER
+kk:Семенович	I-PER
+kk:Выготскийдің	I-PER
+kk:кезеңдерге	O
+kk:бөлуі	O
+kk:==	O
+
+kk:АЙДАУ	O
+kk:Проктер	B-ORG
+kk:мен	I-ORG
+kk:Гэмбл	I-ORG
+
+kk:Иль	B-LOC
+kk:және	I-LOC
+kk:Вилен	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:АЙДАУ	O
+kk:Медине	B-ORG
+kk:Ислам	I-ORG
+kk:университеті	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Веприка	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Мёрт	B-LOC
+kk:және	I-LOC
+kk:Мозель	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:Чемпионат	O
+kk:нәтижесінде	O
+kk:соңғы	O
+kk:орынға	O
+kk:тұрақтаған	O
+kk:Ақжайық	B-ORG
+kk:премьер-лигадан	O
+kk:шығып	O
+kk:кетті	O
+kk:.	O
+
+kk:Саяси	O
+kk:қайраткер	O
+kk:ретіндегі	O
+kk:идеалы	O
+kk:-	O
+kk:Н.Ә.	B-PER
+kk:Назарбаев	I-PER
+kk:.	O
+
+kk:Қызыл	B-ORG
+kk:кітапқа	I-ORG
+kk:125	O
+kk:жануар	O
+kk:тіркелген	O
+kk:.	O
+
+kk:Қарынның	B-ORG
+kk:пішіні	O
+kk:мен	O
+kk:мөлшері	O
+kk:астың	O
+kk:түсуіне	O
+kk:байланысты	O
+kk:үнемі	O
+kk:өзгеріп	O
+kk:тұрады	O
+kk:.	O
+
+kk:Дүние	B-ORG
+kk:жүзінде	I-ORG
+kk:тараған	O
+kk:5	O
+kk:туысы	O
+kk:,	O
+kk:250-дей	O
+kk:түрі	O
+kk:белгілі	O
+kk:.	O
+
+kk:Вайсенборн	B-LOC
+kk:(	O
+kk:377	O
+kk:)	O
+
+kk:Құрылыста	B-ORG
+kk:қаптағыш	O
+kk:материал	O
+kk:ретінде	O
+kk:қолданылады	O
+kk:.	O
+
+kk:Әмір	B-PER
+kk:Темір	I-PER
+kk:иелігінде	O
+kk:болды	O
+kk:.	O
+
+kk:Реде	B-LOC
+kk:(	O
+kk:4	O
+kk:228	O
+kk:)	O
+
+kk:Әулие	B-ORG
+kk:Елена	I-ORG
+kk:,	I-ORG
+kk:Эсеншн	I-ORG
+kk:және	I-ORG
+kk:Тристан-да-Кунья	I-ORG
+kk:аралдары	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Қазышбұлақсай	O
+kk:''	O
+kk:'	O
+kk:–	O
+kk:Іле	B-LOC
+kk:алабындағы	O
+kk:өзен	O
+kk:.	O
+
+kk:Платоннан	B-PER
+kk:өзгеше	O
+kk:ол	O
+kk:алдыңғы	O
+kk:орынға	O
+kk:мемлекеттің	O
+kk:``	O
+kk:шексіз	O
+kk:жақсы	O
+kk:''	O
+kk:үлгісін	O
+kk:ұсынады	O
+kk:.	O
+
+kk:*Саяси	O
+kk:қайраткер	O
+kk:ретіндегі	O
+kk:идеалы	O
+kk:-	O
+kk:Н.Ә.	B-PER
+kk:Назарбаев	I-PER
+kk:,	O
+kk:В.В.	B-PER
+kk:Путин	I-PER
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Жағбу	B-PER
+kk:Баға	I-PER
+kk:қаған	I-PER
+
+kk:Бад-Доберан	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:''	O
+kk:'1978	O
+kk:''	O
+kk:'	O
+kk:жылдан	O
+kk:Қазақ	B-ORG
+kk:ұлттық	I-ORG
+kk:медицина	I-ORG
+kk:университетінде	I-ORG
+kk:кафедра	O
+kk:меңгерушісі	O
+kk:қызметін	O
+kk:атқарады	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Ортаңғы	O
+kk:Чебенька	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Ле-Ме	B-LOC
+kk:(	I-LOC
+kk:Кот-д'Ор	I-LOC
+kk:)	I-LOC
+
+kk:''Five	O
+kk:Nights	O
+kk:at	O
+kk:Freddy’s	O
+kk:''	O
+kk:Wikia	B-ORG
+
+kk:Бірақ	O
+kk:Датан	B-PER
+kk:оған	O
+kk:өзінің	O
+kk:әскерімен	O
+kk:қарсы	O
+kk:тұрып	O
+kk:,	O
+kk:Булучженьді	O
+kk:қолға	O
+kk:түсіріп	O
+kk:өлтірді	O
+kk:.	O
+
+kk:Зольтау-Фаллингбостель	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Курошма	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Гендрик	B-PER
+kk:Антон	I-PER
+kk:Лоренц	I-PER
+
+kk:'	O
+kk:''	O
+kk:Харви	B-PER
+kk:Милк	I-PER
+kk:''	O
+kk:'	O
+kk:''	O
+
+kk:Леонардо	B-PER
+kk:Ди	I-PER
+kk:Каприо	I-PER
+kk:—	O
+kk:''Джош	O
+kk:''	O
+
+kk:``	O
+kk:Айқап	B-ORG
+kk:''	O
+kk:журналының	O
+kk:жұмысына	O
+kk:белсене	O
+kk:араласып	O
+kk:,	O
+kk:15-ке	O
+kk:жуық	O
+kk:мақала	O
+kk:жариялайды	O
+kk:.	O
+
+kk:Оның	O
+kk:жобасын	O
+kk:жасаған	O
+kk:Әмір	B-PER
+kk:Темірдің	I-PER
+kk:бір	O
+kk:жорығында	O
+kk:тұтқынға	O
+kk:түскен	O
+kk:парсылық	O
+kk:ұстаның	O
+kk:ұрпағы	O
+kk:делінеді	O
+kk:.	O
+
+kk:Тәжіктер	B-ORG
+kk:—	O
+kk:10	O
+kk:054	O
+
+kk:Саяси	O
+kk:қайраткер	O
+kk:ретіндегі	O
+kk:идеалы	O
+kk:-	O
+kk:Н.Ә.	B-PER
+kk:Назарбаев	I-PER
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Нота	B-ORG
+kk:(	I-ORG
+kk:музыка	I-ORG
+kk:)	I-ORG
+
+kk:Арагон	B-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Сарагоса	B-LOC
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Иманғали	B-PER
+kk:Нұрғалиұлы	I-PER
+kk:Тасмағамбетов	I-PER
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Бразилия	B-ORG
+kk:Ұлттық	I-ORG
+kk:футбол	I-ORG
+kk:құрама	I-ORG
+kk:командасы	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Маргала	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Жарық	O
+kk:интерференциясына	O
+kk:қатысты	O
+kk:кейбір	O
+kk:құбылыстарды	O
+kk:Исаак	B-PER
+kk:Ньютон	I-PER
+kk:бақылаған	O
+kk:.	O
+
+kk:Моңғолдардың	O
+kk:Отырарды	B-LOC
+kk:,	O
+kk:Бұхараны	B-LOC
+kk:,	O
+kk:т.б	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Проктер	B-ORG
+kk:мен	I-ORG
+kk:Гэмбл	I-ORG
+
+kk:Джастин	B-PER
+kk:Тимберлейк	I-PER
+kk:,	O
+kk:Боб	B-PER
+kk:Дилан	I-PER
+kk:сияқты	O
+kk:әншілердің	O
+kk:бейнеклиптеріне	O
+kk:түскен	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Сергей	B-PER
+kk:Миронович	I-PER
+kk:Киров	I-PER
+
+kk:АЙДАУ	O
+kk:Серік	B-PER
+kk:Керімбекұлы	I-PER
+kk:Қонақбаев	I-PER
+
+kk:АЙДАУ	O
+kk:Б.	B-ORG
+kk:з.	I-ORG
+kk:д.	I-ORG
+kk:749	I-ORG
+kk:жыл	I-ORG
+
+kk:Африка	B-ORG
+kk:Бірлігі	I-ORG
+kk:Ұйымы	I-ORG
+
+kk:Сена	B-LOC
+kk:және	I-LOC
+kk:Марна	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:Сол	O
+kk:себепті	O
+kk:Қызыл	B-ORG
+kk:кітапқа	I-ORG
+kk:жойылу	O
+kk:қаупі	O
+kk:төнген	O
+kk:түрлерге	O
+kk:қосылған	O
+kk:.	O
+
+kk:Алайда	O
+kk:,	O
+kk:Маркстан	O
+kk:да	O
+kk:,	O
+kk:Энгельстен	O
+kk:де	O
+kk:,	O
+kk:Лениннен	B-PER
+kk:де	O
+kk:болашақ	O
+kk:қоғамның	O
+kk:нақтылы	O
+kk:сипаттамаларын	O
+kk:табу	O
+kk:мүмкін	O
+kk:емес	O
+kk:.	O
+
+kk:30-шы	O
+kk:жылдардың	O
+kk:аяқ	O
+kk:кезінде	O
+kk:``	O
+kk:Жедел	O
+kk:қарт	O
+kk:''	O
+kk:атты	O
+kk:фельетондар	B-ORG
+kk:жинағы	O
+kk:жарық	O
+kk:көрген	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Мемлекетаралық	B-ORG
+kk:авиация	I-ORG
+kk:комитеті	I-ORG
+
+kk:Ғалымның	O
+kk:құрметіне	O
+kk:Лиссажу	B-ORG
+kk:пішіндері	I-ORG
+kk:(	O
+kk:фигуралары	O
+kk:)	O
+kk:аталған	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Қарақшылық	B-PER
+kk:—	O
+kk:ұрлықтың	O
+kk:ең	O
+kk:қауіпті	O
+kk:нысаны	O
+kk:.	O
+
+kk:Өлең	O
+kk:түпнұсқада	O
+kk:68жол	O
+kk:,	O
+kk:Абай	B-PER
+kk:аудармасында	O
+kk:76	O
+kk:жол	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Брусино	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Спартак	B-ORG
+kk:(	I-ORG
+kk:футбол	I-ORG
+kk:клубы	I-ORG
+kk:,	I-ORG
+kk:Семей	I-ORG
+kk:)	I-ORG
+
+kk:•	O
+kk:'	O
+kk:''	O
+kk:Натали	B-PER
+kk:Портман	I-PER
+
+kk:АЙДАУ	O
+kk:Эквадор	B-ORG
+kk:Ұлттық	I-ORG
+kk:футбол	I-ORG
+kk:құрама	I-ORG
+kk:командасы	I-ORG
+
+kk:Сүлейман	B-ORG
+kk:Демирел	I-ORG
+kk:атындағы	I-ORG
+kk:университет	I-ORG
+
+kk:АЙДАУ	O
+kk:Б.	B-ORG
+kk:з.	I-ORG
+kk:д.	I-ORG
+kk:529	I-ORG
+kk:жыл	I-ORG
+
+kk:Жоғарғы	B-LOC
+kk:Вьенна	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:Тағы	O
+kk:Гесиод	B-PER
+kk:Тюхены	O
+kk:Океан	B-PER
+kk:мен	O
+kk:Тефеяның	O
+kk:қыздарына	O
+kk:қосады	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Корея	B-ORG
+kk:Республикасының	I-ORG
+kk:Ұлттық	I-ORG
+kk:футбол	I-ORG
+kk:құрама	I-ORG
+kk:командасы	I-ORG
+
+kk:Қазақстан	B-ORG
+kk:Футбол	I-ORG
+kk:Федерациясының	I-ORG
+kk:бақылауында	O
+kk:.	O
+
+kk:)	O
+kk:,	O
+kk:Аристотель	B-PER
+kk:(	O
+kk:б.д.д	O
+kk:.	O
+
+kk:Жак	B-PER
+kk:Деррида	I-PER
+kk:өзінің	O
+kk:«Хат	O
+kk:және	O
+kk:өзгешелік»	O
+kk:,	O
+kk:«Дауыс	O
+kk:және	O
+kk:құбылыс»	O
+kk:және	O
+kk:«Грамматология	O
+kk:жөнінде»	O
+kk:деген	O
+kk:үш	O
+kk:кітабы	O
+kk:арқылы	O
+kk:деконструкцияны	O
+kk:орнықтырды	O
+kk:.	O
+
+kk:Ираклион	B-LOC
+kk:қаласыны	O
+kk:қабырғасының	O
+kk:жанында	O
+kk:жерленген	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Василий	B-PER
+kk:Валерьевич	I-PER
+kk:Жиров	I-PER
+
+kk:'	O
+kk:''	O
+kk:Кулагаш	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Жеңіс]]	O
+kk:(	O
+kk:Астана	B-LOC
+kk:)	O
+kk:'	O
+kk:''	O
+
+kk:'	O
+kk:''	O
+kk:Полковушка	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:1937—1946	O
+kk:жылдары	O
+kk:Стэнфорд	B-ORG
+kk:университеті	I-ORG
+kk:профессоры	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Ерлан	B-PER
+kk:Әбілфайызұлы	I-PER
+kk:Ыдырысов	I-PER
+
+kk:АЙДАУ	O
+kk:Футболдан	B-ORG
+kk:Аустралия	I-ORG
+kk:чемпионаты	I-ORG
+
+kk:Абайдың	B-PER
+kk:негізінен	O
+kk:қоғамдық	O
+kk:тақырыптағы	O
+kk:,	O
+kk:ақынның	O
+kk:жеке	O
+kk:басының	O
+kk:жай-күйлерін	O
+kk:білдipeтiн	O
+kk:шығармалары	O
+kk:ғана	O
+kk:талданған	O
+kk:.	O
+
+kk:Қазақстан	B-ORG
+kk:Республикасының	I-ORG
+kk:Ұлттық	I-ORG
+kk:ғылым	I-ORG
+kk:академиясы	I-ORG
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Әл–Фараби	B-PER
+kk:,	O
+kk:Қожа	B-PER
+kk:Ахмет	I-PER
+kk:Ясауи	I-PER
+kk:,	O
+kk:С	O
+kk:.	O
+
+kk:Арока	B-ORG
+kk:муниципалитетінің	O
+kk:құрамдас	O
+kk:бөлігі	O
+kk:болып	O
+kk:табылады	O
+kk:.	O
+
+kk:(	B-PER
+kk:М.Е.	I-PER
+kk:Массон	I-PER
+kk:)	I-PER
+kk:жүргізілді	O
+kk:.	O
+
+kk:Қазақстан	B-ORG
+kk:Ұлттық	I-ORG
+kk:футбол	I-ORG
+kk:құрама	I-ORG
+kk:командасы	I-ORG
+
+kk:АЙДАУ	O
+kk:Шанхай	B-ORG
+kk:Ынтымақтастық	I-ORG
+kk:Ұйымы	I-ORG
+
+kk:Кейінірек	O
+kk:оларға	O
+kk:Батыс	B-LOC
+kk:Еуропа	I-LOC
+kk:елдерінен	O
+kk:келген	O
+kk:қоныс	O
+kk:аударушылар	O
+kk:қосылды	O
+kk:.	O
+
+kk:Бұл	O
+kk:бағытта	O
+kk:Ұлттық	O
+kk:арнаның	O
+kk:таңертеңгілік	O
+kk:ақпараттық-сазды	O
+kk:«Таңшолпан»	B-ORG
+kk:бағдарламасы	I-ORG
+kk:жұмыс	O
+kk:жасайды	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Әділдік	O
+kk:''	O
+kk:'	O
+kk:,	O
+kk:'	O
+kk:''	O
+kk:Әділеттілік	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:арабша	B-ORG
+kk:әдл	O
+kk:)	O
+kk:—	O
+
+kk:Кельхайм	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:Штайнбург	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:Әсіресе	O
+kk:Аристотельдің	B-PER
+kk:(	O
+kk:б.з.б	O
+kk:.	O
+
+kk:Жоғарғы	B-LOC
+kk:Вьенна	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:Меккеге	B-LOC
+kk:,	O
+kk:Шайға	O
+kk:,	O
+kk:Антакияға	O
+kk:саяхат	O
+kk:жасаған	O
+kk:.	O
+
+kk:Тастан	O
+kk:сарай	O
+kk:салғызды	O
+kk:(	O
+kk:Ы.	B-PER
+kk:Алтынсарин	I-PER
+kk:)	O
+kk:,	O
+kk:Сөйлеуден	O
+kk:қашты	O
+kk:;	O
+
+kk:Куфияны	O
+kk:Ясир	B-PER
+kk:Арафаттың	I-PER
+kk:киіп	O
+kk:жүруіне	O
+kk:байланысты	O
+kk:кей	O
+kk:жерлерде	O
+kk:''арафатка	O
+kk:''	O
+kk:атап	O
+kk:кеткен	O
+kk:.	O
+
+kk:Ұрығы	B-PER
+kk:бір	O
+kk:айда	O
+kk:жетіледі	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Людмила	B-PER
+kk:Вячеславовна	I-PER
+kk:Прокашева	I-PER
+
+kk:'	O
+kk:''	O
+kk:Нямдуэсь-Яха	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Солардың	O
+kk:бірінде	O
+kk:сілік	O
+kk:—	O
+kk:таза	O
+kk:;	O
+kk:асыл	O
+kk:;	O
+kk:әсем	O
+kk:,	O
+kk:көркем	O
+kk:мағыналарын	O
+kk:білдіретіндігі	O
+kk:айтылады	O
+kk:да	O
+kk:,	O
+kk:VIII	O
+kk:ғасырдағы	O
+kk:Күлтегін	B-PER
+kk:құрметіне	O
+kk:арналған	O
+kk:ескерткіштен	O
+kk:—	O
+kk:«сілік	O
+kk:қыз	O
+kk:оғлуң	O
+kk:күң	O
+kk:болты»	O
+kk:сөйлемін	O
+kk:алып	O
+kk:,	O
+kk:«әсем	O
+kk:қыз	O
+kk:балаларың	O
+kk:күң	O
+kk:болды»	O
+kk:деп	O
+kk:аударған	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Қазақстан	B-ORG
+kk:Республикасы	I-ORG
+kk:Қарулы	I-ORG
+kk:Күштері	I-ORG
+
+kk:өлшемдері	B-ORG
+kk::	I-ORG
+kk:ені	I-ORG
+kk:400	O
+kk:мм	O
+kk:,	O
+kk:биіктігі	O
+kk:100	O
+kk:мм	O
+kk:.	O
+
+kk:Атлантикалық	B-LOC
+kk:Пиреней	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:Қазақстан	B-LOC
+kk:мен	O
+kk:шетелдерде	O
+kk:бірнеше	O
+kk:көрмелері	O
+kk:өткізіліп	O
+kk:,	O
+kk:жоғары	O
+kk:бағаланды	O
+kk:.	O
+
+kk:Сұр	B-ORG
+kk:-	O
+kk:жеңілдетілген	O
+kk:бағамен	O
+kk:сатылатын	O
+kk:кәмпиттерді	O
+kk:жарнамалады	O
+kk:.	O
+
+kk:Махамбет	B-PER
+kk:Өтемісұлытың	I-PER
+kk:200	O
+kk:жылдығына	O
+kk:арналған	O
+kk:«Жас	O
+kk:толқын»	O
+kk:фестивалінде	O
+kk:1-орын	O
+kk:алды	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Големани	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Бартулдак	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Дүниежүзілік	B-ORG
+kk:көрме	I-ORG
+kk:(	I-ORG
+kk:2017	I-ORG
+kk:)	I-ORG
+
+kk:АЙДАУ	O
+kk:Зүлфия	B-PER
+kk:Салахарқызы	I-PER
+kk:Чиншанло	I-PER
+
+kk:Стагирада	O
+kk:Аристотель	B-PER
+kk:туған	O
+kk:(	O
+kk:сол	O
+kk:себепті	O
+kk:Стагирит	O
+kk:деп	O
+kk:аталған	O
+kk:)	O
+kk:.	O
+
+kk:Қайырымдылық	O
+kk:жұмыстарын	O
+kk:көп	O
+kk:жүргізіп	O
+kk:,	O
+kk:басқа	O
+kk:футболшыларға	O
+kk:үлгі	O
+kk:болған	O
+kk:«Тито»	O
+kk:Біріккен	B-ORG
+kk:Ұлттар	I-ORG
+kk:Ұйымының	I-ORG
+kk:«Қайырымдылық»	O
+kk:елшісі	O
+kk:атанған	O
+kk:.	O
+
+kk:Алтыншы	O
+kk:шарт	O
+kk:—	O
+kk:Аристотель	B-PER
+kk:еңбектеріндегі	O
+kk:қолданылған	O
+kk:ғылыми	O
+kk:ұғымдарды	O
+kk:талдай	O
+kk:білу	O
+kk:.	O
+
+kk:Батыр	B-PER
+kk:(	I-PER
+kk:піл	I-PER
+kk:)	I-PER
+
+kk:Кіші	B-ORG
+kk:жүз	I-ORG
+kk:қазақтарының	O
+kk:материалдық	O
+kk:жағдайы	O
+kk:әлдеқайда	O
+kk:нашарлай	O
+kk:түсті	O
+kk:.	O
+
+kk:Арагон	B-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Теруэль	B-LOC
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Абайдың	B-PER
+kk:«Әкең	O
+kk:аулына»	O
+kk:арнап	O
+kk:жазған	O
+kk:өлеңі	O
+kk:де	O
+kk:бар	O
+kk:.	O
+
+kk:Алексей	B-PER
+kk:Павлович	I-PER
+kk:Федченко	I-PER
+
+kk:*1972	O
+kk:жылдан	O
+kk:Қазақстан	B-ORG
+kk:жазушылар	I-ORG
+kk:одағының	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Радовци	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Гвадалахара	B-LOC
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Еуразия	B-ORG
+kk:Экономикалық	I-ORG
+kk:Қауымдастығы	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Ресей	B-ORG
+kk:бiрiншi	I-ORG
+kk:дивизионы	I-ORG
+kk:''	O
+kk:'	O
+
+kk:'	O
+kk:''	O
+kk:Тангуль	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Арока	B-ORG
+kk:муниципалитетінің	O
+kk:құрамдас	O
+kk:бөлігі	O
+kk:болып	O
+kk:табылады	O
+kk:.	O
+
+kk:Туа	O
+kk:салысымен	O
+kk:ханзада	O
+kk:БАҚ	B-ORG
+kk:өкілдерінің	O
+kk:назарын	O
+kk:бірден	O
+kk:өзіне	O
+kk:аудартты	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Ли	B-PER
+kk:Бен	I-PER
+kk:Хон	I-PER
+
+kk:Осындай	O
+kk:ақынның	O
+kk:бір	O
+kk:мысалы	O
+kk:ретінде	O
+kk:Бұқар	B-PER
+kk:Қалқаманұлын	I-PER
+kk:алған	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Темір	B-PER
+kk:Нұрбақытұлы	I-PER
+kk:Бекмамбетов	I-PER
+
+kk:Гай	B-PER
+kk:Юлий	I-PER
+kk:Цезарь	I-PER
+
+kk:Оны	O
+kk:Зевс	B-PER
+kk:Hephaestus-қа	O
+kk:жараттырған	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:ORF	B-ORG
+kk:''	O
+kk:'	O
+kk:''	O
+
+kk:Рёс	B-LOC
+kk:(	O
+kk:550	O
+kk:)	O
+
+kk:Оре	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:Мұхаммед	B-PER
+kk:пайғамбардың	I-PER
+kk:немере	O
+kk:ағасы	O
+kk:Аббас	B-PER
+kk:бин	I-PER
+kk:Абдуль-Мутталибтен	I-PER
+kk:тараған	O
+kk:.	O
+
+kk:Футболдан	B-ORG
+kk:әлем	I-ORG
+kk:чемпионаты	I-ORG
+kk:2006	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Сан	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Франциядағы	B-LOC
+kk:коммуна	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Қатада	B-PER
+kk:ибн	I-PER
+kk:ән-Нұғман	I-PER
+
+kk:Штормарн	B-ORG
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:«Ақшақар	O
+kk:және	O
+kk:жеті	O
+kk:ергежейлі»	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Уолт	B-PER
+kk:Дисней	I-PER
+kk:компаниясының	O
+kk:шығарған	O
+kk:алғашқы	O
+kk:жартыметражды	O
+kk:анимациялық	O
+kk:фильм	O
+kk:.	O
+
+kk:Қазақфильмде”	B-ORG
+kk:жұмыс	O
+kk:істеді	O
+kk:.	O
+
+kk:Олардың	O
+kk:басында	O
+kk:Әбу	B-PER
+kk:Юсуф	I-PER
+kk:пен	O
+
+kk:АЙДАУ	O
+kk:Мез	B-ORG
+kk:(	I-ORG
+kk:департамент	I-ORG
+kk:)	I-ORG
+
+kk:Таяу	B-LOC
+kk:Шығыс	I-LOC
+kk:пен	O
+kk:Солтүстік	B-LOC
+kk:Африкада	I-LOC
+kk:кеңінен	O
+kk:тараған	O
+kk:.	O
+
+kk:Атырау]]	O
+kk:(	O
+kk:Атырау	B-LOC
+kk:)	O
+kk:'	O
+kk:''	O
+
+kk:АЙДАУ	O
+kk:Халықаралық	B-ORG
+kk:қатынастар	I-ORG
+kk:жөнiндегi	I-ORG
+kk:кеңес	I-ORG
+
+kk:АЙДАУ	O
+kk:Шарль	B-PER
+kk:Луи	I-PER
+kk:Монтескье	I-PER
+
+kk:Майен-Кобленц	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Кумжевая	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Тіпті	O
+kk:ертедегі	O
+kk:көне	O
+kk:ескерткіштердің	O
+kk:(	O
+kk:мыс.	O
+kk:,	O
+kk:Египеттегі	B-ORG
+kk:пирамидалар	I-ORG
+kk:,	O
+kk:т.б	O
+kk:.	O
+
+kk:Айналдыра	O
+kk:''	O
+kk:''	O
+kk:ҚАЗАҚСТАН	B-ORG
+kk:ҰЛТТЫҚ	I-ORG
+kk:БАНКI	I-ORG
+kk:''	O
+kk:''	O
+kk:деген	O
+kk:сөздер	O
+kk:орналастырылған	O
+kk:.	O
+
+kk:3	O
+kk:)	O
+kk:Қазақстан	B-ORG
+kk:Республикасының	I-ORG
+kk:Дүниежүзілік	I-ORG
+kk:сауда	I-ORG
+kk:ұйымына	I-ORG
+kk:мүше	O
+kk:болуы	O
+kk:үшін	O
+kk:қажетті	O
+kk:жағдайларды	O
+kk:орындау	O
+kk:.	O
+
+kk:Бразилия	B-ORG
+kk:чемпионатты	O
+kk:ұйымдастырушы	O
+kk:ретінде	O
+kk:автоматты	O
+kk:түрде	O
+kk:қатысуға	O
+kk:мүмкіндік	O
+kk:алды	O
+kk:.	O
+
+kk:Нұрмахан	B-PER
+kk:Анарбекұлы	I-PER
+kk:Тінәлиев	I-PER
+
+kk:Сонымен	O
+kk:қатар	O
+kk:жер	O
+kk:мәселесінің	O
+kk:асқынуы	O
+kk:И.	B-PER
+kk:Тайманұлы	I-PER
+kk:мен	O
+kk:М.	B-PER
+kk:Өтемісұлы	I-PER
+kk:бастаған	O
+kk:халық-азаттық	O
+kk:көтеріліске	O
+kk:алып	O
+kk:келді	O
+kk:.	O
+
+kk:Мёрт	B-LOC
+kk:және	I-LOC
+kk:Мозель	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:'	O
+kk:''	O
+kk:Хулюм-Я	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Жұмысшы-шаруа	B-ORG
+kk:қызыл	I-ORG
+kk:әскері	I-ORG
+
+kk:Ыбырай	B-PER
+kk:Алтынсариннің	I-PER
+kk:,	O
+kk:Ш	O
+kk:.	O
+
+kk:Украинадан	B-LOC
+kk:көшіп	O
+kk:келген	O
+kk:шаруалар	O
+kk:қалаған	O
+kk:.	O
+
+kk:БҰҰ-ның	B-ORG
+kk:даму	I-ORG
+kk:жөніндегі	I-ORG
+kk:бағдарламасы	I-ORG
+
+kk:Бұл	O
+kk:затты	O
+kk:пайғамбардан	B-PER
+kk:сұрағанда	O
+kk:,	O
+kk:ол	O
+kk:бұл	O
+kk:аяттардағы	O
+kk:«қара	O
+kk:және	O
+kk:ақ	O
+kk:жіп»	O
+kk:дегеніміз	O
+kk:таңның	O
+kk:ағаруы	O
+kk:мен	O
+kk:түннің	O
+kk:қараңғысы	O
+kk:екенін	O
+kk:түсіндіреді	O
+kk:.	O
+
+kk:«Қонған	O
+kk:жерде	O
+kk:шұлғауларымызды	O
+kk:,	O
+kk:сығып	O
+kk:кептіреміз»	O
+kk:(	O
+kk:Сәкен	B-PER
+kk:Сейфуллин	I-PER
+kk:,	O
+kk:Tap	O
+kk:жол.	O
+kk:)	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Вырья	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Оңтүстік-шығыс	B-ORG
+kk:Азия	I-ORG
+kk:елдерінің	I-ORG
+kk:ассоциациясы	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Ай-Аксар-Юган	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Абылай	B-PER
+kk:ханның	I-PER
+kk:байрақдары	O
+kk:болған	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Лясково	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Клевиль	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Франциядағы	B-LOC
+kk:коммуна	O
+kk:.	O
+
+kk:басында	O
+kk:,	O
+kk:Орынборда	B-LOC
+kk:жүрген	O
+kk:кезінен-ақ	O
+kk:таныса	O
+kk:бастайды	O
+kk:.	O
+
+kk:**	O
+kk:Ереван	B-LOC
+kk:–	O
+kk:тұрақты	O
+kk:өкілдік	O
+
+kk:Шанхай	B-ORG
+kk:Ынтымақтастық	I-ORG
+kk:Ұйымы	I-ORG
+
+kk:Бұл	O
+kk:жерлерді	O
+kk:негізінен	O
+kk:Кіші	B-ORG
+kk:жүз	I-ORG
+kk:құрамындағы	O
+kk:Байулына	O
+kk:кіретін	O
+kk:рулар	O
+kk:мекендейтін	O
+kk:.	O
+
+kk:New	B-ORG
+kk:Musical	I-ORG
+kk:Express	I-ORG
+kk:оларды	O
+kk:«Officially	O
+kk:the	O
+kk:.	O
+
+kk:күрдше	B-ORG
+kk:(	O
+kk:Курманджи	O
+kk:)	O
+
+kk:Ро	B-PER
+kk:Дэ	I-PER
+kk:У	I-PER
+
+kk:Қара	B-ORG
+kk:топырақ	I-ORG
+kk:9,5	O
+kk:%	O
+kk:.	O
+
+kk:Қазақстандық	O
+kk:миллиардер	O
+kk:Тимур	B-PER
+kk:Асқарұлы	I-PER
+kk:Құлыбаевтың	I-PER
+kk:зайыбы	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Футболдан	B-ORG
+kk:Қазақстан	I-ORG
+kk:бірінші	I-ORG
+kk:лигасы	I-ORG
+
+kk:Спортинг	B-ORG
+kk:Лиссабон	I-ORG
+kk:(	O
+kk:5	O
+kk:)	O
+
+kk:'	O
+kk:''	O
+kk:Ык	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Оғыз	B-ORG
+kk:мемлекетінің	I-ORG
+kk:дәуірлеген	O
+kk:кезінде	O
+kk:тоғызыншы	O
+kk:ғасырда	O
+kk:жинақталып	O
+kk:,	O
+kk:кейінірек	O
+kk:он	O
+kk:төртінші	O
+kk:ғасырда	O
+kk:хатқа	O
+kk:түскен	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Қазақстан	B-ORG
+kk:(	I-ORG
+kk:телеарна	I-ORG
+kk:)	I-ORG
+
+kk:Аудан	O
+kk:орталығы	O
+kk:—	O
+kk:Донаувёрт	B-LOC
+kk:қаласы	O
+kk:.	O
+
+kk:Арабша	B-ORG
+kk:«қус»	O
+kk:сөзі	O
+kk:«садақ»	O
+kk:мағынасына	O
+kk:да	O
+kk:ие	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Ун-Карас-Куртынг-Ики-Соим	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Оң	O
+kk:жағына	O
+kk:халық	O
+kk:композиторы	O
+kk:Құрманғазының	B-PER
+kk:портреті	O
+kk:орналастырылған	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Финкенштайн-ам-Факер-Зе	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Аустриядағы	B-LOC
+kk:коммуна	O
+kk:.	O
+
+kk:Шыққан	O
+kk:тегі	O
+kk:-	O
+kk:Кіші	B-ORG
+kk:жүздің	I-ORG
+kk:Табыны	O
+kk:,	O
+kk:онын	O
+kk:ішінде	O
+kk:Есен	O
+kk:атасынан	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Аман	B-PER
+kk:Ғұмырұлы	I-PER
+kk:Төлеев	I-PER
+
+kk:Жамбыл	B-PER
+kk:Жабайұлымен	I-PER
+kk:және	O
+kk:оның	O
+kk:төңірегіндегі	O
+kk:ақындармен	O
+kk:тұздас-дәмдес	O
+kk:болып	O
+kk:,	O
+kk:шығармашылық	O
+kk:байланыс	O
+kk:жасап	O
+kk:тұрған	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Молва	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Барлық	O
+kk:гректерді	O
+kk:“Эллиндер”	O
+kk:деп	O
+kk:атау	O
+kk:бірінші	O
+kk:рет	O
+kk:Архилох	B-PER
+kk:(	O
+kk:б.з.б	O
+kk:.	O
+
+kk:Ертеде	O
+kk:Қазақстанның	B-LOC
+kk:көптеген	O
+kk:суқоймаларында	O
+kk:мекендеген	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Нүркен	B-PER
+kk:Мазбаев	I-PER
+kk:''	O
+kk:'	O
+
+kk:АЙДАУ	O
+kk:Ауған	B-ORG
+kk:соғысы	I-ORG
+kk:(	I-ORG
+kk:1979—1989	I-ORG
+kk:)	I-ORG
+
+kk:Лангедок-Руссильон	B-LOC
+kk:аймағына	O
+kk:қарасты	O
+kk:Гар	B-LOC
+kk:департаментінде	O
+kk:орналасқан	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Обиак	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Франциядағы	B-LOC
+kk:коммуна	O
+kk:.	O
+
+kk:Люнебург	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:Геракл	B-PER
+kk:оны	O
+kk:Астынғы	O
+kk:әлемнен	O
+kk:жер	O
+kk:бетіне	O
+kk:алып	O
+kk:шыққан	O
+kk:соң	O
+kk:ол	O
+kk:аузынан	O
+kk:улы	O
+kk:сұйықтық	O
+kk:бүркіеді	O
+kk:.	O
+
+kk:Осы	O
+kk:жүйе	O
+kk:Қазақ	B-ORG
+kk:хандығы	I-ORG
+kk:жасақтарының	O
+kk:құрылымының	O
+kk:да	O
+kk:негізіне	O
+kk:алынған	O
+kk:.	O
+
+kk:•	O
+kk:'	O
+kk:''	O
+kk:Джессика	B-PER
+kk:Лэнг	I-PER
+
+kk:Біз	O
+kk:бұл	O
+kk:руды	O
+kk:Кіші	B-ORG
+kk:жүз	I-ORG
+kk:құрамында	O
+kk:алғаш	O
+kk:рет	O
+kk:А	O
+kk:.	O
+
+kk:Жібек	B-ORG
+kk:жолының	I-ORG
+kk:бойында	O
+kk:орналасқан	O
+kk:осы	O
+kk:“Әнші	O
+kk:құмның”	O
+kk:үнін	O
+kk:есту	O
+kk:үшін	O
+kk:жолаушылар	O
+kk:әдейі	O
+kk:ат	O
+kk:басын	O
+kk:бұрған	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Б.	B-ORG
+kk:з.	I-ORG
+kk:д.	I-ORG
+kk:744	I-ORG
+kk:жыл	I-ORG
+
+kk:АЙДАУ	O
+kk:Дархан	B-PER
+kk:Қуандықұлы	I-PER
+kk:Қыдырәлі	I-PER
+
+kk:'	O
+kk:''	O
+kk:Паньшинка	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Дитмаршен	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Кер	O
+kk:жол	O
+kk:''	O
+kk:'	O
+kk:-	O
+kk:ертеде	O
+kk:оны	O
+kk:Жібек	B-ORG
+kk:жолы	I-ORG
+kk:деп	O
+kk:атаған	O
+kk:.	O
+
+kk:Өлшем	B-ORG
+kk:бірліктерінің	I-ORG
+kk:халықаралық	I-ORG
+kk:жүйесі	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Вош-Юган	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Ғайып	O
+kk:''	O
+kk:'	O
+kk:,	O
+kk:а	O
+kk:л	O
+kk:-	O
+kk:Г	O
+kk:а	O
+kk:й	O
+kk:б	O
+kk:(	O
+kk:араб	B-ORG
+kk:.	I-ORG
+kk:-	O
+kk:«	O
+kk:''	O
+kk:жоқ	O
+kk:болу	O
+kk:''	O
+kk:»	O
+kk:,	O
+
+kk:★	O
+kk:'	O
+kk:''	O
+kk:Гэри	B-PER
+kk:Купер	I-PER
+
+kk:Штормарн	B-ORG
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Тугусбайка	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Константин	B-PER
+kk:Константинович	I-PER
+kk:Рокоссовский	I-PER
+
+kk:АЙДАУ	O
+kk:Мырза	B-PER
+kk:Ғұләм	I-PER
+kk:Ахмед	I-PER
+
+kk:Шоқан	B-PER
+kk:Шыңғысұлы	I-PER
+kk:Уәлиханов	I-PER
+
+kk:)	O
+kk:және	O
+kk:Кембридж	B-ORG
+kk:университетінде	I-ORG
+kk:(	O
+kk:1955ж	O
+kk:.	O
+
+kk:Оған	O
+kk:тағы	O
+kk:да	O
+kk:ажалды	O
+kk:Левкипп	B-PER
+kk:Эномайдың	B-PER
+kk:баласы	O
+kk:ғашық	O
+kk:болды	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Плазиште	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:Мысалы	O
+kk:,	O
+kk:Геродот	B-PER
+kk:(	O
+kk:б.з.б	O
+kk:.	O
+
+kk:Оберплайхфельд	B-LOC
+kk:(	O
+kk:1	O
+kk:040	O
+kk:)	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Иоганн	B-PER
+kk:Петер	I-PER
+kk:Фальк	I-PER
+
+kk:Арока	B-ORG
+kk:муниципалитетінің	O
+kk:құрамдас	O
+kk:бөлігі	O
+kk:болып	O
+kk:табылады	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Фергюсон	B-ORG
+kk:қарсылықтары	I-ORG
+kk:(	I-ORG
+kk:2014	I-ORG
+kk:)	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Николя	B-PER
+kk:Саркози	I-PER
+kk:''	O
+kk:'	O
+
+kk:Авторы	O
+kk:-	O
+kk:Мұхтар	B-PER
+kk:Әуезов	I-PER
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Михаил	B-PER
+kk:Сергеевич	I-PER
+kk:Горбачёв	I-PER
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Төменгі	B-LOC
+kk:Рейн	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:Бұл	O
+kk:105-ші	O
+kk:қосылқы	O
+kk:минутта	O
+kk:Лионель	B-PER
+kk:Месси	I-PER
+kk:пасынан	O
+kk:кейін	O
+kk:болады	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Клавалейр	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Швейцарияның	B-LOC
+kk:Берн	B-LOC
+kk:кантонында	O
+kk:орналасқан	O
+kk:коммуна	O
+kk:.	O
+
+kk:Лангедок-Руссильон	B-LOC
+kk:аймағына	O
+kk:қарасты	O
+kk:Гар	B-LOC
+kk:департаментінде	O
+kk:орналасқан	O
+kk:.	O
+
+kk:материалдарды	O
+kk:жеке	O
+kk:дара	O
+kk:пішімдейтін	B-ORG
+kk:құрылғы	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Оккын-Игол	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Джуд	B-PER
+kk:Лоу	I-PER
+kk:—	O
+kk:''жас	O
+kk:Автор	O
+kk:''	O
+
+kk:Алайда	O
+kk:бұған	O
+kk:Мұқановтың	B-PER
+kk:өзі	O
+kk:де	O
+kk:ортақтас	O
+kk:екенін	O
+kk:үмытпайық	O
+kk:.	O
+
+kk:Бұдан	O
+kk:басқа	O
+kk:Кіші	B-ORG
+kk:жүз	I-ORG
+kk:қазақтарын	O
+kk:бақылаушы	O
+kk:бөлім	O
+kk:ашылды	O
+kk:.	O
+
+kk:Альбрехт	B-PER
+kk:Дюрер	I-PER
+kk:кеңістік	O
+kk:туралы	O
+kk:дұрыс	O
+kk:ойлар	O
+kk:айтып	O
+kk:,	O
+kk:көптеген	O
+kk:заңдар	O
+kk:қалыптастырды	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Шахтёр	B-ORG
+kk:(	I-ORG
+kk:стадион	I-ORG
+kk:,	I-ORG
+kk:Екібастұз	I-ORG
+kk:)	I-ORG
+
+kk:Оркун	O
+kk:,	O
+kk:С.Е.	B-PER
+kk:Малов	I-PER
+kk:,	O
+kk:Г.Глаузон	O
+kk:.	O
+
+kk:Кейін	O
+kk:Брендан	B-PER
+kk:Коуэллмен	I-PER
+kk:романы	O
+kk:болады	O
+kk:.	O
+
+kk:Монтемор-у-Велью	B-LOC
+kk:муниципалитетінің	O
+kk:құрамдас	O
+kk:бөлігі	O
+kk:болып	O
+kk:табылады	O
+kk:.	O
+
+kk:Қазақстанның	B-LOC
+kk:'	O
+kk:''	O
+kk:Қызыл	B-ORG
+kk:кітабына	I-ORG
+kk:''	O
+kk:'	O
+kk:''	O
+kk:енгізілген	O
+kk:.	O
+
+kk:Осындай	O
+kk:ұйымдардың	O
+kk:бipi	O
+kk:Шанхай	B-ORG
+kk:Ынтымақтастық	I-ORG
+kk:Ұйымы	I-ORG
+kk:болып	O
+kk:табылады	O
+kk:(	O
+kk:ШЫҰ	O
+kk:)	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Кәрім	B-PER
+kk:Қажымқанұлы	I-PER
+kk:Мәсімов	I-PER
+
+kk:Ариана	B-PER
+kk:Гранде	I-PER
+kk:—	O
+kk:Аманда	O
+kk:Бенсон	O
+kk:(	O
+kk:«Гимнаст	O
+kk:қыз»	O
+kk:)	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Калифорния	B-ORG
+kk:университеті	I-ORG
+kk:,	I-ORG
+kk:Ирвайн	I-ORG
+
+kk:Қазақстан	B-ORG
+kk:Республикасының	I-ORG
+kk:ұлттық	I-ORG
+kk:кітапханасы	I-ORG
+
+kk:Қарағанды	B-LOC
+kk:облысы	I-LOC
+kk:Ұлытау	B-LOC
+kk:ауданы	I-LOC
+kk:жерімен	O
+kk:ағып	O
+kk:өтеді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Қазақ	B-ORG
+kk:халықаралық	I-ORG
+kk:қатынастар	I-ORG
+kk:және	I-ORG
+kk:әлем	I-ORG
+kk:тілдері	I-ORG
+kk:университеті	I-ORG
+
+kk:Онда	O
+kk:Мау	B-PER
+kk:Зыдоңның	I-PER
+kk:жетекшілігіндегі	O
+kk:Қытай	B-ORG
+kk:коммунистік	I-ORG
+kk:партиясының	I-ORG
+kk:тарихы	O
+kk:баяндалады	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Камышлейка	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Батыс	B-ORG
+kk:Түркі	I-ORG
+kk:қағанаты	I-ORG
+
+kk:АЙДАУ	O
+kk:Виктор	B-PER
+kk:Васильевич	I-PER
+kk:Талалихин	I-PER
+
+kk:АЙДАУ	O
+kk:Егемен	B-ORG
+kk:Қазақстан	I-ORG
+kk:(	I-ORG
+kk:газет	I-ORG
+kk:)	I-ORG
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:====	O
+kk:Мұхаммадқадыр	B-PER
+kk:Абдуллаевпен	I-PER
+kk:айқас	O
+kk:====	O
+
+kk:АЙДАУ	O
+kk:Сези	B-LOC
+kk:(	I-LOC
+kk:Ньевр	I-LOC
+kk:)	I-LOC
+
+kk:Намаз	B-ORG
+kk:кезінде	O
+kk:сыртқы	O
+kk:және	O
+kk:ішкі	O
+kk:көңіл	O
+kk:жайланып	O
+kk:,	O
+kk:кішіпейілділікпен	O
+kk:тұру	O
+kk:.	O
+
+kk:Хальберштадт	B-LOC
+kk:(	O
+kk:39	O
+kk:522	O
+kk:)	O
+
+kk:Авторы	O
+kk:-	O
+kk:М.	B-PER
+kk:О.	I-PER
+kk:Әуезов	I-PER
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Джон	B-PER
+kk:Фицджеральд	I-PER
+kk:Кеннеди	I-PER
+
+kk:Төменгі	B-LOC
+kk:Рейн	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:Үшқоңыр]]	O
+kk:(	O
+kk:Шамалған	B-LOC
+kk:)	O
+kk:'	O
+kk:''	O
+
+kk:'	O
+kk:''	O
+kk:Хельсинки	B-LOC
+kk:''	O
+kk:'	O
+
+kk:'	O
+kk:''	O
+kk:Еломза	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Солтүстік	B-ORG
+kk:Атлантикалық	I-ORG
+kk:Келісім	I-ORG
+kk:Ұйымы	I-ORG
+
+kk:Футболдан	B-ORG
+kk:Ресей	I-ORG
+kk:ұлттық	I-ORG
+kk:құрамасының	I-ORG
+kk:ойыншысы	O
+kk:.	O
+
+kk:Зальцведель	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:Бұқар	B-LOC
+kk:жырау	I-LOC
+kk:ауданның	I-LOC
+kk:түлегі	O
+kk:.	O
+
+kk:Строится	O
+kk:севернее	O
+kk:станции	O
+kk:Раимбека	B-ORG
+kk:.	O
+
+kk:CL	O
+kk:бірнеше	O
+kk:рет	O
+kk:YG	O
+kk:компаниясына	O
+kk:деможазбаларын	O
+kk:жіберді	O
+kk:,	O
+kk:бірақ	O
+kk:,	O
+kk:жауап	O
+kk:келмегендіктен	O
+kk:,	O
+kk:15	O
+kk:жасында	O
+kk:YG	O
+kk:компаниясының	O
+kk:ғимаратына	O
+kk:келіп	O
+kk:,	O
+kk:Ян	B-PER
+kk:Хён	I-PER
+kk:Сокқа	I-PER
+kk:жазбаларын	O
+kk:жеке	O
+kk:табыстады	O
+kk:.	O
+
+kk:Леонардо	B-PER
+kk:да	I-PER
+kk:Винчидің	I-PER
+kk:көркем	O
+kk:мұрасы	O
+kk:сан	O
+kk:жағынан	O
+kk:алғанда	O
+kk:онша	O
+kk:көп	O
+kk:емес	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Алиговска	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:Дінмұхамед	B-PER
+kk:Ахметұлы	I-PER
+kk:Қонаев	I-PER
+
+kk:Жобаның	O
+kk:тұрақты	O
+kk:өкілі	O
+kk:Франц	B-PER
+kk:Беккенбауэр	I-PER
+kk:.	O
+
+kk:Атлантикалық	B-LOC
+kk:Пиреней	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:Саксондық	B-ORG
+kk:Швейцария	I-ORG
+kk:(	I-ORG
+kk:аудан	I-ORG
+kk:)	I-ORG
+
+kk:'	O
+kk:''	O
+kk:Лионель	B-PER
+kk:Месси	I-PER
+kk:''	O
+kk:'	O
+
+kk:және	O
+kk:Капитан	B-ORG
+kk:Америка	I-ORG
+kk::	I-ORG
+kk:Азамат	I-ORG
+kk:соғысы	I-ORG
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:«Электронның	O
+kk:динамикасы	O
+kk:туралы»	O
+kk:деген	O
+kk:шығармасы	O
+kk:жарияланды	O
+kk:,	O
+kk:онда	O
+kk:ол	O
+kk:А.	B-PER
+kk:Эйнштейнмен	I-PER
+kk:бір	O
+kk:мезгілде	O
+kk:дербес	O
+kk:салыстырмалық	O
+kk:теориясының	O
+kk:негізін	O
+kk:салды	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Юнда	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Ғабит	B-PER
+kk:Махмұтұлы	I-PER
+kk:Мүсірепов	I-PER
+
+kk:Әл-Фараби	B-ORG
+kk:атындағы	I-ORG
+kk:Қазақ	I-ORG
+kk:мемлекеттік	I-ORG
+kk:ұлттық	I-ORG
+kk:университетінің	I-ORG
+kk:құрметті	O
+kk:профессоры	O
+kk:.	O
+
+kk:Саяси	O
+kk:қайраткер	O
+kk:ретіндегі	O
+kk:идеалы	O
+kk:-	O
+kk:Н.Ә.	B-PER
+kk:Назарбаев	I-PER
+kk:.	O
+
+kk:Бад-Фюссинг	B-LOC
+kk:(	O
+kk:6	O
+kk:688	O
+kk:)	O
+
+kk:Абай	B-PER
+kk:«Бойы	O
+kk:бұлғаң	O
+kk:...	O
+kk:»	O
+kk:өлеңіне	O
+kk:ән	O
+kk:шығарған	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Лехашау	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Аустриядағы	B-LOC
+kk:коммуна	O
+kk:.	O
+
+kk:|	O
+kk:Зинедин	B-PER
+kk:Зидан	I-PER
+kk:(	O
+kk:2	O
+kk:)	O
+
+kk:АЙДАУ	O
+kk:Мұхаммед	B-PER
+kk:ибн	I-PER
+kk:Идрис	I-PER
+kk:әш-Шафиғи	I-PER
+
+kk:'	O
+kk:''	O
+kk:Манчестер	B-ORG
+kk:Юнайтед	I-ORG
+kk:''	O
+kk:'	O
+
+kk:АЙДАУ	O
+kk:Наталья	B-PER
+kk:Артёмовна	I-PER
+kk:Коржова	I-PER
+
+kk:'	O
+kk:''	O
+kk:Ломница	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:``	O
+kk:Қазақфильм	B-ORG
+kk:''	O
+kk:киностудиясында	O
+kk:түсірілді	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:«Түнгі	O
+kk:кафе»	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Винсент	B-PER
+kk:Ван	I-PER
+kk:Гогтың	I-PER
+kk:суреті	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Дмитрий	B-PER
+kk:Андреевич	I-PER
+kk:Шомко	I-PER
+
+kk:Өскемендегі	B-LOC
+kk:``	O
+kk:Восток	B-ORG
+kk:''	O
+kk:клубында	O
+kk:ойнайды	O
+kk:.	O
+
+kk:Оспан	B-PER
+kk:батыр	I-PER
+kk:(	O
+kk:1899-1951	O
+kk:)	O
+
+kk:АЙДАУ	O
+kk:Рувре	B-LOC
+kk:(	I-LOC
+kk:Йонна	I-LOC
+kk:)	I-LOC
+
+kk:Осының	O
+kk:салдарынан	O
+kk:IX	O
+kk:ғасырда	O
+kk:аш-Шафиғидің	B-PER
+kk:көзқарастары	O
+
+kk:Бургенланд	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:Евклидтің	B-PER
+kk:``	O
+kk:Негіздерінде	O
+kk:''	O
+kk:``	O
+kk:Дене	O
+kk:дегеннің	O
+kk:ұзындығы	O
+kk:,	O
+kk:ені	O
+kk:және	O
+kk:терендігі	O
+kk:бар	O
+kk:''	O
+kk:деген	O
+kk:анықтама	O
+kk:берілген	O
+kk:.	O
+
+kk:Саяси	O
+kk:қайраткер	O
+kk:ретіндегі	O
+kk:идеалы	O
+kk:-	O
+kk:Н.Ә.	B-PER
+kk:Назарбаев	I-PER
+kk:.	O
+
+kk:Қазір	O
+kk:ғалымдар	O
+kk:мұны	O
+kk:жеңімпаз	O
+kk:Гераклдің	B-PER
+kk:храмы	O
+kk:деп	O
+kk:жорамалдап	O
+kk:жүр	O
+kk:.	O
+
+kk:Натали	B-PER
+kk:Портман	I-PER
+kk:онымен	O
+kk:қоса	O
+kk:қоюшы-продюсер	O
+kk:ретінде	O
+kk:болды	O
+kk:.	O
+
+kk:Жүректе	B-ORG
+kk:оң	O
+kk:және	O
+kk:сол	O
+kk:қарынша	O
+kk:болады	O
+kk:.	O
+
+kk:ҚР	B-ORG
+kk:Президентінің	I-ORG
+kk:1999	O
+kk:ж	O
+kk:.	O
+
+kk:Осы	O
+kk:таудың	O
+kk:етегінде	O
+kk:Абайдың	B-PER
+kk:қыстауы	O
+kk:орналасқан	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Dan	O
+kk:Bălan	O
+kk:''	O
+kk:''s	O
+kk:official	O
+kk:page	O
+kk:at	O
+kk:Facebook	B-ORG
+kk:website	O
+
+kk:АЙДАУ	O
+kk:Темір	B-PER
+kk:Нұрбақытұлы	I-PER
+kk:Бекмамбетов	I-PER
+
+kk:АЙДАУ	O
+kk:Эдуардо	B-PER
+kk:Фрей	I-PER
+kk:Монтальва	I-PER
+
+kk:BEAST	B-ORG
+kk:тобының	O
+kk:басты	O
+kk:рэппері	O
+kk:болып	O
+kk:табылады	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Калладорф	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Аустриядағы	B-LOC
+kk:жәрмеңке	O
+kk:.	O
+
+kk:Ніл	B-LOC
+kk:өз-н	O
+kk:сумен	O
+kk:толықтай	O
+kk:қамтамасыз	O
+kk:етеді	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Дороватица	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Қарқаралы	B-ORG
+kk:қаласының	I-ORG
+kk:солтүстігінде	O
+kk:2	O
+kk:км	O
+kk:жерде	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Шатыркөл	B-LOC
+kk:(	I-LOC
+kk:Қырғызстан	I-LOC
+kk:)	I-LOC
+
+kk:'	O
+kk:''	O
+kk:Фунтовка	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:3	O
+kk:)	O
+kk:''маңғыттар	O
+kk:''	O
+kk:—	O
+kk:Ноғай	B-ORG
+kk:ордасының	I-ORG
+kk:халқы	O
+kk:.	O
+
+kk:Оған	O
+kk:жобаның	O
+kk:тұрақты	O
+kk:өкілі	O
+kk:Франц	B-PER
+kk:Беккенбаэрден	I-PER
+kk:сұхбат	O
+kk:алу	O
+kk:мүмкіндігі	O
+kk:тиді	O
+kk:.	O
+
+kk:Кейін	O
+kk:Бен	B-PER
+kk:Барнс	I-PER
+kk:,	O
+kk:Кристин	B-PER
+kk:Скотт	I-PER
+kk:Томас	I-PER
+kk:және	O
+kk:Колин	B-PER
+kk:Фёрт	I-PER
+kk:сияқты	O
+kk:актерлермен	O
+kk:басқа	O
+kk:фильмдерде	O
+kk:көрінеді	O
+kk:.	O
+
+kk:Мазараттың	O
+kk:ішіндегі	O
+kk:Келінтамкүмбезі	O
+kk:Жошы	B-PER
+kk:ханның	I-PER
+kk:екінші	O
+kk:әйеліне	O
+kk:арналып	O
+kk:тұрғызылған	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Анду-су	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Ермактың	B-PER
+kk:басқыншы	O
+kk:отрядына	O
+kk:қарсы	O
+kk:күресте	O
+kk:Көшім	B-PER
+kk:хан	I-PER
+kk:әскеріне	O
+kk:көмектескен	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Пинкафельд	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Аустриядағы	B-LOC
+kk:қала	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Атом	B-ORG
+kk:қуаты	I-ORG
+kk:халықаралық	I-ORG
+kk:агенттігі	I-ORG
+
+kk:Аңыз	O
+kk:бойынша	O
+kk:,	O
+kk:Зевс	B-PER
+kk:пен	O
+kk:Ледадан	O
+kk:егіз	O
+kk:балалар	O
+kk:туылады	O
+kk:.	O
+
+kk:«Спортс-арена»	O
+kk:,	O
+kk:Сан-Диего	B-LOC
+kk:,	O
+kk:Калифорния	B-LOC
+
+kk:Тұтастай	O
+kk:алғанда	O
+kk:бұл	O
+kk:өлеңнен	O
+kk:Сәбиттің	O
+kk:Абай	B-PER
+kk:поэзиясының	O
+kk:идеялық	O
+kk:бағытын	O
+kk:,	O
+kk:әлеуметтік	O
+kk:сырын	O
+kk:дұрыс	O
+kk:бағдарлағанын	O
+kk:кереміз	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Бейрут	B-LOC
+kk:''	O
+kk:'	O
+kk:,	O
+kk:Ливан	B-LOC
+
+kk:Қазақстан	B-ORG
+kk:жазушылар	I-ORG
+kk:одағы	I-ORG
+kk:басқармасының	O
+kk:хатшысы	O
+kk:болған	O
+kk:(	O
+kk:2002-2007	O
+kk:жж	O
+kk:.	O
+
+kk:Бірақ	O
+kk:«Сан-Паулу»	B-ORG
+kk:клубы	O
+kk:контракты	O
+kk:созбауға	O
+kk:решім	O
+kk:қабылдады	O
+kk:.	O
+
+kk:Бұл	O
+kk:тәртіп	O
+kk:жүйесін	O
+kk:кейіннен	O
+kk:абсолюттік	O
+kk:тәртіпке	O
+kk:негізделген	O
+kk:Еуропа	B-LOC
+kk:қоғамы	O
+kk:да	O
+kk:өзіне	O
+kk:үлгі	O
+kk:етіп	O
+kk:алды	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Чернаковка	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Семён	B-PER
+kk:Сергеевич	I-PER
+kk:Слепаков	I-PER
+
+kk:Ақмола	B-LOC
+kk:облысы	I-LOC
+kk:Қорғалжын	B-LOC
+kk:ауданының	I-LOC
+kk:оңтүстік-батысында	O
+kk:.	O
+
+kk:Оның	O
+kk:негізгі	O
+kk:идеясы	O
+kk:Елбасы	O
+kk:Нұрсұлтан	B-PER
+kk:Әбішұлы	I-PER
+kk:Назарбаевтың	I-PER
+kk:эскиз-нобайы	O
+kk:негізінде	O
+kk:өмірге	O
+kk:келді	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:|width=	O
+kk:''	O
+kk:10	O
+kk:%	O
+kk:''	O
+kk:Бақыт	B-PER
+kk:Сұлтанов	I-PER
+
+kk:Саяси	O
+kk:қайраткер	O
+kk:ретіндегі	O
+kk:идеалы	O
+kk:-	O
+kk:Н.Ә.	B-PER
+kk:Назарбаев	I-PER
+kk:.	O
+
+kk:Мёрт	B-LOC
+kk:және	I-LOC
+kk:Мозель	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:Массачусетс	B-ORG
+kk:технологиялық	I-ORG
+kk:институтының	I-ORG
+kk:профессоры	O
+kk:.	O
+
+kk:Тоқтар	B-PER
+kk:Оңғарбайұлы	I-PER
+kk:Әубәкіров	I-PER
+
+kk:)	O
+kk:Сауд	B-LOC
+kk:Арабиясы	I-LOC
+kk:,	O
+kk:Сирия	B-LOC
+kk:,	O
+kk:Палестинаға	B-ORG
+kk:саяхат	O
+kk:жасады	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Темір	B-PER
+kk:Нұрбақытұлы	I-PER
+kk:Бекмамбетов	I-PER
+
+kk:Лангедок-Руссильон	B-LOC
+kk:аймағына	O
+kk:қарасты	O
+kk:Эро	B-LOC
+kk:департаментінде	O
+kk:орналасқан	O
+kk:.	O
+
+kk:====	O
+kk:Мигель	B-PER
+kk:Анхел	I-PER
+kk:Коттомен	I-PER
+kk:айқас	O
+kk:====	O
+
+kk:АЙДАУ	O
+kk:Қазақстан	B-ORG
+kk:Республикасы	I-ORG
+kk:Парламентінің	I-ORG
+kk:Мәжiлiсі	I-ORG
+
+kk:Лангедок-Руссильон	B-LOC
+kk:аймағына	O
+kk:қарасты	O
+kk:Гар	B-LOC
+kk:департаментінде	O
+kk:орналасқан	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Жас	B-ORG
+kk:Алаш	I-ORG
+kk:(	I-ORG
+kk:газет	I-ORG
+kk:)	I-ORG
+
+kk:Осы	O
+kk:уақытта	O
+kk:ол	O
+kk:,	O
+kk:қатал	O
+kk:жасөспірімдермен	O
+kk:кездесуге	O
+kk:келген	O
+kk:,	O
+kk:Мұхаммед	B-PER
+kk:Әлиды	I-PER
+kk:кездестіреді	O
+kk:.	O
+
+kk:''Саяси	O
+kk:қайраткер	O
+kk:ретіндегі	O
+kk:идеалы	O
+kk:''	O
+kk:-	O
+kk:Ли	B-PER
+kk:Куан	I-PER
+kk:Ю	I-PER
+kk:.	O
+
+kk:|width=	O
+kk:''	O
+kk:10	O
+kk:%	O
+kk:''	O
+kk:Қайрат	B-PER
+kk:Келімбетов	I-PER
+
+kk:Штаде	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:Саяси	O
+kk:қайраткер	O
+kk:арасындағы	O
+kk:идеалы	O
+kk:-	O
+kk:Н.Ә.	B-PER
+kk:Назарбаев	I-PER
+kk:.	O
+
+kk:Мёрт	B-LOC
+kk:және	I-LOC
+kk:Мозель	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:Қайрат	B-PER
+kk:Ноғайбайұлы	I-PER
+kk:Рысқұлбеков	I-PER
+
+kk:Мұхтар	B-PER
+kk:Әуезов	I-PER
+kk:шығармаларына	O
+kk:арналған	O
+kk:.	O
+
+kk:ҰҚК-нің	B-ORG
+kk:басшысы	O
+kk:Нұртай	B-PER
+kk:Әбіқаев	I-PER
+kk:арнайы	O
+kk:қызмет	O
+kk:өкілдері	O
+kk:ДАИШ	O
+kk:атауын	O
+kk:қолданып	O
+kk:жүргенін	O
+kk:айтып	O
+kk:,	O
+kk:«Ислам	O
+kk:мемлекеті»	O
+kk:атауын	O
+kk:қолдамайтынын	O
+kk:жеткізді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Б.	B-ORG
+kk:з.	I-ORG
+kk:д.	I-ORG
+kk:741	I-ORG
+kk:жыл	I-ORG
+
+kk:Бұл	O
+kk:үш	O
+kk:медальдардың	O
+kk:үшеуін	O
+kk:де	O
+kk:шаңғышы	O
+kk:Владимир	B-PER
+kk:Смирнов	I-PER
+kk:алған	O
+kk:болатын	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Сулы	B-ORG
+kk:орталық	I-ORG
+kk:(	I-ORG
+kk:Лондон	I-ORG
+kk:)	I-ORG
+
+kk:Паскаль	B-ORG
+kk:(	I-ORG
+kk:өлшем	I-ORG
+kk:бірлік	I-ORG
+kk:)	I-ORG
+
+kk:АЙДАУ	O
+kk:Эмомали	B-ORG
+kk:Шәріпұлы	I-ORG
+kk:Рахмон	I-ORG
+
+kk:Оның	O
+kk:ішінде	O
+kk:Балуан	B-PER
+kk:Шолақ	I-PER
+kk:туралы	O
+kk:дастаны	O
+kk:ерекше	O
+kk:орын	O
+kk:алады	O
+kk:.	O
+
+kk:Мұхаммед	B-PER
+kk:Әли	I-PER
+kk:(	O
+kk:4	O
+kk:)	O
+
+kk:'	O
+kk:''	O
+kk:Куткус	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:''	O
+kk:Ла	B-ORG
+kk:Лига	I-ORG
+kk:''	O
+kk:'	O
+
+kk:Бүкіләлемдік	B-ORG
+kk:бокс	I-ORG
+kk:ассоциациясы	I-ORG
+kk:WBA	O
+
+kk:'	O
+kk:''	O
+kk:Кувейтте	B-LOC
+kk:шығатын	O
+kk:“әл-ұараб”	O
+kk:мерзімдік	O
+kk:басылымында	O
+kk:“әл-Машани”	O
+kk:бүркеншік	O
+kk:атымен	O
+kk:өзінің	O
+kk:зерттеулерін	O
+kk:жариялады	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Бленика	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:Ұйымдастырушысы	O
+kk:—	O
+kk:Мұстафа	B-PER
+kk:Шоқай	I-PER
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Салы-Кол-Я	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:*1937	O
+kk:-	O
+kk:Шиллер	B-PER
+kk:«Алдау	O
+kk:және	O
+kk:махаббат»	O
+kk:,	O
+kk:Ш.Хуршид	O
+kk:«Фархад	O
+kk:және	O
+kk:Ширин»	O
+kk:.	O
+
+kk:Гарвард	B-ORG
+kk:университетінде	I-ORG
+kk:ұстаздық	O
+kk:етті	O
+kk:.	O
+
+kk:Зул-Кифл	B-ORG
+kk:(	O
+kk:عليه	O
+kk:السلام	O
+kk:)	O
+
+kk:Натали	B-PER
+kk:Портман	I-PER
+kk:—	O
+kk:''Эмма	O
+kk:''	O
+
+kk:'	O
+kk:''	O
+kk:Александра	B-PER
+kk:Константиновна	I-PER
+kk:Костенюк	I-PER
+kk:''	O
+kk:'	O
+
+kk:Ахмет	B-PER
+kk:(	I-PER
+kk:Алтын	I-PER
+kk:Орда	I-PER
+kk:ханы	I-PER
+kk:)	I-PER
+
+kk:АЙДАУ	O
+kk:Иоанн	B-PER
+kk:(	I-PER
+kk:Англия	I-PER
+kk:патшасы	I-PER
+kk:)	I-PER
+
+kk:Бұл	O
+kk:көрсеткіш	O
+kk:Ұлы	B-ORG
+kk:тоқырауға	I-ORG
+kk:дейін	O
+kk:тұрақты	O
+kk:болды	O
+kk:.	O
+
+kk:Қазақстан	B-ORG
+kk:Республикасының	I-ORG
+kk:Президенті	I-ORG
+
+kk:Наталья	B-PER
+kk:Өтеуліқызы	I-PER
+kk:Арынбасарова	I-PER
+
+kk:АЙДАУ	O
+kk:Ислам	B-PER
+kk:Абдуғаниұлы	I-PER
+kk:Каримов	I-PER
+
+kk:Лениндік	B-ORG
+kk:сыйлықтың	I-ORG
+kk:иегері	O
+kk:.	O
+
+kk:Оларға	O
+kk:Жәбірейіл	B-PER
+kk:көмекке	O
+kk:келеді	O
+kk:.	O
+
+kk:Готфрид	B-PER
+kk:Вильгельм	I-PER
+kk:Лейбниц	I-PER
+
+kk:АЙДАУ	O
+kk:Халықаралық	B-ORG
+kk:азаматтық	I-ORG
+kk:авиация	I-ORG
+kk:ұйымы	I-ORG
+
+kk:12	O
+kk:ғасырдан	O
+kk:бастап	O
+kk:Бұхара	B-LOC
+kk:,	O
+kk:Самарқан	B-LOC
+kk:,	O
+kk:Хорезмде	B-LOC
+kk:билеушілердің	O
+kk:жеке	O
+kk:пәрмендері	O
+kk:мен	O
+kk:мемл	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Паисиево	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Болгариядағы	B-LOC
+kk:ауыл	O
+kk:.	O
+
+kk:Батыр	B-PER
+kk:қонтайшы	I-PER
+kk:шегінуге	O
+kk:мәжбүр	O
+kk:болады	O
+kk:.	O
+
+kk:Зальцвег	B-LOC
+kk:(	O
+kk:6	O
+kk:820	O
+kk:)	O
+
+kk:Бас	O
+kk:кеңсесі	O
+kk:Швейцариялық	B-LOC
+kk:Цюрихте	B-LOC
+kk:орналасқан	O
+kk:,	O
+kk:бұл	O
+kk:ұйымды	O
+kk:Йозеф	B-PER
+kk:Блаттер	I-PER
+kk:(	O
+kk:Joseph	O
+kk:Blatter	O
+kk:)	O
+kk:басқаруда	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:және	I-LOC
+kk:Леон	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Сория	B-LOC
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Болат	B-PER
+kk:Манашұлы	I-PER
+kk:Атабаев	I-PER
+
+kk:Лангедок-Руссильон	B-LOC
+kk:аймағына	O
+kk:қарасты	O
+kk:Од	B-LOC
+kk:департаментінде	O
+kk:орналасқан	O
+kk:.	O
+
+kk:Метеора	B-ORG
+kk:-	O
+kk:Linkin	B-ORG
+kk:Park	I-ORG
+kk:тобының	O
+kk:альбомы	O
+
+kk:Ұйғырлар	B-ORG
+kk:–	O
+kk:15	O
+kk:мың	O
+kk:(	O
+kk:1,9	O
+kk:%	O
+kk:)	O
+
+kk:Ол	O
+kk:Қазақстан	B-ORG
+kk:коммунистік	I-ORG
+kk:партиясының	I-ORG
+kk:аймақтық	O
+kk:комитетінің	O
+kk:екінші	O
+kk:хатшысы	O
+kk:,	O
+kk:«Ақ	O
+kk:жол»	O
+kk:газетінің	O
+kk:редакторы	O
+kk:қызметтерін	O
+kk:атқарған	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Гаревица	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Ұлы	B-PER
+kk:III	I-PER
+kk:Альфонсо	I-PER
+
+kk:Анадия	B-LOC
+kk:муниципалитетінің	O
+kk:құрамдас	O
+kk:бөлігі	O
+kk:болып	O
+kk:табылады	O
+kk:.	O
+
+kk:Саяси	O
+kk:қайраткер	O
+kk:ретіндегі	O
+kk:идеалы	O
+kk:-	O
+kk:Б.	B-PER
+kk:Момышұлы	I-PER
+kk:.	O
+
+kk:Лагюн	B-ORG
+kk:(	O
+kk:Région	O
+kk:des	O
+kk:Lagunes	O
+kk:)	O
+
+kk:'	O
+kk:''	O
+kk:Болотная	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Төмендегі	O
+kk:шығармалар	O
+kk:тәртібі	O
+kk:Оксфорд	B-ORG
+kk:университеті	I-ORG
+kk:аударған	O
+kk:нұсқалардағы	O
+kk:ережеге	O
+kk:сай	O
+kk:жасалған	O
+kk:.	O
+
+kk:Бауыржан	B-PER
+kk:Момышұлының	I-PER
+kk:алғашқы	O
+kk:батырлық	O
+kk:ақ	O
+kk:жолын	O
+kk:бастап	O
+kk:,	O
+kk:майданға	O
+kk:аттанған	O
+kk:қаласы	O
+kk:.	O
+
+kk:Біріккен	B-LOC
+kk:Араб	I-LOC
+kk:Әмірліктері	I-LOC
+kk:;	O
+
+kk:'	O
+kk:''	O
+kk:Утёр-Пеу	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Ресейдегі	B-LOC
+kk:өзен	O
+kk:.	O
+
+kk:Қазақстан	B-ORG
+kk:жазушылар	I-ORG
+kk:одағы	I-ORG
+kk:жанындағы	O
+kk:әдеби	O
+kk:қорда	O
+kk:бөлім	O
+kk:меңгерушісі	O
+kk:болды	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Б.	B-ORG
+kk:з.	I-ORG
+kk:д.	I-ORG
+kk:528	I-ORG
+kk:жыл	I-ORG
+
+kk:Николай	B-PER
+kk:Иванович	I-PER
+kk:Веселовский	I-PER
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Зүлфия	B-PER
+kk:Салахарқызы	I-PER
+kk:Чиншанло	I-PER
+
+kk:Мавзолей	O
+kk:Хеопс	B-ORG
+kk:пирамидасынан	I-ORG
+kk:басқа	O
+kk:,	O
+kk:әлемнің	O
+kk:кейбір	O
+kk:кереметтеріне	O
+kk:қарағанда	O
+kk:ең	O
+kk:ұзақ	O
+kk:сақталды	O
+kk:.	O
+
+kk:Қазақстанның	B-LOC
+kk:барлық	O
+kk:аймақтарында	O
+kk:кездесетін	O
+kk:15	O
+kk:түрі	O
+kk:бар	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Пёндорф	O
+kk:''	O
+kk:'	O
+kk:(	O
+kk:)	O
+kk:—	O
+kk:Аустриядағы	B-LOC
+kk:коммуна	O
+kk:.	O
+
+kk:Радикализм	B-ORG
+kk:барлық	O
+kk:кезде	O
+kk:қоғамның	O
+kk:саяси	O
+kk:өмірінде	O
+kk:елеулі	O
+
+kk:Төменгі	B-LOC
+kk:Рейн	I-LOC
+kk:департаментінің	I-LOC
+kk:коммуналары	I-LOC
+
+kk:Кітаптың	O
+kk:соңында	O
+kk:Алматы	B-LOC
+kk:қонақтары	O
+kk:үшін	O
+kk:анықтама	O
+kk:бөлімі	O
+kk:берілген	O
+kk:.	O
+
+kk:``	O
+kk:SCAT	B-ORG
+kk:(	O
+kk:Archive	O
+kk:)	O
+
+kk:Кіші	B-ORG
+kk:жүздің	I-ORG
+kk:далалық	O
+kk:бөлігіндегі	O
+kk:қазақтардан	O
+kk:көмек	O
+kk:күту	O
+kk:де	O
+kk:мүмкін	O
+kk:болмады	O
+kk:.	O
+
+kk:Вестерланд	B-LOC
+kk:(	O
+kk:9072	O
+kk:)	O
+
+kk:Түрлік	O
+kk:,	O
+kk:көркемдік	O
+kk:жағынан	O
+kk:Абай	B-PER
+kk:ақындығының	O
+kk:исі	O
+kk:аңқып	O
+kk:тұратын	O
+kk:туындылар	O
+kk:.	O
+
+kk:Тағы	O
+kk:бір	O
+kk:қорғасынға	O
+kk:құйылып	O
+kk:жазылған	O
+kk:жазба	O
+kk:Вольтер	B-PER
+kk:мұражайында	O
+kk:сақтаулы	O
+kk:(	O
+kk:б.з.б	O
+kk:.	O
+
+kk:Ол	O
+kk:7-8	O
+kk:сайланған	O
+kk:КСРО	B-ORG
+kk:Жоғарғы	I-ORG
+kk:Кеңесінің	I-ORG
+kk:депутаты	O
+kk:болды	O
+kk:.	O
+
+kk:Рёдельзее	B-LOC
+kk:(	O
+kk:1	O
+kk:575	O
+kk:)	O
+
+kk:Талғат	B-PER
+kk:Аманкелдіұлы	I-PER
+kk:Мұсабаев	I-PER
+
+kk:Әмір	B-PER
+kk:Темір	I-PER
+kk:өмірінің	O
+kk:тарихынан	O
+kk:да	O
+kk:біраз	O
+kk:дерек	O
+kk:бар	O
+kk:.	O
+
+kk:Василий	B-PER
+kk:Владимирович	I-PER
+kk:Бартольд	I-PER
+
+kk:Кастилия	B-LOC
+kk:—	I-LOC
+kk:Ла-Манча	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Куэнка	B-ORG
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Кастилия	B-LOC
+kk:және	I-LOC
+kk:Леон	I-LOC
+kk:автономды	O
+kk:бірлестігіне	O
+kk:қарасты	O
+kk:Сория	B-LOC
+kk:провинциясының	O
+kk:құрамына	O
+kk:кіреді	O
+kk:.	O
+
+kk:Аристотель	B-PER
+kk:“Логос”	O
+kk:терминін	O
+kk:“анықтама”	O
+kk:немесе	O
+kk:“жалпы	O
+kk:зерделілік”	O
+kk:мағынасында	O
+kk:пайдаланады	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Тәж	B-ORG
+kk:Махал	I-ORG
+kk:''	O
+kk:'	O
+
+kk:Қапшағай	B-ORG
+kk:су	I-ORG
+kk:электр	I-ORG
+kk:станциясына	I-ORG
+kk:байланысты	O
+kk:салынған	O
+kk:.	O
+
+kk:Ал	O
+kk:чемпионатта	O
+kk:Тоттенхэмге	B-ORG
+kk:қарсы	O
+kk:дубльмен	O
+kk:және	O
+kk:бір	O
+kk:голдық	O
+kk:доппен	O
+kk:ерекшенді	O
+kk:.	O
+
+kk:АЙДАУ	O
+kk:Қожа	B-PER
+kk:Ахмет	I-PER
+kk:Ясауи	I-PER
+
+kk:Қазақстан	B-ORG
+kk:Республикасының	I-ORG
+kk:Парламентіне	I-ORG
+kk:рақымшылық	O
+kk:жасау	O
+kk:актілерін	O
+kk:шығару	O
+kk:құкығы	O
+kk:берілген	O
+kk:.	O
+
+kk:Дитмаршен	B-LOC
+kk:ауданының	O
+kk:құрамына	O
+kk:енеді	O
+kk:.	O
+
+kk:Чемпионатта	O
+kk:«Бавария»	B-ORG
+kk:үшінші	O
+kk:орын	O
+kk:алып	O
+kk:,	O
+kk:«Боруссия»	O
+kk:мен	O
+kk:Тонидің	O
+kk:бұрынғы	O
+kk:клубы	O
+kk:«Байерге»	O
+kk:қалып	O
+kk:қалды	O
+kk:.	O
+
+kk:The	B-PER
+kk:Weeknd	I-PER
+kk:—	O
+kk:Earned	O
+kk:It	O
+
+kk:Аристотель	B-PER
+kk:ашқан	O
+kk:ойлаудың	O
+kk:формалары	O
+kk:мен	O
+kk:заңдылықтары	O
+kk:барлық	O
+kk:ғылыми	O
+kk:зерттеулер	O
+kk:мен	O
+kk:ғылыми	O
+kk:жүйенің	O
+kk:құрылысы	O
+kk:үшін	O
+kk:аса	O
+kk:маңызды	O
+kk:болды	O
+kk:.	O
+
+kk:Лангедок-Руссильон	B-LOC
+kk:аймағына	O
+kk:қарасты	O
+kk:Од	B-LOC
+kk:департаментінде	O
+kk:орналасқан	O
+kk:.	O
+
+kk:'	O
+kk:''	O
+kk:Дәуірге	O
+kk:үйлеспейтін	O
+kk:ойлар	O
+kk:''	O
+kk:'	O
+kk:—	O
+kk:Фридрих	B-PER
+kk:Ницшенің	I-PER
+kk:алғашқы	O
+kk:кездерде	O
+kk:жазған	O
+kk:мақала	O
+kk:жинақтарының	O
+kk:бірі	O
+kk:.	O
+
+kk:Манчестер	B-ORG
+kk:Юнайтед	I-ORG
+kk:клубының	O
+kk:ойыншысы	O
+kk:.	O
+
+kk:Жеңіл	B-ORG
+kk:атлетика	I-ORG
+kk:(	O
+kk:25	O
+kk:жолдама	O
+kk:)	O
+kk:'	O
+kk:''	O
+
+kk:айдау	O
+kk:Шығыс	B-LOC
+kk:Рим	I-LOC
+kk:империясы	I-LOC
+
+kk:Арока	B-ORG
+kk:муниципалитетінің	O
+kk:құрамдас	O
+kk:бөлігі	O
+kk:болып	O
+kk:табылады	O
+kk:.	O
+
+kk:Гиппократ	B-PER
+kk:“glaukosіs”	O
+kk:,	O
+kk:ал	O
+kk:Аристотель	B-PER
+kk:“glaukoma”	O
+kk:деп	O
+kk:атауды	O
+kk:ұсынған	O
+kk:,	O
+kk:аурудың	O
+kk:осылай	O
+kk:аталуы	O
+kk:19	O
+kk:ғ-дың	O
+kk:60–70	O
+kk:жылдарынан	O
+kk:қолданысқа	O
+kk:енді	O
+kk:.	O
+
+kk:Қазақстан	B-ORG
+kk:Халық	I-ORG
+kk:Жинақ	I-ORG
+kk:Банкі	I-ORG
+

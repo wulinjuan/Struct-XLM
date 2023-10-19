@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>5432</sentences><tokens>45875</tokens><words>45875</words><fused>0</fused></total>
+    <train><sentences>4274</sentences><tokens>36200</tokens><words>36200</words><fused>0</fused></train>
+    <dev><sentences>572</sentences><tokens>4862</tokens><words>4862</words><fused>0</fused></dev>
+    <test><sentences>586</sentences><tokens>4813</tokens><words>4813</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="957" /><!-- uç, göster, san, boston, ben, var, denver, ol, francisco, ne, atlanta, bir, iste, hangi, git -->
+  <forms unique="2020" /><!-- uçuşları, San, bana, olan, göster, uçuş, bir, istiyorum, uçuşlar, var, tüm, hangi, ve, en, Boston'dan -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="13">
+    <tag name="ADJ">5743</tag><!-- var, ol, hangi, kalk, git, ucuz, ara, aktarmasız, tek, yap -->
+    <tag name="ADP">1075</tag><!-- sonra, önce, ile, için, kadar, az, gibi, üzere, birlikte, itibaren -->
+    <tag name="ADV">1685</tag><!-- en, lütfen, erken, ne, hakkında, kalk, ayrıl, şimdi, direkt, ilk -->
+    <tag name="AUX">451</tag><!-- mi, değil -->
+    <tag name="CCONJ">909</tag><!-- ve, ile, veya, da, de, ya, hem, ama, ancak -->
+    <tag name="DET">1323</tag><!-- bir, tüm, bu, her, o, şu -->
+    <tag name="INTJ">8</tag><!-- ya -->
+    <tag name="NOUN">13481</tag><!-- uç, gün, havayol, sabah, akşam, saat, ücret, öğle, ara, git -->
+    <tag name="NUM">889</tag><!-- 7, on, 1, 27, 2, 6, 5, yirmi, 8, bir -->
+    <tag name="PRON">1223</tag><!-- ben, hangi, ne, bu, biri, hepsi, nere, çoğu, şu -->
+    <tag name="PROPN">14770</tag><!-- san, boston, denver, francisco, atlanta, dallas, pittsburgh, baltimore, philadelphia, washington -->
+    <tag name="PUNCT">217</tag><!-- - -->
+    <tag name="VERB">4101</tag><!-- göster, iste, ne, listele, ver, uç, bul, git, kalk, söyle -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="52">
+    <feat name="Aspect" value="Hab" upos="VERB">278</feat><!-- söyleyebilir, alabilir, listeleyebilir, gösterebilir, söyler, bulabilir, varır, ederim, gitmem, gider -->
+    <feat name="Aspect" value="Perf" upos="VERB">15</feat><!-- ayrılacağım, bulabileceğim, deneyeceğim, döneceğim, edeceğim, gidebileceğim, gideceğiz, isterdim, kalacağım, olacak -->
+    <feat name="Aspect" value="Prog" upos="VERB">1191</feat><!-- istiyorum, uçuyor, kalkıyor, geliyor, gerekiyor, gidiyor, varıyor, arıyorum, veriyor, kullanılıyor -->
+    <feat name="Case" value="Abl" upos="NOUN,PROPN">4892</feat><!-- Boston'dan, Denver'den, Atlanta'dan, öğleden, Pittsburgh'tan, Philadelphia'dan, Baltimore'den, Dallas'tan, Francisco'dan, Washington'dan -->
+    <feat name="Case" value="Acc" upos="NOUN,PROPN">1053</feat><!-- uçuşlarını, listesini, fiyatlarını, havayollarını, uçuşları, ücretlerini, ücreti, ulaşımını, uçuşunu, olanaklarını -->
+    <feat name="Case" value="Dat" upos="NOUN,PROPN">4521</feat><!-- Francisco'ya, Denver'e, Atlanta'ya, Baltimore'ye, Boston'a, Dallas'a, Philadelphia'ya, Pittsburgh'a, City'e, Oakland'a -->
+    <feat name="Case" value="Gen" upos="NOUN,PROPN">514</feat><!-- uçuşların, havayollarının, uçuşun, uçuşlarının, Airlines'in, uçuşunun, sabahın, havayolunun, uçmanın, Delta'nın -->
+    <feat name="Case" value="Ins" upos="NOUN,PROPN">104</feat><!-- uçuşlarla, uçuşla, havayollarıyla, Continental'la, fiyatlarıyla, tarifeyle, uçakla, uçuşuyla, Airlines'le, olanaklarıyla -->
+    <feat name="Case" value="Loc" upos="NOUN,PROPN">1092</feat><!-- arasında, Temmuz'da, Ağustos'ta, Denver'de, Haziran'da, civarında, havayollarında, Dallas'ta, saatlerinde, Atlanta'da -->
+    <feat name="Case" value="Nom" upos="NOUN,PROPN">15974</feat><!-- uçuşları, San, uçuş, uçuşlar, günü, uçuşu, akşam, çarşamba, dönüş, gidiş -->
+    <feat name="Definite" value="Def" upos="DET">38</feat><!-- bu, her, o, şu -->
+    <feat name="Definite" value="Ind" upos="DET">691</feat><!-- bir -->
+    <feat name="Degree" value="Cmp" upos="ADV">15</feat><!-- daha -->
+    <feat name="Degree" value="Sup" upos="ADV">547</feat><!-- en -->
+    <feat name="Mood" value="Cnd" upos="VERB">2</feat><!-- mümkünse -->
+    <feat name="Mood" value="CndGen" upos="VERB">2</feat><!-- inersem, yaparsam -->
+    <feat name="Mood" value="CndPot" upos="VERB">1</feat><!-- yapabiliyorsan -->
+    <feat name="Mood" value="Gen" upos="VERB">810</feat><!-- nedir, nelerdir, uçuşunuz, söyler, mevcuttur, havayoludur, varır, demektir, ederim, gitmem -->
+    <feat name="Mood" value="GenPot" upos="VERB">144</feat><!-- söyleyebilir, alabilir, listeleyebilir, gösterebilir, bulabilir, gidebilirim, verebilir, görebilir, uçabilir, alabilirim -->
+    <feat name="Mood" value="Imp" upos="VERB">1914</feat><!-- göster, listeleyin, gösterin, listele, bul, ver, verin, bulun, söyle, açıkla -->
+    <feat name="Mood" value="Ind" upos="VERB">1202</feat><!-- istiyorum, uçuyor, kalkıyor, geliyor, gerekiyor, gidiyor, varıyor, arıyorum, veriyor, kullanılıyor -->
+    <feat name="Mood" value="Nec" upos="VERB">8</feat><!-- binmeliyim, kalkmalı, olmalı, uçmalı, uçmalıyım, vermeli -->
+    <feat name="Mood" value="Opt" upos="VERB">11</feat><!-- bakalım, dönebileyim, aza, gidelim, kalabileyim, kısa, olabileyim, yapa -->
+    <feat name="Mood" value="Pot" upos="VERB">3</feat><!-- bulabileceğim, gidebileceğim, uçabileceğim -->
+    <feat name="Number" value="Plur" upos="NOUN,VERB">4029</feat><!-- uçuşları, uçuşlar, listeleyin, uçuşlarını, gösterin, havayolları, uçuşların, verin, fiyatlarını, havayollarını -->
+    <feat name="Number" value="Sing" upos="NOUN,PROPN,VERB">28227</feat><!-- San, göster, uçuş, istiyorum, Boston'dan, Francisco'ya, nedir, Denver'den, günü, uçuşu -->
+    <feat name="Number[psor]" value="Plur" upos="NOUN,VERB">216</feat><!-- uçuşları, uçuşlarını, ücretlerini, ücretleri, uçuşlarınız, havayollarıyla, hangileridir, uçuşlarının, havayollarını, uçuşunuz -->
+    <feat name="Number[psor]" value="Sing" upos="NOUN,PROPN,VERB">5574</feat><!-- uçuşları, günü, uçuşu, uçuşlarını, havayolları, ihtiyacım, arasında, sabahı, karayolu, arası -->
+    <feat name="NumType" value="Card" upos="ADJ,NUM">952</feat><!-- 7, kaç, on, 1, 27, 2, 6, 5, yirmi, bir -->
+    <feat name="NumType" value="Ord" upos="NUM">9</feat><!-- altıncı, 19:00, 28., 5:55, 7:00, 8., birinci, yedinci -->
+    <feat name="Person" value="1" upos="VERB">867</feat><!-- istiyorum, uçuşunuz, arıyorum, ilgileniyorum, ediyorum, ederim, gitmem, yaşıyorum, çalışıyorum, gidebilirim -->
+    <feat name="Person" value="2" upos="VERB">1911</feat><!-- göster, listeleyin, gösterin, listele, bul, ver, verin, bulun, söyle, açıkla -->
+    <feat name="Person" value="3" upos="NOUN,VERB">14804</feat><!-- uçuşları, uçuş, uçuşlar, nedir, günü, uçuşu, uçuşlarını, akşam, öğleden, dönüş -->
+    <feat name="Person[psor]" value="1" upos="NOUN">251</feat><!-- ihtiyacım, uçmam, bilmem, kiralamam, seçeneklerim, gitmem, yapmam, arkadaşım, dönmem, götürmem -->
+    <feat name="Person[psor]" value="2" upos="NOUN,VERB">181</feat><!-- üzerinden, uçuşlarını, uçuşlarınız, uçuşların, uçuşunuz, yn, uçuşun, ücretini, ayarlamalarını, dersiniz -->
+    <feat name="Person[psor]" value="3" upos="NOUN,VERB">5350</feat><!-- uçuşları, günü, uçuşu, uçuşlarını, havayolları, arasında, sabahı, karayolu, arası, ulaşımı -->
+    <feat name="Polarity" value="Neg" upos="VERB">16</feat><!-- gitmem, bulmam, almam, geçirmem, görmem, istemiyorum, yaptırmam -->
+    <feat name="Polarity" value="Pos" upos="VERB">3444</feat><!-- göster, istiyorum, listeleyin, gösterin, listele, uçuyor, bul, ver, kalkıyor, verin -->
+    <feat name="PronType" value="Art" upos="DET">1323</feat><!-- bir, tüm, bu, her, o, şu -->
+    <feat name="PronType" value="Dem" upos="PRON">12</feat><!-- bu, bunu, bunların, şu -->
+    <feat name="PronType" value="Ind" upos="PRON">7</feat><!-- biri, hepsi, hepsini, çoğunu -->
+    <feat name="PronType" value="Int" upos="ADV,AUX,PRON">772</feat><!-- mı, ne, misin, hangi, mu, hangisi, hangileri, misiniz, miyim, nasıl -->
+    <feat name="PronType" value="Prs" upos="PRON">993</feat><!-- bana, beni, benim -->
+    <feat name="Tense" value="Fut" upos="VERB">12</feat><!-- ayrılacağım, bulabileceğim, deneyeceğim, döneceğim, edeceğim, gidebileceğim, gideceğiz, kalacağım, olacak, uçabileceğim -->
+    <feat name="Tense" value="Past" upos="VERB">3</feat><!-- isterdim, olurdu, yedi -->
+    <feat name="Tense" value="Pres" upos="VERB">4086</feat><!-- göster, istiyorum, nedir, listeleyin, gösterin, listele, nelerdir, uçuyor, bul, ver -->
+    <feat name="VerbForm" value="Conv" upos="VERB">33</feat><!-- uçuşunuz, uçuşlardır -->
+    <feat name="VerbForm" value="Fin" upos="VERB">4054</feat><!-- göster, istiyorum, nedir, listeleyin, gösterin, listele, nelerdir, uçuyor, bul, ver -->
+    <feat name="VerbForm" value="Vnoun" upos="VERB">10</feat><!-- demektir, kısaltmasıdır -->
+    <feat name="Voice" value="Cau" upos="VERB">1</feat><!-- yaptırmam -->
+    <feat name="Voice" value="Pass" upos="VERB">53</feat><!-- kullanılıyor, yapılıyor, verilmektedir, kullanılır, ediliyor, gidilir, sağlanmaktadır, ayrılır, bulunur, edilir -->
+    <feat name="Voice" value="Rfl" upos="VERB">2</feat><!-- den -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="32">
+    <dep name="acl">2042</dep>
+    <dep name="advcl">122</dep>
+    <dep name="advmod">1014</dep>
+    <dep name="amod">2936</dep>
+    <dep name="appos">1</dep>
+    <dep name="aux">447</dep>
+    <dep name="case">994</dep>
+    <dep name="cc">885</dep>
+    <dep name="ccomp">108</dep>
+    <dep name="clf">1</dep>
+    <dep name="compound">1472</dep>
+    <dep name="conj">951</dep>
+    <dep name="csubj">100</dep>
+    <dep name="dep">6</dep>
+    <dep name="det">1303</dep>
+    <dep name="discourse">429</dep>
+    <dep name="dislocated">5</dep>
+    <dep name="fixed">35</dep>
+    <dep name="flat">3261</dep>
+    <dep name="iobj">1</dep>
+    <dep name="list">27</dep>
+    <dep name="mark">11</dep>
+    <dep name="nmod">13271</dep>
+    <dep name="nsubj">1839</dep>
+    <dep name="nummod">710</dep>
+    <dep name="obj">2746</dep>
+    <dep name="obl">4940</dep>
+    <dep name="orphan">3</dep>
+    <dep name="parataxis">115</dep>
+    <dep name="punct">217</dep>
+    <dep name="root">5432</dep>
+    <dep name="xcomp">451</dep>
+  </deps>
+</treebank>

@@ -1,0 +1,5473 @@
+tl:Hinlalato	B-ORG
+tl:ng	I-ORG
+tl:paa	I-ORG
+
+tl:Pandaigdigang	B-ORG
+tl:Lupong	I-ORG
+tl:Paralimpiko	I-ORG
+
+tl:''	O
+tl:Mon	B-ORG
+tl:Colle	I-ORG
+tl:Knights	I-ORG
+tl:''	O
+
+tl:Kardinal	B-PER
+tl:(	I-PER
+tl:Katolisismo	I-PER
+tl:)	I-PER
+
+tl:Lalawigan	B-LOC
+tl:ng	I-LOC
+tl:Estokolmo	I-LOC
+
+tl:Kapatid	B-ORG
+tl:sa	I-ORG
+tl:kasal	I-ORG
+
+tl:Han	B-PER
+tl:Suk	I-PER
+tl:Kyu	I-PER
+
+tl:Pandaigdigang	B-ORG
+tl:Organisasyon	I-ORG
+tl:sa	I-ORG
+tl:Kalusugan	I-ORG
+
+tl:Indiyana	B-LOC
+tl:(	I-LOC
+tl:Estado	I-LOC
+tl:ng	I-LOC
+tl:Estados	I-LOC
+tl:Unidos	I-LOC
+tl:)	I-LOC
+
+tl:Hiero	B-PER
+tl:II	I-PER
+tl:ng	I-PER
+tl:Siracusa	I-PER
+
+tl:Papa	B-PER
+tl:Pablo	I-PER
+tl:II	I-PER
+
+tl:Prepektura	B-LOC
+tl:ng	I-LOC
+tl:Fukushima	I-LOC
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Ain	I-LOC
+
+tl:Ang	O
+tl:'	O
+tl:''	O
+tl:Karbow-Vietlübbe	O
+tl:''	O
+tl:'	O
+tl:ay	O
+tl:isang	O
+tl:munisipalidad	O
+tl:sa	O
+tl:Alemanya	B-LOC
+tl:.	O
+
+tl:Colegio	B-ORG
+tl:de	I-ORG
+tl:San	I-ORG
+tl:Pascual	I-ORG
+tl:Baylon	I-ORG
+
+tl:Senador	B-LOC
+tl:Ninoy	I-LOC
+tl:Aquino	I-LOC
+tl:,	I-LOC
+tl:Sultan	I-LOC
+tl:Kudarat	I-LOC
+
+tl:Isabel	B-PER
+tl:I	I-PER
+tl:ng	I-PER
+tl:Castilla	I-PER
+
+tl:Mary	B-PER
+tl:Elizabeth	I-PER
+tl:Frye	I-PER
+
+tl:''	O
+tl:Ina	B-ORG
+tl:,	I-ORG
+tl:Kapatid	I-ORG
+tl:,	I-ORG
+tl:Anak	I-ORG
+tl:''	O
+
+tl:Inang	B-PER
+tl:Emperatris	I-PER
+tl:Cixi	I-PER
+
+tl:Lalawigan	B-LOC
+tl:ng	I-LOC
+tl:Estokolmo	I-LOC
+
+tl:San	B-PER
+tl:Wenceslao	I-PER
+tl:I	I-PER
+tl:,	I-PER
+tl:Duke	I-PER
+tl:ng	I-PER
+tl:Bohemya	I-PER
+
+tl:'	O
+tl:''	O
+tl:Armenia	B-LOC
+tl:''	O
+tl:'	O
+
+tl:Lungsod	B-LOC
+tl:ng	I-LOC
+tl:Londres	I-LOC
+
+tl:**	O
+tl:Hanoi	B-LOC
+tl:(	O
+tl:Embahada	O
+tl:)	O
+
+tl:Pamantasan	B-ORG
+tl:ng	I-ORG
+tl:Dulong	I-ORG
+tl:Silangan	I-ORG
+
+tl:Ipil	B-LOC
+tl:(	I-LOC
+tl:Intsia	I-LOC
+tl:bijuga	I-LOC
+tl:)	I-LOC
+
+tl:**	O
+tl:Abuja	B-LOC
+tl:(	O
+tl:Embahada	O
+tl:)	O
+
+tl:Kitahiroshima	B-LOC
+tl:,	I-LOC
+tl:Hokkaidō	I-LOC
+
+tl:**	O
+tl:Doha	B-LOC
+tl:(	O
+tl:Embahada	O
+tl:)	O
+
+tl:Abenida	B-ORG
+tl:ng	I-ORG
+tl:United	I-ORG
+tl:Nations	I-ORG
+
+tl:Simon	B-PER
+tl:ang	I-PER
+tl:Cananeo	I-PER
+
+tl:Apo	B-ORG
+tl:Hiking	I-ORG
+tl:Society	I-ORG
+
+tl:Nasukarasuyama	B-ORG
+tl:,	I-ORG
+tl:Tochigi	I-ORG
+
+tl:Gusaling	B-ORG
+tl:Panlungsod	I-ORG
+tl:ng	I-ORG
+tl:Maynila	I-ORG
+
+tl:Apostolikong	B-ORG
+tl:Hari	I-ORG
+tl:ng	I-ORG
+tl:Unggarya	I-ORG
+
+tl:Galicia	B-LOC
+tl:(	I-LOC
+tl:Espanya	I-LOC
+tl:)	I-LOC
+
+tl:Pamantasang	B-ORG
+tl:Normal	I-ORG
+tl:ng	I-ORG
+tl:Cebu	I-ORG
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Ain	I-LOC
+
+tl:Tangway	B-LOC
+tl:ng	I-LOC
+tl:Zamboanga	I-LOC
+
+tl:'	O
+tl:''	O
+tl:Saudi	B-LOC
+tl:Arabia	I-LOC
+tl:''	O
+tl:'	O
+
+tl:Aklat	B-ORG
+tl:ni	I-ORG
+tl:Zacarias	I-ORG
+
+tl:Konan	B-LOC
+tl:,	I-LOC
+tl:Kōchi	I-LOC
+
+tl:''	O
+tl:Debate	B-ORG
+tl:with	I-ORG
+tl:Mare	I-ORG
+tl:at	I-ORG
+tl:Pare	I-ORG
+tl:''	O
+tl:(	O
+tl:1998–2006	O
+tl:)	O
+
+tl:Felipe	B-PER
+tl:I	I-PER
+tl:ng	I-PER
+tl:Castilla	I-PER
+
+tl:Aklat	B-ORG
+tl:ni	I-ORG
+tl:Oseas	I-ORG
+
+tl:Suliranin	B-PER
+tl:ni	I-PER
+tl:Elektra	I-PER
+
+tl:Enrique	B-PER
+tl:VIII	I-PER
+tl:ng	I-PER
+tl:Inglatera	I-PER
+
+tl:Commonwealth	B-ORG
+tl:of	I-ORG
+tl:Independent	I-ORG
+tl:States	I-ORG
+
+tl:Napoleon	B-PER
+tl:I	I-PER
+tl:ng	I-PER
+tl:Pransiya	I-PER
+
+tl:WWE	B-ORG
+tl:,	I-ORG
+tl:Inc	I-ORG
+tl:.	I-ORG
+
+tl:Dalubhasaan	B-ORG
+tl:ng	I-ORG
+tl:Santa	I-ORG
+tl:Escolastica	I-ORG
+
+tl:That	B-PER
+tl:'s	I-PER
+tl:Entertainment	I-PER
+
+tl:Ikaapat	B-ORG
+tl:na	I-ORG
+tl:Konseho	I-ORG
+tl:ng	I-ORG
+tl:Constantinople	I-ORG
+tl:(	I-ORG
+tl:Romano	I-ORG
+tl:Katoliko	I-ORG
+tl:)	I-ORG
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Ain	I-LOC
+
+tl:オールスター感謝祭	O
+tl:〜All-Star	O
+tl:Thanksgiving〜	O
+tl:(	O
+tl:2013	O
+tl:,	O
+tl:TBS	B-ORG
+tl:)	O
+
+tl:30	B-ORG
+tl:Seconds	I-ORG
+tl:to	I-ORG
+tl:Mars	I-ORG
+tl:''	O
+tl:(	O
+tl:2002	O
+tl:)	O
+
+tl:Catarman	B-LOC
+tl:,	I-LOC
+tl:Hilagang	I-LOC
+tl:Samar	I-LOC
+
+tl:Prepektura	B-LOC
+tl:ng	I-LOC
+tl:Wakayama	I-LOC
+
+tl:Talampakan	B-ORG
+tl:(	I-ORG
+tl:yunit	I-ORG
+tl:)	I-ORG
+
+tl:Maximiliano	B-PER
+tl:I	I-PER
+tl:ng	I-PER
+tl:Mehiko	I-PER
+
+tl:Lupon	B-ORG
+tl:sa	I-ORG
+tl:Pagrerepaso	I-ORG
+tl:at	I-ORG
+tl:Pag-uuri	I-ORG
+tl:ng	I-ORG
+tl:Sine	I-ORG
+tl:at	I-ORG
+tl:Telebisyon	I-ORG
+
+tl:Star	B-PER
+tl:Circle	I-PER
+tl:Quest	I-PER
+
+tl:''	O
+tl:Paquito	B-PER
+tl:Diaz	I-PER
+tl:''	O
+
+tl:Gian	B-PER
+tl:Lorenzo	I-PER
+tl:Bernini	I-PER
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Ain	I-LOC
+
+tl:'	O
+tl:''	O
+tl:Namibia	B-LOC
+tl:''	O
+tl:'	O
+
+tl:Kurema	O
+tl:Chisu	O
+tl:(	O
+tl:クレマチス	O
+tl:)	O
+tl:[Cream	O
+tl:Cheese]	O
+tl:-	O
+tl:Erika	B-PER
+tl:Yamakawa	I-PER
+
+tl:Lungsod	B-LOC
+tl:ng	I-LOC
+tl:Tokushima	I-LOC
+
+tl:Canaan	B-LOC
+tl:(	I-LOC
+tl:ng	I-LOC
+tl:Bibliya	I-LOC
+tl:)	I-LOC
+
+tl:Konduktor	B-ORG
+tl:ng	I-ORG
+tl:musika	I-ORG
+
+tl:Lalawigan	B-LOC
+tl:ng	I-LOC
+tl:Venezia	I-LOC
+
+tl:Mga	B-ORG
+tl:Nagkakaisang	I-ORG
+tl:Bansa	I-ORG
+
+tl:Malaking	B-LOC
+tl:kalamnang	I-LOC
+tl:pampigi	I-LOC
+
+tl:Sobyet	B-LOC
+tl:na	I-LOC
+tl:Sosyalistang	I-LOC
+tl:Republika	I-LOC
+tl:ng	I-LOC
+tl:Moldabia	I-LOC
+
+tl:Unibersidad	B-ORG
+tl:Teknolohiko	I-ORG
+tl:ng	I-ORG
+tl:Ramon	I-ORG
+tl:Magsaysay	I-ORG
+
+tl:Mga	B-LOC
+tl:lalawigan	I-LOC
+tl:ng	I-LOC
+tl:Pilipinas	I-LOC
+
+tl:Konduktor	B-ORG
+tl:ng	I-ORG
+tl:musika	I-ORG
+
+tl:Prepektura	B-LOC
+tl:ng	I-LOC
+tl:Tokushima	I-LOC
+
+tl:Mga	B-PER
+tl:Gobernador-Heneral	I-PER
+tl:ng	I-PER
+tl:Pilipinas	I-PER
+
+tl:Federico	B-PER
+tl:II	I-PER
+tl:,	I-PER
+tl:Banal	I-PER
+tl:na	I-PER
+tl:Emperador	I-PER
+tl:ng	I-PER
+tl:Roma	I-PER
+
+tl:Uncyclopedia	O
+tl:,	O
+tl:artikulo	O
+tl:sa	O
+tl:Wikia	B-ORG
+
+tl:Unibersidad	B-ORG
+tl:ng	I-ORG
+tl:Batangas	I-ORG
+
+tl:Enrique	B-PER
+tl:ang	I-PER
+tl:Nabigador	I-PER
+
+tl:Rio	B-LOC
+tl:de	I-LOC
+tl:la	I-LOC
+tl:Plata	I-LOC
+
+tl:Lalawigan	B-LOC
+tl:ng	I-LOC
+tl:Cuando	I-LOC
+tl:Cubango	I-LOC
+
+tl:Louis	B-PER
+tl:XIV	I-PER
+tl:ng	I-PER
+tl:Pransiya	I-PER
+
+tl:Daigdig	B-LOC
+tl:na	I-LOC
+tl:Persia	I-LOC
+
+tl:Quid	B-LOC
+tl:pro	I-LOC
+tl:quo	I-LOC
+
+tl:Pamantasan	B-ORG
+tl:ng	I-ORG
+tl:Leipzig	I-ORG
+
+tl:Estado	B-LOC
+tl:ng	I-LOC
+tl:Estados	I-LOC
+tl:Unidos	I-LOC
+
+tl:Guǎngdōng	B-LOC
+tl:(	O
+tl:广东	O
+tl:)	O
+
+tl:Nakahilig	B-ORG
+tl:na	I-ORG
+tl:Tore	I-ORG
+tl:ng	I-ORG
+tl:Pisa	I-ORG
+
+tl:Hernani	B-LOC
+tl:,	I-LOC
+tl:Silangang	I-LOC
+tl:Samar	I-LOC
+
+tl:Magallanes	B-LOC
+tl:,	I-LOC
+tl:Kabite	I-LOC
+
+tl:Take	B-ORG
+tl:Me	I-ORG
+tl:Home	I-ORG
+tl:''	O
+tl:(	O
+tl:2012	O
+tl:)	O
+
+tl:Konduktor	B-ORG
+tl:ng	I-ORG
+tl:musika	I-ORG
+
+tl:Unnan	B-LOC
+tl:,	I-LOC
+tl:Shimane	I-LOC
+
+tl:Kansilyer	B-LOC
+tl:ng	I-LOC
+tl:Alemanya	I-LOC
+
+tl:Lalawigan	B-LOC
+tl:ng	I-LOC
+tl:Sassari	I-LOC
+
+tl:Laguna	B-ORG
+tl:Santiago	I-ORG
+tl:Educational	I-ORG
+tl:Foundation	I-ORG
+
+tl:Deborah	B-PER
+tl:Camille	I-PER
+tl:Darnell	I-PER
+
+tl:Nikkō	B-LOC
+tl:,	I-LOC
+tl:Tochigi	I-LOC
+
+tl:Awtonomong	B-LOC
+tl:Republika	I-LOC
+tl:ng	I-LOC
+tl:Crimea	I-LOC
+
+tl:Lutong	B-ORG
+tl:Koreano	I-ORG
+tl:(	I-ORG
+tl:Hansik	I-ORG
+tl:)	I-ORG
+
+tl:Lorenzo	B-PER
+tl:de	I-PER
+tl:'	I-PER
+tl:Medici	I-PER
+
+tl:Marcelo	B-PER
+tl:H.	I-PER
+tl:del	I-PER
+tl:Pilar	I-PER
+
+tl:Vita	B-LOC
+tl:,	I-LOC
+tl:Italya	I-LOC
+
+tl:.hack	B-ORG
+tl:/	I-ORG
+tl:/	I-ORG
+tl:Legend	I-ORG
+tl:of	I-ORG
+tl:the	I-ORG
+tl:Twilight	I-ORG
+tl:''	O
+
+tl:Sa	O
+tl:GMA	B-ORG
+tl:News	I-ORG
+tl:TV	I-ORG
+tl:at	O
+tl:GMA	B-ORG
+tl:Network	I-ORG
+tl:.	O
+
+tl:Marcos	B-PER
+tl:ang	I-PER
+tl:Ebanghelista	I-PER
+
+tl:Magical	B-ORG
+tl:Angel	I-ORG
+tl:Creamy	I-ORG
+tl:Mami	I-ORG
+
+tl:PBA	B-ORG
+tl:sa	I-ORG
+tl:Solar	I-ORG
+tl:Sports	I-ORG
+
+tl:May	B-ORG
+tl:Minamahal	I-ORG
+tl:''	O
+tl:(	O
+tl:1993	O
+tl:)	O
+
+tl:Dario	B-PER
+tl:I	I-PER
+tl:ng	I-PER
+tl:Persiya	I-PER
+
+tl:Dexter	B-ORG
+tl:'s	I-ORG
+tl:Laboratory	I-ORG
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Ain	I-LOC
+
+tl:Nag-aral	O
+tl:siya	O
+tl:sa	O
+tl:Ateneo	B-ORG
+tl:de	I-ORG
+tl:Manila	I-ORG
+tl:.	O
+
+tl:Quid	B-LOC
+tl:pro	I-LOC
+tl:quo	I-LOC
+
+tl:Pananakop	B-ORG
+tl:ng	I-ORG
+tl:mga	I-ORG
+tl:Hapones	I-ORG
+tl:sa	I-ORG
+tl:Pilipinas	I-ORG
+
+tl:Pamumukaw	B-ORG
+tl:ng	I-ORG
+tl:suso	I-ORG
+
+tl:Republika	B-LOC
+tl:ng	I-LOC
+tl:Gitnang	I-LOC
+tl:Aprika	I-LOC
+
+tl:Pangulong	B-PER
+tl:pro	I-PER
+tl:tempore	I-PER
+tl:ng	I-PER
+tl:Senado	I-PER
+tl:ng	I-PER
+tl:Pilipinas	I-PER
+
+tl:Pangulo	B-ORG
+tl:ng	I-ORG
+tl:Estados	I-ORG
+tl:Unidos	I-ORG
+
+tl:Masako	B-PER
+tl:Mori	I-PER
+tl:(	O
+tl:森昌子	O
+tl:)	O
+tl:(	O
+tl:15	O
+tl:)	O
+
+tl:Avatar	B-ORG
+tl::	I-ORG
+tl:The	I-ORG
+tl:Last	I-ORG
+tl:Airbender	I-ORG
+tl:(	I-ORG
+tl:seryeng	I-ORG
+tl:pantelebisyon	I-ORG
+tl:)	I-ORG
+
+tl:Felipe	B-PER
+tl:ang	I-PER
+tl:Alagad	I-PER
+
+tl:Ryan	B-PER
+tl:Agoncillo	I-PER
+tl:(	O
+tl:2009-present	O
+tl:)	O
+
+tl:Dalubhasaang	B-ORG
+tl:Panlungsod	I-ORG
+tl:ng	I-ORG
+tl:Calamba	I-ORG
+
+tl:Distrito	B-LOC
+tl:ng	I-LOC
+tl:Agdam	I-LOC
+
+tl:Pamantasang	B-ORG
+tl:Niccolò	I-ORG
+tl:Cusano	I-ORG
+
+tl:Brad	B-PER
+tl:Turvey	I-PER
+tl:(	O
+tl:2003-2007	O
+tl:)	O
+
+tl:Nakahilig	B-ORG
+tl:na	I-ORG
+tl:Tore	I-ORG
+tl:ng	I-ORG
+tl:Pisa	I-ORG
+
+tl:Hello	B-ORG
+tl:!	I-ORG
+tl:Miss	I-ORG
+tl:(	O
+tl:헬로	O
+tl:!	O
+
+tl:Pamumukaw	B-ORG
+tl:ng	I-ORG
+tl:suso	I-ORG
+
+tl:pangtiwalang	O
+tl:tagapayo	O
+tl:ni	O
+tl:Sarah	B-PER
+tl:Geronimo	I-PER
+
+tl:Talatuntunan	B-ORG
+tl:ng	I-ORG
+tl:Kaunlarang	I-ORG
+tl:Pantao	I-ORG
+
+tl:'	O
+tl:''	O
+tl:Codename	B-ORG
+tl::	I-ORG
+tl:Asero	I-ORG
+tl:''	O
+tl:'	O
+
+tl:Sargon	B-PER
+tl:ng	I-PER
+tl:Akkad	I-PER
+
+tl:Rehiyon	B-LOC
+tl:ng	I-LOC
+tl:Davao	I-LOC
+
+tl:Rimi	B-PER
+tl:Natsukawa	I-PER
+tl:(	O
+tl:5	O
+tl:)	O
+
+tl:Lawa	B-LOC
+tl:ng	I-LOC
+tl:Venado	I-LOC
+
+tl:Eugenio	B-PER
+tl:María	I-PER
+tl:de	I-PER
+tl:Hostos	I-PER
+
+tl:Dongducheon-si	B-LOC
+tl:–	O
+tl:동두천시	O
+tl:,	O
+tl:東豆川市	O
+
+tl:Santiago	B-PER
+tl:,	I-PER
+tl:anak	I-PER
+tl:ni	I-PER
+tl:Zebedeo	I-PER
+
+tl:Eksarkado	B-LOC
+tl:ng	I-LOC
+tl:Pilipinas	I-LOC
+
+tl:Antipapa	B-PER
+tl:Benedicto	I-PER
+tl:XIII	I-PER
+
+tl:Jean	B-PER
+tl:Bodin	I-PER
+tl:(	O
+tl:1530–1596	O
+tl:)	O
+
+tl:Estado	B-LOC
+tl:ng	I-LOC
+tl:Simbahan	I-LOC
+
+tl:Pangunahing	B-ORG
+tl:Balita	I-ORG
+tl:(	O
+tl:1988-1998	O
+tl:)	O
+
+tl:Naging	O
+tl:asawa	O
+tl:niya	O
+tl:sina	O
+tl:Vilma	B-PER
+tl:Santos	I-PER
+tl:at	O
+tl:Maricel	B-PER
+tl:Soriano	I-PER
+tl:.	O
+
+tl:Leon	B-PER
+tl:I	I-PER
+tl:Magno	I-PER
+
+tl:Papa	B-PER
+tl:Pio	I-PER
+tl:X	I-PER
+
+tl:Iglesia	B-ORG
+tl:Filipina	I-ORG
+tl:Independiente	I-ORG
+
+tl:Castilla	B-LOC
+tl:y	I-LOC
+tl:León	I-LOC
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Lalawigan	I-LOC
+tl:ng	I-LOC
+tl:Pavia	I-LOC
+
+tl:Ilang	O
+tl:katao	O
+tl:nasugatan	O
+tl:sa	O
+tl:pagsabog	O
+tl:sa	O
+tl:Grozny	B-LOC
+tl:,	O
+tl:Chechnya	B-LOC
+tl:.	O
+
+tl:''	O
+tl:Ranma	B-PER
+tl:½	I-PER
+tl:''	O
+
+tl:Kapatirang	B-ORG
+tl:Scout	I-ORG
+tl:ng	I-ORG
+tl:Pilipinas	I-ORG
+
+tl:Aklat	B-ORG
+tl:ni	I-ORG
+tl:Mikas	I-ORG
+
+tl:Zamboanga	B-LOC
+tl:(	I-LOC
+tl:lalawigan	I-LOC
+tl:)	I-LOC
+
+tl:Mga	B-PER
+tl:manunulat	I-PER
+tl:na	I-PER
+tl:kababaihang	I-PER
+tl:Pilipino	I-PER
+
+tl:Mahabang	B-ORG
+tl:Muog	I-ORG
+tl:ng	I-ORG
+tl:Tsina	I-ORG
+
+tl:'	O
+tl:''	O
+tl:Dion	B-PER
+tl:Ignacio	I-PER
+tl:''	O
+tl:'	O
+
+tl:Mga	B-ORG
+tl:Nakabiting	I-ORG
+tl:Hardin	I-ORG
+tl:ng	I-ORG
+tl:Babilonya	I-ORG
+
+tl:Kanlurang	B-ORG
+tl:Linya	I-ORG
+tl:ng	I-ORG
+tl:Rikuu	I-ORG
+
+tl:Hudas	B-PER
+tl:ang	I-PER
+tl:Alagad	I-PER
+
+tl:Turkiya	B-LOC
+tl:(	O
+tl:29,500	O
+tl:)	O
+
+tl:Kababaihan	B-PER
+tl:sa	I-PER
+tl:Pilipinas	I-PER
+
+tl:Pinagbibidahan	O
+tl:ito	O
+tl:nina	O
+tl:Maja	B-PER
+tl:Salvador	I-PER
+tl:,	O
+tl:Jason	B-PER
+tl:Abalos	I-PER
+tl:at	O
+tl:Patrick	B-PER
+tl:Garcia	I-PER
+
+tl:Universidade	B-ORG
+tl:Federal	I-ORG
+tl:da	I-ORG
+tl:Bahia	I-ORG
+
+tl:'	O
+tl:''	O
+tl:Turkmenistan	B-LOC
+tl:''	O
+tl:'	O
+
+tl:Aklat	B-ORG
+tl:ni	I-ORG
+tl:Mikas	I-ORG
+
+tl:Unibersidad	B-ORG
+tl:San	I-ORG
+tl:Pablo	I-ORG
+tl:ng	I-ORG
+tl:Dumaguete	I-ORG
+
+tl:Johan	B-PER
+tl:Strauss	I-PER
+tl:II	I-PER
+
+tl:Bundok	B-LOC
+tl:ng	I-LOC
+tl:Sinai	I-LOC
+
+tl:Kapatid	B-ORG
+tl:sa	I-ORG
+tl:kasal	I-ORG
+
+tl:Distrito	B-LOC
+tl:ng	I-LOC
+tl:Shamkir	I-LOC
+
+tl:Siya	O
+tl:ay	O
+tl:nakatira	O
+tl:sa	O
+tl:Del	B-LOC
+tl:Mar	I-LOC
+tl:,	I-LOC
+tl:California	I-LOC
+tl:.	O
+
+tl:Pamilihang	B-ORG
+tl:Sapi	I-ORG
+tl:ng	I-ORG
+tl:Pilipinas	I-ORG
+
+tl:Estasyong	B-ORG
+tl:Katipunan	I-ORG
+tl:ng	I-ORG
+tl:LRT	I-ORG
+
+tl:Jerry	B-PER
+tl:Codiñera	I-PER
+tl:(	O
+tl:Purefoods	O
+tl:)	O
+
+tl:darating	O
+tl:na	O
+tl:sa	O
+tl:Pilipinas	B-LOC
+tl:ngayong	O
+tl:linggo	O
+tl:.	O
+
+tl:John	B-PER
+tl:Wesley	I-PER
+tl:Powell	I-PER
+
+tl:Kaharian	B-LOC
+tl:ng	I-LOC
+tl:Netherlands	I-LOC
+
+tl:Shantou	B-LOC
+tl:(	O
+tl:)	O
+tl:(	O
+tl:Swatou	O
+tl:)	O
+
+tl:Georgia	B-LOC
+tl:(	I-LOC
+tl:bansa	I-LOC
+tl:)	I-LOC
+
+tl:'	O
+tl:''	O
+tl:Honduras	B-LOC
+tl:''	O
+tl:'	O
+
+tl:T.	B-PER
+tl:J.	I-PER
+tl:Miller	I-PER
+
+tl:John	B-PER
+tl:Millington	I-PER
+tl:Synge	I-PER
+
+tl:**	O
+tl:'	O
+tl:''	O
+tl:Quezon	B-LOC
+tl:''	O
+tl:'	O
+tl:,	O
+tl:Bukidnon	B-LOC
+
+tl:*Apelyido	O
+tl:ni	O
+tl:Jaime	B-PER
+tl:Kardinal	I-PER
+tl:Sin	I-PER
+
+tl:Republika	B-LOC
+tl:ng	I-LOC
+tl:Nagorno-Karabah	I-LOC
+
+tl:Konsilyo	B-ORG
+tl:ng	I-ORG
+tl:Trento	I-ORG
+
+tl:COEX	B-ORG
+tl:Sentro	I-ORG
+tl:ng	I-ORG
+tl:Eksibisyon	I-ORG
+tl:at	I-ORG
+tl:Kumbensiyon	I-ORG
+
+tl:''	O
+tl:Jimmy	B-PER
+tl:Santos	I-PER
+tl:''	O
+
+tl:Peter	B-PER
+tl:Ilyich	I-PER
+tl:Tchaikovsky	I-PER
+
+tl:Kagawaran	B-ORG
+tl:ng	I-ORG
+tl:Interyor	I-ORG
+tl:at	I-ORG
+tl:Pamahalaang	I-ORG
+tl:Lokal	I-ORG
+tl:(	I-ORG
+tl:Pilipinas	I-ORG
+tl:)	I-ORG
+
+tl:Obserbatoryo	B-ORG
+tl:ng	I-ORG
+tl:La	I-ORG
+tl:Silla	I-ORG
+
+tl:Kababaihan	B-PER
+tl:sa	I-PER
+tl:Pilipinas	I-PER
+
+tl:Musa	B-PER
+tl:(	I-PER
+tl:mitolohiya	I-PER
+tl:)	I-PER
+
+tl:*1952	O
+tl:-	O
+tl:''	O
+tl:Hiram	B-ORG
+tl:na	I-ORG
+tl:Mukha	I-ORG
+
+tl:Johann	B-PER
+tl:Wolfgang	I-PER
+tl:von	I-PER
+tl:Goethe	I-PER
+
+tl:'	O
+tl:''	O
+tl:Keanna	B-PER
+tl:Reeves	I-PER
+tl:''	O
+tl:'	O
+
+tl:Lungsod	B-LOC
+tl:ng	I-LOC
+tl:Bruselas	I-LOC
+
+tl:Survivor	B-ORG
+tl:Philippines	I-ORG
+tl:(	O
+tl:Season	O
+tl:1	O
+tl:)	O
+
+tl:Siya	O
+tl:ang	O
+tl:nagpasikat	O
+tl:sa	O
+tl:kantang	O
+tl:Yeah	B-ORG
+tl:(	I-ORG
+tl:awit	I-ORG
+tl:)	I-ORG
+tl:.	O
+
+tl:Pánfilo	B-PER
+tl:de	I-PER
+tl:Narváez	I-PER
+
+tl:''	O
+tl:Eyeshield	B-ORG
+tl:21	I-ORG
+tl:''	O
+
+tl:'	O
+tl:''	O
+tl:Extremadura	B-LOC
+tl:''	O
+tl:'	O
+
+tl:Pangalawang	B-ORG
+tl:Pangulo	I-ORG
+tl:ng	I-ORG
+tl:Pilipinas	I-ORG
+
+tl:Charles	B-PER
+tl:Thomas	I-PER
+tl:Jackson	I-PER
+
+tl:The	B-ORG
+tl:Golden	I-ORG
+tl:Voice	I-ORG
+tl:of	I-ORG
+tl:Nora	I-ORG
+tl:(	O
+tl:1970	O
+tl:)	O
+
+tl:Juliana	B-PER
+tl:ng	I-PER
+tl:Norwich	I-PER
+
+tl:*2011	O
+tl:-	O
+tl:Wansapanataym	B-ORG
+tl:...	O
+tl:.	O
+tl:Lolo	O
+
+tl:Johann	B-PER
+tl:Wilhelm	I-PER
+tl:Ritter	I-PER
+
+tl:Haring	B-PER
+tl:Lunalilo	I-PER
+tl:I	I-PER
+
+tl:Peru	B-LOC
+tl:(	O
+tl:26,152,265	O
+tl:)	O
+
+tl:Indio	B-ORG
+tl:(	I-ORG
+tl:seryeng	I-ORG
+tl:pantelebisyon	I-ORG
+tl:)	I-ORG
+
+tl:Roberto	B-PER
+tl:I	I-PER
+tl:ng	I-PER
+tl:Normandiya	I-PER
+
+tl:Konduktor	B-ORG
+tl:ng	I-ORG
+tl:musika	I-ORG
+
+tl:Paghalik	B-ORG
+tl:sa	I-ORG
+tl:kamay	I-ORG
+
+tl:Papa	B-PER
+tl:Benedicto	I-PER
+tl:XV	I-PER
+
+tl:'	O
+tl:''	O
+tl:Israel	B-LOC
+tl:''	O
+tl:'	O
+
+tl:Asian	B-ORG
+tl:Treasures	I-ORG
+tl:''	O
+tl:(	O
+tl:2007	O
+tl:)	O
+tl:bilang	O
+tl:Gabrielle	O
+
+tl:Sentrong	B-ORG
+tl:Pangkultura	I-ORG
+tl:ng	I-ORG
+tl:Pilipinas	I-ORG
+tl:,	O
+tl:Maynila	B-LOC
+
+tl:Republika	B-LOC
+tl:ng	I-LOC
+tl:Congo	I-LOC
+
+tl:Elizabeth	B-PER
+tl:I	I-PER
+tl:ng	I-PER
+tl:Inglatera	I-PER
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Ain	I-LOC
+
+tl:Bunga	B-LOC
+tl:(	I-LOC
+tl:puno	I-LOC
+tl:)	I-LOC
+
+tl:Fucking	B-LOC
+tl:,	I-LOC
+tl:Awstriya	I-LOC
+
+tl:Maria	B-PER
+tl:Faustina	I-PER
+tl:Kowalska	I-PER
+
+tl:Louis	B-PER
+tl:IX	I-PER
+tl:ng	I-PER
+tl:Pransiya	I-PER
+
+tl:Jose	B-PER
+tl:ng	I-PER
+tl:Leonissa	I-PER
+
+tl:Palawan	B-LOC
+tl:(	I-LOC
+tl:pulo	I-LOC
+tl:)	I-LOC
+
+tl:Lawa	B-LOC
+tl:ng	I-LOC
+tl:Volta	I-LOC
+
+tl:R.	B-PER
+tl:Thomas	I-PER
+tl:Smith	I-PER
+
+tl:Papa	B-PER
+tl:Benedicto	I-PER
+tl:XIII	I-PER
+
+tl:Members	B-ORG
+tl:Church	I-ORG
+tl:of	I-ORG
+tl:God	I-ORG
+tl:International	I-ORG
+
+tl:Singsing	B-LOC
+tl:ng	I-LOC
+tl:Apoy	I-LOC
+tl:ng	I-LOC
+tl:Pasipiko	I-LOC
+
+tl:Benito	B-PER
+tl:ng	I-PER
+tl:Nursia	I-PER
+
+tl:''	O
+tl:Tú	B-ORG
+tl:y	I-ORG
+tl:Yo	I-ORG
+tl:''	O
+tl:–	O
+tl:3:43	O
+
+tl:Sistema	B-ORG
+tl:ng	I-ORG
+tl:Magaan	I-ORG
+tl:na	I-ORG
+tl:Riles	I-ORG
+tl:Panlulan	I-ORG
+tl:ng	I-ORG
+tl:Maynila	I-ORG
+
+tl:Enrique	B-PER
+tl:III	I-PER
+tl:ng	I-PER
+tl:Pransiya	I-PER
+
+tl:Bangko	B-ORG
+tl:Nasyonal	I-ORG
+tl:ng	I-ORG
+tl:Pilipinas	I-ORG
+
+tl:Napoles	B-LOC
+tl:(	I-LOC
+tl:lungsod	I-LOC
+tl:)	I-LOC
+
+tl:Lingguhang	B-ORG
+tl:kabahagi	I-ORG
+tl:ng	I-ORG
+tl:Tora	I-ORG
+
+tl:Mga	B-ORG
+tl:pag-atake	I-ORG
+tl:noong	I-ORG
+tl:Setyembre	I-ORG
+tl:11	I-ORG
+
+tl:Trinidad	B-ORG
+tl:at	I-ORG
+tl:Tobago	I-ORG
+tl:(	O
+tl:32,200	O
+tl:)	O
+
+tl:William	B-PER
+tl:S.	I-PER
+tl:Gray	I-PER
+
+tl:Tanging	O
+tl:ang	O
+tl:Peshitta	B-ORG
+tl:(	O
+tl:ca	O
+tl:.	O
+
+tl:Pulo	B-LOC
+tl:ng	I-LOC
+tl:Anghel	I-LOC
+
+tl:The	B-ORG
+tl:Jackson	I-ORG
+tl:5	I-ORG
+
+tl:Papa	B-PER
+tl:Pío	I-PER
+tl:VI	I-PER
+
+tl:Nuno	B-PER
+tl:Álvares	I-PER
+tl:Pereira	I-PER
+
+tl:Narciso	B-PER
+tl:Clavería	I-PER
+tl:y	I-PER
+tl:Zaldúa	I-PER
+tl:,	I-PER
+tl:Unang	I-PER
+tl:Konde	I-PER
+tl:ng	I-PER
+tl:Maynila	I-PER
+
+tl:'	O
+tl:''	O
+tl:Valenti	B-ORG
+tl:''	O
+tl:'	O
+tl:''	O
+
+tl:Felipe	B-PER
+tl:ang	I-PER
+tl:Alagad	I-PER
+
+tl:Mataas	B-ORG
+tl:na	I-ORG
+tl:Kapulungan	I-ORG
+tl:ng	I-ORG
+tl:Pilipinas	I-ORG
+
+tl:Estasyong	B-ORG
+tl:Santolan	I-ORG
+tl:ng	I-ORG
+tl:MRT	I-ORG
+
+tl:Jose	B-PER
+tl:T.	I-PER
+tl:Joya	I-PER
+
+tl:Unibersidad	B-ORG
+tl:ng	I-ORG
+tl:Pilipinas	I-ORG
+
+tl:Dalubhasaan	B-ORG
+tl:ng	I-ORG
+tl:Santa	I-ORG
+tl:Escolastica	I-ORG
+
+tl:Unibersidad	B-ORG
+tl:San	I-ORG
+tl:Pablo	I-ORG
+tl:ng	I-ORG
+tl:Surigao	I-ORG
+
+tl:Eduardo	B-PER
+tl:V.	I-PER
+tl:Manalo	I-PER
+
+tl:San	B-LOC
+tl:Antonio	I-LOC
+tl:,	I-LOC
+tl:Hilagang	I-LOC
+tl:Samar	I-LOC
+
+tl:Papa	B-PER
+tl:Heraclas	I-PER
+tl:ng	I-PER
+tl:Alehandriya	I-PER
+
+tl:Estasyon	B-ORG
+tl:ng	I-ORG
+tl:Baclaran	I-ORG
+tl:ng	I-ORG
+tl:LRT	I-ORG
+
+tl:Prepektura	B-LOC
+tl:ng	I-LOC
+tl:Nara	I-LOC
+
+tl:'	O
+tl:''	O
+tl:George	B-PER
+tl:H.	I-PER
+tl:W.	I-PER
+tl:Bush	I-PER
+tl:''	O
+tl:'	O
+
+tl:Konduktor	B-ORG
+tl:ng	I-ORG
+tl:musika	I-ORG
+
+tl:Aklat	B-ORG
+tl:ni	I-ORG
+tl:Nahum	I-ORG
+
+tl:Bangko	B-ORG
+tl:ng	I-ORG
+tl:Kapuluang	I-ORG
+tl:Pilipinas	I-ORG
+
+tl:Kashima	B-LOC
+tl:,	I-LOC
+tl:Ibaraki	I-LOC
+
+tl:Christina	B-PER
+tl:,	I-PER
+tl:Reyna	I-PER
+tl:ng	I-PER
+tl:Sweden	I-PER
+
+tl:Juan	B-PER
+tl:Maria	I-PER
+tl:Vianney	I-PER
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Ain	I-LOC
+
+tl:Kapayapaan	B-ORG
+tl:ng	I-ORG
+tl:Westphalia	I-ORG
+
+tl:Rio	B-PER
+tl:Locsin	I-PER
+tl:bilang	O
+tl:Detremia	O
+tl:Sumulong	O
+
+tl:Lalawigan	B-LOC
+tl:ng	I-LOC
+tl:Bingöl	I-LOC
+
+tl:Wilfrido	B-PER
+tl:Maria	I-PER
+tl:Guerrero	I-PER
+
+tl:Eugenio	B-PER
+tl:María	I-PER
+tl:de	I-PER
+tl:Hostos	I-PER
+
+tl:'	O
+tl:''	O
+tl:Andorra	B-LOC
+tl:''	O
+tl:'	O
+
+tl:Sunplaza	B-PER
+tl:Nakano	I-PER
+tl:Kun	I-PER
+
+tl:Apo	B-ORG
+tl:Hiking	I-ORG
+tl:Society	I-ORG
+
+tl:Lungsod	B-LOC
+tl:ng	I-LOC
+tl:Oklahoma	I-LOC
+tl:,	I-LOC
+tl:Oklahoma	I-LOC
+
+tl:James	B-ORG
+tl:``	I-ORG
+tl:Moymoy	I-ORG
+tl:''	I-ORG
+tl:Obeso	I-ORG
+tl:(	O
+tl:2008–kasalukuyan	O
+tl:)	O
+
+tl:Arsoduke	B-PER
+tl:Franz	I-PER
+tl:Ferdinand	I-PER
+tl:ng	I-PER
+tl:Austria	I-PER
+
+tl:Federal	B-ORG
+tl:Reserve	I-ORG
+tl:System	I-ORG
+
+tl:Archery	B-ORG
+tl:sa	I-ORG
+tl:Palaro	I-ORG
+tl:ng	I-ORG
+tl:Timog	I-ORG
+tl:Silangang	I-ORG
+tl:Asya	I-ORG
+tl:2005	I-ORG
+
+tl:Princess	B-ORG
+tl:and	I-ORG
+tl:I	I-ORG
+
+tl:Zentsuji	B-LOC
+tl:,	I-LOC
+tl:Kagawa	I-LOC
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Lalawigan	I-LOC
+tl:ng	I-LOC
+tl:Pavia	I-LOC
+
+tl:Bosnia	B-LOC
+tl:at	I-LOC
+tl:Herzegovina	I-LOC
+
+tl:Mga	B-ORG
+tl:Nagkakaisang	I-ORG
+tl:Bansa	I-ORG
+
+tl:Jose	B-PER
+tl:Laurel	I-PER
+tl:,	I-PER
+tl:Jr	I-PER
+tl:.	I-PER
+
+tl:Awtonomong	B-LOC
+tl:Republika	I-LOC
+tl:ng	I-LOC
+tl:Crimea	I-LOC
+
+tl:Wilhelm	B-PER
+tl:II	I-PER
+tl:,	I-PER
+tl:Emperador	I-PER
+tl:ng	I-PER
+tl:Alemanya	I-PER
+
+tl:Makita	B-ORG
+tl:Ka	I-ORG
+tl:Lang	I-ORG
+tl:Muli	I-ORG
+tl:''	O
+
+tl:(	O
+tl:**	O
+tl:)	O
+tl:Sabay	O
+tl:na	O
+tl:ginagampanan	O
+tl:bilang	O
+tl:Pangulo	B-LOC
+
+tl:Pagpanaw	B-ORG
+tl:at	I-ORG
+tl:parangal	I-ORG
+tl:kay	I-ORG
+tl:Corazon	I-ORG
+tl:Aquino	I-ORG
+
+tl:Tropiko	B-LOC
+tl:ng	I-LOC
+tl:Kanser	I-LOC
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Lalawigan	I-LOC
+tl:ng	I-LOC
+tl:Torino	I-LOC
+
+tl:Ipinanganak	O
+tl:siya	O
+tl:sa	O
+tl:Bangkok	B-LOC
+tl:kung	O
+tl:saan	O
+tl:patuloy	O
+tl:siyang	O
+tl:naninirahan	O
+tl:.	O
+
+tl:Hinlalato	B-ORG
+tl:ng	I-ORG
+tl:paa	I-ORG
+
+tl:Eraserheads	B-ORG
+tl:The	I-ORG
+tl:Reunion	I-ORG
+tl:Concert	I-ORG
+tl:2009	I-ORG
+tl:The	I-ORG
+tl:Final	I-ORG
+tl:Set	I-ORG
+tl:TV	I-ORG
+tl:Special	I-ORG
+tl:''	O
+tl:(	O
+tl:5	O
+tl:Abril	O
+tl:2009	O
+tl:)	O
+
+tl:United	B-LOC
+tl:Arab	I-LOC
+tl:Emirates	I-LOC
+
+tl:Commonwealth	B-ORG
+tl:of	I-ORG
+tl:Independent	I-ORG
+tl:States	I-ORG
+
+tl:Jose	B-PER
+tl:C.	I-PER
+tl:Abriol	I-PER
+
+tl:United	B-LOC
+tl:Arab	I-LOC
+tl:Emirates	I-LOC
+
+tl:Lungsod	B-LOC
+tl:ng	I-LOC
+tl:Fukuoka	I-LOC
+
+tl:Minamiaizu	B-ORG
+tl:,	I-ORG
+tl:Fukushima	I-ORG
+
+tl:Atila	B-PER
+tl:ang	I-PER
+tl:Hun	I-PER
+
+tl:Pangulo	B-LOC
+tl:ng	I-LOC
+tl:Pilipinas	I-LOC
+
+tl:Likas	B-ORG
+tl:na	I-ORG
+tl:tulay	I-ORG
+
+tl:Kagawaran	B-ORG
+tl:ng	I-ORG
+tl:Interyor	I-ORG
+tl:at	I-ORG
+tl:Pamahalaang	I-ORG
+tl:Lokal	I-ORG
+tl:(	I-ORG
+tl:Pilipinas	I-ORG
+tl:)	I-ORG
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Lalawigan	I-LOC
+tl:ng	I-LOC
+tl:Torino	I-LOC
+
+tl:Benigno	B-PER
+tl:Aquino	I-PER
+tl:,	I-PER
+tl:Jr	I-PER
+tl:.	I-PER
+
+tl:Akyuras	O
+tl:(	O
+tl:Battle	B-ORG
+tl:B-Daman	I-ORG
+tl:''	O
+tl:2005	O
+tl:)	O
+
+tl:Harry	B-LOC
+tl:Potter	I-LOC
+tl:and	I-LOC
+tl:the	I-LOC
+tl:Half-Blood	I-LOC
+tl:Prince	I-LOC
+tl:(	I-LOC
+tl:nobela	I-LOC
+tl:)	I-LOC
+
+tl:José	B-PER
+tl:Apolonio	I-PER
+tl:Burgos	I-PER
+
+tl:Joe	B-PER
+tl:``	I-PER
+tl:King	I-PER
+tl:''	I-PER
+tl:Oliver	I-PER
+
+tl:Kolehiyong	B-ORG
+tl:Emilio	I-ORG
+tl:Aguinaldo	I-ORG
+
+tl:Mga	B-ORG
+tl:Museong	I-ORG
+tl:Batikano	I-ORG
+
+tl:Pandaigdigang	B-ORG
+tl:mga	I-ORG
+tl:Gideon	I-ORG
+
+tl:R.	B-PER
+tl:Thomas	I-PER
+tl:Smith	I-PER
+
+tl:Bosnia	B-LOC
+tl:at	I-LOC
+tl:Herzegovina	I-LOC
+
+tl:Awit	B-PER
+tl:ng	I-PER
+tl:mga	I-PER
+tl:Awit	B-PER
+
+tl:Surian	B-ORG
+tl:ng	I-ORG
+tl:Pilipinas	I-ORG
+tl:sa	I-ORG
+tl:Bulkanolohiya	I-ORG
+tl:at	I-ORG
+tl:Sismolohiya	I-ORG
+
+tl:Lungsod	B-LOC
+tl:ng	I-LOC
+tl:Saga	I-LOC
+
+tl:Ina	B-ORG
+tl:ng	I-ORG
+tl:Salambaw	I-ORG
+
+tl:Vietnam	B-ORG
+tl:Rose	I-ORG
+tl:''	O
+tl:(	O
+tl:2005	O
+tl:)	O
+
+tl:George	B-PER
+tl:Byron	I-PER
+tl:,	I-PER
+tl:Ika-6	I-PER
+tl:na	I-PER
+tl:Barong	I-PER
+tl:Byron	I-PER
+
+tl:Tomas	B-PER
+tl:ang	I-PER
+tl:Alagad	I-PER
+
+tl:Gilberto	B-PER
+tl:Teodoro	I-PER
+tl:,	I-PER
+tl:Jr	I-PER
+tl:.	I-PER
+
+tl:Palaro	B-ORG
+tl:ng	I-ORG
+tl:Timog	I-ORG
+tl:Silangang	I-ORG
+tl:Asya	I-ORG
+tl:2005	I-ORG
+
+tl:Netherlands	B-LOC
+tl:Antilles	I-LOC
+tl:(	O
+tl:Neths	O
+tl:.	O
+tl:)	O
+
+tl:Santiago	B-PER
+tl:,	I-PER
+tl:anak	I-PER
+tl:ni	I-PER
+tl:Alfeo	I-PER
+
+tl:Alicia	B-PER
+tl:Mayer	I-PER
+tl:bilang	O
+tl:Bridgette	O
+tl:Fuentebella	O
+
+tl:San	B-LOC
+tl:Isidro	I-LOC
+tl:,	I-LOC
+tl:Hilagang	I-LOC
+tl:Samar	I-LOC
+
+tl:Kabihasnan	B-ORG
+tl:sa	I-ORG
+tl:Lambak	I-ORG
+tl:ng	I-ORG
+tl:Indus	I-ORG
+
+tl:Simbahang	B-ORG
+tl:Ortodoksong	I-ORG
+tl:Griyego	I-ORG
+tl:ng	I-ORG
+tl:Alehandriya	I-ORG
+
+tl:Guru	B-PER
+tl:Nanak	I-PER
+tl:Dev	I-PER
+
+tl:Mga	B-ORG
+tl:pinuno	I-ORG
+tl:ng	I-ORG
+tl:Bhutan	I-ORG
+
+tl:Enrique	B-PER
+tl:II	I-PER
+tl:ng	I-PER
+tl:Inglatera	I-PER
+
+tl:Papa	B-PER
+tl:Juan	I-PER
+tl:XXIII	I-PER
+
+tl:Balon	B-ORG
+tl:ni	I-ORG
+tl:Jacob	I-ORG
+
+tl:Yanaizu	B-LOC
+tl:,	I-LOC
+tl:Fukushima	I-LOC
+
+tl:Vampire	B-ORG
+tl:Ang	I-ORG
+tl:Daddy	I-ORG
+tl:Ko	I-ORG
+tl:''	O
+
+tl:Rio	B-LOC
+tl:de	I-LOC
+tl:la	I-LOC
+tl:Plata	I-LOC
+
+tl:Obando	B-LOC
+tl:,	I-LOC
+tl:Bulacan	I-LOC
+
+tl:Silago	B-LOC
+tl:,	I-LOC
+tl:Katimugang	I-LOC
+tl:Leyte	I-LOC
+
+tl:Lakewood	B-LOC
+tl:,	I-LOC
+tl:Zamboanga	I-LOC
+tl:del	I-LOC
+tl:Sur	I-LOC
+
+tl:''	O
+tl:Che	B-ORG
+tl:Che	B-ORG
+tl:Lazaro	I-ORG
+tl:Presents	I-ORG
+tl:''	O
+tl:(	O
+tl:1999–2003	O
+tl:)	O
+
+tl:'	O
+tl:''	O
+tl:Blas	B-PER
+tl:Ople	I-PER
+tl:''	O
+tl:'	O
+
+tl:Antipapa	B-PER
+tl:Celestino	I-PER
+tl:II	I-PER
+
+tl:Ikalawang	B-ORG
+tl:Konsilyong	I-ORG
+tl:Vaticano	I-ORG
+
+tl:Radio	B-ORG
+tl:Philippines	I-ORG
+tl:Network	I-ORG
+
+tl:Cory	B-PER
+tl:Quirino	I-PER
+tl:(	O
+tl:1991-1992	O
+tl:)	O
+
+tl:Simon	B-PER
+tl:ang	I-PER
+tl:Cananeo	I-PER
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Ain	I-LOC
+
+tl:Baek	B-PER
+tl:Yoon	I-PER
+tl:Shik	I-PER
+
+tl:Ilog	B-LOC
+tl:ng	I-LOC
+tl:Hordan	I-LOC
+
+tl:Santa	B-LOC
+tl:Ana	I-LOC
+tl:,	I-LOC
+tl:California	I-LOC
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Lalawigan	I-LOC
+tl:ng	I-LOC
+tl:Torino	I-LOC
+
+tl:Papa	B-PER
+tl:Celestino	I-PER
+tl:V	I-PER
+
+tl:Guadalupe	B-LOC
+tl:(	I-LOC
+tl:Pransya	I-LOC
+tl:)	I-LOC
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Ain	I-LOC
+
+tl:Mas	B-LOC
+tl:malaking	I-LOC
+tl:kalamnang	I-LOC
+tl:pandibdib	I-LOC
+
+tl:''	O
+tl:Unang	B-ORG
+tl:Konsilyo	I-ORG
+tl:ng	I-ORG
+tl:Efeso	I-ORG
+tl:''	O
+tl:'	O
+tl:,	O
+tl:taong	O
+tl:431	O
+tl:.	O
+
+tl:Samahan	B-ORG
+tl:ng	I-ORG
+tl:mga	I-ORG
+tl:Estadong	I-ORG
+tl:Amerikano	I-ORG
+
+tl:Lungsod	B-LOC
+tl:ng	I-LOC
+tl:Vaticano	I-LOC
+
+tl:CBN	B-ORG
+tl:Asia	I-ORG
+tl:/	O
+tl:GMA	B-ORG
+tl:Network	I-ORG
+
+tl:My	B-ORG
+tl:Chemical	I-ORG
+tl:Romance	I-ORG
+
+tl:Arkidiyosesis	B-LOC
+tl:ng	I-LOC
+tl:Cagayan	I-LOC
+tl:de	I-LOC
+tl:Oro	I-LOC
+
+tl:Unibersidad	B-ORG
+tl:ng	I-ORG
+tl:San	I-ORG
+tl:Carlos	I-ORG
+
+tl:''	O
+tl:Susan	B-PER
+tl:Roces	I-PER
+tl:''	O
+
+tl:Buffalo	B-LOC
+tl:,	I-LOC
+tl:New	I-LOC
+tl:York	I-LOC
+
+tl:Balangkayan	B-LOC
+tl:,	I-LOC
+tl:Silangang	I-LOC
+tl:Samar	I-LOC
+
+tl:Salamangka	B-ORG
+tl:(	I-ORG
+tl:mahiya	I-ORG
+tl:)	I-ORG
+
+tl:''	O
+tl:Dear	B-ORG
+tl:Friend	I-ORG
+tl:''	O
+tl:(	O
+tl:2008–2010	O
+tl:)	O
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Lalawigan	I-LOC
+tl:ng	I-LOC
+tl:Pavia	I-LOC
+
+tl:Mga	B-PER
+tl:manunulat	I-PER
+tl:na	I-PER
+tl:kababaihang	I-PER
+tl:Pilipino	I-PER
+
+tl:Port	B-LOC
+tl:of	I-LOC
+tl:Spain	I-LOC
+
+tl:Mga	B-LOC
+tl:wikang	I-LOC
+tl:Agta	I-LOC
+
+tl:Lawa	B-LOC
+tl:ng	I-LOC
+tl:Basong	I-LOC
+
+tl:Elizabeth	B-PER
+tl:I	I-PER
+tl:ng	I-PER
+tl:Inglatera	I-PER
+
+tl:Smart	B-ORG
+tl:Araneta	I-ORG
+tl:Coliseum	I-ORG
+
+tl:'	O
+tl:''	O
+tl:Libya	B-LOC
+tl:''	O
+tl:'	O
+
+tl:William	B-PER
+tl:Harrison	I-PER
+tl:Ainsworth	I-PER
+
+tl:Panahon	B-ORG
+tl:ng	I-ORG
+tl:Rekonstruksiyon	I-ORG
+tl:sa	I-ORG
+tl:Estados	I-ORG
+tl:Unidos	I-ORG
+
+tl:Kaharian	B-ORG
+tl:ng	I-ORG
+tl:Masedonya	I-ORG
+
+tl:Gian	B-PER
+tl:Galeazzo	I-PER
+tl:Sforza	I-PER
+
+tl:Frederick	B-PER
+tl:Winslow	I-PER
+tl:Taylor	I-PER
+
+tl:Talon	B-LOC
+tl:ng	I-LOC
+tl:Pagsanjan	I-LOC
+
+tl:Mas	B-LOC
+tl:malaking	I-LOC
+tl:kalamnang	I-LOC
+tl:pandibdib	I-LOC
+
+tl:Confucius	B-PER
+tl:(	O
+tl:551-479	O
+tl:BCE	O
+tl:)	O
+
+tl:'	O
+tl:''	O
+tl:Pio	B-PER
+tl:Valenzuela	I-PER
+tl:''	O
+tl:'	O
+
+tl:Canaan	B-LOC
+tl:(	I-LOC
+tl:ng	I-LOC
+tl:Bibliya	I-LOC
+tl:)	I-LOC
+
+tl:Papa	B-PER
+tl:Gelasio	I-PER
+tl:I	I-PER
+
+tl:Teresa	B-PER
+tl:ng	I-PER
+tl:Lisieux	I-PER
+
+tl:Fernando	B-PER
+tl:II	I-PER
+tl:ng	I-PER
+tl:Aragon	I-PER
+
+tl:Ang	O
+tl:'	O
+tl:''	O
+tl:Kuhlen-Wendorf	O
+tl:''	O
+tl:'	O
+tl:ay	O
+tl:isang	O
+tl:munisipalidad	O
+tl:sa	O
+tl:Alemanya	B-LOC
+tl:.	O
+
+tl:Kasaysayan	B-PER
+tl:ng	I-PER
+tl:paggawa	I-PER
+
+tl:Kapatid	B-ORG
+tl:sa	I-ORG
+tl:kasal	I-ORG
+
+tl:Valenti	B-ORG
+tl:(	I-ORG
+tl:awit	I-ORG
+tl:)	I-ORG
+
+tl:'	O
+tl:''	O
+tl:Paulo	B-PER
+tl:Avelino	I-PER
+
+tl:Lungsod	B-LOC
+tl:ng	I-LOC
+tl:Surigao	I-LOC
+
+tl:Hukbong	B-ORG
+tl:Dagat	I-ORG
+tl:ng	I-ORG
+tl:Pilipinas	I-ORG
+
+tl:'	O
+tl:''	O
+tl:Gran	B-LOC
+tl:Britanya	I-LOC
+tl:''	O
+tl:'	O
+
+tl:Siya	O
+tl:ay	O
+tl:inaralan	O
+tl:ni	O
+tl:Aristoteles	B-PER
+tl:hanggang	O
+tl:sa	O
+tl:edad	O
+tl:na	O
+tl:16	O
+tl:.	O
+
+tl:Pandaigdigang	B-LOC
+tl:Guhit	I-LOC
+tl:ng	I-LOC
+tl:Petsa	I-LOC
+
+tl:Syiogama	B-ORG
+tl:,	I-ORG
+tl:Miyagi	I-ORG
+
+tl:Abucay	B-LOC
+tl:,	I-LOC
+tl:Bataan	I-LOC
+
+tl:Quezon	B-LOC
+tl:,	I-LOC
+tl:Quezon	B-LOC
+
+tl:Ang	B-ORG
+tl:Simbahan	I-ORG
+tl:ni	I-ORG
+tl:Jesucristo	I-ORG
+tl:ng	I-ORG
+tl:mga	I-ORG
+tl:Banal	I-ORG
+tl:sa	I-ORG
+tl:mga	I-ORG
+tl:Huling	I-ORG
+tl:Araw	I-ORG
+
+tl:Amadeo	B-ORG
+tl:,	I-ORG
+tl:Kabite	I-ORG
+
+tl:Talatuntunan	B-ORG
+tl:ng	I-ORG
+tl:Kaunlarang	I-ORG
+tl:Pantao	I-ORG
+
+tl:Birhen	B-PER
+tl:ng	I-PER
+tl:Candelaria	I-PER
+tl:(	I-PER
+tl:Kapuluang	I-PER
+tl:Canarias	I-PER
+tl:)	I-PER
+
+tl:Gian	B-PER
+tl:Lorenzo	I-PER
+tl:Bernini	I-PER
+
+tl:Natsuki	B-PER
+tl:Kato	I-PER
+tl:-	O
+tl:nagpapanggap	O
+tl:na	O
+tl:manghuhula	O
+
+tl:Mondino	B-PER
+tl:de	I-PER
+tl:Luzzi	I-PER
+
+tl:Richard	B-PER
+tl:I	I-PER
+tl:ng	I-PER
+tl:Inglatera	I-PER
+
+tl:Charles	B-PER
+tl:Clinton	I-PER
+tl:Spaulding	I-PER
+
+tl:R.	B-PER
+tl:Thomas	I-PER
+tl:Smith	I-PER
+
+tl:Isabela	B-LOC
+tl:(	I-LOC
+tl:lalawigan	I-LOC
+tl:)	I-LOC
+
+tl:(	O
+tl:**	O
+tl:)	O
+tl:Sabay	O
+tl:na	O
+tl:ginagampanan	O
+tl:bilang	O
+tl:Pangulo	B-LOC
+
+tl:Hinlalaki	B-ORG
+tl:ng	I-ORG
+tl:paa	I-ORG
+
+tl:R.	B-PER
+tl:Thomas	I-PER
+tl:Smith	I-PER
+
+tl:Johann	B-PER
+tl:Heinrich	I-PER
+tl:Lambert	I-PER
+
+tl:Mga	B-ORG
+tl:Kuwento	I-ORG
+tl:ni	I-ORG
+tl:Lola	I-ORG
+tl:Basyang	I-ORG
+tl:''	O
+
+tl:Macrohon	B-LOC
+tl:,	I-LOC
+tl:Katimugang	I-LOC
+tl:Leyte	I-LOC
+
+tl:Bambang	B-LOC
+tl:ng	I-LOC
+tl:Inglatera	I-LOC
+
+tl:Partido	B-ORG
+tl:Komunista	I-ORG
+tl:ng	I-ORG
+tl:Nicaragua	I-ORG
+
+tl:Bitoy	B-ORG
+tl:'s	I-ORG
+tl:Funniest	I-ORG
+tl:Videos	I-ORG
+tl:''	O
+
+tl:Papa	B-PER
+tl:Pío	I-PER
+tl:III	I-PER
+
+tl:alt=	O
+tl:·	O
+tl:''	O
+tl:Mga	B-PER
+tl:Wikipedia	I-PER
+tl:sa	I-PER
+tl:mga	I-PER
+tl:wika	I-PER
+tl:sa	I-PER
+tl:Pilipinas	I-PER
+tl:''	O
+tl:'	O
+tl:·	O
+tl:alt=	O
+
+tl:Pamantasang	B-ORG
+tl:Holy	I-ORG
+tl:Trinity	I-ORG
+
+tl:Lalawigan	B-LOC
+tl:ng	I-LOC
+tl:Bartın	I-LOC
+
+tl:Phoenix	B-LOC
+tl:,	I-LOC
+tl:Arisona	I-LOC
+
+tl:Paligsahan	B-ORG
+tl:ng	I-ORG
+tl:mga	I-ORG
+tl:Pelikula	I-ORG
+tl:ng	I-ORG
+tl:Kalakhang	I-ORG
+tl:Maynila	I-ORG
+tl:ng	I-ORG
+tl:2008	I-ORG
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Ain	I-LOC
+
+tl:====	O
+tl:Ordeng	O
+tl:Rhodospirillales	B-LOC
+tl:''	O
+tl:====	O
+
+tl:Adriano	B-PER
+tl:``	I-PER
+tl:Jun	I-PER
+tl:''	I-PER
+tl:Papa	I-PER
+tl:,	I-PER
+tl:Jr	I-PER
+tl:.	I-PER
+
+tl:Pulo	B-LOC
+tl:ng	I-LOC
+tl:Anghel	I-LOC
+
+tl:Louis	B-PER
+tl:XVII	I-PER
+tl:ng	I-PER
+tl:Pransiya	I-PER
+
+tl:Gamay	B-LOC
+tl:,	I-LOC
+tl:Hilagang	I-LOC
+tl:Samar	I-LOC
+
+tl:2013	B-ORG
+tl:Southeast	I-ORG
+tl:Asian	I-ORG
+tl:Games	I-ORG
+
+tl:Enrique	B-PER
+tl:Dupuy	I-PER
+tl:de	I-PER
+tl:Lôme	I-PER
+
+tl:Suriang	B-ORG
+tl:Mapúa	I-ORG
+tl:ng	I-ORG
+tl:Teknolohiya	I-ORG
+
+tl:Unang	B-ORG
+tl:Kabiyak	I-ORG
+tl:ng	I-ORG
+tl:Pilipinas	I-ORG
+
+tl:Sa	O
+tl:kaniang	O
+tl:pag-akyat	O
+tl:sa	O
+tl:pwesto	O
+tl:,	O
+tl:kanyang	O
+tl:tinapos	O
+tl:ang	O
+tl:Krisis	B-ORG
+tl:ng	I-ORG
+tl:Ikatlong	I-ORG
+tl:Siglo	I-ORG
+tl:.	O
+
+tl:Digmaang	B-ORG
+tl:Sibil	I-ORG
+tl:ng	I-ORG
+tl:Libya	I-ORG
+
+tl:**	O
+tl:Banjul	B-LOC
+tl:(	O
+tl:Embahada	O
+tl:)	O
+
+tl:Babangon	B-ORG
+tl:Ako't	I-ORG
+tl:Dudurugin	I-ORG
+tl:Kita	I-ORG
+tl:''	O
+
+tl:Pamumukaw	B-ORG
+tl:ng	I-ORG
+tl:suso	I-ORG
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Ain	I-LOC
+
+tl:''	O
+tl:Richard	B-ORG
+tl:Loves	I-ORG
+tl:Lucy	I-ORG
+tl:''	O
+
+tl:Prepektura	B-LOC
+tl:ng	I-LOC
+tl:Mie	I-LOC
+
+tl:Harakat	B-ORG
+tl:al-Shabaab	I-ORG
+tl:Mujahideen	I-ORG
+
+tl:''	O
+tl:Frontpage	B-ORG
+tl::	I-ORG
+tl:Ulat	I-ORG
+tl:ni	I-ORG
+tl:Mel	I-ORG
+tl:Tiangco	I-ORG
+tl:''	O
+tl:(	O
+tl:1999–2004	O
+tl:)	O
+
+tl:Konduktor	B-ORG
+tl:ng	I-ORG
+tl:musika	I-ORG
+
+tl:Bitak	B-ORG
+tl:sa	I-ORG
+tl:katawan	I-ORG
+tl:ng	I-ORG
+tl:tao	I-ORG
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Lalawigan	I-LOC
+tl:ng	I-LOC
+tl:Pavia	I-LOC
+
+tl:La	B-ORG
+tl:Liga	I-ORG
+tl:Filipina	I-ORG
+
+tl:Ikalawang	B-LOC
+tl:Dinastiya	I-LOC
+tl:ng	I-LOC
+tl:Ehipto	I-LOC
+
+tl:''	O
+tl:Tasya	B-ORG
+tl:Fantasya	I-ORG
+tl:''	O
+
+tl:Gian	B-PER
+tl:Galeazzo	I-PER
+tl:Sforza	I-PER
+
+tl:Estaquis	B-PER
+tl:ang	I-PER
+tl:Apostol	I-PER
+
+tl:''	O
+tl:Palaban	B-ORG
+tl:''	O
+tl:(	O
+tl:2000	O
+tl:)	O
+
+tl:Edward	B-PER
+tl:ang	I-PER
+tl:Tagapagpaamin	I-PER
+
+tl:Pinoy	B-PER
+tl:Pop	I-PER
+tl:Superstar	I-PER
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Ain	I-LOC
+
+tl:Pagtatampok	B-ORG
+tl:sa	I-ORG
+tl:Krus	I-ORG
+tl:na	I-ORG
+tl:Banal	I-ORG
+
+tl:Mga	B-ORG
+tl:Muslim	I-ORG
+tl:na	I-ORG
+tl:Arabo	I-ORG
+
+tl:Anamizu	B-LOC
+tl:,	I-LOC
+tl:Ishikawa	I-LOC
+
+tl:Republika	B-LOC
+tl:ng	I-LOC
+tl:Macedonia	I-LOC
+
+tl:**	O
+tl:''	O
+tl:Short-Time	B-ORG
+tl:of	I-ORG
+tl:My	I-ORG
+tl:Life	I-ORG
+tl:''	O
+tl:(	O
+tl:2011	O
+tl:)	O
+
+tl:Tomas	B-PER
+tl:ng	I-PER
+tl:Aquino	I-PER
+
+tl:Mga	B-LOC
+tl:rehiyon	I-LOC
+tl:ng	I-LOC
+tl:Italya	I-LOC
+
+tl:Herbert	B-PER
+tl:W.	I-PER
+tl:Armstrong	I-PER
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Ain	I-LOC
+
+tl:Papa	B-PER
+tl:Bonifacio	I-PER
+tl:I	I-PER
+
+tl:Pandaigdigang	B-ORG
+tl:Pondong	I-ORG
+tl:Pananalapi	I-ORG
+
+tl:Paligsahan	B-ORG
+tl:ng	I-ORG
+tl:mga	I-ORG
+tl:Pelikula	I-ORG
+tl:ng	I-ORG
+tl:Kalakhang	I-ORG
+tl:Maynila	I-ORG
+tl:ng	I-ORG
+tl:2008	I-ORG
+
+tl:Kinatatampukan	O
+tl:ito	O
+tl:nila	O
+tl:Sarah	B-PER
+tl:Geronimo	I-PER
+tl:at	O
+tl:John	B-PER
+tl:Lloyd	I-PER
+tl:Cruz	I-PER
+tl:.	O
+
+tl:Pamumukaw	B-ORG
+tl:ng	I-ORG
+tl:suso	I-ORG
+
+tl:Pederasyong	B-ORG
+tl:Pandaigdig	I-ORG
+tl:ng	I-ORG
+tl:Ahedres	I-ORG
+
+tl:Pamantasang	B-ORG
+tl:Estatal	I-ORG
+tl:ng	I-ORG
+tl:Mindanao	I-ORG
+
+tl:Fernando	B-PER
+tl:II	I-PER
+tl:ng	I-PER
+tl:Aragon	I-PER
+
+tl:'	O
+tl:''	O
+tl:El	B-LOC
+tl:Salvador	I-LOC
+tl:''	O
+tl:'	O
+
+tl:Mana	B-LOC
+tl:(	I-LOC
+tl:halaman	I-LOC
+tl:)	I-LOC
+
+tl:Lévis	B-LOC
+tl:,	I-LOC
+tl:Québec	I-LOC
+
+tl:**	O
+tl:San	B-LOC
+tl:Francisco	I-LOC
+tl:,	I-LOC
+tl:Cebu	I-LOC
+
+tl:Papa	B-PER
+tl:Martin	I-PER
+tl:I	I-PER
+
+tl:Prepektura	B-LOC
+tl:ng	I-LOC
+tl:Tottori	I-LOC
+
+tl:Enrique	B-PER
+tl:II	I-PER
+tl:ng	I-PER
+tl:Inglatera	I-PER
+
+tl:Karapatang	B-ORG
+tl:sibil	I-ORG
+tl:at	I-ORG
+tl:pampolitika	I-ORG
+
+tl:''	O
+tl:One	B-ORG
+tl:Piece	I-ORG
+tl:''	O
+
+tl:Papa	B-PER
+tl:Pio	I-PER
+tl:IV	I-PER
+
+tl:Magkapatid	B-PER
+tl:na	I-PER
+tl:Montgolfier	I-PER
+
+tl:Lungsod	B-LOC
+tl:ng	I-LOC
+tl:Jefferson	I-LOC
+tl:,	I-LOC
+tl:Misuri	I-LOC
+
+tl:Rico	B-PER
+tl:J.	I-PER
+tl:Puno	I-PER
+
+tl:Higasyikurume	B-LOC
+tl:,	I-LOC
+tl:Tokyo	I-LOC
+
+tl:Distrito	B-LOC
+tl:ng	I-LOC
+tl:Gadabay	I-LOC
+
+tl:Maria	B-PER
+tl:Theresa	I-PER
+tl:ng	I-PER
+tl:Austria	I-PER
+
+tl:Bungkos	B-PER
+tl:ng	I-PER
+tl:mga	I-PER
+tl:bulaklak	I-PER
+
+tl:Harakat	B-ORG
+tl:al-Shabaab	I-ORG
+tl:Mujahideen	I-ORG
+
+tl:***	O
+tl:+1-670	O
+tl:Hilagang	B-LOC
+tl:Kapuluang	I-LOC
+tl:Mariana	I-LOC
+
+tl:Sabak	B-LOC
+tl:ng	I-LOC
+tl:Yarlung	I-LOC
+tl:Zangbo	I-LOC
+
+tl:Barako	B-ORG
+tl:Bull	I-ORG
+tl:Energy	I-ORG
+
+tl:Gertrudes	B-PER
+tl:ng	I-PER
+tl:Altenberg	I-PER
+
+tl:John	B-PER
+tl:Lloyd	I-PER
+tl:Cruz	I-PER
+tl:at	O
+tl:Sarah	B-PER
+tl:Geronimo	I-PER
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Lalawigan	I-LOC
+tl:ng	I-LOC
+tl:Torino	I-LOC
+
+tl:Ōfunato	B-ORG
+tl:,	I-ORG
+tl:Iwate	I-ORG
+
+tl:Maning	B-ORG
+tl:malutong	I-ORG
+tl:at	I-ORG
+tl:marupok	I-ORG
+
+tl:Bangko	B-ORG
+tl:sa	I-ORG
+tl:Pagpapaunlad	I-ORG
+tl:ng	I-ORG
+tl:Asya	I-ORG
+
+tl:Alberto	B-PER
+tl:ng	I-PER
+tl:Sahoniya	I-PER
+tl:,	I-PER
+tl:Coburgo	I-PER
+tl:,	I-PER
+tl:at	I-PER
+tl:Gotha	I-PER
+
+tl:Jewel	B-PER
+tl:in	I-PER
+tl:the	I-PER
+tl:Palace	I-PER
+tl:''	O
+
+tl:Usbong	B-LOC
+tl:ng	I-LOC
+tl:bruselas	I-LOC
+
+tl:Gumaca	B-LOC
+tl:,	I-LOC
+tl:Quezon	I-LOC
+
+tl:Seno	B-PER
+tl:ng	I-PER
+tl:Sityum	I-PER
+
+tl:Diyos	B-LOC
+tl:na	I-LOC
+tl:namamatay	I-LOC
+tl:at	I-LOC
+tl:nabubuhay	I-LOC
+
+tl:Simbahang	B-ORG
+tl:Etiopianong	I-ORG
+tl:Ortodoksong	I-ORG
+tl:Tewahedo	I-ORG
+
+tl:Jerry	B-PER
+tl:Codiñera	I-PER
+tl:(	O
+tl:Purefoods	O
+tl:)	O
+
+tl:''Dumadaan	O
+tl:sa	O
+tl:sa	O
+tl:Linyang	B-ORG
+tl:Takasaki	I-ORG
+tl:''	O
+
+tl:Lungsod	B-LOC
+tl:ng	I-LOC
+tl:Zamboanga	I-LOC
+
+tl:Kasaysayan	B-PER
+tl:ng	I-PER
+tl:paggawa	I-PER
+
+tl:Ang	O
+tl:kanyang	O
+tl:unang	O
+tl:tagumpay	O
+tl:ay	O
+tl:nagsimula	O
+tl:sa	O
+tl:kanyang	O
+tl:pagka-dalaga	O
+tl:,	O
+tl:at	O
+tl:naihambing	O
+tl:siya	O
+tl:kay	O
+tl:Britney	B-PER
+tl:Spears	I-PER
+tl:.	O
+
+tl:Hukbong	B-ORG
+tl:Katihan	I-ORG
+tl:ng	I-ORG
+tl:Pilipinas	I-ORG
+
+tl:Oras	B-LOC
+tl:sa	I-LOC
+tl:Tag-araw	I-LOC
+tl:ng	I-LOC
+tl:Gitnang	I-LOC
+tl:Europa	I-LOC
+
+tl:Isabel	B-PER
+tl:ng	I-PER
+tl:Ungria	I-PER
+
+tl:**	O
+tl:San	B-LOC
+tl:Nicolas	I-LOC
+tl:,	I-LOC
+tl:Pangasinan	I-LOC
+
+tl:Awtonomong	B-LOC
+tl:Rehiyon	I-LOC
+tl:sa	I-LOC
+tl:Muslim	I-LOC
+tl:Mindanao	I-LOC
+
+tl:Canaan	B-LOC
+tl:(	I-LOC
+tl:ng	I-LOC
+tl:Bibliya	I-LOC
+tl:)	I-LOC
+
+tl:Myoko	B-LOC
+tl:,	I-LOC
+tl:Niigata	I-LOC
+
+tl:Nagsasariling	B-LOC
+tl:Sosyalistikong	I-LOC
+tl:Republikang	I-LOC
+tl:Soviet	I-LOC
+tl:ng	I-LOC
+tl:Komi	I-LOC
+
+tl:Papa	B-PER
+tl:Juan	I-PER
+tl:Pablo	I-PER
+tl:II	I-PER
+
+tl:Lungsod	B-LOC
+tl:ng	I-LOC
+tl:Milano	I-LOC
+
+tl:Pinagbibidahan	O
+tl:ito	O
+tl:nina	O
+tl:Piolo	B-PER
+tl:Pascual	I-PER
+tl:,	O
+tl:KC	B-PER
+tl:Concepcion	I-PER
+tl:at	O
+tl:Zanjoe	B-PER
+tl:Marudo	I-PER
+tl:.	O
+
+tl:Martín	B-PER
+tl:de	I-PER
+tl:Urzua	I-PER
+
+tl:Aklat	B-PER
+tl:ng	I-PER
+tl:mga	I-PER
+tl:Panaghoy	I-PER
+
+tl:Gabriel	B-PER
+tl:García	I-PER
+tl:Márquez	I-PER
+
+tl:Sosyalistang	B-LOC
+tl:Pederatibong	I-LOC
+tl:Republikang	I-LOC
+tl:Sobyet	I-LOC
+tl:ng	I-LOC
+tl:Rusya	I-LOC
+
+tl:Mayang	B-LOC
+tl:paking	I-LOC
+tl:(	O
+tl:''Lonchura	O
+tl:punctulata	O
+tl:''	O
+tl:)	O
+
+tl:Republika	B-LOC
+tl:ng	I-LOC
+tl:Gitnang	I-LOC
+tl:Aprika	I-LOC
+
+tl:Alejandro	B-PER
+tl:ang	I-PER
+tl:Dakila	I-PER
+
+tl:Ilang	B-LOC
+tl:ng	I-LOC
+tl:Taklamakan	I-LOC
+
+tl:Lungsod	B-LOC
+tl:ng	I-LOC
+tl:Dabaw	I-LOC
+
+tl:'	O
+tl:''	O
+tl:Canada	B-LOC
+tl:''	O
+tl:'1	O
+
+tl:Mga	B-ORG
+tl:Nagkakaisang	I-ORG
+tl:Bansa	I-ORG
+
+tl:Konduktor	B-ORG
+tl:ng	I-ORG
+tl:musika	I-ORG
+
+tl:Pintuyan	B-LOC
+tl:,	I-LOC
+tl:Katimugang	I-LOC
+tl:Leyte	I-LOC
+
+tl:Kamagaya	B-ORG
+tl:,	I-ORG
+tl:Chiba	I-ORG
+
+tl:Johan	B-PER
+tl:Strauss	I-PER
+tl:II	I-PER
+
+tl:Pulo	B-ORG
+tl:ng	I-ORG
+tl:Norfolk	I-ORG
+
+tl:Enrique	B-PER
+tl:ang	I-PER
+tl:Nabigador	I-PER
+
+tl:''	O
+tl:Captain	B-PER
+tl:Barbell	I-PER
+tl:''	O
+
+tl:Nomi	B-LOC
+tl:,	I-LOC
+tl:Ishikawa	I-LOC
+
+tl:Konduktor	B-ORG
+tl:ng	I-ORG
+tl:musika	I-ORG
+
+tl:Departamento	B-LOC
+tl:ng	I-LOC
+tl:Caquetá	I-LOC
+
+tl:*Isang	O
+tl:persona	O
+tl:ni	O
+tl:Mary	B-PER
+tl:J.	I-PER
+tl:Blige	I-PER
+
+tl:Dario	B-PER
+tl:I	I-PER
+tl:ng	I-PER
+tl:Persiya	I-PER
+
+tl:Calumpit	B-LOC
+tl:,	I-LOC
+tl:Bulacan	I-LOC
+
+tl:Gilberto	B-PER
+tl:Teodoro	I-PER
+tl:,	I-PER
+tl:Jr	I-PER
+tl:.	I-PER
+
+tl:Nakababatang	O
+tl:kapatid	O
+tl:rin	O
+tl:siya	O
+tl:ni	O
+tl:Joshua	B-PER
+tl:Dionisio	I-PER
+tl:.	O
+
+tl:Pamumukaw	B-ORG
+tl:ng	I-ORG
+tl:suso	I-ORG
+
+tl:Wolf	B-ORG
+tl:'s	I-ORG
+tl:Rain	I-ORG
+
+tl:Kapulungang	B-ORG
+tl:Pambansa	I-ORG
+tl:ng	I-ORG
+tl:Pilipinas	I-ORG
+
+tl:Panahon	B-ORG
+tl:ng	I-ORG
+tl:Pagkamulat	I-ORG
+
+tl:Yaisu	B-LOC
+tl:,	I-LOC
+tl:Syisuoka	I-LOC
+
+tl:Aquila	B-PER
+tl:ng	I-PER
+tl:Sinope	I-PER
+
+tl:That	B-PER
+tl:'s	I-PER
+tl:Entertainment	I-PER
+
+tl:**	O
+tl:''	O
+tl:Nuno	B-ORG
+tl:Sa	I-ORG
+tl:Feng	I-ORG
+tl:Shui	I-ORG
+tl:''	O
+tl:(	O
+tl:2011	O
+tl:)	O
+
+tl:Xerxes	B-PER
+tl:I	I-PER
+tl:ng	I-PER
+tl:Persia	I-PER
+
+tl:San	B-LOC
+tl:Jose	I-LOC
+tl:,	I-LOC
+tl:Nueva	I-LOC
+tl:Ecija	I-LOC
+
+tl:''	O
+tl:One	B-ORG
+tl:Piece	I-ORG
+tl:''	O
+
+tl:Batman	B-ORG
+tl::	I-ORG
+tl:The	I-ORG
+tl:Animated	I-ORG
+tl:Series	I-ORG
+
+tl:Pamumukaw	B-ORG
+tl:ng	I-ORG
+tl:suso	I-ORG
+
+tl:John	B-PER
+tl:Ambrose	I-PER
+tl:Fleming	I-PER
+
+tl:Victoria	B-LOC
+tl:,	I-LOC
+tl:Seychelles	I-LOC
+
+tl:Pagtatampok	B-ORG
+tl:sa	I-ORG
+tl:Krus	I-ORG
+tl:na	I-ORG
+tl:Banal	I-ORG
+
+tl:Buffalo	B-LOC
+tl:,	I-LOC
+tl:New	I-LOC
+tl:York	I-LOC
+
+tl:Sana'y	B-ORG
+tl:Wala	I-ORG
+tl:Nang	I-ORG
+tl:Wakas	I-ORG
+tl:''	O
+tl:(	O
+tl:2003	O
+tl:)	O
+
+tl:Jōyō	B-LOC
+tl:,	I-LOC
+tl:Kyoto	I-LOC
+
+tl:Juan	B-PER
+tl:Maria	I-PER
+tl:Vianney	I-PER
+
+tl:Dalubhasaan	B-ORG
+tl:ng	I-ORG
+tl:Santa	I-ORG
+tl:Escolastica	I-ORG
+
+tl:Estasyong	B-ORG
+tl:V.	I-ORG
+tl:Mapa	I-ORG
+tl:ng	I-ORG
+tl:LRT	I-ORG
+
+tl:''	O
+tl:Bubble	B-ORG
+tl:Gang	I-ORG
+tl:''	O
+tl:(	O
+tl:1995–kasalukuyan	O
+tl:)	O
+
+tl:Sa	O
+tl:kanyang	O
+tl:kabataan	O
+tl:ay	O
+tl:lumaki	O
+tl:siya	O
+tl:sa	O
+tl:Gitnang	B-LOC
+tl:Silangan	I-LOC
+tl:sapagkat	O
+tl:ang	O
+tl:kanyang	O
+tl:ama	O
+tl:ay	O
+tl:nagtatrabaho	O
+tl:doon	O
+tl:.	O
+
+tl:Bansalan	B-LOC
+tl:,	I-LOC
+tl:Davao	I-LOC
+tl:del	I-LOC
+tl:Sur	I-LOC
+
+tl:Hirohisa	B-PER
+tl:Fujii	I-PER
+tl:Sept	O
+tl:2009-	O
+tl:Ene	O
+tl:2010	O
+
+tl:Juan	B-PER
+tl:Sebastián	I-PER
+tl:Elcano	I-PER
+
+tl:Leon	B-PER
+tl:I	I-PER
+tl:Magno	I-PER
+
+tl:Prinsipyo	B-ORG
+tl:ni	I-ORG
+tl:Bernoulli	I-ORG
+
+tl:Pedro	B-PER
+tl:III	I-PER
+tl:ng	I-PER
+tl:Rusya	I-PER
+
+tl:Kapuluan	B-LOC
+tl:ng	I-LOC
+tl:Ryukyu	I-LOC
+
+tl:Kapatid	B-ORG
+tl:sa	I-ORG
+tl:kasal	I-ORG
+
+tl:Oscar	B-PER
+tl:S.	I-PER
+tl:Moreno	I-PER
+
+tl:Miguel	B-PER
+tl:López	I-PER
+tl:de	I-PER
+tl:Legazpi	I-PER
+
+tl:Enrique	B-PER
+tl:Dupuy	I-PER
+tl:de	I-PER
+tl:Lôme	I-PER
+
+tl:Java	B-LOC
+tl:(	I-LOC
+tl:pulo	I-LOC
+tl:)	I-LOC
+
+tl:Mga	B-LOC
+tl:wikang	I-LOC
+tl:Agta	I-LOC
+
+tl:''	O
+tl:Batang	B-ORG
+tl:Bibbo	I-ORG
+tl:''	O
+tl:(	O
+tl:2008–2009	O
+tl:)	O
+
+tl:'	O
+tl:''	O
+tl:Armenia	B-LOC
+tl:''	O
+tl:'	O
+
+tl:Pamantasang	B-ORG
+tl:De	I-ORG
+tl:La	I-ORG
+tl:Salle	I-ORG
+tl:Maynila	I-ORG
+
+tl:1970	O
+tl:-	O
+tl:Abraham	B-PER
+tl:Kahlil	I-PER
+tl:Mitra	I-PER
+
+tl:Stronger	B-ORG
+tl:(	I-ORG
+tl:What	I-ORG
+tl:Does	I-ORG
+tl:n't	I-ORG
+tl:Kill	I-ORG
+tl:You	I-ORG
+tl:)	I-ORG
+
+tl:William	B-PER
+tl:na	I-PER
+tl:Mananakop	I-PER
+
+tl:Tagapagsanay	B-PER
+tl:(	I-PER
+tl:palakasan	I-PER
+tl:)	I-PER
+
+tl:Otto	B-PER
+tl:von	I-PER
+tl:Bismarck	I-PER
+
+tl:'	O
+tl:''	O
+tl:Rwanda	B-LOC
+tl:''	O
+tl:'	O
+
+tl:Kisyiwada	B-LOC
+tl:,	I-LOC
+tl:Osaka	I-LOC
+
+tl:Bahura	B-LOC
+tl:ng	I-LOC
+tl:Gran	I-LOC
+tl:Barrera	I-LOC
+
+tl:W.	B-PER
+tl:E.	I-PER
+tl:B.	I-PER
+tl:Du	I-PER
+tl:Bois	I-PER
+
+tl:Basilica	B-ORG
+tl:Minore	I-ORG
+tl:de	I-ORG
+tl:San	I-ORG
+tl:Sebastian	I-ORG
+
+tl:Lalawigan	B-LOC
+tl:ng	I-LOC
+tl:Oran	I-LOC
+
+tl:Mataas	B-ORG
+tl:na	I-ORG
+tl:Paaralang	I-ORG
+tl:Pang-agham	I-ORG
+tl:ng	I-ORG
+tl:Maynila	I-ORG
+
+tl:Santiago	B-PER
+tl:,	I-PER
+tl:anak	I-PER
+tl:ni	I-PER
+tl:Alfeo	I-PER
+
+tl:Partido	B-ORG
+tl:Sosyalista	I-ORG
+tl:ng	I-ORG
+tl:Kanlurang	I-ORG
+tl:Bengal	I-ORG
+
+tl:Estasyon	B-ORG
+tl:ng	I-ORG
+tl:Kita-Hachiōji	I-ORG
+
+tl:Lungsod	B-LOC
+tl:ng	I-LOC
+tl:Ho	I-LOC
+tl:Chi	I-LOC
+tl:Minh	I-LOC
+
+tl:'	O
+tl:''	O
+tl:Aljur	B-PER
+tl:Abrenica	I-PER
+tl:''	O
+tl:'	O
+
+tl:Temptation	B-ORG
+tl:of	I-ORG
+tl:Wife	I-ORG
+tl:''	O
+
+tl:Pangulo	B-ORG
+tl:ng	I-ORG
+tl:Senado	I-ORG
+tl:Franklin	B-PER
+tl:Drilon	I-PER
+tl:(	O
+tl:2004–2007	O
+tl:)	O
+
+tl:Lungsod	B-LOC
+tl:ng	I-LOC
+tl:Bruselas	I-LOC
+
+tl:Mary	B-PER
+tl:McLeod	I-PER
+tl:Bethune	I-PER
+
+tl:Ehipto	B-LOC
+tl:,	O
+tl:Libya	B-LOC
+tl:,	O
+tl:Tunisia	B-LOC
+tl:,	O
+tl:Algeria	B-LOC
+
+tl:Cyrano	B-PER
+tl:de	I-PER
+tl:Bergerac	I-PER
+
+tl:Camillo	B-PER
+tl:Benso	I-PER
+tl:,	I-PER
+tl:Konde	I-PER
+tl:ng	I-PER
+tl:Cavour	I-PER
+
+tl:''	O
+tl:100	B-ORG
+tl:%	I-ORG
+tl:Pinoy	I-ORG
+tl:''	O
+tl:(	O
+tl:2006–2008	O
+tl:)	O
+
+tl:Akademya	B-ORG
+tl:ng	I-ORG
+tl:Wikang	I-ORG
+tl:Hebreo	I-ORG
+
+tl:Pandaigdigang	B-ORG
+tl:mga	I-ORG
+tl:Gideon	I-ORG
+
+tl:Lobo	B-PER
+tl:(	I-PER
+tl:palabas	I-PER
+tl:sa	I-PER
+tl:telebisyon	I-PER
+tl:)	I-PER
+
+tl:**	O
+tl:''	O
+tl:Ang	B-ORG
+tl:Munting	I-ORG
+tl:Mahadera	I-ORG
+tl:''	O
+tl:(	O
+tl:2011	O
+tl:)	O
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Lalawigan	I-LOC
+tl:ng	I-LOC
+tl:Torino	I-LOC
+
+tl:Manuel	B-PER
+tl:L.	I-PER
+tl:Quezon	I-PER
+
+tl:Bagong	B-LOC
+tl:Orleans	I-LOC
+tl:,	I-LOC
+tl:Luwisiyana	I-LOC
+
+tl:''	O
+tl:Boys	B-ORG
+tl:Nxt	I-ORG
+tl:Door	I-ORG
+tl:''	O
+tl:(	O
+tl:2007–2008	O
+tl:)	O
+
+tl:Elizabeth	B-PER
+tl:ng	I-PER
+tl:Rusya	I-PER
+
+tl:Republika	B-LOC
+tl:ng	I-LOC
+tl:Altai	I-LOC
+
+tl:Papa	B-PER
+tl:Leo	I-PER
+tl:X	I-PER
+
+tl:Dasaipu	B-LOC
+tl:,	I-LOC
+tl:Pukuoka	I-LOC
+
+tl:Edward	B-PER
+tl:ang	I-PER
+tl:Tagapagpaamin	I-PER
+
+tl:Kampo	B-ORG
+tl:ng	I-ORG
+tl:O'Donnell	I-ORG
+
+tl:George	B-PER
+tl:Johnstone	I-PER
+tl:Stoney	I-PER
+
+tl:San	B-LOC
+tl:Carlos	I-LOC
+tl:,	I-LOC
+tl:Pangasinan	I-LOC
+
+tl:Tunel	B-ORG
+tl:ng	I-ORG
+tl:Malinta	I-ORG
+
+tl:Krus	B-ORG
+tl:na	I-ORG
+tl:Pula	I-ORG
+tl:ng	I-ORG
+tl:Pilipinas	I-ORG
+
+tl:Kapisanan	B-ORG
+tl:ng	I-ORG
+tl:Pandaigdigang	I-ORG
+tl:Kalakalan	I-ORG
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Ain	I-LOC
+
+tl:Edward	B-PER
+tl:ang	I-PER
+tl:Tagapagpaamin	I-PER
+
+tl:Inabanga	B-LOC
+tl:,	I-LOC
+tl:Bohol	I-LOC
+tl:(	O
+tl:Cogon	O
+tl:)	O
+
+tl:Papa	B-PER
+tl:Sergio	I-PER
+tl:III	I-PER
+
+tl:Pasuquin	B-LOC
+tl:,	I-LOC
+tl:Ilocos	I-LOC
+tl:Norte	I-LOC
+
+tl:Santiago	B-PER
+tl:,	I-PER
+tl:anak	I-PER
+tl:ni	I-PER
+tl:Zebedeo	I-PER
+
+tl:Henry	B-PER
+tl:Ossawa	I-PER
+tl:Tanner	I-PER
+
+tl:Futari	B-ORG
+tl:wa	I-ORG
+tl:Pretty	I-ORG
+tl:Cure	I-ORG
+
+tl:Pamantasang	B-ORG
+tl:Ateneo	I-ORG
+tl:de	I-ORG
+tl:Manila	I-ORG
+
+tl:Video	B-PER
+tl:Home	I-PER
+tl:Service	I-PER
+
+tl:Pedro	B-PER
+tl:III	I-PER
+tl:ng	I-PER
+tl:Rusya	I-PER
+
+tl:'	O
+tl:''	O
+tl:Turkiya	B-LOC
+tl:''	O
+tl:'	O
+
+tl:Mga	B-ORG
+tl:Muslim	I-ORG
+tl:na	I-ORG
+tl:Arabo	I-ORG
+
+tl:''	O
+tl:Adik	B-ORG
+tl:Sa'Yo	I-ORG
+tl:''	O
+tl:(	O
+tl:2009	O
+tl:)	O
+
+tl:Piramide	B-ORG
+tl:ng	I-ORG
+tl:Ehipto	I-ORG
+
+tl:Ōbu	B-LOC
+tl:,	I-LOC
+tl:Aichi	I-LOC
+
+tl:Bagong	B-LOC
+tl:Orleans	I-LOC
+tl:,	I-LOC
+tl:Luwisiyana	I-LOC
+
+tl:Sesame	B-ORG
+tl:Street	I-ORG
+tl:''	O
+tl:(	O
+tl:1992–2003	O
+tl:)	O
+
+tl:Mangatarem	B-LOC
+tl:,	I-LOC
+tl:Pangasinan	I-LOC
+
+tl:Paracelis	B-LOC
+tl:,	I-LOC
+tl:Lalawigang	I-LOC
+tl:Bulubundukin	I-LOC
+
+tl:Estado	B-LOC
+tl:ng	I-LOC
+tl:Simbahan	I-LOC
+
+tl:Look	B-LOC
+tl:ng	I-LOC
+tl:Subic	I-LOC
+
+tl:Commonwealth	B-ORG
+tl:of	I-ORG
+tl:Independent	I-ORG
+tl:States	I-ORG
+
+tl:Papa	B-PER
+tl:Leon	I-PER
+tl:XIII	I-PER
+
+tl:*2002	O
+tl:-	O
+tl:Habang	B-PER
+tl:Kapiling	I-PER
+tl:Ka	I-PER
+
+tl:Estasyong	B-ORG
+tl:Taft	I-ORG
+tl:Avenue	I-ORG
+tl:ng	I-ORG
+tl:MRT	I-ORG
+
+tl:Bruno	B-PER
+tl:ng	I-PER
+tl:Cologne	I-PER
+
+tl:Pambansang	B-ORG
+tl:Korporasyon	I-ORG
+tl:sa	I-ORG
+tl:Elektrisidad	I-ORG
+
+tl:Papa	B-PER
+tl:Juan	I-PER
+tl:XXI	I-PER
+
+tl:Nebula	B-PER
+tl:(	I-PER
+tl:komiks	I-PER
+tl:)	I-PER
+
+tl:Cagwait	B-LOC
+tl:,	I-LOC
+tl:Surigao	I-LOC
+tl:del	I-LOC
+tl:Sur	I-LOC
+
+tl:Papa	B-PER
+tl:Juan	I-PER
+tl:VI	I-PER
+
+tl:Ōshū	B-LOC
+tl:,	I-LOC
+tl:Iwate	I-LOC
+
+tl:Michael	B-PER
+tl:Caine	I-PER
+tl:as	O
+tl:Alfred	B-PER
+tl:Pennyworth	I-PER
+
+tl:Miyakonojō	B-ORG
+tl:,	I-ORG
+tl:Miyazaki	I-ORG
+
+tl:Estado	B-LOC
+tl:ng	I-LOC
+tl:Simbahan	I-LOC
+
+tl:Panrehiyong	B-ORG
+tl:Mataas	I-ORG
+tl:na	I-ORG
+tl:Paaralang	I-ORG
+tl:Pang-agham	I-ORG
+tl:para	I-ORG
+tl:sa	I-ORG
+tl:Rehiyon	I-ORG
+tl:1	I-ORG
+
+tl:Santiago	B-PER
+tl:,	I-PER
+tl:anak	I-PER
+tl:ni	I-PER
+tl:Zebedeo	I-PER
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Lalawigan	I-LOC
+tl:ng	I-LOC
+tl:Torino	I-LOC
+
+tl:Syidyonawate	B-LOC
+tl:,	I-LOC
+tl:Osaka	I-LOC
+
+tl:Papa	B-PER
+tl:Silvestre	I-PER
+tl:II	I-PER
+
+tl:Pamantasang	B-ORG
+tl:Pampamahalaan	I-ORG
+tl:ng	I-ORG
+tl:Bulacan	I-ORG
+
+tl:Madhouse	B-ORG
+tl:(	I-ORG
+tl:kompanya	I-ORG
+tl:)	I-ORG
+
+tl:Adriano	B-PER
+tl:``	I-PER
+tl:Jun	I-PER
+tl:''	I-PER
+tl:Papa	I-PER
+tl:,	I-PER
+tl:Jr	I-PER
+tl:.	I-PER
+
+tl:Pagpapanumbalik	B-ORG
+tl:ng	I-ORG
+tl:Meiji	I-ORG
+
+tl:Meteor	B-ORG
+tl:Rain	I-ORG
+tl:''	O
+tl:-	O
+tl:bilang	O
+tl:Huā	O
+tl:Zé	O
+tl:Lèi	O
+tl:(	O
+tl:花沢類	O
+tl:)	O
+
+tl:Raul	B-PER
+tl:M.	I-PER
+tl:Gonzalez	I-PER
+
+tl:Otto	B-PER
+tl:von	I-PER
+tl:Guericke	I-PER
+
+tl:Lansones	B-LOC
+tl:(	O
+tl:''Duku	O
+tl:''	O
+tl:/	O
+tl:''Langsat	O
+tl:''	O
+tl:)	O
+
+tl:Maximiliano	B-PER
+tl:I	I-PER
+tl:ng	I-PER
+tl:Mehiko	I-PER
+
+tl:Bernard	B-PER
+tl:Binlin	I-PER
+tl:Dadié	I-PER
+
+tl:Práxedes	B-PER
+tl:Mateo	I-PER
+tl:Sagasta	I-PER
+
+tl:Maximiliano	B-PER
+tl:I	I-PER
+tl:ng	I-PER
+tl:Mehiko	I-PER
+
+tl:Jerry	B-PER
+tl:Codiñera	I-PER
+tl:(	O
+tl:Purefoods	O
+tl:)	O
+
+tl:Tiger	B-PER
+tl:(	I-PER
+tl:DC	I-PER
+tl:Comics	I-PER
+tl:)	I-PER
+
+tl:Sano	B-LOC
+tl:,	I-LOC
+tl:Tochigi	I-LOC
+
+tl:Alejandro	B-PER
+tl:ang	I-PER
+tl:Dakila	I-PER
+
+tl:**	O
+tl:''	O
+tl:Kasambahay	B-ORG
+tl:''	O
+tl:(	O
+tl:2011	O
+tl:)	O
+
+tl:Hubert	B-PER
+tl:van	I-PER
+tl:Eyck	I-PER
+
+tl:Tomas	B-PER
+tl:ang	I-PER
+tl:Alagad	I-PER
+
+tl:Chuncheon-si	B-LOC
+tl:–	O
+tl:춘천시	O
+tl:,	O
+tl:春川市	O
+
+tl:Kapatid	B-ORG
+tl:sa	I-ORG
+tl:kasal	I-ORG
+
+tl:Lope	B-PER
+tl:K.	I-PER
+tl:Santos	I-PER
+
+tl:Ptolomeo	B-PER
+tl:II	I-PER
+tl:Philadelphus	I-PER
+
+tl:Edukasyon	B-ORG
+tl:na	I-ORG
+tl:pangtagapagkonsumo	I-ORG
+
+tl:San	B-LOC
+tl:Pablo	I-LOC
+tl:,	I-LOC
+tl:Laguna	I-LOC
+
+tl:Pamumukaw	B-ORG
+tl:ng	I-ORG
+tl:suso	I-ORG
+
+tl:Saint	B-LOC
+tl:Vincent	I-LOC
+tl:and	I-LOC
+tl:the	I-LOC
+tl:Grenadines	I-LOC
+
+tl:Kapulungan	B-ORG
+tl:ng	I-ORG
+tl:mga	I-ORG
+tl:Kinatawan	I-ORG
+tl:(	I-ORG
+tl:Hapon	I-ORG
+tl:)	I-ORG
+
+tl:Pederasyong	B-ORG
+tl:Pandaigdig	I-ORG
+tl:ng	I-ORG
+tl:Ahedres	I-ORG
+
+tl:Distritong	B-LOC
+tl:pambatas	I-LOC
+tl:ng	I-LOC
+tl:Pilipinas	I-LOC
+
+tl:Fernando	B-PER
+tl:Poe	I-PER
+tl:,	I-PER
+tl:Jr	I-PER
+tl:.	I-PER
+
+tl:San	B-LOC
+tl:Jose	I-LOC
+tl:,	I-LOC
+tl:Nueva	I-LOC
+tl:Ecija	I-LOC
+
+tl:**	O
+tl:Dili	B-LOC
+tl:(	O
+tl:Embahada	O
+tl:)	O
+
+tl:Kapuluan	B-LOC
+tl:ng	I-LOC
+tl:Åland	I-LOC
+
+tl:Nagkakaisang	B-ORG
+tl:Metodistang	I-ORG
+tl:Simbahan	I-ORG
+
+tl:Natsu	B-ORG
+tl:no	I-ORG
+tl:Arashi	I-ORG
+tl:!	I-ORG
+tl:''	O
+
+tl:Pambansang	B-ORG
+tl:koponan	I-ORG
+tl:ng	I-ORG
+tl:futbol	I-ORG
+tl:ng	I-ORG
+tl:Pilipinas	I-ORG
+
+tl:'	O
+tl:''	O
+tl:Thailand	B-LOC
+tl:''	O
+tl:'	O
+
+tl:Benigno	B-PER
+tl:Aquino	I-PER
+tl:,	I-PER
+tl:Jr	I-PER
+tl:.	I-PER
+
+tl:Herodes	B-PER
+tl:ang	I-PER
+tl:Dakila	I-PER
+
+tl:Panahon	B-ORG
+tl:ng	I-ORG
+tl:Jazz	I-ORG
+
+tl:Babilonya	B-LOC
+tl:,	O
+tl:pook	O
+tl:sa	O
+tl:Mesopotamya	B-LOC
+
+tl:Lee	B-PER
+tl:de	I-PER
+tl:Forest	I-PER
+
+tl:Rut	B-PER
+tl:''	O
+tl:(	O
+tl:רות	O
+tl:)	O
+
+tl:Papa	B-PER
+tl:Julio	I-PER
+tl:III	I-PER
+
+tl:Listen	B-ORG
+tl:to	I-ORG
+tl:My	I-ORG
+tl:Heart	I-ORG
+tl:(	I-ORG
+tl:awit	I-ORG
+tl:)	I-ORG
+
+tl:Partido	B-ORG
+tl:Komunista	I-ORG
+tl:ng	I-ORG
+tl:Indiya	I-ORG
+tl:(	I-ORG
+tl:Marksista	I-ORG
+tl:)	I-ORG
+
+tl:Quid	B-LOC
+tl:pro	I-LOC
+tl:quo	I-LOC
+
+tl:José	B-PER
+tl:Antonio	I-PER
+tl:Remón	I-PER
+tl:Cantera	I-PER
+
+tl:Hudas	B-PER
+tl:ang	I-PER
+tl:Alagad	I-PER
+
+tl:Kampo	B-ORG
+tl:ng	I-ORG
+tl:konsentrasyon	I-ORG
+tl:sa	I-ORG
+tl:Auschwitz	I-ORG
+
+tl:William	B-PER
+tl:Blackstone	I-PER
+tl:(	O
+tl:1723–1780	O
+tl:)	O
+
+tl:Paseguruhan	B-ORG
+tl:ng	I-ORG
+tl:mga	I-ORG
+tl:Manggagawa	I-ORG
+tl:sa	I-ORG
+tl:Pribadong	I-ORG
+tl:Sektor	I-ORG
+
+tl:'	O
+tl:''	O
+tl:Thailand	B-LOC
+tl:''	O
+tl:'	O
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Ain	I-LOC
+
+tl:Hiero	B-PER
+tl:II	I-PER
+tl:ng	I-PER
+tl:Siracusa	I-PER
+
+tl:The	B-ORG
+tl:Powerpuff	I-ORG
+tl:Girls	I-ORG
+
+tl:Estado	B-LOC
+tl:ng	I-LOC
+tl:Simbahan	I-LOC
+
+tl:Cloak	B-PER
+tl:and	I-PER
+tl:Dagger	I-PER
+tl:(	I-PER
+tl:komiks	I-PER
+tl:)	I-PER
+
+tl:Kapisanan	B-ORG
+tl:ng	I-ORG
+tl:Pandaigdigang	I-ORG
+tl:Kalakalan	I-ORG
+
+tl:Takot	B-ORG
+tl:sa	I-ORG
+tl:Diyos	I-ORG
+
+tl:Pamantasan	B-ORG
+tl:ng	I-ORG
+tl:Santo	I-ORG
+tl:Tomas	I-ORG
+
+tl:''	O
+tl:My	B-ORG
+tl:Daddy	I-ORG
+tl:Dearest	I-ORG
+tl:''	O
+tl:(	O
+tl:2012	O
+tl:)	O
+
+tl:Anna	B-PER
+tl:Dominique	I-PER
+tl:``	I-PER
+tl:Nikki	I-PER
+tl:''	I-PER
+tl:'	I-PER
+tl:''	I-PER
+tl:C	I-PER
+tl:''	I-PER
+tl:'oseteng	I-PER
+
+tl:Pulo	B-LOC
+tl:ng	I-LOC
+tl:Anghel	I-LOC
+
+tl:Jun	B-PER
+tl:Limpot	I-PER
+tl:(	O
+tl:Sta	O
+tl:.	O
+
+tl:Zamboanga	B-LOC
+tl:del	I-LOC
+tl:Sur	I-LOC
+tl:•	O
+tl:Lungsod	B-LOC
+tl:ng	I-LOC
+tl:Zamboanga	I-LOC
+
+tl:Ang	O
+tl:'	O
+tl:''	O
+tl:Göhren	O
+tl:''	O
+tl:'	O
+tl:ay	O
+tl:isang	O
+tl:munisipalidad	O
+tl:sa	O
+tl:Alemanya	B-LOC
+tl:.	O
+
+tl:Mahabang	B-ORG
+tl:Muog	I-ORG
+tl:ng	I-ORG
+tl:Tsina	I-ORG
+
+tl:MICAA	B-ORG
+tl:on	I-ORG
+tl:GMA	I-ORG
+tl:''	O
+tl:(	O
+tl:1974–1977	O
+tl:)	O
+
+tl:Talatuntunan	B-ORG
+tl:ng	I-ORG
+tl:Kaunlarang	I-ORG
+tl:Pantao	I-ORG
+
+tl:*2006	O
+tl:-	O
+tl:Ang	B-ORG
+tl:Panday	I-ORG
+tl:(	I-ORG
+tl:teleserye	I-ORG
+tl:)	I-ORG
+tl:''	O
+
+tl:Cyrano	B-PER
+tl:de	I-PER
+tl:Bergerac	I-PER
+
+tl:Nara	B-LOC
+tl:(	O
+tl:''Kabisera	O
+tl:''	O
+tl:)	O
+
+tl:''	O
+tl:At	B-ORG
+tl:Your	I-ORG
+tl:Service	I-ORG
+tl:''	O
+tl:(	O
+tl:2004–2005	O
+tl:)	O
+
+tl:Hudas	B-PER
+tl:ang	I-PER
+tl:Alagad	I-PER
+
+tl:Pamantasan	B-ORG
+tl:ng	I-ORG
+tl:Lungsod	I-ORG
+tl:ng	I-ORG
+tl:Urdaneta	I-ORG
+
+tl:Pulo	B-LOC
+tl:ng	I-LOC
+tl:Christmas	I-LOC
+
+tl:Fújiàn	B-LOC
+tl:(	O
+tl:福建	O
+tl:)	O
+
+tl:Kapisanan	B-ORG
+tl:ni	I-ORG
+tl:Hesus	I-ORG
+
+tl:Kapalong	B-LOC
+tl:,	I-LOC
+tl:Davao	I-LOC
+tl:del	I-LOC
+tl:Norte	I-LOC
+
+tl:Samahan	B-ORG
+tl:ng	I-ORG
+tl:mga	I-ORG
+tl:Estadong	I-ORG
+tl:Amerikano	I-ORG
+
+tl:Paligsahan	B-ORG
+tl:ng	I-ORG
+tl:mga	I-ORG
+tl:Pelikula	I-ORG
+tl:ng	I-ORG
+tl:Kalakhang	I-ORG
+tl:Maynila	I-ORG
+tl:ng	I-ORG
+tl:2008	I-ORG
+
+tl:Ces	B-PER
+tl:Quesada	I-PER
+tl:bilang	O
+tl:Simang	O
+tl:Kapitolyo	O
+
+tl:Lawa	B-LOC
+tl:ng	I-LOC
+tl:Venado	I-LOC
+
+tl:Ina	B-ORG
+tl:ng	I-ORG
+tl:Salambaw	I-ORG
+
+tl:San	B-LOC
+tl:Vicente	I-LOC
+tl:de	I-LOC
+tl:Chucurí	I-LOC
+
+tl:**	O
+tl:Singapore	B-LOC
+tl:(	O
+tl:Embahada	O
+tl:)	O
+
+tl:Lobo	B-PER
+tl:(	I-PER
+tl:DC	I-PER
+tl:Comics	I-PER
+tl:)	I-PER
+
+tl:Kaharian	B-ORG
+tl:ng	I-ORG
+tl:Masedonya	I-ORG
+
+tl:Isidro	B-PER
+tl:ng	I-PER
+tl:Sevilla	I-PER
+
+tl:Pedro	B-PER
+tl:ang	I-PER
+tl:Dakila	I-PER
+tl:ng	I-PER
+tl:Rusya	I-PER
+
+tl:Edwin	B-PER
+tl:Howard	I-PER
+tl:Armstrong	I-PER
+
+tl:Ulupong	B-LOC
+tl:(	I-LOC
+tl:Viperidae	I-LOC
+tl:)	I-LOC
+
+tl:Pangulong	B-LOC
+tl:Diosdado	B-PER
+tl:Macapagal	I-PER
+tl:(	O
+tl:1964–1965	O
+tl:)	O
+
+tl:Xerxes	B-PER
+tl:I	I-PER
+tl:ng	I-PER
+tl:Persia	I-PER
+
+tl:Ang	O
+tl:pagtalon	O
+tl:para	O
+tl:mamatay	O
+tl:ay	O
+tl:kapwa	O
+tl:karaniwan	O
+tl:sa	O
+tl:Hong	B-LOC
+tl:Kong	I-LOC
+tl:at	O
+tl:Singapore	B-LOC
+tl:sa	O
+tl:50	O
+tl:%	O
+tl:at	O
+tl:80	O
+tl:%	O
+tl:ayon	O
+tl:sa	O
+tl:pagkasunud-sunod	O
+tl:nito	O
+tl:.	O
+
+tl:Partido	B-ORG
+tl:Telugu	I-ORG
+tl:Desam	I-ORG
+
+tl:J.	B-PER
+tl:J.	B-PER
+tl:Thomson	I-PER
+
+tl:Binibining	B-ORG
+tl:Pilipinas	I-ORG
+tl:Beauty	I-ORG
+tl:Pre-Pageant	I-ORG
+tl:Night	I-ORG
+tl:''	O
+tl:(	O
+tl:1992–2010	O
+tl:)	O
+
+tl:Arsoduke	B-PER
+tl:Franz	I-PER
+tl:Ferdinand	I-PER
+tl:ng	I-PER
+tl:Austria	I-PER
+
+tl:Molefi	B-PER
+tl:Kete	I-PER
+tl:Asante	I-PER
+
+tl:That	B-PER
+tl:'s	I-PER
+tl:Entertainment	I-PER
+
+tl:De	B-ORG
+tl:La	I-ORG
+tl:Salle	I-ORG
+tl:Philippines	I-ORG
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Ain	I-LOC
+
+tl:Pagpapahayag	B-ORG
+tl:ng	I-ORG
+tl:kalayaan	I-ORG
+
+tl:Hudas	B-PER
+tl:ang	I-PER
+tl:Alagad	I-PER
+
+tl:Hindi	O
+tl:sila	O
+tl:naniniwala	O
+tl:na	O
+tl:si	O
+tl:Hesus	B-PER
+tl:ang	O
+tl:katuparan	O
+tl:nito	O
+tl:.	O
+
+tl:Ipinanganak	O
+tl:sa	O
+tl:Paco	B-LOC
+tl:,	O
+tl:Maynila	B-LOC
+tl:,	O
+
+tl:Klemens	B-PER
+tl:ng	I-PER
+tl:Metternich	I-PER
+
+tl:Práxedes	B-PER
+tl:Mateo	I-PER
+tl:Sagasta	I-PER
+
+tl:Katedral	B-ORG
+tl:ng	I-ORG
+tl:Maynila	I-ORG
+
+tl:'	O
+tl:''	O
+tl:Joel	B-PER
+tl:Torre	I-PER
+tl:''	O
+tl:'	O
+
+tl:Estado	B-LOC
+tl:ng	I-LOC
+tl:Palestina	I-LOC
+
+tl:'	O
+tl:''	O
+tl:Puerto	B-LOC
+tl:Rico	I-LOC
+tl:''	O
+tl:'	O
+
+tl:Si	O
+tl:Olivia	B-PER
+tl:Harrison	I-PER
+tl:ay	O
+tl:ang	O
+tl:biyudo	O
+tl:ni	O
+tl:George	B-PER
+tl:Harrison	I-PER
+tl:.	O
+
+tl:Santa	B-LOC
+tl:,	I-LOC
+tl:Ilocos	I-LOC
+tl:Sur	I-LOC
+
+tl:Kanlurang	B-ORG
+tl:Imperyong	I-ORG
+tl:Romano	I-ORG
+
+tl:Naisatelebisyon	O
+tl:naman	O
+tl:ang	O
+tl:kanyang	O
+tl:gawa	O
+tl:na	O
+tl:Juanita	B-ORG
+tl:Banana	I-ORG
+tl:''	O
+tl:.	O
+
+tl:Lungsod	B-LOC
+tl:ng	I-LOC
+tl:Vaticano	I-LOC
+
+tl:Joe	B-PER
+tl:``	I-PER
+tl:King	I-PER
+tl:''	I-PER
+tl:Oliver	I-PER
+
+tl:Hieron	B-PER
+tl:I	I-PER
+tl:ng	I-PER
+tl:Siracusa	I-PER
+
+tl:Sylvia	B-PER
+tl:La	I-PER
+tl:Torre	I-PER
+
+tl:Kagawaran	B-ORG
+tl:ng	I-ORG
+tl:Agham	I-ORG
+tl:at	I-ORG
+tl:Teknolohiya	I-ORG
+tl:(	I-ORG
+tl:Pilipinas	I-ORG
+tl:)	I-ORG
+
+tl:Si	O
+tl:'	O
+tl:''	O
+tl:Isidro	O
+tl:Marfori	O
+tl:'	O
+tl:''	O
+tl:ay	O
+tl:isang	O
+tl:sikat	O
+tl:na	O
+tl:nanunulat	O
+tl:sa	O
+tl:Pilipinas	B-LOC
+tl:.	O
+
+tl:Adam	B-PER
+tl:Relson	I-PER
+tl:Jala	I-PER
+
+tl:Timog	B-LOC
+tl:Cotabato	I-LOC
+tl:(	O
+tl:2	O
+tl:)	O
+
+tl:GMA	B-ORG
+tl:News	I-ORG
+tl:TV	I-ORG
+tl:/	O
+tl:GMA	B-ORG
+tl:Network	I-ORG
+
+tl:Up	B-ORG
+tl:All	I-ORG
+tl:Night	I-ORG
+
+tl:Ito	O
+tl:ay	O
+tl:dumadaloy	O
+tl:patungong	O
+tl:Laguna	B-LOC
+tl:de	I-LOC
+tl:Bay	I-LOC
+
+tl:Kolehiyo	B-ORG
+tl:ng	I-ORG
+tl:mga	I-ORG
+tl:Manggagamot	I-ORG
+tl:ng	I-ORG
+tl:Maynila	I-ORG
+
+tl:Himnasyo	B-ORG
+tl:ng	I-ORG
+tl:Prepektura	I-ORG
+tl:ng	I-ORG
+tl:Aichi	I-ORG
+
+tl:1000000000	B-ORG
+tl:(	I-ORG
+tl:bilang	I-ORG
+tl:)	I-ORG
+
+tl:Alvin	B-PER
+tl:Patrimonio	I-PER
+tl:(	O
+tl:Purefoods	O
+tl:)	O
+
+tl:Papa	B-PER
+tl:Leo	I-PER
+tl:XI	I-PER
+
+tl:Apolo	B-PER
+tl:Anton	I-PER
+tl:Ohno	I-PER
+
+tl:Mga	B-PER
+tl:Gobernador-Heneral	I-PER
+tl:ng	I-PER
+tl:Pilipinas	I-PER
+
+tl:San	B-LOC
+tl:Pablo	I-LOC
+tl:,	I-LOC
+tl:Laguna	I-LOC
+
+tl:Victoria	B-PER
+tl:ng	I-PER
+tl:Nagkakaisang	I-PER
+tl:Kaharian	I-PER
+
+tl:Dario	B-PER
+tl:I	I-PER
+tl:ng	I-PER
+tl:Persiya	I-PER
+
+tl:Támesis	B-LOC
+tl:,	I-LOC
+tl:Antioquia	I-LOC
+
+tl:Asa	B-PER
+tl:Philip	I-PER
+tl:Randolph	I-PER
+
+tl:Araling	B-ORG
+tl:Katutubong	I-ORG
+tl:Amerikano	I-ORG
+
+tl:Mondino	B-PER
+tl:de	I-PER
+tl:Luzzi	I-PER
+
+tl:2nd	B-ORG
+tl:to	I-ORG
+tl:None	I-ORG
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Ain	I-LOC
+
+tl:Pangalawang	B-ORG
+tl:Pangulo	I-ORG
+tl:ng	I-ORG
+tl:Pilipinas	I-ORG
+
+tl:Arthur	B-PER
+tl:Conan	I-PER
+tl:Doyle	I-PER
+
+tl:==	O
+tl:Departamento	B-LOC
+tl:ng	I-LOC
+tl:Caquetá	I-LOC
+tl:==	O
+
+tl:Lungsod	B-LOC
+tl:ng	I-LOC
+tl:Québec	I-LOC
+
+tl:'	O
+tl:''	O
+tl:Bhutan	B-LOC
+tl:''	O
+tl:'	O
+
+tl:Pulilan	B-LOC
+tl:,	I-LOC
+tl:Bulacan	I-LOC
+
+tl:Uchū	B-ORG
+tl:Keiji	I-ORG
+tl:Shaider	I-ORG
+
+tl:Akademyang	B-ORG
+tl:Pilipino	I-ORG
+tl:ng	I-ORG
+tl:Wikang	I-ORG
+tl:Kastila	I-ORG
+
+tl:Sapporo	B-LOC
+tl:(	O
+tl:''Kabisera	O
+tl:''	O
+tl:)	O
+
+tl:Tondo	B-LOC
+tl:,	I-LOC
+tl:Maynila	I-LOC
+
+tl:Prepektura	B-LOC
+tl:ng	I-LOC
+tl:Fukuoka	I-LOC
+
+tl:Pier	B-PER
+tl:Luigi	I-PER
+tl:Nervi	I-PER
+
+tl:Republika	B-LOC
+tl:ng	I-LOC
+tl:Komi	I-LOC
+
+tl:Kilusang	B-ORG
+tl:Pandaigdig	I-ORG
+tl:ng	I-ORG
+tl:Krus	I-ORG
+tl:na	I-ORG
+tl:Pula	I-ORG
+tl:at	I-ORG
+tl:Gasuklay	I-ORG
+tl:na	I-ORG
+tl:Pula	I-ORG
+
+tl:Elizabeth	B-PER
+tl:I	I-PER
+tl:ng	I-PER
+tl:Inglatera	I-PER
+
+tl:Teresa	B-PER
+tl:ng	I-PER
+tl:Lisieux	I-PER
+
+tl:Do	B-ORG
+tl:n't	I-ORG
+tl:Cry	I-ORG
+tl:for	I-ORG
+tl:Me	I-ORG
+tl:,	I-ORG
+tl:Argentina	I-ORG
+
+tl:East	B-ORG
+tl:India	I-ORG
+tl:Company	I-ORG
+
+tl:Pamantasan	B-ORG
+tl:ng	I-ORG
+tl:Santo	I-ORG
+tl:Tomas	I-ORG
+
+tl:J.	B-PER
+tl:Robert	I-PER
+tl:Oppenheimer	I-PER
+
+tl:1892	O
+tl:-	O
+tl:J.	B-PER
+tl:R.	I-PER
+tl:R.	I-PER
+tl:Tolkien	I-PER
+
+tl:'	O
+tl:''	O
+tl:Cartagena	B-LOC
+tl:''	O
+tl:'	O
+
+tl:Mahabang	B-ORG
+tl:Muog	I-ORG
+tl:ng	I-ORG
+tl:Tsina	I-ORG
+
+tl:Sosyalistikong	B-LOC
+tl:Republikang	I-LOC
+tl:Soviet	I-LOC
+tl:ng	I-LOC
+tl:Tajik	I-LOC
+
+tl:Yousaf	B-PER
+tl:Raza	I-PER
+tl:Gillani	I-PER
+
+tl:San	B-LOC
+tl:Carlos	I-LOC
+tl:de	I-LOC
+tl:Guaroa	I-LOC
+
+tl:Pederalismo	B-LOC
+tl:sa	I-LOC
+tl:Pilipinas	I-LOC
+
+tl:Kamipukuoka	B-LOC
+tl:,	I-LOC
+tl:Saitama	I-LOC
+
+tl:Katunggali	O
+tl:nito	O
+tl:ang	O
+tl:himpilang	O
+tl:Disney	B-ORG
+tl:Channel	I-ORG
+tl:at	O
+tl:Cartoon	B-ORG
+tl:Network	I-ORG
+tl:.	O
+
+tl:Panahon	B-ORG
+tl:ng	I-ORG
+tl:Jazz	I-ORG
+
+tl:San	B-PER
+tl:Wenceslao	I-PER
+tl:I	I-PER
+tl:,	I-PER
+tl:Duke	I-PER
+tl:ng	I-PER
+tl:Bohemya	I-PER
+
+tl:Ang	O
+tl:'	O
+tl:''	O
+tl:Godern	O
+tl:''	O
+tl:'	O
+tl:ay	O
+tl:isang	O
+tl:munisipalidad	O
+tl:sa	O
+tl:Alemanya	B-LOC
+tl:.	O
+
+tl:Lourdes	B-PER
+tl:Jansuy	I-PER
+tl:Cruz	I-PER
+
+tl:Papa	B-PER
+tl:Dámaso	I-PER
+tl:II	I-PER
+
+tl:The	B-PER
+tl:Six	I-PER
+tl:Million	I-PER
+tl:Dollar	I-PER
+tl:Man	I-PER
+
+tl:Bundok	B-LOC
+tl:ng	I-LOC
+tl:Sinai	I-LOC
+
+tl:Serbiya	B-ORG
+tl:at	I-ORG
+tl:Montenegro	I-ORG
+
+tl:José	B-PER
+tl:dela	I-PER
+tl:Gándara	I-PER
+
+tl:**	O
+tl:The	B-LOC
+tl:Hague	I-LOC
+tl:(	O
+tl:Opisinang	O
+tl:Representante	O
+tl:)	O
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Ain	I-LOC
+
+tl:Yamanashi	B-LOC
+tl:,	O
+tl:Prepektura	B-LOC
+tl:ng	I-LOC
+tl:Yamanashi	I-LOC
+
+tl:Kabundukan	B-LOC
+tl:ng	I-LOC
+tl:Zambales	I-LOC
+
+tl:Tigranes	B-PER
+tl:ang	I-PER
+tl:Dakila	I-PER
+
+tl:Louis	B-PER
+tl:VII	I-PER
+tl:ng	I-PER
+tl:Pransiya	I-PER
+
+tl:Ina	B-ORG
+tl:ng	I-ORG
+tl:Salambaw	I-ORG
+
+tl:Paraguay	B-LOC
+tl:(	O
+tl:4,737,000	O
+tl:)	O
+
+tl:Kasaysayan	B-PER
+tl:ng	I-PER
+tl:paggawa	I-PER
+
+tl:Santa	B-LOC
+tl:Ana	I-LOC
+tl:,	I-LOC
+tl:California	I-LOC
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Ain	I-LOC
+
+tl:'	O
+tl:''	O
+tl:Alberto	B-PER
+tl:Romulo	I-PER
+tl:''	O
+tl:'	O
+
+tl:'	O
+tl:''	O
+tl:Honduras	B-LOC
+tl:''	O
+tl:'	O
+
+tl:Lungsod	B-LOC
+tl:ng	I-LOC
+tl:Valenzuela	I-LOC
+
+tl:Dasol	B-LOC
+tl:,	I-LOC
+tl:Pangasinan	I-LOC
+
+tl:Jean	B-PER
+tl:Charles	I-PER
+tl:Athanase	I-PER
+tl:Peltier	I-PER
+
+tl:Jan	B-PER
+tl:Evangelista	I-PER
+tl:Purkyně	I-PER
+
+tl:*2005	O
+tl:-	O
+tl:Saang	B-ORG
+tl:Sulok	I-ORG
+tl:ng	I-ORG
+tl:Langit	I-ORG
+
+tl:Kabataan	B-ORG
+tl:ni	I-ORG
+tl:Hesus	I-ORG
+
+tl:Louise	B-PER
+tl:delos	I-PER
+tl:Reyes	I-PER
+
+tl:Pagpapahayag	B-ORG
+tl:ng	I-ORG
+tl:kalayaan	I-ORG
+
+tl:Papa	B-PER
+tl:Julio	I-PER
+tl:II	I-PER
+
+tl:Mondino	B-PER
+tl:de	I-PER
+tl:Luzzi	I-PER
+
+tl:**	O
+tl:San	B-LOC
+tl:Miguel	I-LOC
+tl:,	I-LOC
+tl:Zamboanga	I-LOC
+tl:del	I-LOC
+tl:Sur	I-LOC
+
+tl:Bungkos	B-PER
+tl:ng	I-PER
+tl:mga	I-PER
+tl:bulaklak	I-PER
+
+tl:Honorata	B-PER
+tl:de	I-PER
+tl:la	I-PER
+tl:Rama	I-PER
+
+tl:F.	B-PER
+tl:Sionil	I-PER
+tl:José	I-PER
+
+tl:Bungkos	B-PER
+tl:ng	I-PER
+tl:mga	I-PER
+tl:bulaklak	I-PER
+
+tl:Mga	B-LOC
+tl:lungsod	I-LOC
+tl:ng	I-LOC
+tl:Pilipinas	I-LOC
+
+tl:``	O
+tl:The	B-ORG
+tl:Meaning	I-ORG
+tl:of	I-ORG
+tl:Peace	I-ORG
+tl:''	O
+tl:with	O
+tl:Kumi	B-PER
+tl:Koda	I-PER
+
+tl:Lungsod	B-LOC
+tl:ng	I-LOC
+tl:Milano	I-LOC
+
+tl:Kapatid	B-ORG
+tl:sa	I-ORG
+tl:kasal	I-ORG
+
+tl:Juan	B-PER
+tl:Bautista	I-PER
+tl:ng	I-PER
+tl:La	I-PER
+tl:Salle	I-PER
+
+tl:'	O
+tl:''	O
+tl:Fiji	B-LOC
+tl:''	O
+tl:'	O
+
+tl:*1947	O
+tl:-	O
+tl:Ngayon	B-PER
+tl:at	I-PER
+tl:Kailanman	I-PER
+tl:''	O
+
+tl:'	O
+tl:''	O
+tl:Guam	B-LOC
+tl:''	O
+tl:'	O
+
+tl:Dutch	B-LOC
+tl:East	I-LOC
+tl:Indies	I-LOC
+
+tl:Lupain	B-ORG
+tl:ng	I-ORG
+tl:Punt	I-ORG
+
+tl:Nurse	B-ORG
+tl:Witch	I-ORG
+tl:Komugi-chan	I-ORG
+tl:Magikarte	I-ORG
+tl:Z	I-ORG
+
+tl:Fuchū	B-LOC
+tl:,	I-LOC
+tl:Tokyo	I-LOC
+
+tl:Tanod	B-ORG
+tl:Baybayin	I-ORG
+tl:ng	I-ORG
+tl:Pilipinas	I-ORG
+
+tl:Paghalik	B-ORG
+tl:sa	I-ORG
+tl:kamay	I-ORG
+
+tl:Anan	B-LOC
+tl:,	I-LOC
+tl:Tokushima	I-LOC
+
+tl:Direktor	B-PER
+tl:sa	I-PER
+tl:telebisyon	I-PER
+
+tl:Partidong	B-ORG
+tl:Komunista	I-ORG
+tl:ng	I-ORG
+tl:Nepal	I-ORG
+
+tl:Paghahambing	B-LOC
+tl:ng	I-LOC
+tl:mga	I-LOC
+tl:sistemang	I-LOC
+tl:pang-ekonomiya	I-LOC
+
+tl:Home	B-ORG
+tl:Along	I-ORG
+tl:Da	I-ORG
+tl:Riles	I-ORG
+tl:''	O
+
+tl:Daga-dagaan	B-LOC
+tl:(	I-LOC
+tl:sa	I-LOC
+tl:binti	I-LOC
+tl:)	I-LOC
+
+tl:Batman	B-ORG
+tl::	I-ORG
+tl:The	I-ORG
+tl:Animated	I-ORG
+tl:Series	I-ORG
+
+tl:'	O
+tl:''	O
+tl:Singapore	B-LOC
+tl:''	O
+tl:'	O
+
+tl:UP	B-ORG
+tl:Kolehiyo	I-ORG
+tl:ng	I-ORG
+tl:Pangmadlang	I-ORG
+tl:Komunikasyon	I-ORG
+
+tl:Rodrigo	B-PER
+tl:Díaz	I-PER
+tl:de	I-PER
+tl:Vivar	I-PER
+
+tl:Papa	B-PER
+tl:Pio	I-PER
+tl:V	I-PER
+
+tl:Xerxes	B-PER
+tl:I	I-PER
+tl:ng	I-PER
+tl:Persia	I-PER
+
+tl:Nekropolis	B-ORG
+tl:ng	I-ORG
+tl:Giza	I-ORG
+
+tl:'	O
+tl:''	O
+tl:Rain	B-ORG
+tl:or	I-ORG
+tl:Shine	I-ORG
+tl:Elasto	I-ORG
+tl:Painters	I-ORG
+tl:''	O
+tl:'	O
+
+tl:Bangko	B-LOC
+tl:Sentral	I-LOC
+tl:ng	I-LOC
+tl:Pilipinas	I-LOC
+
+tl:I	B-ORG
+tl:Am	I-ORG
+tl:...	I-ORG
+tl:Sasha	I-ORG
+tl:Fierce	I-ORG
+tl:''	O
+tl:(	O
+tl:2008	O
+tl:)	O
+
+tl:Hanyu	B-LOC
+tl:,	I-LOC
+tl:Saitama	I-LOC
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Lalawigan	I-LOC
+tl:ng	I-LOC
+tl:Florence	I-LOC
+
+tl:Konduktor	B-ORG
+tl:ng	I-ORG
+tl:musika	I-ORG
+
+tl:Ekumenikal	B-PER
+tl:na	I-PER
+tl:Patriarka	I-PER
+tl:ng	I-PER
+tl:Constantinople	I-PER
+
+tl:United	B-LOC
+tl:Arab	I-LOC
+tl:Emirates	I-LOC
+
+tl:Pamantasan	B-ORG
+tl:ng	I-ORG
+tl:Gitnang	I-ORG
+tl:Pilipinas	I-ORG
+
+tl:Hari	B-PER
+tl:ng	I-PER
+tl:Roma	I-PER
+
+tl:Malcolm	B-PER
+tl:X	I-PER
+tl:''	O
+tl:(	O
+tl:1992	O
+tl:)	O
+tl:aka	O
+tl:''X	O
+tl:''	O
+
+tl:Republika	B-LOC
+tl:ng	I-LOC
+tl:Tsina	I-LOC
+
+tl:Salamangka	B-ORG
+tl:(	I-ORG
+tl:mahiya	I-ORG
+tl:)	I-ORG
+
+tl:Unang	B-ORG
+tl:Konsilyo	I-ORG
+tl:ng	I-ORG
+tl:Efeso	I-ORG
+tl:,	O
+tl:431	O
+tl:CE	O
+
+tl:*1	O
+tl:Inilabas	O
+tl:lamang	O
+tl:sa	O
+tl:Mehiko	B-LOC
+
+tl:Unibersidad	B-ORG
+tl:ng	I-ORG
+tl:Santa	I-ORG
+tl:La	I-ORG
+tl:Salle	I-ORG
+
+tl:Herbert	B-PER
+tl:W.	I-PER
+tl:Armstrong	I-PER
+
+tl:Lingguhang	B-ORG
+tl:kabahagi	I-ORG
+tl:ng	I-ORG
+tl:Tora	I-ORG
+
+tl:Talaan	B-ORG
+tl:ng	I-ORG
+tl:mga	I-ORG
+tl:likha	I-ORG
+tl:ni	I-ORG
+tl:Ludwig	I-ORG
+tl:van	I-ORG
+tl:Beethoven	I-ORG
+
+tl:Ruby	B-PER
+tl:Rodriguez	I-PER
+tl:(	O
+tl:1989-present	O
+tl:)	O
+
+tl:Tigranes	B-PER
+tl:ang	I-PER
+tl:Dakila	I-PER
+
+tl:Mimasaka	B-LOC
+tl:,	I-LOC
+tl:Okayama	I-LOC
+
+tl:Gyeryong-si	B-LOC
+tl:-	O
+tl:계룡시	O
+tl:,	O
+tl:鷄龍市	O
+
+tl:Distrito	B-LOC
+tl:ng	I-LOC
+tl:Absheron	I-LOC
+
+tl:Papa	B-PER
+tl:Pio	I-PER
+tl:I	I-PER
+
+tl:Silangang	B-LOC
+tl:Imperyong	I-LOC
+tl:Romano	I-LOC
+
+tl:Iwakura	B-LOC
+tl:,	I-LOC
+tl:Aichi	I-LOC
+
+tl:Hero	B-PER
+tl:ng	I-PER
+tl:Alehandriya	I-PER
+
+tl:Dario	B-PER
+tl:I	I-PER
+tl:ng	I-PER
+tl:Persiya	I-PER
+
+tl:Louis	B-PER
+tl:XVI	I-PER
+tl:ng	I-PER
+tl:Pransiya	I-PER
+
+tl:Noveleta	B-ORG
+tl:,	I-ORG
+tl:Kabite	I-ORG
+
+tl:Reyna	B-PER
+tl:ng	I-PER
+tl:Sheba	I-PER
+
+tl:Papa	B-PER
+tl:Benedicto	I-PER
+tl:I	I-PER
+
+tl:Live	B-LOC
+tl:Oak	I-LOC
+tl:(	I-LOC
+tl:Sutter	I-LOC
+tl:,	I-LOC
+tl:California	I-LOC
+tl:)	I-LOC
+
+tl:Kahit	B-ORG
+tl:Nasaan	I-ORG
+tl:Ka	I-ORG
+tl:Man	I-ORG
+tl:''	O
+
+tl:Jöns	B-PER
+tl:Jakob	I-PER
+tl:Berzelius	I-PER
+
+tl:Mga	B-LOC
+tl:comune	I-LOC
+tl:ng	I-LOC
+tl:Lalawigan	I-LOC
+tl:ng	I-LOC
+tl:Torino	I-LOC
+
+tl:Rosas	B-ORG
+tl:na	I-ORG
+tl:matingkad	I-ORG
+
+tl:Pamantasang	B-ORG
+tl:De	I-ORG
+tl:La	I-ORG
+tl:Salle	I-ORG
+tl:Maynila	I-ORG
+
+tl:Sosyalistang	B-LOC
+tl:Pederatibong	I-LOC
+tl:Republikang	I-LOC
+tl:Sobyet	I-LOC
+tl:ng	I-LOC
+tl:Rusya	I-LOC
+
+tl:'	O
+tl:''	O
+tl:Pilipinas	B-LOC
+tl:''	O
+tl:'	O
+
+tl:Quid	B-LOC
+tl:pro	I-LOC
+tl:quo	I-LOC
+
+tl:Gladys	B-PER
+tl:Guevarra	I-PER
+tl:(	O
+tl:1999-2007	O
+tl:)	O
+
+tl:Karl	B-PER
+tl:Adolph	I-PER
+tl:von	I-PER
+tl:Basedow	I-PER
+
+tl:Philip	B-PER
+tl:II	I-PER
+tl:ng	I-PER
+tl:Pransiya	I-PER
+
+tl:Juana	B-PER
+tl:ng	I-PER
+tl:Arko	I-PER
+
+tl:Ignacia	B-PER
+tl:del	I-PER
+tl:Espiritu	I-PER
+tl:Santo	I-PER
+
+tl:Kōka	B-LOC
+tl:,	I-LOC
+tl:Shiga	I-LOC
+
+tl:Lucas	B-PER
+tl:ang	I-PER
+tl:Ebanghelista	I-PER
+
+tl:Puso	B-ORG
+tl:ng	I-ORG
+tl:Pasko	I-ORG
+tl::	I-ORG
+tl:Artista	I-ORG
+tl:Challenge	I-ORG
+tl:''	O
+
+tl:Minamisatsuma	B-ORG
+tl:,	I-ORG
+tl:Kagoshima	I-ORG
+
+tl:''	O
+tl:Marian	B-PER
+tl:Rivera	I-PER
+tl:''	O
+tl:'	O
+
+tl:Colegio	B-ORG
+tl:de	I-ORG
+tl:San	I-ORG
+tl:Pascual	I-ORG
+tl:Baylon	I-ORG
+
+tl:'	O
+tl:''	O
+tl:Chad	B-LOC
+tl:''	O
+tl:'	O
+
+tl:Dinas	B-LOC
+tl:,	I-LOC
+tl:Zamboanga	I-LOC
+tl:del	I-LOC
+tl:Sur	I-LOC
+
+tl:Aquilino	B-PER
+tl:Pimentel	I-PER
+tl:,	I-PER
+tl:Jr	I-PER
+tl:.	I-PER
+
+tl:Bagong	B-ORG
+tl:Alyansang	I-ORG
+tl:Makabayan	I-ORG
+
+tl:Pandaigdigang	B-ORG
+tl:Organisasyon	I-ORG
+tl:sa	I-ORG
+tl:Kalusugan	I-ORG
+
+tl:Bangko	B-ORG
+tl:Nasyonal	I-ORG
+tl:ng	I-ORG
+tl:Pilipinas	I-ORG
+
+tl:Giotto	B-PER
+tl:di	I-PER
+tl:Bondone	I-PER
+
+tl:Marogong	B-LOC
+tl:,	I-LOC
+tl:Lanao	I-LOC
+tl:del	I-LOC
+tl:Sur	I-LOC
+
+tl:Tom	B-PER
+tl:Rodriguez	I-PER
+tl:bilang	O
+tl:Serio	O
+tl:Santibañez	O
+
+tl:Estado	B-LOC
+tl:ng	I-LOC
+tl:Simbahan	I-LOC
+
+tl:Papa	B-PER
+tl:Julio	I-PER
+tl:II	I-PER
+
+tl:Enrique	B-PER
+tl:VIII	I-PER
+tl:ng	I-PER
+tl:Inglatera	I-PER
+
+tl:El	B-LOC
+tl:Dorado	I-LOC
+tl:County	I-LOC
+
+tl:*Zorro	O
+tl:(	O
+tl:GMA	B-ORG
+tl:Network	I-ORG
+tl:)	O
+tl:(	O
+tl:2009	O
+tl:)	O
+
+tl:Demokratikong	B-LOC
+tl:Republika	I-LOC
+tl:ng	I-LOC
+tl:Congo	I-LOC
+
+tl:''	O
+tl:Galaxy	B-ORG
+tl:Express	I-ORG
+tl:999	I-ORG
+tl:''	O
+tl:(	O
+tl:Lyuse	O
+tl:)	O
+
+tl:Alcuino	B-PER
+tl:ng	I-PER
+tl:York	I-PER
+

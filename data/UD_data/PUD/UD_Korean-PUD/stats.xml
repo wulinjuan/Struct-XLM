@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>1000</sentences><tokens>16584</tokens><words>16584</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>1000</sentences><tokens>16584</tokens><words>16584</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="2615" /><!-- ., ,, 것, 그, ", 는, (, ), 지역, 그녀, 의, 이, 고, 자신, 1 -->
+  <forms unique="8258" /><!-- ., ,, 인, 년, 그, 수, ", 는, 이다, (, ), 있다, 것, 이, 있는 -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="13">
+    <tag name="ADJ">629</tag><!-- _, 있다, 그럼, 같다, 같아, 놀랍게, 놀랍기, 놀랍다, 많다, 밤늦게 -->
+    <tag name="ADV">528</tag><!-- _, 없이, 지금, 너무, 당분간, 때로, 불과했어, 불행히, 아직, 이제 -->
+    <tag name="AUX">663</tag><!-- _ -->
+    <tag name="CCONJ">125</tag><!-- _ -->
+    <tag name="DET">464</tag><!-- _, 있는가, 총 -->
+    <tag name="NOUN">8052</tag><!-- _, 것, 지역, 년, 사람들, 때문, 명, 사이, %, 정부 -->
+    <tag name="NUM">513</tag><!-- 1, _, 10, 3, 2, 4, 6, 20, 8, 5 -->
+    <tag name="PART">478</tag><!-- 는, 의, 고, 에, 도, 라고, 가, 와, 에서, 이 -->
+    <tag name="PRON">374</tag><!-- 그, 그녀, 자신, 그것, _, 그들, 이, 나, 우리, 이것 -->
+    <tag name="PROPN">1677</tag><!-- _, 중국, 영국, 미국, 러시아, 마케도니아, 유럽, 프랑스, 그리스, 독일 -->
+    <tag name="PUNCT">1595</tag><!-- ., ,, ", (, ), “, ”, ', -, ? -->
+    <tag name="VERB">1439</tag><!-- _ -->
+    <tag name="X">47</tag><!-- _ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="23">
+    <feat name="Case" value="Acc" upos="ADJ,AUX,DET,NOUN,NUM,PART,PRON,PROPN">1006</feat><!-- 것을, 를, 영향을, 을, 모습을, 일을, 역할을, 이를, %를, 강을 -->
+    <feat name="Case" value="Gen" upos="NOUN,PART,PRON,PROPN">656</feat><!-- 의, 자신의, 그의, 지역의, 명의, 개의, 그녀의, 중국의, 다수의, 그들의 -->
+    <feat name="Case" value="Nom" upos="ADJ,NOUN,NUM,PART,PRON,PROPN">1525</feat><!-- 그는, 는, 가, 그녀는, 나는, 것이, 것은, 은, 이, 그것은 -->
+    <feat name="Form" value="Adn" upos="ADJ,AUX,VERB">1118</feat><!-- 인, 있는, 대한, 같은, 새로운, 큰, 많은, 이러한, 라는, 위한 -->
+    <feat name="Form" value="Aux" upos="ADJ,AUX,NOUN,PART,VERB">210</feat><!-- 하지, 되어, 만들어, 하고, 갖고, 그렇지, 남겨, 남아, 받고, 알려져 -->
+    <feat name="Form" value="Compl" upos="ADJ,AUX,PART,VERB">642</feat><!-- 대해, 위해, 통해, 따르면, 있으며, 이며, 따라, 이고, 되면, 있고 -->
+    <feat name="Mood" value="Imp" upos="AUX,PART,VERB">8</feat><!-- 달라고, 말라고, 떨어뜨려라, 쓰라고, 합시다 -->
+    <feat name="Mood" value="Ind" upos="ADJ,AUX,PART,VERB">703</feat><!-- 이다, 있다, 이었다, 되었다, 한다, 이라, 였다, 있었다, 했다, 않았다 -->
+    <feat name="Number" value="Plur" upos="NOUN,PRON,PROPN">238</feat><!-- 그들은, 사람들이, 그들의, 사람들에게, 그들이, 사람들의, 투자자들이, 사람들은, 원주민들이, 의원들에게 -->
+    <feat name="NumType" value="Card" upos="NUM">513</feat><!-- 1, 10, 3, 2, 4, 6, 20, 8, 5, 9 -->
+    <feat name="Person" value="1" upos="PRON">55</feat><!-- 나는, 내가, 우리는, 우리가, 우리, 우리를, 내, 우리에게, 저는, 나도 -->
+    <feat name="Person" value="2" upos="PRON">4</feat><!-- 너희들, 당신이, 여러분, 여러분의 -->
+    <feat name="Person" value="3" upos="PRON">174</feat><!-- 그는, 그의, 그녀는, 그들은, 그녀가, 그녀의, 그가, 그들의, 그들이, 그녀에게 -->
+    <feat name="Polarity" value="Neg" upos="ADV">7</feat><!-- 안, 못 -->
+    <feat name="Polite" value="Form" upos="ADJ,ADV,AUX,DET,NOUN,NUM,PART,PRON,PROPN,VERB">4884</feat><!-- 그는, 의, 는, 때문에, 에, 자신의, 것으로, 그의, 가, 그녀는 -->
+    <feat name="PronType" value="Int" upos="AUX,DET,PART,VERB">22</feat><!-- 가, 인가, 있는가, 나뉘어졌는가를, 나왔나요, 되었나, 아닌가, 어떠한가, 어떤가, 일까 -->
+    <feat name="Tense" value="Fut" upos="ADJ,AUX,PART,VERB">32</feat><!-- 될, 일어날, 있을, 나갈, 날, 내리겠다고, 내릴, 늦추어질, 다가올, 돌아올 -->
+    <feat name="Tense" value="Past" upos="ADJ,AUX,PART,VERB">641</feat><!-- 이었다, 되었다, 였다, 있었다, 했다, 않았다, 된, 못했다, 받았다, 한 -->
+    <feat name="Typo" value="Yes" upos="ADJ,ADV,DET,NOUN,PROPN,VERB">43</feat><!-- 그, 이, 지난, 한, 북, 북서, 주고, 그만, 남, 년 -->
+    <feat name="VerbForm" value="Fin" upos="ADJ,AUX,DET,PART,VERB">762</feat><!-- 이다, 있다, 이었다, 되었다, 한다, 이라, 였다, 있었다, 했다, 않았다 -->
+    <feat name="VerbForm" value="Ger" upos="ADJ,AUX,PART,VERB">79</feat><!-- 있기, 있었기, 만들기, 이기, 있음을, 그럼에, 그렇기, 높기, 벗어나기, 않기로 -->
+    <feat name="Voice" value="Cau" upos="PART,VERB">44</feat><!-- 남겨, 남긴, 덧붙였다, 보였다, 세웠다, 태우고, 끝냈으며, 날리게, 낮추거나, 낮추는 -->
+    <feat name="Voice" value="Pass" upos="PART,VERB">64</feat><!-- 열린, 보인다, 낮아지게, 놓여, 되었고, 만들어졌다, 보였던, 걸러졌고, 걸린, 꾸며져 -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="34">
+    <dep name="acl:relcl">1188</dep>
+    <dep name="advcl">999</dep>
+    <dep name="advmod">593</dep>
+    <dep name="amod">208</dep>
+    <dep name="appos">90</dep>
+    <dep name="aux">205</dep>
+    <dep name="case">404</dep>
+    <dep name="cc">79</dep>
+    <dep name="ccomp">68</dep>
+    <dep name="compound">2282</dep>
+    <dep name="compound:lvc">77</dep>
+    <dep name="conj">409</dep>
+    <dep name="cop">458</dep>
+    <dep name="csubj">19</dep>
+    <dep name="csubj:pass">1</dep>
+    <dep name="dep">193</dep>
+    <dep name="det">457</dep>
+    <dep name="discourse">1</dep>
+    <dep name="fixed">4</dep>
+    <dep name="flat">61</dep>
+    <dep name="flat:name">270</dep>
+    <dep name="goeswith">44</dep>
+    <dep name="iobj">23</dep>
+    <dep name="nmod:poss">655</dep>
+    <dep name="nsubj">1546</dep>
+    <dep name="nsubj:pass">160</dep>
+    <dep name="nummod">487</dep>
+    <dep name="obj">1030</dep>
+    <dep name="obl">1869</dep>
+    <dep name="obl:tmod">104</dep>
+    <dep name="orphan">4</dep>
+    <dep name="punct">1595</dep>
+    <dep name="root">1000</dep>
+    <dep name="vocative">1</dep>
+  </deps>
+</treebank>

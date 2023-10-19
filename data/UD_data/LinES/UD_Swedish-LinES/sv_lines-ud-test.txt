@@ -1,0 +1,1175 @@
+Om du gör i ordning flera diagram får du se ett släppområde för
+multidiagramfält. Den typen av släppområde visas inte för enskilda diagram.
+Släppområden Flytta fält till kategori- och serieområden När du flyttar ett fält
+till serieområdet visas de unika dataelementen inom fältet som dataserier i
+diagrammet. Dessa serier representeras av färgade datamarkörer och namnen visas
+i diagrammets förklaring. När du flyttar ett fält till kategoriområdet visas de
+unika dataelementen som kategorier eller relaterade datagrupper. Varje kategori
+består av en poäng från varje dataserie. Kategorietiketter visas oftast över
+diagrammets x-axel, vilket dock kan variera beroende på vilken typ av diagram
+som du använder. Flytta fält till dataområdet Från datafälten får du de värden
+som ska summeras i diagrammet. När du flyttar ett fält till dataområdet, används
+värdena från fältet som diagrammets mätvärden. Filterfält liknar sidfält i en
+pivottabell i Microsoft Excel. När du till exempel flyttar fältet Produkter till
+filterområdet, kan du få diagrammet att visa kategori- och serievärden för en
+produkt i taget. Flytta fält till multidiagramområdet Om du till exempel flyttar
+fältet Försäljare till multidiagramområdet, skapas ett diagram baserat på data
+för varje försäljare i fältet. Följande exempel visar fältet Försäljare i
+multidiagramområdet, men det är filtrerat så att enskilda diagram för Berg och
+Danielsson visas. Filtrerat Försäljare-fält i multidiagramområdet Flytta
+kategori- och seriefält till inre eller yttre nivåer När ett diagram innehåller
+flera serier eller kategorifält benämns fälten närmast informationen inre fält.
+Följande exempel visar fältet År som yttre fält och fältet Försäljare som inre
+fält. De inre fältelementen visas som försäljarnamn, och de yttre fältelementen
+visas som årtalen 1997 och 1998. Flera fält i ett diagram 1 Inre fältelement 2
+Yttre fältelement Du kan dölja och visa flera fält om du vill visa
+mer-eller-mindre information i ett visst fält. Du kan exempelvis dölja det yttre
+fältet (År) i exemplet så att de inre fältelementen inte visas. Diagram med
+dolda fält Diagrammets layout måste inte inkludera alla fält som är tillgängliga
+från datakällan. Om mer data är tillgängliga kan du lägga till fält i
+diagrammet. Om diagrammet till exempel summerar försäljningsintäkter, och
+källdatan dessutom inkluderar försäljningsmängd, kan du lägga till fältet
+Kvantitet som ett datafält. Då summeras både intäkterna och mängden produkter
+som sålts. Du kan dessutom ta bort fält som du inte vill se i layouten längre.
+Effekt av filtrering och att ändra layout Filterinställningar bibehålls när du
+flyttar eller tar bort ett fält. Det betyder att när du flyttar en serie eller
+ett kategorifält till filterområdet och tillbaka, döljs tidigare dolda element
+igen. Om du tar bort ett fält och senare lägger till fältet i layouten döljs
+samma element igen. Begränsa användningen av ett diagram När du formger ett
+diagram för andra användare, kan du begränsa deras möjlighet att ändra
+diagrammets layout genom att förhindra att fält läggs till eller flyttas. Om
+datadispositionen Datadispositionen visar datamodellen på en dataåtkomstsida i
+form av en trädstruktur. Den innehåller en lista över datakällorna, fälten och
+de beräknade kontrollerna för en sida. Fältlistan för en sida visar inte det
+specifika innehållet för en sida, och du kan därför använda datadispositionen
+för att granska en sidas struktur. Du kan också markera objekten som visas i
+datadispositionen, ange egenskaper för dem, definiera och redigera relationer
+mellan datakällor och ta bort fält och datakällor. Följande bild visar sidan
+Order med två gruppnivåer. Den inre gruppnivån innehåller fält från tabellen
+Orderdetaljer och en beräknad kontroll som heter Värde. I den yttre gruppnivån
+innehåller sidhuvudavsnittet fält från tabellen Order, och sidfotsavsnittet
+innehåller en beräknad kontroll som heter Ordervärde. Dataåtkomstsida med två
+gruppnivåer Följande bild visar datadispositionen för sidan Order.
+Datadisposition för sidan Order 1 Objektet RecordsetDef, som innehåller en eller
+flera datakällor 2 De underliggande datakällorna 3 Primärnyckelfält 4 Datafält 5
+Mängdfält 6 Beräknat fält Om att aktivera användarnamnet Systemadministratör
+(SA) i ett Access-projekt Obs! Hyperlänken i det här avsnittet leder till
+webben. Du kan när som helst växla tillbaka till hjälpavsnittet. När Microsoft
+SQL Server 2000 Desktop Engine (kallades tidigare Microsoft Database Engine
+eller MSDE) finns installerad på Microsoft Windows NT-datorer, är den
+installerad med Windows NT-verifiering (denna funktion kallas också integrerad
+säkerhet). Textfält Du kan gruppera baserat på det enskilda elementets första n
+tecken. Du kan till exempel gruppera fältet Efternamn efter första bokstaven om
+du vill skapa grupperna A, B osv. Du kan ange start- och slutvärden för
+grupperingsintervallet. Om du till exempel anger starten till 1999.07.01
+samtidigt som du grupperar fältet Leveransdatum veckovis, skapas följande
+grupper: 1999.07.01, 1999.07.01, 1999.07.08,. Datum före 1999.07.01 grupperas i
+en enskild grupp kallad _1999.07.01. Om du vill ange slutdatum till 1999.12.31,
+skapas följande grupper: 1999.12.31 1999.12.31, 1999.12.31 Datum som infaller
+efter 1999.12.31 grupperas i en enskild grupp kallad 1999.12.31. Anpassa
+gruppering i pivottabellvy Du kan markera element slumpmässigt från ett rad-
+eller kolumnfält och gruppera dem i grupper på högre nivå. Du kan till exempel
+markera all marknadsföring under en viss period i radfältet Marknadsföring och
+skapa en grupp. Ett nytt radfält läggs till ovanför radfältet Marknadsföring med
+namnet Marknadsföring 2 och med två medlemmar: Grupp1 och Andra. I dialogrutan
+Egenskaper kan du ändra titlarna från Grupp1 till Åtgärdat och Marknadsföring 2
+till Kategori. Gruppen Andra kommer att innehålla alla element som du inte
+inkluderade i gruppen Åtgärdat. Du kan sedan markera all populär marknadsföring
+från gruppen Andra och skapa en ny anpassad grupp betitlad Populär. När du har
+gjort detta kommer gruppen Kategori att ha tre medlemmar: Åtgärdat, Populär och
+Andra. Följande illustration visar hur pivottabellvyn kommer att se ut efter att
+rubrikerna för de egna gruppfälten och egna grupperna har ändrats. Pivottabellvy
+med egna grupper Ett eget gruppfält. Innehåller element som är egna grupper och
+det visas som överordnat fältet som du grupperat element för. Egna grupper.
+Visas som överordnade elementen som du explicit markerade för att skapa
+grupperna. 3 Gruppen Andra är överordnad de element som du inte tilldelade någon
+viss anpassad grupp. Skapa och ta bort egna grupper och egna gruppfält Element
+som tillhör olika fält eller element som tillhör överordnade element kan du inte
+gruppera i egna grupper. När du skapar den första egna gruppen för ett fält,
+läggs ett eget gruppfält automatiskt till som överordnad fältet. På liknande
+sätt tas det egna gruppfältet automatiskt bort när du tar bort fältets sista
+egna grupp. När du tar bort en anpassad grupp som inte är fältets sista, flyttas
+den borttagna gruppens medlemmar automatiskt till gruppen Andra. Källdata
+påverkas inte av grupperna som du skapar. Flytta ett fält som har ett överordnat
+gruppfält När du flyttar ett fält som har egna grupper mellan rad- och
+kolumnområdena, flyttas de egna gruppfälten som är baserade på fältet med
+fältet. Om du flyttar fältet till filterområdet döljs de egna gruppfälten.
+Eftersom det bundna fältet kommer att visa den egna grupphierarkin i listrutan,
+kan du filtrera data genom att markera egna grupper eller enskilda värden. När
+du flyttar tillbaka fältet till rad- eller kolumnområdet visas de egna
+gruppfälten igen. Du kan inte flytta ett fält med egna grupper till
+detaljområdet. Lägga till och ta bort kapslade egna grupper Du kan markera två
+eller flera egna grupper om du vill skapa grupper på högre nivå. Du kan till
+exempel gruppera medlemmarna i fältet Kategori i två grupper: högprioriterad
+marknadsföring och lågprioriterad marknadsföring. Följande illustration visar
+hur radområdet ser ut med kapslade egna grupper. Pivottabellvy med kapslade egna
+grupper 1 Ett eget gruppfält som visas som överordnat det egna gruppfältet
+Kategori. Du kan också ta bort en anpassad grupp på låg nivå. Följande
+illustration visar hur informationen ser ut när fältet Kategori har tagits bort.
+Använda ett rutnät av grupperade linjer som en tabell Skapa ett rutnät av linjer
+i designläge i ett formulär eller en rapport. Så här kan rutnätet se ut: Ett
+mera komplext rutnät gjort av sju linjer Klicka utanför rutnätet och dra en
+rektangel över det. Klicka på Gruppera på Format-menyn. Flytta en linje i ett
+rutnät av grupperade linjer Klicka på rutnätet av grupperade linjer. Håll ned
+ALT-tangenten och klicka på den linje som du vill flytta. När pekaren ändras
+till en dubbelriktad pil kan du dra linjen till den nya platsen. Regler för hur
+en inre lodrät linje flyttas Om du flyttar linjen åt höger, förblir avståndet
+mellan den flyttade linjen och den närmaste parallella linjen till höger
+konstant, och den vinkelräta linjen till vänster om den flyttade linjen
+förlängs. Om du flyttar linjen åt vänster, förblir avståndet mellan den flyttade
+linjen och den närmaste parallella linjen till höger konstant, och den
+vinkelräta linjen till vänster om den flyttade linjen förkortas. 
+
+Vid det bortesta bordet satt två sjaskigt klädda gubbar, den ene mycket tjock
+och den andre mycket smal, båda djupt försjunkna i startlistorna för
+morgondagens hästkapplöpningar. På bordet mellan dem stod två tomma kaffekoppar.
+Framför tidningshyllan stod en ung student och stirrade på bilden av en naken
+kvinna i den tidning han höll uppslagen. Quinn slog sig ner framme vid disken
+och beställde en hamburgare och en kaffe. Medan mannen innanför disken utförde
+beställningen pratade han med Quinn över axeln. Såg ni matchen ikväll, man? Nej,
+jag missade den. Nåt bra att rapportera? Vad inbillar ni er? I flera år hade
+Quinn fört samma sorts samtal med denne man som han inte ens visste namnet på.
+Vid ett av Quinns besök på restaurangen hade de kommit att börja tala om
+baseball och varje gång han numera dök upp där fortsatte de att dryfta detta
+ämne. Vintertid pratade de om sporten i allmänhet, trender, chanser, minnen.
+Under spelsäsongen handlade det alltid om den senaste matchen. De var båda
+Mets-anhängare och hopplösheten i en sådan passion hade förenat dem. Mannen
+bakom disken ruskade på huvudet. Först två rundor till godo, sa han. Kingman
+slår soloskott, pang, jävligt långt, halvvägs till månen. Jones kastar bra för
+en gångs skull och det hela ser ut att arta sig. Det står två-ett, slutet på
+nionde omgången. Pittsburgh har killar på andra och tredje basen, en ute, så
+Mets tar in Allen från reservbänken. Han släpper igenom nästa kille. Mets tar in
+hörnkillarna för att samla styrkan hemma, eller kanske kan de få en dubbel om
+det blir mittslag. Då kommer Pena och får iväg en ynklig liten markboll till
+första basen och den jäveln slinker mellan benen på Kingman. Två man tar poäng
+och sen är det kört, bye-bye New York. Dave Kingman är en skit, sa Quinn och
+satte tänderna i sin hamburgare. Men Foster är farlig, sa mannen bakom disken.
+Foster är värdelös. En fördetting. Ful i synen och dum, avgjorde Quinn medan han
+noga tuggade sin mat och med tungan försökte upptäcka eventuella benbitar. Man
+borde skicka honom express tillbaka till Cincinatti. Visst, svarade mannen. Men
+de kommer att bli svåra. De är i alla fall mycket bättre än förra året. Jag vet
+inte det, sa Quinn och tog en tugga till. Det ser inte så dumt ut på papperet,
+men vad har de egentligen? Stearns blir alltid skadad. Brooks kan inte
+koncentrera sig på spelet. Mookie är bra men han är oerfaren och de vet inte ens
+vem de ska sätta på högerflygeln. De har ju Rusty, förstås, men han är för fet
+för att kunna springa ordentligt. Och deras tillgång på kastare ska vi bara inte
+tala om! Ni och jag skulle kunna gå fram till Shea i morgon dag och genast bli
+utsedda till deras två bästa kastare. Ni kanske skulle bli tränare, sa mannen.
+Ni kunde säga till de jävlarna hur de skulle fixa det. Det kan ni slå er i
+backen på! sa Quinn. När Quinn ätit färdigt gick han bort till hyllorna med
+pappersvaror. Det hade kommit in ett parti nya anteckningsblock, som låg
+sorterade i en iögonenfallande vacker stapel i blått, grönt, rött och gult. Han
+tog upp ett av dem och såg att det var precis så tätlinjerat som han ville ha
+sina block. Quinn skrev allting för hand och använde bara skrivmaskinen till den
+slutliga utskriften, varför han ständigt var på jakt efter bra spiralblock. Nu
+när han gett sig in i fallet Stillman insåg han att det var på sin plats med ett
+nytt anteckningsblock. Det skulle säkert underlätta mycket att ha ett speciellt
+ställe där han kunde nedteckna sina tankar, sina iakttagelser och sina frågor.
+Det borde kunna vara ett sätt att behålla kontrollen över saker och ting. Han
+granskade stapeln och försökte bestämma sig för vilket block han skulle välja.
+Av skäl som han aldrig lyckades utröna kände han ett plötsligt och
+oemotståndligt habegär till ett speciellt rött anteckningsblock som låg längst
+ner i högen. Han drog ut det, vände och vred på det och bläddrade varsamt igenom
+sidorna med hjälp av tummen. Han kunde omöjligt förklara för sig själv varför
+han kände sig så tilltalad av just det blocket. Det var ett alldeles vanligt
+A4-block på hundra sidor. Ändå kändes det som om det ropade på honom – som vore
+dess enda mål i tillvaron att få inrymma de ord som kom från hans penna. Nästan
+generad över styrkan i sina känslor stoppade Quinn hastigt det röda blocket
+under armen och gick bort till kassan och köpte det. Han kom i god tid till
+Grand Central Station. Stillmans tåg skulle inte komma in förrän 18.41, men
+Quinn ville ha tid att bekanta sig med platsen för att försöka undvika att tappa
+bort Stillman. När han kom upp från tunnelbanan och in i stora vänthallen såg
+han att klockan bara var lite över fyra. Rusningsträngseln hade redan börjat.
+Quinn knuffade sig fram genom den mötande folkströmmen och försökte få en
+överblick över de numrerade perrongerna samtidigt som han höll speciell utkik
+efter dolda trappor, omarkerade utgångar och mörka prång. Han kom till
+slutsatsen att en människa som var inriktad på att försvinna inte skulle ha
+några större svårigheter att göra det. Han fick bara hoppas att Stillman inte
+blivit förvarnad om hans närvaro. Om det skulle visa sig att det var så och
+Stillman skulle lyckas komma undan osedd kunde det bara betyda att det var
+Virginia Stillman som låg bakom. Det fanns ingen annan. Det kändes tröstande att
+veta att han hade en alternativplan om saker och ting skulle gå på tok. Om
+Stillman inte dök upp skulle Quinn åka raka vägen till 69:e gatan och lägga fram
+allt han visste för Virginia Stillman. Medan han gick genom stationsbyggnaden
+påminde han sig själv om vem det var meningen att han skulle föreställa. Han
+hade kommit att tycka att det inte var alldeles obehagligt att vara Paul Auster.
+Även om han fortfarande hade samma kropp, samma sinnelag, samma tankar, så hade
+han ändå en känsla av att ha stigit ur sig själv, som om han inte längre behövde
+gå omkring och släpa på tyngden av sitt eget samvete. Tack vare ett enkelt
+tankeknep, ett behändigt litet namnbyte, kände han sig med ens ojämförligt
+mycket lättare och friare till sinnes. Samtidigt visste han förstås att alltihop
+var en illusion. Men även i detta låg det något positivt. Han hade ju inte
+förlorat sig själv på riktigt, han låtsades bara, och han kunde bli Quinn igen
+precis när han ville. Det faktum att det nu fanns ett syfte med att han var Paul
+Auster – ett syfte som kändes allt viktigare för honom – gjorde på något sätt
+hela charaden moraliskt berättigad och löste honom från behovet att hitta ett
+försvar för sin lögn. Ty i tankarna satte han likhetstecken mellan att se sig
+själv som Auster och att göra något bra här i världen. I väntan på Stillman
+vandrade han sålunda genom stationen som vore han Paul Auster. Han såg upp mot
+det välvda taket till den stora vänthallen och begrundade de ditmålade
+stjärnbilderna. Glödlampor markerade stjärnorna och mellan dem var de olika
+figurerna uppritade. Quinn hade aldrig lyckats fatta sambandet mellan
+stjärnbilderna och deras namn. Som pojke hade han tillbringat många timmar under
+natthimlen och försökt få ihop svärmarna av knappnålsljus till figurer
+föreställande björnar, tjurar, bågskyttar och vattumän. Men det hade aldrig gått
+och han hade känt sig dum, som om han hade en blind fläck i hjärnan. Mitt i
+alltihop kunde Quinn inte låta bli att glädja sig åt detta. De blev sittande så
+en stund utan att säga något. Slutligen ryckte Auster lätt på axlarna som för
+att markera att de knappast skulle komma längre. Jag tänkte just laga lite lunch
+åt mig, sa han och reste sig. Det är lika enkelt att laga åt två. Quinn tvekade.
+Det var som om Auster anat sig till hans innersta längtan: att få något att äta,
+att få en anledning att dröja sig kvar en stund till. Jag borde egentligen ge
+mig av, sa han. Men, ja tack. Litet mat kan ju aldrig skada. Vad sägs om en
+skinkomelett? Det låter gott. Auster gick ut i köket för att göra i ordning
+maten. Quinn skulle gärna ha erbjudit sig att hjälpa till, men han kände
+plötsligt att han inte orkade röra sig ur fläcken. Hans kropp var tung som bly.
+I brist på andra idéer slöt han ögonen. Förr i tiden hade han ibland funnit
+tröst i att låta omvärlden försvinna. Denna gång kunde Quinn dock omöjligt vaska
+fram något av intresse inne i sitt huvud. Det verkade som om saker och ting gått
+i stå där inne. Sedan hörde han med ens en röst ur mörkret, en idiotiskt
+sjungande röst som mässade samma mening om och om igen: Man kan inte göra en
+omelett utan att krossa ägg. Han slog upp ögonen för att få rösten att sluta.
+Framför honom fanns bröd och smör, mer öl, knivar och gafflar, salt och peppar,
+servetter och så omeletter, två stycken som nästan flödade över varsin vit
+tallrik. Quinn åt med ohyfsad frenesi och på bara några ögonblick hade han
+slevat i sig sin portion. Därefter fick han anstränga sig till det yttersta för
+att visa sig lugn. Förundrad kände han att han hade nära till tårarna och han
+tyckte att hans röst skälvde när han pratade, men på något sätt lyckades han
+behärska sig. För att visa att han inte var självupptagen och otacksam började
+han fråga ut Auster om dennes skrivande. Auster var något förtegen om detta, men
+till slut avslöjade han att han höll på med en essäsamling och just nu arbetade
+på en analys av Don Quijote. En av mina älsklingsböcker, sa Quinn. Även en av
+mina. Den är unik i sitt slag. Quinn frågade honom mer ingående om essän. Jag
+antar att man kan kalla den spekulativ, för jag är egentligen inte ute efter att
+bevisa nåt. Faktum är att den bygger på lösa förmodanden. En fantasifull
+tolkning, kan man kanske säga. Vad går den ut på, då? Det rör sig mest kring
+frågan om vem som författat boken och hur den kommit till. Finns det några
+frågetecken där? Nej, det är klart. Men jag menar författaren till den bok som
+finns i den bok Cervantes skrev. Å. Det hela är egentligen ganska enkelt. Som ni
+kanske minns så lägger Cervantes ner stor möda på att försöka övertyga läsaren
+om att det inte är han själv som är författaren. Han hävdar att boken skrevs på
+arabiska av Cid Hamete Benengeli. Cervantes beskriver hur han av en slump
+hittade manuskriptet på en marknad i Toledo och sedan lejde nån att översätta
+det till spanska. Han uppger att han själv bara är nåt slags redaktör för denna
+översättning. Han säger sig inte ens kunna gå i god för översättningens
+kvalitet. Och ändå säger han ju, inföll Quinn, att Cid Hamete Benengelis version
+av berättelsen om Don Quijote är den enda sanna. Alla andra versioner är
+förfalskningar skrivna av bedragare. Han framhåller med stort eftertryck att
+allt som skildras i boken verkligen också har inträffat. Just precis. För boken
+är ju i själva verket en polemik mot den farliga låtsasvärlden. Och för att få
+fram det budskapet kunde han ju knappast använda en fantasiberättelse, eller
+hur? Han var helt enkelt tvungen att hävda att det hänt i verkligheten. Fast jag
+har ju alltid misstänkt att Cervantes själv brukade sluka de där gamla
+riddarromanerna. Man kan inte hata nåt så våldsamt om man inte nånstans också
+älskar det. På sätt och vis var Don Quijote inget annat än en stand-in för honom
+själv. Det håller jag med er om. Nåt bättre porträtt av en författare kan man
+väl aldrig ge än genom att skildra en man som förhäxats av böcker. Nej, just
+det. Men eftersom nu boken antas vara sann så måste ju berättelsen ha skrivits
+av ett ögonvittne till de händelser som skildras. Det underliga är att Cid
+Hamete, den angivne författaren, aldrig träder fram. Inte en enda gång går han
+in och påstår sig vara närvarande vid det som sker. Så den fråga jag ställer mig
+är: vem är Cid Hamete Benengeli? Ja, jag förstår vad ni är ute efter. I min essä
+lägger jag fram en teori om att han i själva verket är en kombination av fyra
+olika personer. Sancho Panza är förstås ögonvittnet. Det finns ingen annan, för
+han är ju den ende som gör Don Quijote sällskap under alla äventyr. Men Sancho
+kan varken läsa eller skriva. Därför kan det inte vara han som är författaren. Å
+andra sidan vet vi att Sancho har en stor språklig begåvning. Trots alla sina
+grodor och felsägningar har han en förmåga att ringa in varenda en av de andra
+personerna i boken. Jag tror att det är fullt möjligt att han dikterade
+berättelsen för nån annan, nämligen för barberaren och prästen, Don Quijotes
+goda vänner. Dessa gav litterär form åt historien – på spanska – och sen lämnade
+de manuskriptet till Samson Carrasco, studenten från Salamanca, som översatte
+det till arabiska. Cervantes hittade översättningen, fick den återförd till
+spanska och gav sen ut boken, Don Quijotes äventyr. Men varför skulle Sancho och
+de andra göra sig så mycket besvär? För att bota Don Quijote från hans
+galenskap. De vill rädda sin vän. Tänk på att de i början bränner upp hans
+riddarromaner, men det hjälper ju inte. Riddaren av den Sorgliga Skepnaden ger
+inte upp sin mani. Sen ger de sig allihop så småningom ut och letar efter honom
+under olika förklädnader – som en nödställd kvinna, som Riddaren av Speglarna,
+som Riddaren av den Vita Månen – allt för att locka Don Quijote hem igen. 
+
+Vet ni vad en fysiker är? Känner ni igen namnet Einstein?" "Aldrig. Vem är han?"
+Detta är för mycket för mig. Under tystnad ägnar jag en smula eftertanke åt
+fallet. Människor med rastlöst intellekt, vilkas allmänbildning har så många
+kontaktytor, har hört talas om Einstein. Men förstår de vad de har hört?
+Majoriteten gör det inte. Dessa chassider föredrar att ingenting veta. Så
+småningom öppnar jag en pocketbok och försöker finna förströelse i vanlig enkel
+politik. Ett dussin chassider i toalettkön stirrar ner på oss. Vi landar och
+myllrar ut och går våra egna vägar. Vid bagagekarusellen får jag syn på min
+ungdomlige chassid igen och vi tar en sista titt på varandra. I mig ser han de
+missbildningar som den moderna tiden kan framkalla hos Abrahams säd. I honom ser
+jag ett stycke historia, en antikvitet. Det är ungefär som om puritaner i
+sextonhundratalsdräkt och med sextonhundratalets seder och bruk fortfarande
+skulle leva i Plymouth och Boston. För Israel, som ger oss ett opartiskt
+mottagande, är egendomliga gäster ingenting ovanligt. Men Israel är förstås en
+sak för sig. I Jerusalem bor vi som gäster på Mishkenot Sha'ananim, Fridens
+boningar. Borgmästare Teddy Kollek, den okuvlige organisatören av underbara
+evenemang (av vilka somliga är något magstarka i min smak), tar oss med på
+middag till en av de armeniska ärkebiskoparna i Gamla staden. På den eleganta
+våningens takterrass står tunnor med väldoftande blommor. Månen är nästan full.
+Under oss ligger kyrkan, som delvis daterar sig till trehundratalet.
+Ärkebiskopen är en man med pondus, för att använda ett gammaldags uttryck. Hans
+mörkröda kaftan sväller över hans kroppshydda. På bröstet har han hakat fast två
+kulspetspennor mellan knapparna. Han har ett fylligt ungdomligt intelligent
+ansikte; det svarta skägget är litet och välvårdat. Ögonen är gröna. Sällskapet
+består av Isaac Stern, den tidigare medlemmen i Budapestkvartetten Alexander
+Schneider, Kolleks son Amos, två israeliska par som jag inte kan namnge samt Le
+Mondes utrikesredaktör Michel Tatu. I ärkebiskopens vardagsrum finns det gyllene
+ikoner. Antika föremål ligger i upplysta montrar. Jag kan sällan mobilisera
+något större intresse för sådana montrar och föremål. Medelålders armenier
+serverar drinkar och passar upp på oss. De bär utomordentligt brokiga skjortor
+med blågröna kvistar och röda bär, men de tycks mig vara hyggliga själar och
+serverar snabbt och prydligt." Konversationen är flytande och ytterst initierad.
+På franska, på engelska, på hebreiska och emellanåt på ryska. (Tatu, som har
+bott i Moskva i flera år, småpratar på ryska med Stern och Schneider.)
+Ärkebiskopen, som själv har tillagat auberginerna och lammsteken, upplyser
+sällskapet om sina recept. Han och Kollek diskuterar kryddning. Schneider
+erinrar sig en framstående musiker och lärare (hans egen lärare) vid namn Dirian
+Alexanian, utgivare av Bachs sviter för cello utan ackompanjemang och den mest
+intolerante perfektionist "Lika petnoga i fråga om musik som andra är i fråga om
+kryddor. Alexanian sa till Pablo Casals efter ett framförande av några av
+sviterna: Ni gjorde tre svåra misstag. Fruktansvärt. Casals svarade inte. Han
+visste att Alexanian hade rätt. Med sitt bleka ansikte och svallande svarta hår
+är Tatu en av de där kortvuxna männen som har lärt sig att hävda sig mot de
+storvuxna. Han sitter med den otvungna hållning som döljer spänningar av det
+slaget. Hans tidning är inte Israelvänlig. Två eller tre gånger överväger jag
+att tala med honom om en insändare som jag skickade till Le Monde under kriget
+1973 om den hållning som Frankrike intog. Jag har lust att fråga honom varför
+den inte trycktes. Men jag lyckas behärska mig en seger över mig själv. För
+övrigt ser Tatu inte ut att vara en människa som har någon lätt tillvaro, och
+jag undrar om jag egentligen bör fördärva hans middag i Jerusalem för honom i
+hans dagbok blir den förmodligen bokförd som "en förtrollad afton i Le Proche
+Orient med en armenisk ärkebiskop". Jag bestämmer mig för att låta honom njuta
+av sin middag. För att söka gemensam mark med min hustru (en berömvärd önskan)
+berättar han för henne att han också är av rumänskt ursprung. Han kan lugnt säga
+detta eftersom hans familj kom till Frankrike på sextonhundratalet. Det
+viktigaste av allt är att vara fransman, eller att ha varit fransman länge och
+väl. Och fransman är han förvisso. Men jag märker att ärkebiskopen tittar snett
+på honom när han börjar röka efter huvudrätten. Verkligt kultiverade människor
+röker inte vid middagsbordet. Man vet aldrig vem man råkar bjuda in till sitt
+palats. Dostojevskij, som inte var någon dålig domare i sådana ting, tyckte att
+det fanns mycket som talade för mördarens åsikt. Navrozov för denna inställning
+vidare. Den liberala demokratin är flyktig som en bubbla. Då och då skänker oss
+historien en mellanperiod av frihet och civilisation, och den gör vi mycket
+väsen av. Vi glömmer, anser han tydligen, att vi som art allmänt sett står nära
+"naturtillståndet", för att tala med Thomas Hobbes ett otäckt, brutalt,
+skoningslöst tillstånd i vilket människan fruktar döden alltför mycket för att
+ägna många tankar åt friheten. Om det verkar snobbigt att hänvisa till Hobbes,
+så kan vi i stället tänka på Jimmy Hoffas åsikter om samhället. Eller
+Gudfaderns. Eller Lenins, sådana de med stor precision tecknas av Navrozov. Och
+det är detta Amerika står inför med alla sina bubblande politiska illusioner.
+Det anser åtminstone Navrozov. Alexander Solsjenitsyn håller kanske delvis med
+honom. Alla ryssar tycks vara benägna för att uppfatta oss på det sättet. Min
+egen kusin Nota Gordon, som kom från Sovjetunionen för två år sedan, säger till
+mig: "Ni är ingen match för dem. Ni förstår inte vilka det är ni har att göra
+med." Nota innehade kaptens rang i ryska armén och slogs mot tyskarna till 1945.
+Han blev svårt sårad tre gånger. Han har många släktdrag i sitt utseende: de
+bruna ögonen, de välvda ögonbrynen, de mörka färgerna och det vita håret.
+Dessutom är han försedd med den ryska tandläkarkonstens guldkronor. Brottslingar
+som släppts ut ur fängelserna under kriget tjänade i hans kompani. Nota är ingen
+skrävlare, men kriget har härdat honom. Det kom ingen mat fram till frontlinjen.
+Man fick äta frusen potatis, plundra och stjäla. Man kunde lita på att
+soldatbrottslingarna skulle skaffa förnödenheter. "Själv hade jag oinskränkt
+rätt att döda alla som stod under mitt befäl. Efter eget gottfinnande. Inga
+förklaringar behövdes", berättar Nota. Vi är äkta kusiner, men han är ryss och
+jag är amerikan, och sedd med hans ryska ögon är en amerikan hygglig, snäll,
+kanske rent av förtjusande, men samtidigt underutvecklad och hjälplös precis som
+Dostojevskij i fångkamraten-mördarens ögon. Icke desto mindre ser jag i en bok
+som heter "Things to Come" att två amerikaner som anser sig vara allt annat än
+hjälplösa och underutvecklade, Herman Kahn och B Bruce-Briggs, är föga
+imponerade av ryssarnas prestationer. "Det mest påfallande är att den ryska
+utrikes- och inrikespolitiken har blivit en sådan besvikelse sedan 1950-talets
+slut", skrev de år 1972. "På det utrikespolitiska området har ryssarna upplevt
+en så gott som obruten rad av nederlag och besvikelser. De har misslyckats med
+att utvidga sitt inflytande i Europa. Deras försök att ställa sig in hos Indien
+och andra neutrala nationer har gett klent utbyte. I femton år har Sovjetunionen
+understött araberna gentemot Israel i Mellanöstern, men det enda de har fått för
+besväret är att deras skyddslingar blivit förödmjukade och att Israel har
+erövrat och förstört deras utrustning. Araberna har inte visat någon böjelse för
+den kommunistiska ideologin, och deras olja fortsätter att flöda västerut. (Det
+enda val araberna har är att låta sin olja stanna kvar under jord.)" Jag skriver
+av detta för mitt eget nöjes skull, som exempel på illusionslös amerikansk
+politisk analys. Dessa åsikter, som inte är någon ersättning för sunt förnuft,
+bygger på noggranna studier vid Hudson Institute. Herrar Kahn och Bruce-Briggs
+påpekar inledningsvis att deras bok i grunden är "en organisationsprodukt. Hela
+staben vid Hudson har i något avseende bidragit till detta verk, liksom också de
+tusentals personer med vilka vi har diskuterat dessa frågor på möten, seminarier
+och konferenser vid Institutet och på andra platser världen över". Vilka krav
+ställs inte på den litterära fantasin i denna politiska tid. En av de finaste
+israeliska författarna, A B Yehoshua, talar om den saken i en utmärkt
+intervjubok, "Unease in Zion", redigerad av Ehud ben Ezer. "Det är sant",
+skriver Yehoshua, "att eftersom vårt andliga liv i dag inte kan röra sig om
+något annat än dessa (politiska) frågor kan man inte reservera andliga krafter
+för någonting annat när man engagerat sig totalt i dem. Inte heller kan man
+uppnå den verkliga ensamhet som är ett villkor och en förutsättning för
+skapandet, dess källa och dess styrka. I stället ställs ständiga krav på ens
+solidaritet, krav som kommer inifrån en själv mera än de utgör något yttre
+tvång, eftersom man lever från den ena nyhetsutsändningen till den andra, så att
+det blir en solidaritet av rent tekniskt eller automatiskt slag om man ser den
+som emotionell reaktion, beroende på att man vid det här laget är helt inställd
+på att reagera så och att leva i spänning. Ens emotionella reaktioner på varje
+nyhet om israeliska förluster, nedskjutna plan och så vidare, är förutbestämda.
+Följden är denna brist på ensamhet, denna oförmåga att vara ensam i andlig
+mening, och att åstadkomma en tillvaro av intellektuellt skapande." Under
+sexdagarskriget kände Yehoshua att han var delaktig i en stor händelse, att han
+ingick i en historisk våg och var ett med dess rörelse, säger han. Det var en
+behaglig och upplyftande känsla. Men i dag, när inget slut på kriget kan
+skönjas, har han förlorat känslan av att bäras fram på en sådan våg. "Man får
+ingen frid av historien", säger han. "Känslan av att svepas med och av osäkerhet
+i fråga om framtiden hindrar en från att se saker och ting med någon som helst
+distans. Man upplever ögonblicket, utan perspektiv, och man kan inte bryta sig
+ut ur ögonblicket eller glömma det. Man kan inte avskära sig och låta bli att
+läsa tidningar eller höra på radionyheterna veckor i sträck, som man kunde för
+sex eller sju år sedan." Det är en smula annorlunda för oss. Våra media
+förvandlar nyheter till krispladder och fyller våra sinnen med skrämmande
+skuggbilder av verkligheten ett toppmöte i Helsingfors, ett fördrag i Egypten,
+en konstitutionell kris i Indien, en omröstning i FN, New yorks ekonomiska
+sammanbrott. Vi kan inte undgå att politiseras (för att använda ett ord lika
+dunkelt som det tillstånd det beskriver), eftersom det trots allt är nödvändigt
+att veta vad som händer. Vad värre är, det som händer vägrar att lämna oss i
+fred. Varken fakta eller förvrängningar och suggestiva mediaplattityder (som är
+plågsamma eftersom de bakomliggande realiteterna är så väldiga och så
+förfärande) kan stängas ute. Själva litteraturstudiet är kraftigt "politiserat".
+Det finns en intelligent och ihärdig ung kvinna i Italien som ofta skriver till
+mig och envisas med att ge de mest vardagliga händelser i mina romaner en
+politisk tolkning. En lunch på ett kafé i New York syftar i själva verket på ett
+möte i Kanada mellan Churchill och Roosevelt, och en sammanstötning med en
+berusad person i hallen på ett pensionat motsvarar Dagen D. 
+
+Tyvärr måste jag nu bekänna att jag började besvära dem. Redan det var nytt för
+mig. Jag var inte van att skaffa mig saker och ting på det sättet. Jag brukade
+gå min egen väg och på egna ben när jag ville någonstans. Faktiskt skulle jag
+aldrig trott det om mig själv, men det kändes på något sätt som om jag helt
+enkelt måste dit kosta vad det kosta ville. Så jag låg i och bråkade med dem.
+Karlarna sa: Min kära vän, och gjorde ingenting. Och då – ni får tro mig eller
+inte – försökte jag med fruntimmerna. Jag, Charlie Marlow, satte i gång
+fruntimmer för att skaffa mig ett jobb! Men, ni förstår, jag har fått den här
+idén på hjärnan. Jag hade en moster, en rar, varmhjärtad människa, och hon
+skrev: Jag gläder mig oerhört, och jag gör vad som helst för dig. Det är en
+strålande idé. En väninna till mig är gift med en mycket hög person i
+bolagsledningen, och så känner jag en man som har stort inflytande på, etc. Hon
+var beredd att röra upp himmel och jord för att få mig utnämnd till kapten på en
+flodångare om det var det jag ville. Jag fick min utnämning – naturligtvis – och
+jag fick den mycket fort. Det befanns att bolaget hade fått meddelande om att en
+av dess kaptener hade blivit dödad i något bråk med infödingarna. Detta gav mig
+ju en chans och gjorde mig bara ännu ivrigare att få ge mig i väg. Inte förrän
+många månader senare, när jag försökte få reda på vad som fanns kvar av hans
+kropp, fick jag veta att bråket ursprungligen uppstod ur ett missförstånd
+angående ett par höns. Just det, två svarta hönor. Fresleven – han hette så ;
+han var dansk – ansåg att han hade blivit lurad vid köpet och gick i land och
+började damma på byhövdingen med en käpp. Det förvånade mig inte det minsta att
+höra detta och samtidigt få veta att Fresleven var den lugnaste, beskedligaste
+varelse som gick i ett par skor. Det var han säkert, men han hade redan varit
+därute i två år i den stora sakens tjänst, och troligen överväldigades han av
+ett behov att äntligen få hävda sig på något sätt. Därför klådde han
+obarmhärtigt den gamla niggern medan byinvånarna skräckslagna såg på, ända tills
+en av dem – det lär ha varit hövdingens son – i förtvivlan över att höra gubben
+tjuta stack med spjutet efter den vite mannen – och det åkte naturligtvis tvärt
+in mellan skulderbladen. Hela byn sprang till skogs, beredd på det värsta, medan
+å andra sidan Freslevens ångare också gav sig av hals över huvud, under
+maskinistens befäl, tror jag. Efteråt tycktes ingen bekymra sig om Freslevens
+kvarlevor förrän jag kom dit som hans efterträdare. Jag kunde emellertid inte
+låta saken bero, men när till slut ett tillfälle erbjöd sig för mig att möta min
+föregångare var gräset som växte upp mellan hans revben högt nog att dölja hela
+skelettet. Detta var oskadat. ingen hade rört den övernaturlige sen han hade
+fallit. Och byn låg övergiven, hyddorna gapade tomma, höll på att ruttna ner
+innanför den raserade inhägnaden. En katastrof hade mycket riktigt drabbat byn:
+dess invånare hade flytt. Vansinnig skräck hade jagat ut dem i vildmarken, män,
+kvinnor och barn, och de hade aldrig kommit tillbaka. Vad det blev av hönsen vet
+jag inte heller. Men framåtskridandets sak fick dem nog i alla fall. Hur som
+helst var det genom denna gloriösa affär som jag fick min anställning långt
+innan jag alls hade börjat hoppas på den. Jag flög omkring som tokig för att
+hinna bli färdig, och innan två dygn hade gått om var jag på väg över Kanalen
+för att visa upp mig inför mina chefer och skriva under kontraktet. Efter bara
+några timmar var jag framme i en stad som alltid kommer mig att tänka på en
+vitmenad grift. Bara fördomar antar jag. Att hitta bolagets lokaler vållade mig
+ingen svårighet. Byggnaden var stadens väldigaste och alla jag mötte tänkte inte
+på stort annat. Man beredde sig på att driva ett imperium på andra sidan havet
+och tjäna oerhörda pengar på handel. En smal och folktom gata i djup skugga
+mellan höga hus, otaliga fönster med nedfällda persienner, dödstystnad, gräs
+mellan kullerstenarna, ståtliga vagnsportar till vänster och höger, väldiga
+dubbeldörrar med hela sin massiva tyngd på glänt. Jag gled in genom en av
+springorna, gick uppför en kal och välstädad trappa, steril som en öken, och
+öppnade första dörr jag kom till. Två kvinnor, den ena tjock, den andra smal,
+satt på halmstolar och stickade med svart ullgarn. Den smala reste sig och kom
+emot mig – alltjämt stickande och med ögonen på arbetet – och först när jag
+började tänka på att gå ur vägen för henne som för en sömngångare stannade hon
+och såg upp. Hennes klänning var snäv och slät som ett paraplyfodral och hon
+vände sig utan ett ord och gick före mig in i ett väntrum. Jag sa mitt namn och
+tittade mig omkring. Furubord i mitten, pinnstolar kring väggarna, på ena
+kortväggen en stor karta, lysande i alla regnbågens färger. Där fanns mycket
+rött – alltid en ögonfägnad därför att man vet att där uträttas en del verkligt
+gott arbete, en förbaskad massa blått, litet grönt, ett och annat penseldrag
+orange och, på ostkusten, en gredelin fläck för att markera var de famösa
+kulturapostlarna dricker det famösa lagerölet. Men jag skulle inte till något av
+allt detta. Jag skulle till det gula. Rakt in i hjärtat. Och där var floden –
+tjusande – dödsbringande – som en orm. O! En dörr öppnades, in stacks ett vitt
+huvud, av sekreterartyp men med ett medlidsamt uttryck, och ett skinntorrt
+pekfinger vinkade in mig i helgedomen. Belysningen var skum därinne; i mitten
+stod ett massivt skrivbord. På andra sidan denna möbel anade man något blekfett
+i jackett. Den store själv. Han var väl inte hundrasextifem i strumplästen och
+höll i skaftet när det gällde miljoner och miljoner. Han skakade hand med mig,
+vill jag minnas, mumlade någonting, var belåten med min franska. Bon voyage.
+Inom fyrtifem sekunder eller så var jag ute i väntrummet igen tillsammans med
+den medlidsamme sekreteraren, som överflödande av bedrövad medkänsla lät mig
+skriva mitt namn under något dokument. Jag förband mig visst bland annat att
+inte förråda några yrkeshemligheter. Och det ska jag inte göra heller. Det
+började kännas lite olustigt. Jag är ju inte van vid så mycket ceremonier och
+det låg något olycksbådande i luften. Det var precis som om jag hade blivit
+invigd i en sammansvärjning, något – jag vet inte hur jag ska säga – något lite
+skumt, och jag var glad när jag fick gå. I det yttre rummet stickade de två
+kvinnorna för fullt sitt svarta ullgarn. En karavan hade anlänt. Ett vilt
+babblande av barbariska läten brast lös på andra sidan väggen. Alla bärarna
+talade i munnen på varandra och mitt i oväsendet hördes bokhållarens klagande
+röst 'ge upp' för tjugonde gången den dagen... Han reste sig långsamt. Vilket
+fruktansvärt oväsen, sa han. Han gick på tå över rummet för att kasta en
+försiktig blick på den sjuke, kom tillbaka och sa: Han hör det inte, han. – Va?
+Är han död? frågade jag förskräckt. Nej, inte än, svarade han med orubbligt
+lugn. Och så fortsatte han med en gest med huvudet mot bråket utanför: När man
+måste föra in korrekta poster i böcker fylls man av hat mot de där vildarna –
+dödligt hat. Han blev sittande och funderade ett slag. När ni träffar mr Kurtz,
+sa han, så hälsa honom från mig att allting här – han kastade en blick på
+skrivbordet – är i bästa ordning. Jag vill inte gärna skriva till honom dit in –
+såna budbärare som vi har vet man aldrig vem som får tag i ens brev. Han såg en
+stund oavvänt på mig med sina milda, litet utstående ögon. Han kommer att gå
+långt, mycket långt, tog han upp tråden igen. Han sitter snart i ledningen. Det
+har de däruppe – styrelsen i Europa, menar jag – bestämt. Han tog upp arbetet
+igen. Oväsendet utanför hade tystnat. När jag kort efteråt skulle gå hejdade jag
+mig i dörröppningen. I det oavlåtliga flugsurret låg den hemskickade agenten
+rödflammig och medvetslös ; den andre satt böjd över sina böcker och förde in
+korrekta transaktioner i korrekta poster, och femton meter nedanför mig såg jag
+dödsdungens orörliga trädtoppar. Dagen därpå fick jag äntligen ge mig av från
+stationen, starta en trehundrakilometersmarsch med en karavan på sexti man. Det
+är inte mycket att berätta om vår vandring. Stigar, stigar överallt; ett
+upptrampat nätverk av stigar som bredde sig över tomma ödemarker, genom långt
+gräs, genom avbränt gräs, genom snårskog, ned i och upp ur kyliga raviner,
+uppför och nedför kala berg som glödde av hetta – och ensamhet, ensamhet, inte
+en människa, inte en hydda. Befolkningen hade givit sig av för länge sedan.
+Nåja, om en massa konstiga niggrer, beväpnade med alla slags hemska vapen
+plötsligt började trafikera vägen mellan Deal och Gravesend och fånga in
+lantbefolkningen till höger och vänster för att bära tunga bördor åt dem, så
+föreställer jag mig att varenda gård och stuga i trakten ganska snart skulle stå
+tom. Men här var själva bebyggelsen också försvunnen. Då och då kom vi i alla
+fall igenom en övergiven by. Det är någonting rörande barnsligt över ruinerna av
+väggar som har varit byggda av gräs. Dagar och dagar och dagar med trampet av
+sexti par bara fötter bakom mig, varje par under en börda på tjugufem kilo. Slå
+läger, laga mat, sova, bryta upp, marschera. Då och då en bärare stupad på sin
+post, utsträckt i det långa gräset intill stigen, med en tom vattenkalebass och
+sitt spjut vid sidan. Och en oändlig tystnad runt omkring och ovanför. Kanske
+någon stilla natt ett vibrato av fjärran trummor, avtagande, svällande, en
+oändlig, knappt hörbar skälvning, kuslig, lockande, fantasieggande, vild – och
+kanske med en lika djup innebörd som klockklang i ett kristet land. En gång en
+vit man i oknäppt uniform som kamperade på stigen med en väpnad eskort av
+gängliga Zanzibarnegrer, mycket gästfri och uppspelt, för att inte säga berusad.
+Han var ute och inspekterade vägunderhållet, sa han. Jag såg då inte till vare
+sig väg eller underhåll, för så vitt inte liket efter en medelålders neger med
+ett kulhål i pannan som jag bokstavligen snavade över fem kilometer längre fram
+kan betraktas som en varaktig förbättring. Jag hade också en vit färdkamrat, en
+hygglig karl men för fet och med en irriterande benägenhet att svimma på de heta
+bergssluttningarna, miltals från minsta skuggfläck eller vattendroppe. Det är
+faktiskt tålamodsprövande att sitta och hålla sin egen kavaj som en parasoll
+över en karls huvud medan han långsamt återhämtar sig. Jag kunde inte låta bli
+att en gång fråga honom vad han alls hade givit sig dit för. För att tjäna
+pengar så klart. Vad tror ni? sa han hånfullt. Sen fick han feber och måste
+bäras i en hängmatta upphängd på en stång. Eftersom han vägde över hundra kilo
+hade jag ett förskräckligt besvär med bärarna. De vägrade, sprang sin väg, smög
+sig undan med sina bördor om nätterna – rena myteriet. Till slut höll jag tal på
+engelska en kväll med gester som inte var bortkastade på ett enda av de sexti
+ögonparen framför mig och morgonen därpå fick jag mycket riktigt iväg hängmattan
+som tätkolonn. En timme senare hittade jag hela härligheten vräkt i ett snår –
+karl, hängmatta, stön, filtar, elände. Den tunga stången hade skrapat skinnet av
+hans stackars näsa. Han var mycket angelägen att jag skulle döda någon, men det
+fanns inte skymten av någon bärare i närheten. Jag mindes den gamle läkaren: Det
+skulle vara av intresse för vetenskapen att iaktta de själsliga förändringarna
+hos individerna därute. Jag kände att jag höll på att bli av intresse för
+vetenskapen. Det hör emellertid inte hit. På femtonde dagen fick jag syn på den
+stora floden igen och stapplade in på huvudstationen. Den låg vid ett bakvatten
+omgivet av snår och högskog med en finfin gräns av stinkande gyttja åt ett håll
+och åt de tre andra innesluten av ett fallfärdigt stängsel av säv. En vanvårdad
+glugg i stängslet var den enda porten in till stationen, och man behövde bara
+kasta en blick på platsen för att förstå att här regerade slapphetsdjävulen.
+Vita män med långa stavar i handen kom långsamt drivande mellan byggnaderna, tog
+sig en titt på mig och försvann igen. En av dem, en tjock, livlig karl med
+svarta mustascher, meddelade mig så fort jag hade sagt vem jag var med en ström
+av ord och många utvikningar att min ångare låg på flodens botten. Jag stod
+skräckslagen. Va, hur, varför? Jo då, allt var helt i sin ordning. Direktören
+själv hade varit med. Allt hade gått juste till. Alla har skött sig utmärkt!
+Alldeles utmärkt! Ni måste genast gå och tala med direktörn, sa han förfärligt
+upphetsad. 
+
+Det av kommissionen framlagda förslaget kan hälsas med tillfredsställelse från
+konsumentens sida. Från berörda kretsar har man också kritiserat att
+förklaringar från tillverkarna som är avsedda för allmänheten kan tas med som
+relevanta för definitionen av begreppet avtalsenlighet. Det skulle i slutändan
+vara till nackdel för konsumenten. De röstades ned och skälen kommer utan tvivel
+att åter föras fram av Bonino. En av dessa är frågan om andrahandsartiklar. Jag
+tror att vi med denna hierarki har löst en stor del av de små och medelstora
+företagens problem. Samtidigt kan det resultera i att arbetstillfällen går
+förlorade inom de arbetsintensiva reparationstjänsterna. I praktiken visar det
+sig att denna skuldfråga ibland över huvud taget inte går att besvara. Denne går
+fri. Men denne har å andra sidan nytta av ett gott rykte, såväl för produkten
+som för sin service. För detaljhandlaren behövs en regressrätt varigenom han kan
+kräva igen sina kostnader av tillverkaren. Fru ordförande! Jag har inte något
+manuskript, bara två påpekanden. Det är fullkomligt skrattretande. Men hög
+skyddsnivå är inte detsamma som en absolut gardering mot allt och lite till och
+till vilken kostnad som helst. Vad menas t.ex. med "lämpliga serviceåtgärder"?
+Samma sak gäller för en hel rad andra exempel som vi skulle kunna ta upp. Det är
+en självklarhet, och det verkar kanske inte nödvändigt att man alltid om och om
+igen måste påpeka detta. Jag anser att det kommer att gå lättare om man
+involverar konsumenterna. Det måste finnas strikta regler i slakthusen så att
+högsta nivå på hygienen upprätthålls. Bra jordbruksmetoder och djurens
+välbefinnande kan inte ses isolerat från livsmedelslagstiftningen i sin helhet.
+Vi måste stödja Europeiska unionen som en viktig livsmedelsproducent och
+exportör. Men tillåt mig också att säga att föreliggande betänkande måste
+bedömas som mycket positivt. Jag vill inte att man på grund av ett missförstånd
+i föreliggande betänkande skall kunna få något annat intryck. Följaktligen är
+det nödvändigt att känna till resultaten från denna debatt och sätta dem i
+verket. Jag tror dock att det redan finns några klara idéer och de finns
+upptagna i Graenitz betänkande. Tillåt mig, herr kommissionär, kära kolleger,
+att läsa hennes anförande. Allmänheten har fortfarande inget förtroende för den
+kontroll som kommissionen kan utöva. Herr ordförande! Den europeiske konsumenten
+behöver ett ökat förtroende för livsmedlen, inte minst efter BSE-krisen. Holland
+och övriga länder exploaterar naturen hos ursprungsbefolkningar för
+foderproduktion till höns och svin. Vore inte det bättre än totalharmonisering
+som ju i grund och botten är en kommersiell regel som syftar till att gynna det
+kommersiella, inte livsmedelskvaliteten? Hit hör också ramdirektivet. Jag vill
+bara helt kort beröra den externa ekonomiska aspekten. Om vi är medlem i en
+internationell rättslig gemenskap, då måste vi också hålla fast vid det.
+Omröstningen kommer att ske i morgon kl. 12.00. Det är komplicerat eftersom det
+behandlar alla nio separat och det är nödvändigt att framlägga ändringsförslag i
+nio uppsättningar. Vad kräver vi då för garantier? Med hjälp från deras
+styrekonom kommer det nu att lagstiftas om ordentliga åtgärder. Det är det som
+är problemet: man kan inte kommentera något man inte läst. Europeiska unionen
+upprättade dem för ett särskilt syfte. Våra undersökningar har visat att dessa
+organ inte behöver mer styrning. låt oss därför hoppas att kommissionens förslag
+kommer att vara tillräckliga för att detta arbete görs effektivt. Till en del
+påminner det mig naturligtvis också om min gamla verksamhet i budgetutskottet
+och i utskottet för budgetkontroll. Vi beklagar det, och vi bekräftar än en gång
+att vi samtycker till att parlamentet skall underrättas om alla viktiga beslut
+av ekonomisk karaktär hos de decentraliserade organen. Herr kollega, vi
+observerar detta, och vi vore tacksamma om ni skulle kunna ge oss detta brev.
+Fru ordförande! Jag har det här i fickan. Om denna möjlighet finns för vice
+ordföranden – och jag önskar honom all framgång – är det då möjligt även för
+andra ledamöter? Kära kolleger! Ni förväxlar för närvarande ständigt protokollet
+med förhandlingsreferatet. Jag har därför röstat nej till betänkandet. Vad
+gäller de åtgärder ni har nämnt går de att förbättra, och dessutom finns det
+andra ni inte har tagit upp. Har kommissionen någon långsiktig politik i den
+frågan? Situationen kan också förklaras med kriserna i Ryssland och Asien, som i
+ett slag har berövat Europeiska unionen en lovande marknad. För det andra finns
+det anledning att snabbt lansera en försäljningskampanj inom gemenskapen för att
+göra allmänheten medveten och stimulera den europeiska konsumtionen. Förlorarna
+blir skattebetalaren, som måste betala det hela, småföretagen och den
+artsanpassade djurhållningen. Jag har inte heller utökat. Vilken representation
+tog kommissionen emot från Storbritanniens regering vid denna förfärliga
+nödsituation? Hela industrin är i kris. De regeringar, som nu i den här
+situationen uppmanar till ytterligare produktionsökningar, handlar ansvarslöst.
+Åtgärderna borde vara desamma i hela EU för att garantera att ingen medlemsstat
+får orättvisa fördelar. Genom er ber jag kommissionen och rådet att komma fram
+till ett beslut och att vidtaga brådskande åtgärder efter sammanträdet den 14
+oktober. Europas jordbrukare behöver hjälp nu. Där ser ni vad som är möjligt hos
+oss! Men vi anser inte att det kommer att leda till detta resultat om vi tar upp
+en motsvarande hänvisning i ett av styckena i ingressen. Ty generiska preparat
+är naturligtvis meningsfulla efter det att ett patentskydd eller annat skydd
+upphört. Utskottet för miljö, folkhälsa och konsumentskydd har förbättrat
+rekommendationens text ytterligare. Debatten återupptas kl 15.00. Det handlar
+till att börja med om den punkt som uppmanar kommissionen att dra tillbaka sitt
+förslag. Det är mycket viktigt att veta det. Fru ordförande! I översättningen
+till svenska av ändringsförslag 4 har det gjorts ett fatalt misstag. Därför blir
+det väldigt märkligt, eftersom originaltexten står kvar i ändringsförslaget. Den
+text som gäller är "under vissa omständigheter". Det måste framgå tydligt. Men
+den ekonomiska verksamheten på det audiovisuella området bedrivs huvudsakligen
+av små och medelstora företag. Betänkande (A4-0090/99) av Katiforis De små och
+medelstora företagen har alla på ett eller annat utvecklingsstadium problem på
+grund av brist på eget kapital. Finansiering och expertkunskaper måste gå hand i
+hand. Om efterfrågan ökar, så kommer riskkapitalet fram, oavsett om det är
+fragmentiserat eller ej. Dokumentet återspeglar i huvudsak vår grupps oro när
+det gäller framtiden för förbindelserna mellan AVS och EU. Om det finns något
+område där Europeiska unionen både bör intensifiera sina åtgärder och vara
+sporrande, är det definitivt på dessa specifika områden som är nödvändiga för
+våra landsmäns hälsa. Kammaren har vid flera tillfällen visat att den fäster
+mycket stor betydelse vid frågan. Andra betänkande (A4-0029/99) av Hautala Jag
+kan emellertid inte stödja hänvisningen till aborter. Dessa negativa
+psykologiska följder för kvinnor som har gjort abort förtigs dock alltid
+medvetet. Rätten till fri abort handlar om rätten att styra över sitt liv och
+att ha makten över sin egen kropp. Det finns inget enkelt svar på det smärtsamma
+abortproblemet. Jag tänker här bl.a. på frågor som abortlagstiftning. Denna
+inriktning kräver ett allmänt synsätt på den politiska scenen och en
+mobilisering av samtliga närvarande aktörer. På sätt och vis är jämställdhet
+mellan män och kvinnor som Bizets Arlesienne. Alla drömmer om det, men ingen har
+sett det. Jag skulle gärna vilja veta vilka vetenskapliga bevis de gröna lägger
+till grund för alla dessa ändringsförslag. Man har undersökt såväl barn som
+anställda på elverk. Vi har indikationer, herr ordförande, men inga bevis. Detta
+är en fråga som påverkar aspekter på det dagliga livet. Riktlinjerna och den
+exponering som föreslås av kommissionären grundas på dem som nyligen har
+offentliggjorts genom den internationella kommissionen för skydd mot
+icke-joniserande strålning (International Commission on Non-Ionizing Radiation
+Protection). Taminos förslag är därför i hög grad oproportionerliga. Det finns
+bara vissa resurser till folkhälsans förfogande och man måste sörja för att de
+utnyttjas på ett effektivt sätt. Kommissionens uppskattningar av hälsovådliga
+värden följer genomförda undersökningar. Vi måste emellertid fatta beslut om
+dessa bestämmelser på någorlunda realistiska grunder. Elektromagnetiska fält och
+deras påverkan på människor har under de senaste åren debatterats mer och mer.
+Vi har faktiskt inte precisa svar på alla dessa frågor. Skall vi fastställa
+gränsvärden som skall täcka hela unionen, så måste det ju också vara gränsvärden
+som är någorlunda rimliga. Sverige har varit uppe i diskussionen som ett av de
+länder som har bra gränsvärden. Det är koncentrerad strålning, men de tränger
+inte ned till den höjd där vi normalt befinner oss. För det första tilltar
+betänkligheterna, det stämmer utan tvivel, även hos experterna. Sedan har vi
+ändringsförslag 12. Om så krävs kommer kommissionen att handla genast. Vi måste
+arbeta för att få slut på detta på ett förnuftigt sätt. Å andra sidan är det
+också svårt att kräva att de suveräna nationerna skall avstå från sina egna
+hälsovårdssystem. Och vad skall vi då göra? Den nuvarande politiken är under
+omarbetning och de finansiella medlen är tyvärr mycket begränsade. Och det är
+bara om nackdelarna är lika stora som fördelarna som man bör använda
+försiktighetsprincipen. Needlebetänkandet om Europeiska unionens nya
+folkhälsopolitik förefaller att helt och hållet förbigå detta. Herr ordförande,
+mina damer och herrar! Needle har gjort sig stor möda med utfrågningen i
+utskottet. Dessutom anser jag att inte heller alla regionala instanser är i
+stånd att ta kontakt med kommissionen. I betänkandet nämns bästa praxis och
+standardmetoder inom hälso- och sjukvård. Det är egentligen den utgångspunkt som
+vi här har valt, och det gläder mig att man har uppfattat detta korrekt. Tyvärr
+har parlamentet vid den senaste omröstningen med majoritet godkänt dessa
+subventioner. Men Europa kommer inte att passivt titta på när
+världshandelsregler trotsas. Dessa tvister tillspetsas alltmer, och de börjar
+anta karaktären av ett handelskrig. Inom Europeiska unionen trädde den 1 januari
+1999 en ny och ändrad gemensam organisation av marknaden för bananer i kraft. Av
+denna och många andra anledningar stöder vi motionen om en resolution. Herr
+kommissionär, det visade sig att USA föraktar förhandlingar. Om vi inte uppnår
+målet att bilägga denna tvist befarar jag att WTO kommer att halka ur på ett
+bananskal. 
+
+Han gjorde en resignerad grimas som uttryckte att han förutsatte förståelse: Min
+fru och jag konstaterade att vi inte stod ut med det längre. Så vi gör ett
+försök här. Jag vet inte... vi får väl se. Jag såg att ni skulle komma tillbaka,
+det stod en artikel i tidningen, min fru, Margot skickade den till mig i
+Schweiz, så jag antog att det var ni. Ni var alldeles framför mig när vi steg ur
+i Rom. Ja, jag misstänker att jag knappast hittar längre när jag kommer in i
+stan. Å, det är ingen fara, än så länge är det inte New York eller London.
+Mannen talade med en märkbar brytning och ett slags europeisk resignation. De
+skrattade. Nåja, i så fall stöter vi väl ihop förr eller senare på Great Lakes
+Road. Nkrumah Road om jag får be! Vad var det jag sa... jag blir tvungen att
+lära mig det hela från början igen. Mannen såg sig hastigt om och sänkte rösten.
+Det här landet kan behöva ännu flera vita såna som ni, skriv opp det! Folk som
+tror på nånting. Ibland funderar jag faktiskt på att flytta tillbaka söder över
+igen, den saken är klar. Det har jag sagt till min fru också. En ung svart man
+med solglasögon och en tjock, fjädrande matta av hår, som föreföll ha fått sin
+amerikanska snaggning snarare av en häckklippningsexpert än en frisör, hade
+banat sig fram genom trängseln, snabbt och lätt, liksom omgiven av auktoritet.
+Den här vägen, överste Bray. Ert bagage kommer till utgången, sir, om ni bara
+vill vara vänlig att låta mig få incheckningskvittona... Den andre mannen, som
+guppade i kölvattnet av den plötsliga aktiviteten men på samma gång log åt den i
+ett slags värdroll med tanke på sin egen etablerade ställning i landet, talade
+förbi den svarte mannen och utväxlingen av artigheter, kvitton,
+tacksamhetsyttringar: på Silver Rhino förstås, ni minns väl stället. Välkommen
+när som helst... vi skulle bli väldigt glada... Han tackade honom – lyssnade
+till båda männen på en gång utan att höra någondera – och följde efter den
+muskulösa ändan i vita shorts förbi spärrar och genom ankomsthallen. Det är
+okay... det behövs ingen kontroll... det här är överste Bray. Jag tar hand om
+överste Bray, det finns ingen anledning att besvära honom. En ungdomlig, svart
+tjänsteman i passkontrollen svarade litet osäkert: Ett ögonblick. Jag känner
+inte till det här... men den bleke cockneyn som höll på att lära honom att
+överta jobbet efter sig sade: Det är okay, gosse, det är vår gamla vän mr
+Kabata. Bagaget väntade inte vid den flagg- och girlanddekorerade utgången, där
+en bild av en väldig romersk kejsar Mweta, iförd toga, log alldeles som på det
+gamla fotot av fotbollslaget i staden Gala. Mr Kabata sade: Vad är det med dom
+egentligen! Ursäkta mig ett ögonblick... jag ska försöka få tag på någon, och
+återvände med bagaget gungande på huvudet på en av dessa skrangliga, plattfotade
+bönder, som bärarstyrkan alltid hade bestått av. Bäraren tilltalade båda med
+mukwayi, den aktningsfulla beteckning som blivit servil under den långa tid den
+urskillningslöst använts på alla vita. Bilen, en Volkswagen, förde en officiell
+vimpel. Kabatas kraftiga lår fyllde sätet bredvid honom. Den här är inte
+särskilt bekväm för en reslig man som ni, överste. Presidenten utgår
+naturligtvis ifrån att jag skulle hämta er i Mercedesen, men uppriktigt sagt –
+om jag skulle ha väntat tills den dök upp, så vet jag inte när jag hade kommit.
+Ni vet hur det är just nu. Mrs Indira Gandhi kommer i eftermiddag, och i går var
+det Förenta nationerna och Sekou Touré. Gyllene äreportar välvde sig över den
+gamla vägen från flygplatsen till staden ; åtskilliga män på cyklar bar skjortor
+med Mwetas anlete i gult och purpur på ryggen. Han sade: Väldigt festligt, men i
+distraktion ; han hade en känsla av att lyssna invärtes, vänta på något annat.
+Den unge mannen sade: Ni är från Galadistriktet? Jag var det. Hur så... kommer
+ni därifrån? Från Umsalongwe. Men min mor är en gala. Jag har varit uppe och
+hälsat på där. Jaså verkligen? Nyligen – eller som barn? Jag var kanhända ännu
+kvar där då? Jag tror att dom kommer att bli väldigt förtjusta över att få
+återse er där. Han skrattade. Jag undrar just om jag kommer så långt.
+Naturligtvis måste ni fara dit, fattas bara annat! sade den unge mannen stolt.
+Jag brukar kunna köra till Umsalongwe på tio timmar. Vägen är mycket bättre nu,
+mycket bättre. Det kommer ni säkert att märka. Ni skulle kunna köra till Matoko
+på sex, sju timmar. Min kärra är inte mycket att hurra för, en gammal begagnad
+rishög. Borta vid bron kom kvinnorna gående med fotogendunkar på huvudet, på väg
+att hämta vatten. Reklamskyltar hade börjat dyka upp, cementfabriker, prydliga
+verkstäder, hopfogade av vinkelställda, glasskimrande sektioner, och mellan dem
+små åkerlappar som röjts upp i bushen, där kvinnor och barn svängde sina hackor
+längs slingrande rader med bönor och majs. Barnen avbröt arbetet och vinkade (en
+förevändning för att lata sig naturligtvis). Han ertappade sig med att ivrigt
+vinka tillbaka, böjde huvudet under det låga biltaket, log och sträckte på sig
+för att kunna se deras drag ännu när de redan var utom synhåll. Bilen närmade
+sig och förde honom genom stadens basarkvarter. Under mangoträden blixtrade
+barberares speglar till i skuggan, levande kycklingar låg i högar med hopbundna
+ben. Det var mangosäsong, och över allt där folk kom och gick låg kärnornas
+saffransgula kroksablar, avsugna och ludna. Fågeln satt uppe på stråtaket till
+det runda gästrummet ute i trädgården hos hans gamle vän Roland Dando –
+ursprungligen från Wales – som nyligen hade utnämnts till justitiekansler. När
+Bray avlevererades i huset var ingen hemma utom tjänstefolket, som emellertid
+stod väl rustade att ta emot honom. De bjöd på den afrikanske kockens
+speciallunch, som han så väl mindes: lätt vidbränd köttsoppa med massor av majs,
+torr, hård biff med stekt lök, en pudding som var fradgig upptill och
+gelédallrig undertill och smakade ägg och granadillsaft. Roly ringde för att
+höra om han hade kommit och förklarade på nytt – han hade redan gjort det på
+förhand per brev – att han var tvungen att gå på en officiell lunch. Brays öron
+var fyllda av övertrötthetens sällsamma ekon, och hans kropp, som försetts med
+nytt bränsle med den varma lunchen, hotade att kväva honom i vågor av värme. Han
+gick in i rummet, som de fördragna gardinerna höll i mörker, och sov. Det fanns
+inget innertak, och han såg upp mot de bärande takbjälkarnas spindelvävsmönster.
+Undersidan av stråtaket som vilade på dem var jämn och slät, grå i de äldre
+partierna och gyllengul där halmen var ersatt med ny och här och var – som mitt
+i en prydlig frisyr – sköt ut ett och annat okynnigt strå. Fågeln balanserade
+antagligen på den lilla porslinsisolatorn via vilken elledningen förde till
+lampan som dinglade ovanför honom. Fågeln hade gett sig iväg; han visste det,
+nästan som om klornas fjäderlätta tyngd hade tryckt ner taket och trycket nu
+hade lättat. Solen låg på, och gardinerna glödde som himlen ovan en eldsvåda.
+Bray hade en känsla av att han måste uppehålla sig någonstans i närheten; det
+var svårt att föreställa sig denna epok utan honom. Den var lika mycket hans som
+Mwetas. Men ingen tycktes ha sett till honom eller veta om han var eller hade
+varit i huvudstaden. Det förekom andra ansikten ur det förgångna. William
+Clough, guvernören, lyfte sina borstiga ögonbryn till överdriven hälsning på
+Mwetas bankett, alldeles som han brukade göra på tennisplanen i Dar-es-Salaam.
+James, du måste komma och hälsa på Dorothy innan vi far. Jag vågar inte säga på
+middag... vi är hemlösa, förstår du... Farbror Willies Självständighets-Skämt,
+sa Vivien. Åstadkommer bullrande världsmannaskratt från afrikaner. Den sortens
+skratt som dom har fått från såna som Farbror Willie, sade Neil. Men Cloughs
+hängde envist efter Bray via Vivien. Faster Dorothy säger att hennes sekreterare
+har försökt få fatt på dig. Dom vill att du ska komma på en drink om måndag. I
+ditt ställe skulle jag gå, annars berättar hon för varenda människa i London att
+du svansade för afrikanerna och inte ville träffa dom. Han skrattade. Nej, det
+är faktiskt sant. Hon säger det om mig, till min mamma. Fast hon mycket väl vet
+att vi aldrig skulle umgås i London heller. Cloughs hade flyttat in på brittiska
+konsulatet över den sista veckan eller så innan de gav sig i väg, en stor,
+glasblänkande, modern byggnad, inplacerad i terrängen så att de parasollformade
+törnträden skulle komma till sin rätt, alldeles som på en arkitektmodell.
+Konsuln och hans hustru hade svepts undan i ett eller annat rum åt baksidan av
+medarbetare och sekreterare och nödvändigheten att hålla deras katter ur vägen
+för lady Dorothys hund. Det försiggick något slags uppträde just när Bray kom –
+han såg konsulns hustru, som han hade träffat helt flyktigt, försvinna uppför
+trappan med huvudet tröstande böjt över en siamesisk katt. Över allt tronade
+blomsteruppsatser – som om någon låg sjuk i huset. Nåja, uppgiften är slutförd,
+och man begär inget annat än att få bryta sina tält... Han är en hygglig karl,
+om dom låter honom hållas, han har lärt sig en hel del, och man har gjort vad
+man har kunnat... om han håller huvudet kallt, och det kan man inte vara säker
+på, inte ens när det gäller honom, va? Inte ens när det gäller honom. En äldre
+tjänare kom in med glas och flaskor på en silverbricka och Clough avbröt sig för
+att säga – med hela det älskvärda överseendet hos en person som aldrig skonar
+sig själv, som uppmuntrar när andra skulle ha gett efter för vild förtvivlan:
+Det vore kolossalt hyggligt om vi kunde tänka oss ett par citronskivor... och
+lite mera is? Ja, ja, det enda jag har sagt till Mweta, om och om igen... håll
+er egen takt. Håll er egen takt och håll fast vid den. Han vet vad han vill, men
+han är inte omedgörlig, inte alls... nåja det där vet naturligtvis du. För en
+tid sen... ett litet tips i all vänskaplighet, sa jag, det skulle vara oklokt av
+er att släppa brigadgeneral Radcliffe. Ja, dom har tjatat och gått på, förstås,
+men han har vägrat att röra armén. För all del, jag tror jag vågar påstå att vi
+på det hela taget har lyckats förbli tämligen goda vänner. Det kom helt
+blygsamt, som en stilla antydan om att också han hade det naturliga handlag med
+afrikaner som han tilltrodde Bray. Han kastade en älskvärd blick ner i
+martinikaraffen och satte lugnt och stilla tillbaks den igen. Den åldrige
+tjänaren, som kom in med is och citronskivor, hade de små veck i yttre
+ögonvrårna som är karakteristiska för galafolket uppe i norr. Utmärkt! Tack så
+mycket! Bray hälsade på tjänaren på galaspråket med den höviska tilltalsform som
+brukar användas till äldre personer, och mannen släppte tjänarens opersonlighet
+som om den hade varit brickan i hans händer och log varmt, blottade ett slags
+abnorm pigmentering på insidan av den ljusröda läppen, som var fläckig som en
+dalmatiner. Exguvernören betraktade honom leende. Tjänaren bugade sig förvirrat
+för honom, drog sig baklänges tillbaka i enlighet med stamtraditionen inför
+uppsatta personer, återfick fattningen och lämnade rummet i anonym galopp. Jag
+slår opp en martini åt Dorothy också, det kan kanske locka hit henne. Om man
+bara kunde susa i väg på en flygande matta... nåja, på det här viset får vi tre
+månader i London och kanhända en eller ett par veckor i Irland. Vad har du
+egentligen haft för dig alla dessa år där borta i ditt elfenbenstorn i
+Wiltshire? Hur var det, jag minns inte riktigt, spelade du golf...? Dorothy
+Clough kom in, och Clough utbrast: Passar den? Kom och gör James sällskap med en
+drink... Kära gamla James... det måste vara hundra år sen... Vi har beställt en
+särskild låda för att kunna frakta hem Fritzi, och hon har provat den på honom.
+Vivien fick tag på en snickare. Hon har de besynnerligaste kontakter, den där
+flickan. Vilket verkligen kan komma väl till pass! William Clough läppjade på
+sin martini och fortsatte med ett heroiskt glatt tonfall: Att flyttas omkring
+från den ena posten till den andra var rena barnleken i jämförelse med det här.
+Man har tvingats lära sig konsten att kampera under alla tänkbara
+förhållanden... Jag är övertygad om att det är kolossalt nyttigt, håller sinnet
+rörligt. Denis tror att din fiskelykta blev kvar i guvernörspalatset, har han
+talat om det för dig? Dorothy Clough satt framåtlutad i stolen som om hon bara
+hade slagit sig ner för ett ögonblick. För Guds skull, låt dom behålla den, det
+är andras tur att bränna midnattsoljan där nu... vad var det du sa, James...
+Roly Dando förhörde sig med motvilligt intresse om besöket. Han har aldrig i
+livet placerats någonstans där det har återstått någonting att uträtta, sade
+han. Clough går uteslutande in för sista året, sedan självstyrelsen har
+beviljats och datum för självständighetsdagen fastställts. Ett tidigt datum
+dessutom. Bray kände sig alltid lätt generad av skvaller på nykter kaluv och
+svarade tveksamt, leende: Jag fick ett intryck av att han och hans hustru skulle
+avdunsta i all stillhet sen stridslarmet lagt sig. Sen han kom hit för ett och
+ett halvt år sen har han förbanne mig inte haft annat att göra än att fara opp
+till Rinsala och fiska. Hemma hos Pettigrews på kvällen samma dag höjde sig
+Dandos röst ur skaran som samlats kring någon som grillade ett får på det
+hemmagjorda spettet:... förbanne mig ingenting annat än att fara opp och fiska
+med sin sekreterare som hantlangare... Rebecca Edwards hade alldeles nyss
+berättat för Neil Bayley att Felix Pasilis, Pettigrews grekiske vän, var rasande
+på henne för att hon hade glömt en eller annan absolut livsnödvändig krydda som
+han måste ha till sitt får. Om jag var Felix skulle jag tvinga dig att köra
+tillbaka hem och hämta den, flicka lilla! sade Neil, och uttrycket av likgiltig
+trötthet över det ganska kraftiga unga ansiktet fick Bray att i ett anfall av
+medkänsla försöka dra uppmärksamheten från henne genom att säga: Milda makter,
+jag misstänker att jag betedde mig som en barnunge hos Cloughs! Jag visade mig
+på styva linan genom att avsiktligt tilltala tjänaren på gala. Neil och Rebecca
+Edwards brast i skratt. Stackars farbror Willie. Han var en riktigt trevlig ung
+man på sin tid i Dar-es-Salaam. Han tog helt ambitiöst lektioner i suahili och
+talade det i varje fall bättre än jag. 
+
+Till hans förfäran brast alfen i gråt – en mycket högljudd gråt. "Slå dig ner!"
+kved han. Harry tyckte han hörde hur rösterna där nere började sväva på målet.
+Harry, som försökte hyssja på honom och se tröstande ut på samma gång, ledde
+tillbaka Dobby upp på sängen, där han satt och hickade och såg ut som en stor
+och väldigt ful docka. till sist lyckades han ta sig samman och satt och tittade
+på Harry med ett uttryck av tårfylld beundran i sina enorma ögon. "Du kan inte
+ha stött på särskilt många hyggliga trollkarlar", sade Harry i ett försök att
+muntra upp honom. Dobby skakade på huvudet. Hedwig hade vaknat med ett
+genomträngande skrik och slog häftigt med vingarna mot burens galler. "Dobby
+pratade nästan illa om sin familj" Dobby ryste. "O nej, sir, nej då Dobby måste
+bestraffa sig själv ytterst hårt för att han hälsat på Harry Potter. Dobby måste
+klämma sina öron i ugnsluckan för det här. Dobby måste alltid bestraffa sig
+själv för nånting. De låter Dobby hållas med det. "Men varför ger du dig inte i
+väg? Och familjen kommer aldrig att släppa Dobby fri. Harry stirrade på honom.
+"det här får familjen Dursley att låta nästan mänsklig. Kan ingen hjälpa dig?
+Redan i nästa ögonblick önskade Harry att han inte hade sagt något. Dobby
+började på nytt ge ifrån sig högljudda kvidanden av tacksamhet. Dobby har hört
+talas om er storhet, sir, men om er godhet visste han ingenting" Men han avbröt
+sig hastigt, för det gjorde ont att tänka på Hermione. "Voldemort?" sade Harry.
+Han avbröt sig igen. Att tänka på Ron gjorde också ont. Dobby lutade sig fram
+mot Harry, och hans ögon var stora som strålkastare. "Dobby har hört berättas",
+sade han hest, "att Harry Potter mötte Mörkrets herre en andra gång, för bara
+några veckor sen och att Harry Potter klarade sig undan ännu en gång." Harry
+nickade och Dobbys ögon glänste plötsligt av tårar. Han har redan trotsat så
+många faror! Men Dobby har kommit för att skydda Harry Potter, för att varna
+honom, även om Dobby blir tvungen att klämma öronen i ugnsluckan efteråt. Det
+uppstod en tystnad som endast bröts av klirret från knivar och gafflar en trappa
+ner och det avlägsna mullret från morbror Vernons röst. "Men jag måste fara
+tillbaka, terminen börjar den första september. Tanken på det är det enda som
+håller mig uppe. Du vet inte hur det är här. Jag hör inte hemma här. Han är för
+viktig, för god att förlora. "Varför det?" sade Harry häpet. Harry Potter får
+inte utsätta sig för fara. "Vad då för förfärliga saker?" sade Harry genast.
+Dobby gav ifrån sig ett konstigt ljud som om han höll på att kvävas och dunkade
+sedan huvudet våldsamt i väggen. En plötslig, obehaglig tanke slog honom. "Vänta
+nu, det här har väl inget med Vol förlåt med Du-vet-vem att göra, va? Dobby
+skakade långsamt på huvudet. Men Dobbys ögon var vitt uppspärrade och det såg ut
+som om han försökte ge Harry en vink. Men Harry fattade inte ett dugg av det
+hela. Dobby skakade på huvudet, med större ögon än någonsin. Dobby nickade.
+"Albus Dumbledore är den finaste rektor Hogwarts nånsin har haft. Det vet Dobby.
+Dobby har hört att Dumbledores kraft kan mäta sig med kraften hos
+Den-som-inte-får-nämnas-vid-namn när han är som allra starkast. Och innan Harry
+hann hejda honom skuttade Dobby ner från sängen, grep tag i Harrys bordslampa
+och började slå sig på öronen under öronbedövande skrik. En plötslig tystnad
+uppstod en trappa ner. "Vad i helvete sysslar du med?" sade morbror Vernon med
+gnisslande tänder och ansiktet förfärande nära Harrys. Han klampade ut ur rummet
+på platta fötter. Darrande släppte Harry ut Dobby ur garderoben. "Vänner som
+inte ens skriver till Harry Potter?" sade Dobby knipslugt. Dobby skrapade med
+fötterna. "Dobby har dem här", sade alfen. Han klev kvickt utom räckhåll för
+Harry och drog fram en tjock bunt kuvert ur örngottet han hade på sig. Harry
+kunde urskilja Hermiones prydliga handstil, Rons slarviga kråkfötter och till
+och med några klottriga bokstäver som såg ut som om de var från Hagrid,
+skogvaktaren på Hogwarts. I samma ögonblick Ginny fick syn på Harry råkade hon
+slå ner sin grötskål i golvet med ett högt skrammel. Hon tappade och slog nästan
+alltid omkull saker när Harry kom i närheten. Hon dök hastigt ner under bordet
+för att ta upp skålen och dök upp igen med ett ansikte lika rött som en
+solnedgång. Harry låtsades som om han inte hade lagt märke till det utan satte
+sig och tog emot den rostade brödskivan som mrs Weasley räckte honom. Under ett
+par minuter rådde tystnad medan de allesammans läste sina brev. I Harrys stod
+det att han som vanligt skulle ta Hogwartsexpressen från King's Cross Station
+den första september. Där fanns också en lista på de nya böcker han behövde
+skaffa för det kommande läsåret: Andraårselever bör medtaga följande böcker:
+Standardbok i besvärjelsekonst, nivå 2 av Miranda Goshawk Kafferast med
+klagoandar av Gyllenroy Lockman På vift med vittror av Gyllenroy Lockman Helger
+med häxor av Gyllenroy Lockman Turer med troll av Gyllenroy Lockman Vallfärder
+med vampyrer av Gyllenroy Lockman Vandringar med varulvar av Gyllenroy Lockman
+Stunder med snömannen av Gyllenroy Lockman Fred, som hade läst färdigt sin egen
+boklista, kikade på Harrys. "Den nye läraren i försvar mot svartkonster måste
+vara en beundrare till honom – slår vad om att det är en häxa." Fred fick en
+blick från sin mamma som fick honom att hastigt ägna sig åt marmeladen. "Jaså,
+ska du börja på Hogwarts i år?" frågade Harry Ginny. Hon nickade och rodnade
+ända ner till rötterna på sitt flammande hår medan hon lade armbågen i smöret.
+Lyckligtvis var det bara Harry som såg det, för just då kom Rons äldre bror
+Percy in i köket. Han var redan fullt påklädd, med sitt Hogwarts-prefektemblem
+fastsatt på den stickade tröjan. Han slog sig ner på den enda lediga stolen men
+for upp igen nästan med detsamma och drog fram en grå dammvippa med lossnande
+fjädrar från sitsen under sig – det var i alla fall vad Harry trodde att det
+var, tills han såg att den andades. Jag skrev till henne och berättade att vi
+hade tänkt rädda dig från familjen Dursley." Sedan slet han upp Hermiones brev
+och läste det högt: Käre Ron, och Harry, om du är där! Jag hoppas allting gick
+bra och att Harry är okej och att ni inte gjorde någonting olagligt för att
+rädda honom, Ron, för det skulle bara ge honom problem också. Jag har varit
+väldigt orolig, och om allt är bra med Harry kan ni väl genast skriva och
+berätta det. Det vore kanske bättre om ni använde en annan uggla, eftersom jag
+tror att en brevtur till skulle ta död på den ni har. Jag har förstås en massa
+att läsa och förbereda till nästa skolår och vi ska åka till London på onsdag
+för att köpa de nya böckerna jag ska ha. Skulle vi inte kunna träffas i
+Diagongränden? Hör av er så snart ni kan så jag får veta vad som händer.
+Hjärtliga hälsningar från Hermione. Harry, Ron och George tänkte gå till den
+lilla hästhagen uppe på kullen som familjen Weasley ägde. Den var omgiven av
+träd som skymde sikten från byn nedanför, vilket gjorde att de kunde träna
+quidditch där, så länge de inte flög för högt. De kunde inte använda riktiga
+quidditchbollar, för det skulle bli svårt att förklara om de stack i väg och
+flög bort över byn ; i stället kastade de äpplen till varandra och försökte
+fånga dem. De turades om att rida på Harrys Nimbus Tvåtusen, som helt klart var
+den bästa kvasten. Rons gamla Stjärnskott blev ofta förbiflugen av fjärilar. Fem
+minuter senare vandrade de uppför kullen med sina kvastkäppar över axeln. De
+hade frågat Percy om han ville följa med, men han hade sagt att han var
+upptagen. Harry hade hittills bara sett Percy vid måltiderna, han satt instängd
+på sitt rum resten av tiden. "Jag önskar jag visste vad han håller på med", sade
+Fred med bekymrad min. Innan vi hinner blinka får vi kanske en förste
+ordningsman till i familjen. Jag tror inte jag överlever skammen." Bill var den
+äldste av bröderna Weasley. Han och den närmaste brodern, Charlie, hade redan
+lämnat Hogwarts. Harry hade aldrig träffat någon av dem men visste att Charlie
+var i Rumänien, där han studerade drakar, och Bill i Egypten, där han arbetade
+för trollkarlsbanken Gringotts. Harry sade ingenting. Han kände sig en smula
+generad. Väl förvarad i ett underjordiskt kassavalv hos Gringotts i London låg
+nämligen en hel förmögenhet som hans föräldrar hade lämnat efter sig åt honom.
+Det var förstås bara i trollkarlsvärlden som hans pengar var värda någonting ;
+man kunde inte använda galleoner, siklar och knutingar i mugglarbutiker. Han
+hade aldrig nämnt sitt bankkonto hos Gringotts för familjen Dursley. Han var
+inte säker på att de skulle hysa lika stor avsky för en stor hög med guld som de
+gjorde för allting annat i trollkarlsvärlden. Mrs Weasley väckte dem allesammans
+tidigt onsdagen därpå. De satte raskt i sig ett halvt dussin baconsmörgåsar var
+och drog sedan på sig sina rockar. Mrs Weasley tog ner en blomkruka från
+spiselhyllan och kikade inuti den. "Vi måste köpa lite mer i dag nåja, strunt i
+det. Gästerna först! Och hon räckte honom blomkrukan. Harry stirrade på dem. De
+såg allesammans förväntansfullt på honom. "Aldrig?" sade mr Weasley. Hur
+fungerar?" Han tog en nypa glittrande pulver ur blomkrukan, klev fram till
+brasan och kastade pulvret i lågorna. Med ett dån blev elden smaragdgrön och
+flammade högre än Fred, som klev rakt in i den och ropade: "Diagongränden!" I
+nästa ögonblick var han försvunnen. 
+
+Vi bodde i ett stort ljust spatiöst fönsterrikt generöst hus, ritat av Lutyens.
+Far hade köpt det till mor i en storslagen gest av kärlek och stolthet. Hon
+skulle inte behöva bo i ett kyffigt radhus med hundkoja och utedass. Trädgården
+var lummig och grön och omgiven av en ring av träd, och mitt på den täta och
+jämna gräsmattan stod ett viktorianskt solur av granit och skiffer. Längst nere
+på urtavlan fanns en bild av Tiden som iförd huva skördade timmarna med sin lie,
+men upptill, ovanför tolvan, satt en ängel med trumpet och med inskriptionen
+"Aliquem alium internum". Jag visste inte vad detta betydde och när jag hade
+lärt mig att översätta det begrep jag det inte. Så småningom kom det att betyda
+en hel del för mig, men det var senare. Hans egen släkt var sjömän från
+Liverpool och hade alltid jobbat i hamnen, på båtarna, i flottan eller på
+handelsfartyg. Kvinnorna hade haft jobb på skeppskontoren som brokigt radade upp
+sig utefter kajerna. Hans mor, min farmor, hade varit Officiell
+Mässingskyltsputsare och en del påstod att när hon var klar med sin fredagsrunda
+glänste skyltarna så blanka att reflexerna studsade över vågorna i glidflykt och
+syntes ända till New Yorks hamn. "Tvärtom." Han hade blivit utnämnd till
+rederiets chef. Jo. Nej. Klockan som tickar och lukten av smörstekt böckling.
+Den unge mannen utanför sin mors kropp iförd sin fars kläder. Bli någon. Bli
+någon. Friköpa historien. Göra våra liv till en energiansamling i stället för
+ett ändlöst uppoffrande, styrkan att hoppa, men vi faller, fram till dig som
+hoppar och inte faller. Då inser vi meningen med oss, de enstaka framstammade
+orden samlar styrka och blir en berättelse. Detta är historien om en anspråkslös
+familj som gjorde sig ett namn. Min son David, vars far, farfar och farfarsfar
+ända ner i sjätte släktledet arbetade i hamnen. Min son David, rik, aktad,
+mäktig, en man. Min son David, vars ögon äger lystern. Min son David som hemför
+historien. När hon var elva år gammal dog hennes pappa. Tre månader senare tog
+mamma, i liten svart dräkt, och barnet, i svart varm kappa, båten till Hamburg
+och bosatte sig åter i Berlin. Böckerna och bokhandeln hade sålts och det
+hemliga rummet var tomt. Farmor sjöng en psalm, som huvudsakligen lovade Gud men
+också effektivt hindrade far från att höra vad som pågick. Det var en snabb
+förlossning, och när jag hade lagts vid mors bröst åt farmor en smörgås och gick
+för att berätta för far att han hade begåvats med en dotter. Det var så Jove
+hade sagt för några månader sedan när han hade hållit mig om handleden, alltför
+hårt, över ett restaurangbord. Hon höll fortfarande min hand och det jag gjorde
+låg bortom allt jag hade kunnat tänka mig att göra. Jag böjde mig fram över det
+smala bordet och kysste henne. Mitt huvud kämpade för att tränga sig upp ur min
+mors ktoniska underjord ut i min fars värld av svårighet och dröm. Jag trodde
+aldrig att jag skulle återvända dit ner. När hon åt sina scones blev det kvar
+ett snigelspår av sot längs hennes överläpp. Hennes granne kallade henne för
+"Sottrut". Farmor kallade sin granne för "Stinkputa", men annars stod de på god
+fot med varandra och utbytte näsdukar och tvål till jul. Fegheten delar säng med
+fräckheten. Jag var rädd och jag ville bluffa mig ut. Kyssen var en rökbomb för
+att skapa förvirring och avleda uppmärksamheten. Jag trodde att hon skulle slå
+till mig. Jag trodde att hon skulle rusa iväg. I själva verket gjorde hon
+ingenting. Ställde sin fråga och gjorde ingenting. Jag började åter äta min
+kalla pasta. Jag skulle med glädje ha klivit ner i tallriken och dränkt mig i
+musselsåsen. Jag var i den åldern då man gör listor, men listorna byggde på till
+hälften sanna och alltigenom fantasifulla korrespondenser mellan jorden, havet
+och himlen. Kanske försökte jag hålla samman min egen värld som löpte så stor
+risk att falla sönder. Kanske sökte jag ordning där det inte fanns någon. Medan
+QE2 så fylld av självförtroende gled fram över vattnet tänkte jag på Titanic,
+spöklik och övergiven där under oss, och någonstans där uppe, i det
+hemlighetsfulla mörkret, navigerade Dårarnas Skepp mellan stjärnorna. Var det
+kometen? Följaktligen tog far på sig sina sjöbjörnskläder och mor svepte in sig
+i sin minkpäls. Vid det laget hade de en treliters Rover, egentligen en
+soffgrupp med barskåp på hjul. Far körde mjukt spinnande ner till hamnen och såg
+ut som en brottsling, medan mor blandade sig en strängt förbjuden gin och tonic
+i baksätet. Page i bägare. Tarotlekens förhoppningsfulle yngling. Mitt
+identitetskort. När Stella kysste mig minns jag att jag tänkte: "Detta är inte
+tillåtet." Jag var glad över dimman och mörkret, för jag visste att om någon såg
+oss skulle hela våra liv: bakgrund, komplexitet, nationalitet, intelligens,
+ålder, prestationer, status, allt skulle krympas ihop till antaganden kring vår
+kyss. Vem som än såg oss skulle säga: "Där är ett par...", och denna kyss,
+prövande, ambivalent, skulle bli ett lås och en nyckel. "David", sa hon. Hon
+hade på sig ett svart oljeställ som hade tillhört hennes man. Det täckte henne
+från huvud till fot, så till den grad att hon snarare såg ut att vara i klorna
+på ett monster ur Djupen än iförd regnkläder. Hon och jag skulle komma dit från
+motsatta sidor av stan. Jag föreställde mig henne: arg, självsäker, redo att ta
+strid med mig och ge mig tillbaka med samma mynt. Detta var den stora matchen
+och Jove var prispokalen. När jag berättade för honom att hon hade skrivit till
+mig bestämde han sig för att åka och hälsa på goda vänner över helgen. Samtidigt
+insåg jag att jag gärna skulle kyssas mera om det inte vore så komplicerat. Så
+komplicerat. Min första allvarliga känslostorm gällde en gift man. Min första
+upplevelse av äkta åtrå gällde en gift kvinna. Jag ville ju faktiskt kyssa
+henne. Det var detta som mest av allt förvånade mig. Medan han stod där och
+skvallrade och njöt av sysslolösheten tystnade Remingtonen. Hans sekreterare kom
+ut från den låga raden av kontor som låg tätt tryckta tillsammans utefter kajen.
+Det hade kommit ett brådskande telefonsamtal till honom. Kunde han genast komma
+in? Min far älskade havet och skulle gärna ha blivit aktiv sjöman, men det fanns
+större möjligheter inomhus för en klyftig pojke som ägde det där lilla extra.
+Han kompenserade sig genom att tjata sig ombord på bogserbåtarna, och eftersom
+Bolaget än så länge uppmuntrade lärlingskap tolererades hans underliga idéer.
+Det kunde väl aldrig skada och var inte all erfarenhet till nytta? Dessutom
+ägnade han sig åt det på sin fritid och det gjorde honom populär bland
+manskapet. Under tiden, i ett virrvarr av blöta lakan och gamla nummer av Womans
+Weekly, spetsade min far min mor på sin mandoms spjut. Det var en strålande
+morgon, han stod lutad mot räcket vid hamnen och såg på när kranarna lastade
+skeppen. Världen rann genom hans fingrar: kryddor, vin, te, gröna bananer,
+kokosnötter, amerikanska golfklubbor, filtar av ull med sidenskoningar runt
+kanterna. Idag lastade de nylonstrumpor och Monroe-kopiorna vimlade på
+kartongerna. "Jag kom hit för att möta..." Han hade kommit upp sig i världen och
+nu tänkte han ge bevis på det. Ombord packade farmor upp sin kappsäck. Hon
+radade upp en hög rena trasor, sådana som hon använde till att putsa
+mässingsskyltarna, en flaska matlagningskonjak, en flaska jod, ett primuskök, en
+termos med varmvatten, en kökskniv, ett paket smörgåsar, en liten filt från
+hundkorgen, sina glasögon samt Bibeln, nu uppslagen vid slutet av Psaltaren. När
+detta var klart tog hon av sig oljestället och hängde upp det över luckan. Jag
+hade hennes brev i fickan. Den omsorgsfulla handstilen. Förhållningsordern som
+manade till lydnad. "Vi träffas onsdagen den 12 klockan 18.30 i baren på
+Algonquin Hotel." Han kände arbetarna och stuvarna och truckförarna och
+hamnlotsarna, och när han stod där lutad mot räcket och tittade och ibland
+vinkade kom andra män och ställde sig bredvid honom, tände en cigarett,
+berättade senaste nytt för honom för att sedan gå vidare efter att ha dunkat
+honom i ryggen. Han trivdes med arbetarnas okomplicerade kamratskap. Här var det
+ingen som frågade honom vilken skola han hade gått i. "Är det något på tok?" sa
+far. Min far brukade säga åt mig att jag hade bläckfiskkomplex. "Måste du
+försöka göra åtta saker samtidigt?" Jag brukade föreställa mig att det fanns en
+bläckfisk, som huvudformad och uråldrig flöt omkring i min kropps skvalpiga
+vatten och mörk och blind sträckte ut sina tentakler för att känna efter vad som
+fanns där ute. Jämförelsen haltar, men jag är fullt i stånd att uppföra mig som
+en åttaarmad huvudfoting samtidigt som jag bedyrar oskulden hos mina två händer
+på bordet. Hans far, min farfar, dödades i en krigsfars när en amerikansk torped
+sänkte fel båt. Som ett resultat av detta fick farmor ut en ansenlig pension och
+kunde bekosta privatutbildning för sin vilde, starke son. Hon öste ner sina
+pengar i honom som vore han en skattkista. Han var läraktig, såg bra ut och den
+som undrade över hans tvårumuppe-tvårumnere-radhus vid Mersey blev helt enkelt
+nerklubbad. Under hela sitt liv har min far hanterat svåra frågor genom att
+klubba ner dem. Det som är medvetslöst pratar inte och detta inbegrep den dolda
+delen av honom själv. Hon hade fått en god utbildning och lärt sig att dölja
+den. Hon slutade aldrig med sången och pianospelandet och hon övergav aldrig
+akvarellmålningen. Resten av sitt intellekt gjorde hon sig av med vid
+giftermålet och kom aldrig på tanken att fråga min far vad han hade gjort av
+det. Varför hade hon valt just här? Nu var det här. Fem minuter kvar. Tidens
+grymhet. Var det jag som sa det? Nej, det var hon. Ibland tror jag att min
+personlighet är en atoll för ett trupptransportfartyg: Invadera mig! Och så kom
+det sig att de alla tre gick ombord på Godspeed och dunkade ut i mörkret. När
+jag föddes levde havet fortfarande. Också min far levde fortfarande, stor och
+kraftig, lika bred som han var lång, med en enorm bröstkorg som såg ut att kunna
+bogsera lastbåtarna för egen maskin. Vi lagade frukost i det som fanns kvar av
+stekpannan och åt vår mat stående, medan vi tittade ut på parken genom fönstret.

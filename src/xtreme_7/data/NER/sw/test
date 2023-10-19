@@ -1,0 +1,6786 @@
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:33413	O
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Anastasio	I-PER
+sw:III	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Yohane	I-PER
+sw:X	I-PER
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:15.5	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:LDP	B-ORG
+sw:(	I-ORG
+sw:Kenya	I-ORG
+sw:)	I-ORG
+
+sw:Mji	B-LOC
+sw:mkuu	I-LOC
+sw:ni	O
+sw:Fukuoka	B-LOC
+sw:(	O
+sw:福岡市	O
+sw:)	O
+sw:.	O
+
+sw:Shirika	B-ORG
+sw:la	I-ORG
+sw:Viwango	I-ORG
+sw:Katika	I-ORG
+sw:Kenya	I-ORG
+
+sw:Orodha	B-PER
+sw:ya	I-PER
+sw:Marais	I-PER
+sw:wa	I-PER
+sw:Sudan	I-PER
+
+sw:William	B-PER
+sw:Devane	I-PER
+sw:kama	O
+sw:Secretary	B-PER
+sw:of	I-PER
+sw:Defense	I-PER
+sw:James	I-PER
+sw:Heller	I-PER
+
+sw:Kitabu	B-ORG
+sw:cha	I-ORG
+sw:Yoeli	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:42	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Nikolaus	B-PER
+sw:von	I-PER
+sw:Zinzendorf	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:127	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:25208	O
+
+sw:Michezo	B-ORG
+sw:ya	I-ORG
+sw:Afrika	I-ORG
+sw:Nzima	I-ORG
+
+sw:Hatimaye	O
+sw:alifuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Damaso	I-PER
+sw:II	I-PER
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:49	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Wilaya	B-LOC
+sw:ya	I-LOC
+sw:Uyui	I-LOC
+sw:396.623	O
+
+sw:En	O
+sw:Ti	O
+sw:Deje	O
+sw:Mi	O
+sw:Amor	O
+sw:(	O
+sw:I	B-ORG
+sw:Lay	I-ORG
+sw:My	I-ORG
+sw:Love	I-ORG
+sw:on	I-ORG
+sw:You	I-ORG
+sw:)	O
+
+sw:Reli	B-ORG
+sw:ya	I-ORG
+sw:Tanganyika	I-ORG
+
+sw:Wakuu	B-PER
+sw:wa	I-PER
+sw:Serikali	I-PER
+sw:ya	I-PER
+sw:Kenya	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:21.94	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Wilaya	B-ORG
+sw:ya	I-ORG
+sw:Sassandra	I-ORG
+
+sw:Eneo	B-LOC
+sw:la	I-LOC
+sw:Uingereza	I-LOC
+sw:katika	I-LOC
+sw:Bahari	I-LOC
+sw:Hindi	I-LOC
+
+sw:Carl	B-PER
+sw:XVI	I-PER
+sw:Gustaf	I-PER
+sw:wa	I-PER
+sw:Uswidi	I-PER
+
+sw:Alifuatwa	O
+sw:na	O
+sw:Edward	B-PER
+sw:Sokoine	I-PER
+sw:.	O
+
+sw:Mkoa	B-LOC
+sw:wa	I-LOC
+sw:Damietta	I-LOC
+
+sw:'	O
+sw:''	O
+sw:Sri	B-LOC
+sw:Lanka	I-LOC
+sw:''	O
+sw:'	O
+
+sw:Muungano	B-ORG
+sw:wa	I-ORG
+sw:mabenki	I-ORG
+sw:ya	I-ORG
+sw:Equity	I-ORG
+
+sw:Henry	B-PER
+sw:Morton	I-PER
+sw:Stanley	I-PER
+
+sw:Harry	B-PER
+sw:S.	I-PER
+sw:Truman	I-PER
+
+sw:Wilaya	B-LOC
+sw:ya	I-LOC
+sw:Mpwapwa	I-LOC
+sw:305.056	O
+
+sw:Henry	B-PER
+sw:Callaway	I-PER
+sw:(	O
+sw:1817-1890	O
+sw:)	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:65	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:17.6	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Orodha	B-ORG
+sw:ya	I-ORG
+sw:Mawaziri	I-ORG
+sw:Wakuu	I-ORG
+sw:wa	I-ORG
+sw:Slovenia	I-ORG
+
+sw:Kiayta	B-ORG
+sw:ya	I-ORG
+sw:Mag-Indi	I-ORG
+
+sw:Ron	B-PER
+sw:Kenoly	I-PER
+sw:-	O
+sw:muimbaji	O
+sw:mgeni	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:26.4	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:El	B-LOC
+sw:Paso	I-LOC
+sw:,	I-LOC
+sw:Texas	I-LOC
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:43.5	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:``	O
+sw:Been	B-ORG
+sw:There	I-ORG
+sw:,	I-ORG
+sw:Done	I-ORG
+sw:That	I-ORG
+sw:''	O
+
+sw:''	O
+sw:Bilecik	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Bloemfontein	B-LOC
+sw:,	O
+sw:Cape	B-LOC
+sw:Town	I-LOC
+sw:,	O
+sw:Pretoria	B-LOC
+
+sw:Cedar	B-LOC
+sw:Falls	I-LOC
+sw:,	I-LOC
+sw:Iowa	I-LOC
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Silvester	I-PER
+sw:II	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Yohane	I-PER
+sw:XVIII	I-PER
+sw:.	O
+
+sw:'	O
+sw:''	O
+sw:If	B-ORG
+sw:I	I-ORG
+sw:Were	I-ORG
+sw:a	I-ORG
+sw:Boy”	I-ORG
+sw:''	O
+sw:'	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:9.6	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:20.9	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:'	O
+sw:''	O
+sw:Pretoria	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Papa	B-PER
+sw:Paskali	I-PER
+sw:II	I-PER
+sw:(	O
+sw:1050-1118	O
+sw:)	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:416.84	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Wilaya	B-LOC
+sw:ya	I-LOC
+sw:Makete	I-LOC
+sw:97.266	O
+
+sw:Chama	B-ORG
+sw:cha	I-ORG
+sw:Mapinduzi	I-ORG
+
+sw:Dan	B-PER
+sw:Jacobson	I-PER
+sw:(	O
+sw:1929-	O
+sw:)	O
+
+sw:Laikipia	B-LOC
+sw:(	O
+sw:Nanyuki	B-LOC
+sw:)	O
+
+sw:``	O
+sw:Can	B-ORG
+sw:We	I-ORG
+sw:Chill	I-ORG
+sw:''	O
+
+sw:Chuo	B-ORG
+sw:Kikuu	I-ORG
+sw:cha	I-ORG
+sw:Cape	I-ORG
+sw:Town	I-ORG
+
+sw:Bonaventura	B-PER
+sw:wa	I-PER
+sw:Bagnoregio	I-PER
+
+sw:Kim	B-PER
+sw:yumbioni	O
+sw:,	O
+sw:kwa	O
+sw:kumwokoa	O
+sw:kisichana	O
+sw:kidogo	O
+sw:kilichokuwa	O
+sw:kikinyanyaswa	O
+sw:na	O
+sw:baba	O
+sw:yake	O
+sw:.	O
+
+sw:Ina	O
+sw:eneo	O
+sw:la	O
+sw:1,076,395	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Terror	B-ORG
+sw:Squad	I-ORG
+sw:(	I-ORG
+sw:studio	I-ORG
+sw:)	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:103.59	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:''Al	O
+sw:Bu	O
+sw:Falasah	O
+sw:''	O
+sw:(	O
+sw:Dubai	B-LOC
+sw:)	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:79	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:756.6	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:1047.6	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Arusha	B-LOC
+sw:(	I-LOC
+sw:mji	I-LOC
+sw:)	I-LOC
+
+sw:Mtaguso	B-ORG
+sw:wa	I-ORG
+sw:pili	I-ORG
+sw:wa	I-ORG
+sw:Vatikani	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:108	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:24	B-ORG
+sw:(	I-ORG
+sw:msimu	I-ORG
+sw:wa	I-ORG
+sw:8	I-ORG
+sw:)	I-ORG
+
+sw:Ulitumiwa	O
+sw:pia	O
+sw:na	O
+sw:Adolf	B-PER
+sw:Hitler	I-PER
+sw:,	O
+sw:na	O
+sw:tangu	O
+sw:hapo	O
+sw:unachukiwa	O
+sw:na	O
+sw:wengi	O
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:41	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Nat	B-PER
+sw:King	I-PER
+sw:Cole	I-PER
+
+sw:|	O
+sw:bgcolor=	O
+sw:''	O
+sw:ddddff	O
+sw:''	O
+sw:align=	O
+sw:''	O
+sw:center	O
+sw:''	O
+sw:|	O
+sw:Kiarabu	B-ORG
+
+sw:If	B-ORG
+sw:I	I-ORG
+sw:Let	I-ORG
+sw:You	I-ORG
+sw:Go	I-ORG
+
+sw:North	B-LOC
+sw:Valley	I-LOC
+sw:Stream	I-LOC
+sw:,	I-LOC
+sw:New	I-LOC
+sw:York	I-LOC
+
+sw:Hifadhi	B-ORG
+sw:ya	I-ORG
+sw:Taifa	I-ORG
+sw:ya	I-ORG
+sw:Hell	I-ORG
+sw:'s	I-ORG
+sw:Gate	I-ORG
+
+sw:Hatimaye	O
+sw:Papa	B-PER
+sw:Gregori	I-PER
+sw:XII	I-PER
+sw:alikubali	O
+sw:kujiuzulu	O
+sw:,	O
+sw:wapinzani	O
+sw:wake	O
+sw:wawili	O
+sw:waliondolewa	O
+sw:,	O
+sw:na	O
+sw:Papa	B-PER
+sw:Martin	I-PER
+sw:V	I-PER
+sw:akachaguliwa	O
+sw:.	O
+
+sw:Herbert	B-PER
+sw:James	I-PER
+sw:Mntangi	I-PER
+
+sw:Perth	B-LOC
+sw:Amboy	I-LOC
+sw:,	I-LOC
+sw:New	I-LOC
+sw:Jersey	I-LOC
+
+sw:'	O
+sw:''	O
+sw:Belo	B-LOC
+sw:Horizonte	I-LOC
+sw:''	O
+sw:'	O
+
+sw:Biržai	B-LOC
+sw:(	I-LOC
+sw:DM	I-LOC
+sw:)	I-LOC
+
+sw:Mathias	B-PER
+sw:Meinrad	I-PER
+sw:Chikawe	I-PER
+
+sw:John	B-PER
+sw:Atta	I-PER
+sw:Mills	I-PER
+
+sw:``	O
+sw:Uptown	B-ORG
+sw:Girl	I-ORG
+sw:(	O
+sw:Radio	O
+sw:Edit	O
+sw:)	O
+sw:''	O
+
+sw:Papa	B-PER
+sw:Callixtus	I-PER
+sw:III	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:36	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:''	O
+sw:Israel	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Bahari	B-LOC
+sw:ya	I-LOC
+sw:Aegean	I-LOC
+
+sw:*Desemba	O
+sw:-	O
+sw:Papa	B-PER
+sw:Leo	I-PER
+sw:VI	I-PER
+
+sw:Chuo	B-ORG
+sw:Kikuu	I-ORG
+sw:cha	I-ORG
+sw:Kilimo	I-ORG
+sw:na	I-ORG
+sw:Teknolojia	I-ORG
+sw:cha	I-ORG
+sw:Jomo	I-ORG
+sw:Kenyatta	I-ORG
+
+sw:Wasichana	B-PER
+sw:wa	I-PER
+sw:Bond	I-PER
+
+sw:Mehmed	B-PER
+sw:II	I-PER
+sw:''	O
+sw:Mshindi	O
+sw:''	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Benedikto	I-PER
+sw:IX	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Leo	I-PER
+sw:IX	I-PER
+sw:.	O
+
+sw:``	O
+sw:I	B-ORG
+sw:Lay	I-ORG
+sw:My	I-ORG
+sw:Love	I-ORG
+sw:on	I-ORG
+sw:You	I-ORG
+sw:''	O
+sw:(	O
+sw:Single	O
+sw:Remix	O
+sw:)	O
+
+sw:Yohane	B-PER
+sw:wa	I-PER
+sw:Msalaba	I-PER
+sw:''	O
+sw:.	O
+
+sw:'	O
+sw:''	O
+sw:Wilaya	B-LOC
+sw:ya	I-LOC
+sw:Taita-Taveta	I-LOC
+sw:''	O
+sw:'	O
+
+sw:Kiefer	B-PER
+sw:Sutherland	I-PER
+sw:kama	O
+sw:Jack	B-PER
+sw:Bauer	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:157.50	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Viktoria	B-PER
+sw:wa	I-PER
+sw:Uingereza	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:57.8	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Chuo	B-ORG
+sw:Kikuu	I-ORG
+sw:cha	I-ORG
+sw:Sokoine	I-ORG
+sw:cha	I-ORG
+sw:Kilimo	I-ORG
+sw:(	I-ORG
+sw:SUA	I-ORG
+sw:)	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:68	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Teletubbies	B-PER
+sw:,	O
+sw:a	O
+sw:tv	O
+sw:show	O
+sw:for	O
+sw:children	O
+sw:.	O
+
+sw:Karl	B-PER
+sw:Friedrich	I-PER
+sw:Benz	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:61.9	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Gregori	I-PER
+sw:XVI	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Leo	I-PER
+sw:XIII	I-PER
+sw:.	O
+
+sw:``	O
+sw:California	B-ORG
+sw:Love	I-ORG
+sw:''	O
+sw:[Non	O
+sw:Album	O
+sw:Single]	O
+
+sw:Imepakana	O
+sw:na	O
+sw:Peru	B-LOC
+sw:,	O
+sw:Bolivia	B-LOC
+sw:na	O
+sw:Argentina	B-LOC
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:368.20	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:'	O
+sw:''	O
+sw:Wilaya	B-LOC
+sw:ya	I-LOC
+sw:Mbeere	I-LOC
+sw:''	O
+sw:'	O
+
+sw:``	O
+sw:The	B-ORG
+sw:Way	I-ORG
+sw:You	I-ORG
+sw:Make	I-ORG
+sw:Me	I-ORG
+sw:Feel	I-ORG
+sw:''	O
+
+sw:Pia	O
+sw:kuna	O
+sw:wasemaji	O
+sw:10,460	O
+sw:nchini	O
+sw:Jamhuri	B-LOC
+sw:ya	I-LOC
+sw:Afrika	I-LOC
+sw:ya	I-LOC
+sw:Kati	I-LOC
+sw:na	O
+sw:9060	O
+sw:nchini	O
+sw:Jamhuri	B-LOC
+sw:ya	I-LOC
+sw:Kongo	I-LOC
+sw:.	O
+
+sw:Takwimu	B-ORG
+sw:za	I-ORG
+sw:Norwei	I-ORG
+
+sw:Cincinnati	B-LOC
+sw:,	I-LOC
+sw:Ohio	I-LOC
+
+sw:Jamhuri	B-LOC
+sw:ya	I-LOC
+sw:Dominika	I-LOC
+
+sw:Thousand	B-LOC
+sw:Oaks	I-LOC
+sw:,	I-LOC
+sw:California	I-LOC
+
+sw:Chuo	B-ORG
+sw:Kikuu	I-ORG
+sw:cha	I-ORG
+sw:Kikatoliki	I-ORG
+sw:cha	I-ORG
+sw:Ghana	I-ORG
+
+sw:Kaizari	B-PER
+sw:Rudolf	I-PER
+sw:II	I-PER
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Dionysius	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Eutychian	I-PER
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:2.9	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Kituo	B-ORG
+sw:cha	I-ORG
+sw:Nishi	I-ORG
+sw:Isahaya	I-ORG
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:33110	O
+sw:.	O
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:33328	O
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:13.5	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Carlo	B-PER
+sw:Rota	I-PER
+sw:kama	O
+sw:Morris	B-PER
+sw:O'Brian	I-PER
+
+sw:Umoja	B-LOC
+sw:wa	I-LOC
+sw:Kisovyeti	I-LOC
+
+sw:**	O
+sw:Makamu	B-PER
+sw:wa	I-PER
+sw:Rais	I-PER
+sw:wa	I-PER
+sw:Kenya	I-PER
+
+sw:Thomas	B-PER
+sw:Aquinas	I-PER
+sw:Mtakatifu	I-PER
+
+sw:Imepakana	O
+sw:na	O
+sw:Uswisi	B-LOC
+sw:na	O
+sw:Austria	B-LOC
+sw:.	O
+
+sw:Celina	B-PER
+sw:Ompeshi	I-PER
+sw:Kombani	I-PER
+
+sw:Kikanisa	O
+sw:linahusiana	O
+sw:na	O
+sw:Jimbo	B-ORG
+sw:Kuu	I-ORG
+sw:la	I-ORG
+sw:Mwanza	I-ORG
+sw:.	O
+
+sw:Papa	B-PER
+sw:Benedikto	I-PER
+sw:XVI	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:147	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Nasaba	B-LOC
+sw:ya	I-LOC
+sw:Qin	I-LOC
+
+sw:Papa	B-PER
+sw:Anastasio	I-PER
+sw:III	I-PER
+
+sw:Soko	B-ORG
+sw:la	I-ORG
+sw:Hisa	I-ORG
+sw:la	I-ORG
+sw:Nairobi	I-ORG
+
+sw:Chiquito	B-PER
+sw:de	I-PER
+sw:la	I-PER
+sw:Calzada	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:205.35	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Theodor	I-PER
+sw:I	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Eugenio	I-PER
+sw:I	I-PER
+sw:.	O
+
+sw:Chuo	B-ORG
+sw:Kikuu	I-ORG
+sw:cha	I-ORG
+sw:Strathmore	I-ORG
+
+sw:Wanachezea	O
+sw:katika	O
+sw:Chama	B-ORG
+sw:cha	I-ORG
+sw:Mpira	I-ORG
+sw:wa	I-ORG
+sw:Kikapu	I-ORG
+sw:nchini	O
+sw:Marekani	B-LOC
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Fabian	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Lucius	I-PER
+sw:I	I-PER
+sw:.	O
+
+sw:''	O
+sw:Pakistan	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Eneo	O
+sw:lake	O
+sw:378.45	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Mkoa	B-LOC
+sw:wa	I-LOC
+sw:Cà	I-LOC
+sw:Mau	I-LOC
+
+sw:Epiphany	B-ORG
+sw:''	O
+sw:(	O
+sw:2007	O
+sw:)	O
+
+sw:New	B-LOC
+sw:Bedford	I-LOC
+sw:,	I-LOC
+sw:Massachusetts	I-LOC
+
+sw:Papa	B-PER
+sw:Boniface	I-PER
+sw:VIII	I-PER
+
+sw:Babu	B-PER
+sw:wa	I-PER
+sw:Kanisa	I-PER
+
+sw:'	O
+sw:''	O
+sw:Wilaya	B-LOC
+sw:ya	I-LOC
+sw:Kuria	I-LOC
+sw:''	O
+sw:'	O
+
+sw:Orodha	B-ORG
+sw:ya	I-ORG
+sw:Mawaziri	I-ORG
+sw:Wakuu	I-ORG
+sw:wa	I-ORG
+sw:Ubelgiji	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:2.5	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Wanatokea	O
+sw:Afrika	B-LOC
+sw:na	O
+sw:Asia	B-LOC
+sw:.	O
+
+sw:'	O
+sw:''	O
+sw:Rio	B-LOC
+sw:Branco	I-LOC
+sw:''	O
+sw:'	O
+
+sw:Mkoa	B-LOC
+sw:wa	I-LOC
+sw:Bonde	I-LOC
+sw:la	I-LOC
+sw:Ufa	I-LOC
+
+sw:Jamhuri	B-LOC
+sw:ya	I-LOC
+sw:Kidemokrasia	I-LOC
+sw:ya	I-LOC
+sw:Kongo	I-LOC
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Gregori	I-PER
+sw:III	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Stefano	I-PER
+sw:II	I-PER
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:68.0	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:18.1	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:38	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Mji	B-LOC
+sw:mkuu	I-LOC
+sw:ni	O
+sw:Aomori	B-LOC
+sw:(	O
+sw:青森市	O
+sw:)	O
+sw:.	O
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:30209	O
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Leo	I-PER
+sw:I	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Simplicio	I-PER
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:37	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Imepakana	O
+sw:na	O
+sw:Uruguay	B-LOC
+sw:,	O
+sw:Argentina	B-LOC
+sw:,	O
+sw:Paraguay	B-LOC
+sw:,	O
+sw:Bolivia	B-LOC
+sw:,	O
+sw:Peru	B-LOC
+sw:,	O
+sw:Kolombia	B-LOC
+sw:,	O
+sw:Venezuela	B-LOC
+sw:,	O
+sw:Guyana	B-LOC
+sw:,	O
+sw:Surinam	B-LOC
+sw:na	O
+sw:eneo	O
+sw:la	O
+sw:Guyana	B-LOC
+sw:ya	I-LOC
+sw:Kifaransa	I-LOC
+sw:.	O
+
+sw:Uneo	O
+sw:lake	O
+sw:ni	O
+sw:151	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Bremen	B-LOC
+sw:-	O
+sw:''Bremen	O
+sw:Airport	O
+sw:''	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:23.6	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Francisco	B-PER
+sw:de	I-PER
+sw:Goya	I-PER
+
+sw:Papa	B-PER
+sw:Honorius	I-PER
+sw:I	I-PER
+
+sw:Smithtown	B-LOC
+sw:,	I-LOC
+sw:New	I-LOC
+sw:York	I-LOC
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:33505	O
+sw:.	O
+
+sw:With	B-ORG
+sw:You	I-ORG
+sw:(	I-ORG
+sw:nyimbo	I-ORG
+sw:ya	I-ORG
+sw:Chris	I-ORG
+sw:Brown	I-ORG
+sw:)	I-ORG
+
+sw:Hackensack	B-LOC
+sw:,	I-LOC
+sw:New	I-LOC
+sw:Jersey	I-LOC
+
+sw:Hivyo	O
+sw:kupitia	O
+sw:babake	O
+sw:alipata	O
+sw:kujua	O
+sw:watu	O
+sw:maarufu	O
+sw:kama	O
+sw:vile	O
+sw:Rembrandt	B-PER
+sw:,	O
+sw:Peter	B-PER
+sw:Paul	I-PER
+sw:Rubens	I-PER
+sw:na	O
+sw:René	B-PER
+sw:Descartes	I-PER
+sw:.	O
+
+sw:Saint	B-LOC
+sw:Kitts	I-LOC
+sw:na	I-LOC
+sw:Nevis	I-LOC
+sw:(	O
+sw:Basseterre	B-LOC
+sw:)	O
+sw:(	O
+sw:NA	O
+sw:)	O
+
+sw:Teresa	B-PER
+sw:wa	I-PER
+sw:Mtoto	I-PER
+sw:Yesu	I-PER
+
+sw:Los	B-LOC
+sw:Altos	I-LOC
+sw:,	I-LOC
+sw:California	I-LOC
+
+sw:Linz	B-LOC
+sw:-	O
+sw:''Linz	O
+sw:Airport	O
+sw:''	O
+
+sw:Dennis	B-PER
+sw:Haysbert	I-PER
+sw:kama	O
+sw:Rais	B-PER
+sw:David	I-PER
+sw:Palmer	I-PER
+
+sw:Mary	B-PER
+sw:Lynn	I-PER
+sw:Rajskub	I-PER
+sw:kama	O
+sw:Chloe	B-PER
+sw:O'Brian	I-PER
+
+sw:Kaizari	B-PER
+sw:Francis	I-PER
+sw:I	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:1.4	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Fat	B-PER
+sw:Joe	I-PER
+sw:(	O
+sw:mmiliki	O
+sw:)	O
+
+sw:Alimfuata	O
+sw:baba	O
+sw:yake	O
+sw:,	O
+sw:Theodosius	B-PER
+sw:Mkuu	I-PER
+sw:.	O
+
+sw:Wizara	B-ORG
+sw:ya	I-ORG
+sw:Maliasili	I-ORG
+sw:na	I-ORG
+sw:Utalii	I-ORG
+
+sw:Des	B-LOC
+sw:Plaines	I-LOC
+sw:,	I-LOC
+sw:Illinois	I-LOC
+
+sw:Herman	B-PER
+sw:Charles	I-PER
+sw:Bosman	I-PER
+sw:(	O
+sw:1905-1951	O
+sw:)	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:50.2	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Kikanisa	O
+sw:linahusiana	O
+sw:na	O
+sw:Jimbo	B-ORG
+sw:Kuu	I-ORG
+sw:la	I-ORG
+sw:Tororo	I-ORG
+sw:.	O
+
+sw:Mkoa	B-LOC
+sw:wa	I-LOC
+sw:Kusini	I-LOC
+sw:(	I-LOC
+sw:Zambia	I-LOC
+sw:)	I-LOC
+
+sw:William	B-PER
+sw:Edward	I-PER
+sw:Burghardt	I-PER
+sw:Du	I-PER
+sw:Bois	I-PER
+
+sw:Georg	B-PER
+sw:Wilhelm	I-PER
+sw:Friedrich	I-PER
+sw:Hegel	I-PER
+
+sw:Alimfuata	O
+sw:baba	O
+sw:yake	O
+sw:,	O
+sw:Vespasian	B-PER
+sw:.	O
+
+sw:Wilaya	B-ORG
+sw:ya	I-ORG
+sw:Yakassé-Attobrou	I-ORG
+
+sw:Akwa	B-ORG
+sw:Ibom	I-ORG
+sw:(	I-ORG
+sw:jimbo	I-ORG
+sw:)	I-ORG
+
+sw:``	O
+sw:If	B-ORG
+sw:I	I-ORG
+sw:Ca	I-ORG
+sw:n't	I-ORG
+sw:''	O
+
+sw:Mji	B-LOC
+sw:mkuu	I-LOC
+sw:wake	O
+sw:ni	O
+sw:Torino	B-LOC
+sw:.	O
+
+sw:The	B-ORG
+sw:Don	I-ORG
+sw:Killuminati	I-ORG
+sw::	I-ORG
+sw:The	B-ORG
+sw:7	I-ORG
+sw:Day	I-ORG
+sw:Theory	I-ORG
+sw:''	O
+
+sw:Wilaya	B-ORG
+sw:ya	I-ORG
+sw:Tingréla	I-ORG
+
+sw:Zacatecas	B-ORG
+sw:(	O
+sw:132,035	O
+sw:)	O
+
+sw:Abushiri	B-PER
+sw:ibn	I-PER
+sw:Salim	I-PER
+sw:al-Harthi	I-PER
+
+sw:Bangkok	B-LOC
+sw:(	I-LOC
+sw:Krung	I-LOC
+sw:Thep	I-LOC
+sw:Maha	I-LOC
+sw:Nakhon	I-LOC
+sw:)	I-LOC
+sw:,	O
+sw:Special	O
+sw:Governed	O
+sw:District	O
+sw:of	O
+sw:(	O
+sw:กรุงเทพ	O
+sw:ฯ	O
+sw:)	O
+
+sw:Georg	B-PER
+sw:Friedrich	I-PER
+sw:Händel	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:2.7	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Jimbo	B-LOC
+sw:ya	I-LOC
+sw:Sidi	I-LOC
+sw:Bel	I-LOC
+sw:Abbes	I-LOC
+sw:(	I-LOC
+sw:Aljeria	I-LOC
+sw:)	I-LOC
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:3,200.56	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Guinea	B-LOC
+sw:ya	I-LOC
+sw:Ikweta	I-LOC
+sw:(	O
+sw:Malabo	B-LOC
+sw:)	O
+sw:(	O
+sw:AF	O
+sw:)	O
+
+sw:Ufalme	B-LOC
+sw:wa	I-LOC
+sw:Muungano	I-LOC
+
+sw:'	O
+sw:''	O
+sw:Ethiopia	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Lando	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Leo	I-PER
+sw:VI	I-PER
+sw:.	O
+
+sw:Kerio	B-LOC
+sw:(	I-LOC
+sw:mto	I-LOC
+sw:)	I-LOC
+
+sw:''	O
+sw:Iron	B-ORG
+sw:Flag	I-ORG
+sw:''	O
+sw:(	O
+sw:2001	O
+sw:)	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:51	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:**	O
+sw:Kanisa	B-ORG
+sw:Katoliki	I-ORG
+sw:la	I-ORG
+sw:Kigiriki	I-ORG
+sw:la	I-ORG
+sw:Belarus	I-ORG
+sw:(	O
+sw:Belarus	B-LOC
+sw:)	O
+sw:,	O
+sw:waamini	O
+sw:wachache	O
+sw:.	O
+
+sw:**	O
+sw:Hispaniola	B-LOC
+sw:(	O
+sw:Haiti	B-LOC
+sw:na	O
+sw:Jamhuri	B-LOC
+sw:ya	I-LOC
+sw:Dominika	I-LOC
+
+sw:Ankara	B-LOC
+sw:(	O
+sw:Uturuki	B-LOC
+sw:)	O
+
+sw:Uhusika	O
+sw:huu	O
+sw:umehezwa	O
+sw:na	O
+sw:Sarah	B-PER
+sw:Wayne	I-PER
+sw:Callies	I-PER
+sw:.	O
+
+sw:James	B-PER
+sw:Daud	I-PER
+sw:Lembeli	I-PER
+
+sw:'	O
+sw:''	O
+sw:Mauritania	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Ulysses	B-PER
+sw:S.	I-PER
+sw:Grant	I-PER
+
+sw:Wanamheshimu	O
+sw:sana	O
+sw:Yohane	B-PER
+sw:Mbatizaji	I-PER
+sw:,	O
+sw:lakini	O
+sw:wanamkataa	O
+sw:Yesu	B-PER
+sw:pamoja	O
+sw:na	O
+sw:Musa	B-PER
+sw:na	O
+sw:Abrahamu	B-PER
+sw:.	O
+
+sw:Uhusika	O
+sw:unachezwa	O
+sw:na	O
+sw:Glenn	B-PER
+sw:Morshower	I-PER
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Yohane	I-PER
+sw:IV	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Martin	I-PER
+sw:I	I-PER
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Konon	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Yohane	I-PER
+sw:VI	I-PER
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:151	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Umaarufu	O
+sw:wake	O
+sw:hasa	O
+sw:ni	O
+sw:kama	O
+sw:mahali	O
+sw:pa	O
+sw:kufariki	O
+sw:kwa	O
+sw:Michael	B-PER
+sw:Jackson	I-PER
+sw:(	O
+sw:1958-	O
+sw:)	O
+sw:.	O
+
+sw:Kipanya	B-ORG
+sw:(	I-ORG
+sw:kompyuta	I-ORG
+sw:)	I-ORG
+
+sw:kutoka	O
+sw:Uingereza	B-LOC
+sw:tarehe	O
+sw:06.07	O
+sw:.	O
+
+sw:Mtaguso	B-ORG
+sw:wa	I-ORG
+sw:pili	I-ORG
+sw:wa	I-ORG
+sw:Nisea	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:295.7	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Wilaya	B-ORG
+sw:ya	I-ORG
+sw:Korhogo	I-ORG
+
+sw:Papa	B-PER
+sw:Celestino	I-PER
+sw:V	I-PER
+
+sw:Jamhuri	B-LOC
+sw:ya	I-LOC
+sw:Kisovyeti	I-LOC
+sw:ya	I-LOC
+sw:Kijamii	I-LOC
+sw:ya	I-LOC
+sw:Kikazakhi	I-LOC
+
+sw:Us	B-ORG
+sw:Against	I-ORG
+sw:the	I-ORG
+sw:World	I-ORG
+
+sw:Cherry	B-PER
+sw:Jones	I-PER
+sw:kama	O
+sw:Rais	B-PER
+sw:Allison	I-PER
+sw:Taylor	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:10.1	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Chuo	B-ORG
+sw:Kikuu	I-ORG
+sw:cha	I-ORG
+sw:Babcock	I-ORG
+
+sw:Ganga	B-LOC
+sw:(	I-LOC
+sw:mto	I-LOC
+sw:)	I-LOC
+
+sw:Lambo	B-ORG
+sw:la	I-ORG
+sw:Magenge	I-ORG
+sw:Matatu	I-ORG
+
+sw:Papa	B-PER
+sw:Agapeto	I-PER
+sw:II	I-PER
+
+sw:Wilaya	B-LOC
+sw:ya	I-LOC
+sw:Homa	I-LOC
+sw:Bay	I-LOC
+
+sw:Montreal	B-LOC
+sw:(	O
+sw:1.620.693	O
+sw:)	O
+
+sw:Jimmy	B-PER
+sw:Jam	I-PER
+sw:na	I-PER
+sw:Terry	I-PER
+sw:Lewis	I-PER
+
+sw:Mji	B-LOC
+sw:mkuu	I-LOC
+sw:ni	O
+sw:Waterford	B-LOC
+sw:.	O
+
+sw:Inasemekana	O
+sw:kuna	O
+sw:wasemaji	O
+sw:wengine	O
+sw:nchini	O
+sw:Tanzania	B-LOC
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:4.4	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:38	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Yohane	I-PER
+sw:XXIII	I-PER
+sw:.	O
+
+sw:Jumuiya	B-ORG
+sw:ya	I-ORG
+sw:Afrika	I-ORG
+sw:Mashariki	I-ORG
+
+sw:Ruvuma	B-LOC
+sw:(	I-LOC
+sw:mto	I-LOC
+sw:)	I-LOC
+
+sw:Kikanisa	O
+sw:linahusiana	O
+sw:na	O
+sw:Jimbo	B-ORG
+sw:Kuu	I-ORG
+sw:la	I-ORG
+sw:Kigali	I-ORG
+sw:.	O
+
+sw:Peter	B-PER
+sw:Paul	I-PER
+sw:Rubens	I-PER
+
+sw:'	O
+sw:''	O
+sw:Wilaya	B-LOC
+sw:ya	I-LOC
+sw:Thika	I-LOC
+sw:''	O
+sw:'	O
+
+sw:Papa	B-PER
+sw:Klementi	I-PER
+sw:IV	I-PER
+
+sw:Mji	B-LOC
+sw:mkuu	I-LOC
+sw:ni	O
+sw:Tsu	B-LOC
+sw:(	O
+sw:津市	O
+sw:)	O
+sw:.	O
+
+sw:Wilaya	B-LOC
+sw:ya	I-LOC
+sw:Laikipia	I-LOC
+sw:(	O
+sw:Nanyuki	B-LOC
+sw:)	O
+sw:==	O
+
+sw:Kati	O
+sw:yao	O
+sw:kuna	O
+sw:Abrahamu	B-PER
+sw:,	O
+sw:Buddha	B-PER
+sw:,	O
+sw:Yesu	B-PER
+sw:,	O
+sw:Muhammad	B-PER
+sw:na	O
+sw:wengineo	O
+sw:.	O
+
+sw:Alliance	B-ORG
+sw:for	I-ORG
+sw:Democratic	I-ORG
+sw:Change	I-ORG
+sw:(	O
+sw:ADC	O
+sw:)	O
+
+sw:Mtaguso	B-ORG
+sw:wa	I-ORG
+sw:kwanza	I-ORG
+sw:wa	I-ORG
+sw:Vatikano	I-ORG
+sw:(	O
+sw:1869-1870	O
+sw:)	O
+
+sw:40px]]	O
+sw:'	O
+sw:''	O
+sw:Shirikisho	B-LOC
+sw:la	I-LOC
+sw:Mikronesia	I-LOC
+sw:''	O
+sw:'	O
+
+sw:Inahudumiwa	O
+sw:na	O
+sw:Vietnam	B-ORG
+sw:Airlines	I-ORG
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Eugenio	I-PER
+sw:I	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Adeodato	I-PER
+sw:II	I-PER
+sw:.	O
+
+sw:Jimbo	B-ORG
+sw:la	I-ORG
+sw:Uchaguzi	I-ORG
+sw:la	I-ORG
+sw:Imenti	I-ORG
+sw:Kusini	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:60	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Mkoa	B-LOC
+sw:wa	I-LOC
+sw:Bonde	I-LOC
+sw:la	I-LOC
+sw:Ufa	I-LOC
+
+sw:Henry	B-PER
+sw:Morton	I-PER
+sw:Stanley	I-PER
+
+sw:Papa	B-PER
+sw:Damaso	I-PER
+sw:I	I-PER
+
+sw:Mexiko	B-LOC
+sw:(	O
+sw:45.127	O
+sw:)	O
+sw:[6]	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:316.31	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:25px]]	O
+sw:'	O
+sw:''	O
+sw:Álava	B-LOC
+sw:''	O
+sw:'	O
+
+sw:William	B-PER
+sw:Wellington	I-PER
+sw:Gqoba	I-PER
+
+sw:Jumuiya	B-ORG
+sw:ya	I-ORG
+sw:Madola	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:41.4	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:''	O
+sw:Argentina	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Dangerous	B-ORG
+sw:(	I-ORG
+sw:albamu	I-ORG
+sw:)	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:2.2	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Palisades	B-LOC
+sw:Park	I-LOC
+sw:,	I-LOC
+sw:New	I-LOC
+sw:Jersey	I-LOC
+
+sw:Pia	O
+sw:kuna	O
+sw:wasemaji	O
+sw:wachache	O
+sw:nchini	O
+sw:Uhindi	B-LOC
+sw:(	O
+sw:2007	O
+sw:)	O
+sw:.	O
+
+sw:Chen	B-PER
+sw:Ning	I-PER
+sw:Yang	I-PER
+
+sw:Ed	O
+sw:-	O
+sw:Jim	B-PER
+sw:Cummings	I-PER
+
+sw:The	O
+sw:Colonel	O
+sw:;	O
+sw:Jack	B-PER
+sw:Bauer	I-PER
+
+sw:Beginnings	B-ORG
+sw::	I-ORG
+sw:The	I-ORG
+sw:Lost	I-ORG
+sw:Tapes	I-ORG
+sw:1988–1991	I-ORG
+sw:''	O
+
+sw:Danubi	B-LOC
+sw:(	I-LOC
+sw:mto	I-LOC
+sw:)	I-LOC
+
+sw:'	O
+sw:''	O
+sw:Gordian	B-PER
+sw:I	I-PER
+sw:''	O
+sw:'	O
+
+sw:Makao	O
+sw:makuu	O
+sw:yako	O
+sw:karibu	O
+sw:na	O
+sw:Durban	B-LOC
+sw:,	O
+sw:Afrika	B-LOC
+sw:Kusini	I-LOC
+sw:.	O
+
+sw:Alikuwa	O
+sw:sogora	O
+sw:na	O
+sw:The	B-ORG
+sw:Beatles	I-ORG
+sw:.	O
+
+sw:Agostino	B-PER
+sw:wa	I-PER
+sw:Hippo	I-PER
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Benedikto	I-PER
+sw:XI	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Yohane	I-PER
+sw:XXII	I-PER
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:13.5	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Uhusika	O
+sw:unachezwa	O
+sw:na	O
+sw:Marisol	B-PER
+sw:Nichols	I-PER
+sw:.	O
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:30122	O
+sw:.	O
+
+sw:Chuo	B-ORG
+sw:Kikuu	I-ORG
+sw:cha	I-ORG
+sw:Dar	I-ORG
+sw:es	I-ORG
+sw:Salaam	I-ORG
+
+sw:Terror	B-ORG
+sw:Squad	I-ORG
+sw:(	I-ORG
+sw:studio	I-ORG
+sw:)	I-ORG
+
+sw:Mahakama	B-ORG
+sw:ya	I-ORG
+sw:Kimataifa	I-ORG
+sw:ya	I-ORG
+sw:Jinai	I-ORG
+
+sw:Soko	B-ORG
+sw:la	I-ORG
+sw:Hisa	I-ORG
+sw:la	I-ORG
+sw:Uganda	I-ORG
+
+sw:Wilaya	B-ORG
+sw:ya	I-ORG
+sw:Jacqueville	I-ORG
+
+sw:Sirili	B-PER
+sw:wa	I-PER
+sw:Yerusalemu	I-PER
+
+sw:Gertrudi	B-PER
+sw:wa	I-PER
+sw:Thuringia	I-PER
+
+sw:Chuo	B-ORG
+sw:Kikuu	I-ORG
+sw:cha	I-ORG
+sw:Harvard	I-ORG
+
+sw:Ruth	B-PER
+sw:Miller	I-PER
+sw:(	O
+sw:1919-1969	O
+sw:)	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:123.8	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:33331	O
+sw:.	O
+
+sw:Bangkok	B-LOC
+sw:-	O
+sw:''Suvarnabhumi	O
+sw:Airport	O
+sw:''	O
+
+sw:Foresti	B-LOC
+sw:(	I-LOC
+sw:Mbeya	I-LOC
+sw:mjini	I-LOC
+sw:)	I-LOC
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Pius	I-PER
+sw:III	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Leo	I-PER
+sw:X	I-PER
+sw:.	O
+
+sw:Baraza	B-ORG
+sw:la	I-ORG
+sw:Usalama	I-ORG
+sw:la	I-ORG
+sw:Umoja	I-ORG
+sw:wa	I-ORG
+sw:Mataifa	I-ORG
+
+sw:John	B-PER
+sw:William	I-PER
+sw:Colenso	I-PER
+sw:(	O
+sw:1814-1883	O
+sw:)	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Sixtus	I-PER
+sw:V	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Gregori	I-PER
+sw:XIV	I-PER
+sw:.	O
+
+sw:'	O
+sw:''	O
+sw:Wilaya	B-LOC
+sw:ya	I-LOC
+sw:Marsabit	I-LOC
+sw:''	O
+sw:'	O
+
+sw:Lindi	B-LOC
+sw:(	I-LOC
+sw:mji	I-LOC
+sw:)	I-LOC
+
+sw:Vitória	B-LOC
+sw:,	I-LOC
+sw:Espírito	I-LOC
+sw:Santo	I-LOC
+
+sw:Kikanisa	O
+sw:linahusiana	O
+sw:na	O
+sw:Jimbo	B-ORG
+sw:Kuu	I-ORG
+sw:la	I-ORG
+sw:Tabora	I-ORG
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Klementi	I-PER
+sw:XII	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Klementi	I-PER
+sw:XIII	I-PER
+sw:.	O
+
+sw:Samwel	B-PER
+sw:Yellah	I-PER
+sw:Black	I-PER
+
+sw:Potinus	B-PER
+sw:wa	I-PER
+sw:Lyon	I-PER
+
+sw:Nouakchott	B-LOC
+sw:-	O
+sw:''Nouakchott	O
+sw:Airport	O
+sw:''	O
+
+sw:Iceman	B-PER
+sw:(	I-PER
+sw:komiki	I-PER
+sw:)	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:59	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Papa	B-PER
+sw:Yohane	I-PER
+sw:Paulo	I-PER
+sw:II	I-PER
+
+sw:River	B-LOC
+sw:Edge	I-LOC
+sw:,	I-LOC
+sw:New	I-LOC
+sw:Jersey	I-LOC
+
+sw:Uhusika	O
+sw:unachezwa	O
+sw:na	O
+sw:Janeane	B-PER
+sw:Garofalo	I-PER
+sw:.	O
+
+sw:Soko	B-ORG
+sw:la	I-ORG
+sw:Hisa	I-ORG
+sw:la	I-ORG
+sw:Nairobi	I-ORG
+
+sw:``	O
+sw:Gentleman	B-ORG
+sw:''	O
+sw:-	O
+sw:3:26	O
+
+sw:``	O
+sw:Baby	B-ORG
+sw:Do	I-ORG
+sw:n't	I-ORG
+sw:Cry	I-ORG
+sw:(	I-ORG
+sw:Keep	I-ORG
+sw:Ya	I-ORG
+sw:Head	I-ORG
+sw:Up	I-ORG
+sw:II	I-ORG
+sw:)	I-ORG
+sw:''	O
+
+sw:Upper	B-LOC
+sw:Freehold	I-LOC
+sw:Township	I-LOC
+sw:,	I-LOC
+sw:New	I-LOC
+sw:Jersey	I-LOC
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:83	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Gervais	B-PER
+sw:Yao	I-PER
+sw:Kouassi	I-PER
+
+sw:Tala]]	O
+sw:,	O
+sw:Machakos	B-LOC
+sw:,	O
+sw:Athi	B-LOC
+sw:River	I-LOC
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:86.2	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:'	O
+sw:''	O
+sw:''	O
+sw:''	O
+sw:Letter	B-ORG
+sw:2	I-ORG
+sw:My	I-ORG
+sw:Unborn	I-ORG
+sw:''	O
+sw:'	O
+sw:''	O
+sw:''	O
+
+sw:All	B-ORG
+sw:Bout	I-ORG
+sw:U	I-ORG
+
+sw:When	B-ORG
+sw:You	I-ORG
+sw:'re	I-ORG
+sw:Looking	I-ORG
+sw:Like	I-ORG
+sw:That	I-ORG
+
+sw:Bulgaria	B-LOC
+sw:(	O
+sw:Sofia	B-LOC
+sw:)	O
+sw:(	O
+sw:EU	O
+sw:)	O
+
+sw:Mtaguso	B-ORG
+sw:wa	I-ORG
+sw:kwanza	I-ORG
+sw:wa	I-ORG
+sw:Vatikano	I-ORG
+sw:(	O
+sw:1869-1870	O
+sw:)	O
+
+sw:Glenn	B-PER
+sw:Morshower	I-PER
+sw:kama	O
+sw:Aaron	B-PER
+sw:Pierce	I-PER
+
+sw:José	B-PER
+sw:Echegaray	I-PER
+sw:y	I-PER
+sw:Eizaguirre	I-PER
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Gelasio	I-PER
+sw:I	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Symmachus	I-PER
+sw:.	O
+
+sw:Global	B-ORG
+sw:Voices	I-ORG
+sw:Online	I-ORG
+
+sw:North	B-LOC
+sw:Merrick	I-LOC
+sw:,	I-LOC
+sw:New	I-LOC
+sw:York	I-LOC
+
+sw:'	O
+sw:''	O
+sw:Florianópolis	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Paul	B-PER
+sw:Schulze	I-PER
+sw:kama	O
+sw:Ryan	B-PER
+sw:Chappelle	I-PER
+
+sw:Mobutu	B-PER
+sw:Sese	I-PER
+sw:Seko	I-PER
+
+sw:Matengenezo	B-ORG
+sw:ya	I-ORG
+sw:Kiprotestanti	I-ORG
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Simplicio	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Gelasio	I-PER
+sw:I	I-PER
+sw:.	O
+
+sw:Big	B-PER
+sw:Pun	I-PER
+sw:,	O
+sw:Raekwon	B-PER
+sw:na	O
+sw:Armageddon	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:3.3	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Mbongeni	B-PER
+sw:Ngema	I-PER
+sw:(	O
+sw:1955-	O
+sw:)	O
+
+sw:Mji	B-LOC
+sw:mkuu	I-LOC
+sw:wake	O
+sw:ni	O
+sw:Créteil	B-LOC
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:49	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:14.2	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Jimbo	B-ORG
+sw:la	I-ORG
+sw:Uchaguzi	I-ORG
+sw:la	I-ORG
+sw:Imenti	I-ORG
+sw:Kaskazini	I-ORG
+
+sw:Timu	B-ORG
+sw:ya	I-ORG
+sw:Taifa	I-ORG
+sw:ya	I-ORG
+sw:Kandanda	I-ORG
+sw:ya	I-ORG
+sw:Kenya	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:118	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:81	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	B-LOC
+sw:la	I-LOC
+sw:Uingereza	I-LOC
+sw:katika	I-LOC
+sw:Bahari	I-LOC
+sw:Hindi	I-LOC
+
+sw:Storm	B-PER
+sw:(	I-PER
+sw:komiki	I-PER
+sw:)	I-PER
+
+sw:Uhusika	O
+sw:unachezwa	O
+sw:na	O
+sw:Kiefer	B-PER
+sw:Sutherland	I-PER
+sw:.	O
+
+sw:Chelsea	B-ORG
+sw:F.C	I-ORG
+sw:.	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:44	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Paulo	I-PER
+sw:III	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Marcello	I-PER
+sw:II	I-PER
+sw:.	O
+
+sw:``	O
+sw:Baby	B-ORG
+sw:Do	I-ORG
+sw:n't	I-ORG
+sw:Cry	I-ORG
+sw:(	I-ORG
+sw:Keep	I-ORG
+sw:Ya	I-ORG
+sw:Head	I-ORG
+sw:Up	I-ORG
+sw:II	I-ORG
+sw:)	I-ORG
+sw:''	O
+
+sw:``	O
+sw:The	O
+sw:Winner	O
+sw:''	O
+sw:umeimbwa	O
+sw:na	O
+sw:Coolio	B-PER
+sw:–	O
+sw:4:03	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:82	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Malaysia	B-LOC
+sw:na	O
+sw:Sumatra	B-LOC
+sw:/	O
+sw:Indonesia	B-LOC
+sw:(	O
+sw:Asia	B-LOC
+sw:)	O
+
+sw:Madrid	B-LOC
+sw:-	O
+sw:''Barajas	O
+sw:Airport	O
+sw:''	O
+
+sw:'	O
+sw:''	O
+sw:Galba	B-PER
+sw:''	O
+sw:'	O
+
+sw:(	O
+sw:Addis	B-LOC
+sw:Ababa	I-LOC
+sw:)	O
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:33411	O
+sw:.	O
+
+sw:Orodha	B-LOC
+sw:ya	I-LOC
+sw:majimbo	I-LOC
+sw:ya	I-LOC
+sw:Brazil	I-LOC
+
+sw:Wilaya	B-ORG
+sw:ya	I-ORG
+sw:Biankouma	I-ORG
+
+sw:Mwendo	O
+sw:wake	O
+sw:kuanzia	O
+sw:chanzo	O
+sw:hadi	O
+sw:mdomo	O
+sw:uko	O
+sw:nchini	O
+sw:Urusi	B-LOC
+sw:.	O
+
+sw:Habari	O
+sw:zake	O
+sw:zinapatikana	O
+sw:katika	O
+sw:kitabu	B-PER
+sw:chake	O
+sw:,	O
+sw:ingawa	O
+sw:humo	O
+sw:hazikupangwa	O
+sw:kitarehe	O
+sw:.	O
+
+sw:Pia	O
+sw:kuna	O
+sw:wasemaji	O
+sw:nchini	O
+sw:Nigeria	B-LOC
+sw:.	O
+
+sw:Mji	B-LOC
+sw:mkuu	I-LOC
+sw:wake	O
+sw:ni	O
+sw:Nantes	B-LOC
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Lucius	I-PER
+sw:III	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Gregori	I-PER
+sw:VIII	I-PER
+sw:.	O
+
+sw:Uhusika	O
+sw:unachezwa	O
+sw:na	O
+sw:Peter	B-PER
+sw:MacNicol	I-PER
+sw:.	O
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:33210	O
+sw:.	O
+
+sw:Benki	B-ORG
+sw:kuu	I-ORG
+sw:ya	I-ORG
+sw:Kenya	I-ORG
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Marko	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Liberius	I-PER
+sw:.	O
+
+sw:Wanachezea	O
+sw:katika	O
+sw:Chama	B-ORG
+sw:cha	I-ORG
+sw:Mpira	I-ORG
+sw:wa	I-ORG
+sw:Kikapu	I-ORG
+sw:nchini	O
+sw:Marekani	B-LOC
+sw:.	O
+
+sw:Wilaya	B-LOC
+sw:ya	I-LOC
+sw:Sumbawanga	I-LOC
+sw:Mjini	I-LOC
+sw:.	O
+
+sw:``	O
+sw:If	B-ORG
+sw:My	I-ORG
+sw:Homie	I-ORG
+sw:Calls	I-ORG
+sw:''	O
+
+sw:Wittgenstein	B-PER
+sw:,	I-PER
+sw:Ludwig	I-PER
+sw:.	O
+
+sw:The	B-ORG
+sw:Way	I-ORG
+sw:You	I-ORG
+sw:Make	I-ORG
+sw:Me	I-ORG
+sw:Feel	I-ORG
+sw:-	O
+sw:4:57	O
+
+sw:Zadar	B-LOC
+sw:,	O
+sw:Dalmatia	B-LOC
+sw:,	O
+sw:siku	O
+sw:hizi	O
+sw:Kroatia	B-LOC
+
+sw:José	B-PER
+sw:Echegaray	I-PER
+sw:y	I-PER
+sw:Eizaguirre	I-PER
+
+sw:David	B-ORG
+sw:Archuleta	I-ORG
+sw:''	O
+sw:(	O
+sw:2008	O
+sw:)	O
+
+sw:Gibson	B-PER
+sw:Kente	I-PER
+sw:(	O
+sw:1932-2004	O
+sw:)	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:118.6	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Mji	B-LOC
+sw:mkuu	I-LOC
+sw:wake	O
+sw:ni	O
+sw:Mende	B-LOC
+sw:.	O
+
+sw:Jamhuri	B-LOC
+sw:ya	I-LOC
+sw:Kidemokrasia	I-LOC
+sw:ya	I-LOC
+sw:Kongo	I-LOC
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Pius	I-PER
+sw:IX	I-PER
+sw:(	O
+sw:1846-78	O
+sw:)	O
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Pius	I-PER
+sw:X	I-PER
+sw:.	O
+
+sw:Papa	B-PER
+sw:Innocent	I-PER
+sw:VIII	I-PER
+
+sw:Chrystostom	O
+sw:''	O
+sw:by	O
+sw:John	B-PER
+sw:Henry	I-PER
+sw:Newman	I-PER
+sw:-	O
+sw:a	O
+sw:biographical	O
+sw:sketch	O
+sw:focusing	O
+sw:mainly	O
+sw:on	O
+sw:the	O
+sw:period	O
+sw:of	O
+sw:his	O
+sw:exile	O
+
+sw:Cancún	B-LOC
+sw:,	I-LOC
+sw:Quintana	I-LOC
+sw:Roo	I-LOC
+
+sw:Papa	B-PER
+sw:Marcello	I-PER
+sw:I	I-PER
+
+sw:Soko	B-ORG
+sw:la	I-ORG
+sw:Hisa	I-ORG
+sw:la	I-ORG
+sw:Nairobi	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:2.7	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:AS	O
+sw:Samoa	B-LOC
+sw:ya	I-LOC
+sw:Marekani	I-LOC
+
+sw:Back	B-ORG
+sw:in	I-ORG
+sw:Business	I-ORG
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:39303	O
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:40	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:81.1	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:39404	O
+sw:.	O
+
+sw:William	B-PER
+sw:Henry	I-PER
+sw:Harrison	I-PER
+
+sw:Milwaukee	B-LOC
+sw:,	I-LOC
+sw:Wisconsin	I-LOC
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:122	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Basilika	B-ORG
+sw:la	I-ORG
+sw:Mt.	I-ORG
+sw:Petro	I-ORG
+
+sw:Wizara	B-ORG
+sw:ya	I-ORG
+sw:Sheria	I-ORG
+sw:na	I-ORG
+sw:Katiba	I-ORG
+
+sw:IE	O
+sw:Eire	B-LOC
+sw:(	O
+sw:Ayalandi	O
+sw:)	O
+
+sw:Ripoti	B-PER
+sw:za	I-PER
+sw:Sheria	I-PER
+sw:ya	I-PER
+sw:Kenya	I-PER
+
+sw:Kanisa	B-ORG
+sw:Katoliki	I-ORG
+sw:la	I-ORG
+sw:Kisiria	I-ORG
+sw:la	I-ORG
+sw:Malankara	I-ORG
+
+sw:**	O
+sw:Rais	B-ORG
+sw:wa	I-ORG
+sw:Afrika	I-ORG
+sw:ya	I-ORG
+sw:Kusini	I-ORG
+
+sw:Kanuni	B-ORG
+sw:ya	I-ORG
+sw:Heisenberg	I-ORG
+sw:ya	I-ORG
+sw:Utovu	I-ORG
+sw:wa	I-ORG
+sw:Hakika	I-ORG
+
+sw:Lewis	B-PER
+sw:Nkosi	I-PER
+sw:(	O
+sw:1936-2010	O
+sw:)	O
+
+sw:Wimbo	O
+sw:umetayarishwa	O
+sw:na	O
+sw:Eminem	B-PER
+sw:.	O
+
+sw:Karl	B-PER
+sw:Friedrich	I-PER
+sw:Benz	I-PER
+
+sw:Carlo	B-PER
+sw:Rota	I-PER
+sw:kama	O
+sw:Morris	B-PER
+sw:O'Brian	I-PER
+
+sw:Puerto	B-LOC
+sw:Rico	I-LOC
+sw:(	O
+sw:Marekani	B-LOC
+sw:)	O
+
+sw:''	O
+sw:Bulgaria	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Arusha	B-LOC
+sw:(	I-LOC
+sw:mji	I-LOC
+sw:)	I-LOC
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:17.3	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:''	O
+sw:How	B-ORG
+sw:Do	I-ORG
+sw:U	I-ORG
+sw:Want	I-ORG
+sw:It	I-ORG
+sw:''	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:15.7	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Nyasa	B-LOC
+sw:(	I-LOC
+sw:ziwa	I-LOC
+sw:)	I-LOC
+
+sw:``	O
+sw:Bury	B-ORG
+sw:Me	I-ORG
+sw:a	I-ORG
+sw:G	I-ORG
+sw:''	O
+sw:—	O
+sw:4:59	O
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:39307	O
+sw:.	O
+
+sw:Wizara	B-ORG
+sw:ya	I-ORG
+sw:Afya	I-ORG
+sw:na	I-ORG
+sw:Ustawi	I-ORG
+sw:wa	I-ORG
+sw:Jamii	I-ORG
+
+sw:Papa	B-PER
+sw:Yohane	I-PER
+sw:Paulo	I-PER
+sw:II	I-PER
+
+sw:Elementi	B-LOC
+sw:za	I-LOC
+sw:kikemia	I-LOC
+
+sw:Pia	O
+sw:kuna	O
+sw:wasemaji	O
+sw:nchini	O
+sw:Cote	B-LOC
+sw:d'Ivoire	I-LOC
+sw:;	O
+sw:idadi	O
+sw:yao	O
+sw:haijulikani	O
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Damaso	I-PER
+sw:II	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Viktor	I-PER
+sw:II	I-PER
+sw:.	O
+
+sw:If	B-ORG
+sw:I	I-ORG
+sw:Let	I-ORG
+sw:You	I-ORG
+sw:Go	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:87	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:죽음으로	O
+sw:마감한	O
+sw:‘커밍아웃’	O
+sw:시사저널	O
+sw:2003.05.15	O
+sw:(	O
+sw:Korea	B-LOC
+sw:Kusini	I-LOC
+sw:)	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:84.5	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Alimfuata	O
+sw:Kaizari	B-PER
+sw:Nerva	I-PER
+sw:na	O
+sw:akafuatwa	O
+sw:na	O
+sw:Kaizari	B-PER
+sw:Hadrian	I-PER
+sw:.	O
+
+sw:Muawiya	B-PER
+sw:ibn	I-PER
+sw:Abu	I-PER
+sw:Sufyan	I-PER
+
+sw:Kiefer	B-PER
+sw:Sutherland	I-PER
+sw:kama	O
+sw:Jack	B-PER
+sw:Bauer	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:36.4	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Hennie	B-PER
+sw:Aucamp	I-PER
+sw:(	O
+sw:1934-	O
+sw:)	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:13.8	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:184	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Rappa	B-ORG
+sw:Ternt	I-ORG
+sw:Sanga	I-ORG
+sw:''	O
+sw:(	O
+sw:2005	O
+sw:)	O
+
+sw:John	B-PER
+sw:F.	I-PER
+sw:Kennedy	I-PER
+
+sw:Sao	B-LOC
+sw:Tome	I-LOC
+sw:na	I-LOC
+sw:Principe	I-LOC
+
+sw:Mji	B-LOC
+sw:mkuu	I-LOC
+sw:ni	O
+sw:Castlebar	B-LOC
+sw:.	O
+
+sw:'	O
+sw:''	O
+sw:Glycerius	B-PER
+sw:''	O
+sw:'	O
+
+sw:Baton	B-LOC
+sw:Rouge	I-LOC
+sw:,	I-LOC
+sw:Louisiana	I-LOC
+
+sw:David	B-PER
+sw:Ben	I-PER
+sw:Gurion	I-PER
+
+sw:Shambulio	B-ORG
+sw:la	I-ORG
+sw:11	I-ORG
+sw:Septemba	I-ORG
+sw:2001	I-ORG
+
+sw:Mji	B-LOC
+sw:mkuu	I-LOC
+sw:ni	O
+sw:Osaka	B-LOC
+sw:(	O
+sw:大阪市	O
+sw:)	O
+sw:.	O
+
+sw:Mkoa	B-LOC
+sw:wa	I-LOC
+sw:La	I-LOC
+sw:Coruña	I-LOC
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Klementi	I-PER
+sw:XIII	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Pius	I-PER
+sw:VI	I-PER
+sw:.	O
+
+sw:Sabah	B-LOC
+sw:(	O
+sw:Borneo	B-LOC
+sw:)	O
+
+sw:``	O
+sw:21	B-ORG
+sw:Questions	I-ORG
+sw:''	O
+sw:(	O
+sw:feat	O
+sw:.	O
+
+sw:Orodha	B-LOC
+sw:ya	I-LOC
+sw:mikoa	I-LOC
+sw:ya	I-LOC
+sw:Argentina	I-LOC
+
+sw:Chama	B-ORG
+sw:cha	I-ORG
+sw:Kikristo	I-ORG
+sw:cha	I-ORG
+sw:Kidemokrasia	I-ORG
+sw:cha	I-ORG
+sw:Ujerumani	I-ORG
+
+sw:``	O
+sw:Dear	B-ORG
+sw:Mama	I-ORG
+sw:''	O
+sw:–	O
+sw:4:40	O
+
+sw:''	O
+sw:Burkina	B-LOC
+sw:Faso	I-LOC
+sw:''	O
+sw:'	O
+
+sw:Paulo	B-PER
+sw:wa	I-PER
+sw:Msalaba	I-PER
+
+sw:Burundi	B-LOC
+sw:(	O
+sw:2007	O
+sw:)	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:212.47	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Mswati	B-PER
+sw:III	I-PER
+sw:wa	I-PER
+sw:Uswazi	I-PER
+
+sw:Alifanya	O
+sw:kazi	O
+sw:hasa	O
+sw:nchini	O
+sw:Tanzania	B-LOC
+sw:.	O
+
+sw:Mradi	B-ORG
+sw:wa	I-ORG
+sw:Umoja	I-ORG
+sw:wa	I-ORG
+sw:Mataifa	I-ORG
+sw:Kuhusu	I-ORG
+sw:Mazingira	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:87.1	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Chechele	B-LOC
+sw:(	I-LOC
+sw:Stenostiridae	I-LOC
+sw:)	I-LOC
+
+sw:Damian	B-PER
+sw:de	I-PER
+sw:Veuster	I-PER
+
+sw:Mji	B-LOC
+sw:mkuu	I-LOC
+sw:wake	O
+sw:ni	O
+sw:Trento	B-LOC
+sw:.	O
+
+sw:Shangari	O
+sw:alitanguliwa	O
+sw:na	O
+sw:Olusegun	B-PER
+sw:Obasanjo	I-PER
+sw:kisha	O
+sw:akafuatiwa	O
+sw:na	O
+sw:Muhammadu	B-PER
+sw:Buhari	I-PER
+sw:.	O
+
+sw:Jimbo	B-ORG
+sw:la	I-ORG
+sw:Uchaguzi	I-ORG
+sw:la	I-ORG
+sw:Nyando	I-ORG
+
+sw:Kampuni	B-ORG
+sw:ya	I-ORG
+sw:Kijerumani	I-ORG
+sw:kwa	I-ORG
+sw:Afrika	I-ORG
+sw:ya	I-ORG
+sw:Mashariki	I-ORG
+
+sw:Kaunas	B-LOC
+sw:(	I-LOC
+sw:CM	I-LOC
+sw:)	I-LOC
+
+sw:Kinyole	B-LOC
+sw:(	I-LOC
+sw:lugha	I-LOC
+sw:)	I-LOC
+
+sw:Japani	B-LOC
+sw:(	O
+sw:Tokyo	B-LOC
+sw:)	O
+sw:(	O
+sw:AS	O
+sw:)	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Yohane	I-PER
+sw:XXII	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Klementi	I-PER
+sw:VI	I-PER
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:71	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Pius	I-PER
+sw:I	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Soter	I-PER
+sw:.	O
+
+sw:Johannes	B-PER
+sw:Hans	I-PER
+sw:Daniel	I-PER
+sw:Jensen	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:40	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Kenya	B-ORG
+sw:Commercial	I-ORG
+sw:Bank	I-ORG
+sw:(	I-ORG
+sw:Uganda	I-ORG
+sw:)	I-ORG
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Leo	I-PER
+sw:II	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Yohane	I-PER
+sw:V	I-PER
+sw:.	O
+
+sw:Senati	B-ORG
+sw:(	I-ORG
+sw:Marekani	I-ORG
+sw:)	I-ORG
+
+sw:'	O
+sw:''	O
+sw:Gebre	B-PER
+sw:Krestos	I-PER
+sw:''	O
+sw:'	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:4.2	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Stefano	I-PER
+sw:III	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Leo	I-PER
+sw:III	I-PER
+sw:.	O
+
+sw:Soko	B-ORG
+sw:la	I-ORG
+sw:Hisa	I-ORG
+sw:la	I-ORG
+sw:Malawi	I-ORG
+
+sw:Umoja	B-ORG
+sw:wa	I-ORG
+sw:Nchi	I-ORG
+sw:za	I-ORG
+sw:Asia	I-ORG
+sw:ya	I-ORG
+sw:Kusini-Mashariki	I-ORG
+
+sw:Mkoa	B-LOC
+sw:wa	I-LOC
+sw:Bắc	I-LOC
+sw:Ninh	I-LOC
+
+sw:``	O
+sw:If	B-ORG
+sw:I	I-ORG
+sw:Let	I-ORG
+sw:You	I-ORG
+sw:Go	I-ORG
+sw:(	O
+sw:Radio	O
+sw:Edit	O
+sw:)	O
+sw:''	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:34.70	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Aguascalientes	B-ORG
+sw:(	O
+sw:663,671	O
+sw:)	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Klementi	I-PER
+sw:XI	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Benedikto	I-PER
+sw:XIII	I-PER
+sw:.	O
+
+sw:Theodore	B-PER
+sw:``	I-PER
+sw:T-Bag	I-PER
+sw:''	I-PER
+sw:Bagwell	I-PER
+
+sw:Kikanisa	O
+sw:linahusiana	O
+sw:na	O
+sw:Jimbo	B-ORG
+sw:Kuu	I-ORG
+sw:la	I-ORG
+sw:Kampala	I-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:10.7	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Vibarabara	O
+sw:wanatokea	O
+sw:Afrika	B-LOC
+sw:,	O
+sw:Asia	B-LOC
+sw:na	O
+sw:Ulaya	B-LOC
+sw:.	O
+
+sw:Axum	B-LOC
+sw:-	O
+sw:''Axum	O
+sw:Airport	O
+sw:''	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:49.7	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Papa	B-PER
+sw:Klementi	I-PER
+sw:VI	I-PER
+sw:(	O
+sw:1342-1352	O
+sw:)	O
+
+sw:Matola	B-LOC
+sw:(	I-LOC
+sw:Msumbiji	I-LOC
+sw:)	I-LOC
+
+sw:Shinyanga	B-LOC
+sw:(	I-LOC
+sw:mji	I-LOC
+sw:)	I-LOC
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Felix	I-PER
+sw:III	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Anastasio	I-PER
+sw:II	I-PER
+sw:.	O
+
+sw:Eneo	B-ORG
+sw:Bunge	I-ORG
+sw:la	I-ORG
+sw:Kipkelion	I-ORG
+
+sw:Papa	B-PER
+sw:Sergio	I-PER
+sw:III	I-PER
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Pius	I-PER
+sw:VIII	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Pius	I-PER
+sw:IX	I-PER
+sw:.	O
+
+sw:Mwalimu	B-PER
+sw:wa	I-PER
+sw:Kanisa	I-PER
+
+sw:Makao	O
+sw:yake	O
+sw:makuu	O
+sw:yapo	O
+sw:Dar	B-LOC
+sw:es	I-LOC
+sw:Salaam	I-LOC
+sw:nchini	O
+sw:Tanzania	B-LOC
+sw:.	O
+
+sw:Innsbruck	B-LOC
+sw:-	O
+sw:''Innsbruck	O
+sw:Airport	O
+sw:''	O
+
+sw:Hospitali	B-ORG
+sw:ya	I-ORG
+sw:Mafunzo	I-ORG
+sw:na	I-ORG
+sw:Marejereo	I-ORG
+sw:ya	I-ORG
+sw:Moi	I-ORG
+
+sw:Aliyemaliza	O
+sw:fitina	O
+sw:hiyo	O
+sw:na	O
+sw:kuwafuata	O
+sw:ni	O
+sw:Tewodros	B-PER
+sw:II	I-PER
+sw:.	O
+
+sw:Kogi	B-ORG
+sw:(	I-ORG
+sw:jimbo	I-ORG
+sw:)	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:10.5	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:'	O
+sw:''	O
+sw:Katika	O
+sw:Australia	B-LOC
+sw:na	I-LOC
+sw:Pasifiki	I-LOC
+sw:''	O
+sw:'	O
+
+sw:Papa	B-PER
+sw:Paskali	I-PER
+sw:I	I-PER
+sw:(	O
+sw:817-824	O
+sw:)	O
+
+sw:Discografia	B-ORG
+sw:ya	I-ORG
+sw:50	I-ORG
+sw:Cent	I-ORG
+
+sw:Vipimo	B-ORG
+sw:sanifu	I-ORG
+sw:vya	I-ORG
+sw:kimataifa	I-ORG
+
+sw:Kiefer	B-PER
+sw:Sutherland	I-PER
+sw:kama	O
+sw:Jack	B-PER
+sw:Bauer	I-PER
+
+sw:Kenya	B-ORG
+sw:African	I-ORG
+sw:National	I-ORG
+sw:Union	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:82	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:37	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Boniface	I-PER
+sw:II	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Agapeto	I-PER
+sw:I	I-PER
+sw:.	O
+
+sw:Manhasset	B-LOC
+sw:,	I-LOC
+sw:New	I-LOC
+sw:York	I-LOC
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:62	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:366.9	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Kitabu	B-ORG
+sw:cha	I-ORG
+sw:Nahumu	I-ORG
+
+sw:Uhindi	B-LOC
+sw:(	O
+sw:232.320	O
+sw:)	O
+
+sw:Jean	B-PER
+sw:Smart	I-PER
+sw:kama	O
+sw:Martha	B-PER
+sw:Logan	I-PER
+
+sw:Kampuni	B-ORG
+sw:ya	I-ORG
+sw:Kijerumani	I-ORG
+sw:kwa	I-ORG
+sw:Afrika	I-ORG
+sw:ya	I-ORG
+sw:Mashariki	I-ORG
+
+sw:Parana	B-LOC
+sw:(	I-LOC
+sw:mto	I-LOC
+sw:)	I-LOC
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:7.4	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:32	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Fat	B-PER
+sw:Joe	I-PER
+sw:–	O
+sw:``	O
+sw:The	O
+sw:Profit	O
+sw:''	O
+sw:(	O
+sw:akishirikiana	O
+sw:na	O
+sw:Lil	B-PER
+sw:Wayne	I-PER
+sw:)	O
+
+sw:Teresa	B-PER
+sw:wa	I-PER
+sw:Mtoto	I-PER
+sw:Yesu	I-PER
+
+sw:Reiko	B-PER
+sw:Aylesworth	I-PER
+sw:kama	O
+sw:Michelle	B-PER
+sw:Dessler	I-PER
+
+sw:Jimbo	B-LOC
+sw:la	I-LOC
+sw:Chlef	I-LOC
+
+sw:Papa	B-PER
+sw:Benedikto	I-PER
+sw:XVI	I-PER
+
+sw:Richmond	B-LOC
+sw:,	I-LOC
+sw:British	I-LOC
+sw:Kolumbia	I-LOC
+
+sw:Elizabeth	B-PER
+sw:II	I-PER
+sw:wa	I-PER
+sw:Uingereza	I-PER
+
+sw:'	O
+sw:''	O
+sw:Umaru	B-PER
+sw:Yar'Adua	I-PER
+sw:''	O
+sw:'	O
+
+sw:Muungano	B-ORG
+sw:wa	I-ORG
+sw:Afrika	I-ORG
+
+sw:''	O
+sw:Ukraine	B-LOC
+sw:''	O
+sw:'	O
+
+sw:'	O
+sw:''	O
+sw:Uingereza	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Bab	B-LOC
+sw:el	I-LOC
+sw:Mandeb	I-LOC
+
+sw:Oliver	B-PER
+sw:Queen	I-PER
+sw:(	I-PER
+sw:Smallville	I-PER
+sw:)	I-PER
+
+sw:Baadaye	O
+sw:alilazimishwa	O
+sw:kujiuzulu	O
+sw:,	O
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Klementi	I-PER
+sw:II	I-PER
+sw:.	O
+
+sw:Chuo	B-ORG
+sw:Kikuu	I-ORG
+sw:cha	I-ORG
+sw:Göttingen	I-ORG
+
+sw:True	B-ORG
+sw:Jesus	I-ORG
+sw:Church	I-ORG
+
+sw:Papa	B-PER
+sw:Eugenio	I-PER
+sw:II	I-PER
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Leo	I-PER
+sw:V	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Anastasio	I-PER
+sw:III	I-PER
+sw:.	O
+
+sw:Wilaya	B-LOC
+sw:ya	I-LOC
+sw:Siaya	I-LOC
+sw:(	O
+sw:Siaya	B-LOC
+sw:)	O
+sw:==	O
+
+sw:(	O
+sw:2007	O
+sw:,	O
+sw:Inpop	B-ORG
+sw:Records	I-ORG
+sw:)	O
+sw:====	O
+
+sw:William	B-PER
+sw:Wellington	I-PER
+sw:Gqoba	I-PER
+sw:(	O
+sw:1840-1888	O
+sw:)	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:5.0	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Nchi	B-LOC
+sw:za	I-LOC
+sw:Kibalti	I-LOC
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:90.4	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Aliyechaguliwa	O
+sw:badala	O
+sw:yake	O
+sw:alijitajia	O
+sw:jina	O
+sw:hilohilo	O
+sw:akawa	O
+sw:Papa	B-PER
+sw:Yohane	I-PER
+sw:Paulo	I-PER
+sw:II	I-PER
+sw:na	O
+sw:kujiwekea	O
+sw:lengo	O
+sw:hilohilo	O
+sw:.	O
+
+sw:Edinburgh	B-LOC
+sw:(	O
+sw:Dùn	O
+sw:Èideann	O
+sw:)	O
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:33614	O
+sw:.	O
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:53821	O
+sw:.	O
+
+sw:``	O
+sw:In	B-ORG
+sw:da	I-ORG
+sw:Club	I-ORG
+sw:''	O
+
+sw:Mji	B-LOC
+sw:mkuu	I-LOC
+sw:ni	O
+sw:Khartoum	B-LOC
+sw:.	O
+
+sw:Mji	B-LOC
+sw:mkuu	I-LOC
+sw:wake	O
+sw:ni	O
+sw:Bhopal	B-LOC
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:5.1	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:0.7	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Pia	O
+sw:kuna	O
+sw:wasemaji	O
+sw:wachache	O
+sw:nchini	O
+sw:Chad	B-LOC
+sw:na	O
+sw:Nigeria	B-LOC
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:85	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:2009	O
+sw:Charles	B-PER
+sw:Kao	I-PER
+sw:,	O
+sw:Willard	B-PER
+sw:Boyle	I-PER
+sw:na	O
+sw:George	B-PER
+sw:E.	I-PER
+sw:Smith	I-PER
+
+sw:'	O
+sw:''	O
+sw:Petronius	B-PER
+sw:Maximus	I-PER
+sw:''	O
+sw:'	O
+
+sw:Erie	B-LOC
+sw:(	I-LOC
+sw:ziwa	I-LOC
+sw:)	I-LOC
+
+sw:2008	O
+sw:Makoto	B-PER
+sw:Kobayashi	I-PER
+sw:,	O
+sw:Toshihide	B-PER
+sw:Maskawa	I-PER
+sw:na	O
+sw:Yoichiro	B-PER
+sw:Nambu	I-PER
+
+sw:When	B-ORG
+sw:You	I-ORG
+sw:'re	I-ORG
+sw:Looking	I-ORG
+sw:Like	I-ORG
+sw:That	I-ORG
+
+sw:Albany	B-LOC
+sw:,	I-LOC
+sw:New	I-LOC
+sw:York	I-LOC
+
+sw:Papa	B-PER
+sw:Boniface	I-PER
+sw:IV	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:5.2	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Vitalian	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Donus	I-PER
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Agapeto	I-PER
+sw:I	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Vigilio	I-PER
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Liberius	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Siricius	I-PER
+sw:.	O
+
+sw:St.	B-LOC
+sw:Louis	I-LOC
+sw:,	I-LOC
+sw:Missouri	I-LOC
+
+sw:Harald	B-PER
+sw:V	I-PER
+sw:wa	I-PER
+sw:Norwei	I-PER
+
+sw:Shirika	B-ORG
+sw:la	I-ORG
+sw:Kimataifa	I-ORG
+sw:la	I-ORG
+sw:Nishati	I-ORG
+sw:ya	I-ORG
+sw:Nyuklia	I-ORG
+
+sw:Mji	B-LOC
+sw:mkuu	I-LOC
+sw:ni	O
+sw:Nanning	B-LOC
+sw:(	O
+sw:南宁	O
+sw:)	O
+sw:.	O
+
+sw:Jan	B-PER
+sw:Peter	I-PER
+sw:Balkenende	I-PER
+
+sw:'	O
+sw:''	O
+sw:Benjamin	B-PER
+sw:Mkapa	I-PER
+sw:''	O
+sw:'	O
+sw:(	O
+sw:1938–	O
+sw:)	O
+
+sw:Kwame	B-PER
+sw:Nkrumah	I-PER
+sw:(	O
+sw:1909-1972	O
+sw:)	O
+
+sw:Eneo	B-LOC
+sw:la	I-LOC
+sw:Uingereza	I-LOC
+sw:katika	I-LOC
+sw:Bahari	I-LOC
+sw:Hindi	I-LOC
+
+sw:Mkoa	B-LOC
+sw:wa	I-LOC
+sw:Kivu	I-LOC
+sw:Kusini	I-LOC
+
+sw:Carl	B-PER
+sw:Gustav	I-PER
+sw:Jung	I-PER
+
+sw:Centre	B-LOC
+sw:Island	I-LOC
+sw:,	I-LOC
+sw:New	I-LOC
+sw:York	I-LOC
+
+sw:Mikoa	B-LOC
+sw:na	I-LOC
+sw:Wilaya	I-LOC
+sw:za	I-LOC
+sw:Uswidi	I-LOC
+
+sw:Aliitwa	O
+sw:''Whispers	O
+sw:''	O
+sw:kama	O
+sw:jina	O
+sw:la	O
+sw:``	O
+sw:column	O
+sw:''	O
+sw:aliyoiandika	O
+sw:kwa	O
+sw:The	B-ORG
+sw:Daily	I-ORG
+sw:Nation	I-ORG
+sw:''	O
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Romanus	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Yohane	I-PER
+sw:IX	I-PER
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Nikolasi	I-PER
+sw:IV	I-PER
+sw:.	O
+
+sw:Cyclops	B-PER
+sw:(	I-PER
+sw:komiki	I-PER
+sw:)	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:61.177	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:52	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Innocent	I-PER
+sw:VI	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Gregori	I-PER
+sw:XI	I-PER
+sw:.	O
+
+sw:Manchester	B-LOC
+sw:-	O
+sw:''Manchester	O
+sw:Airport	O
+sw:''	O
+
+sw:Bahari	B-LOC
+sw:ya	I-LOC
+sw:Aegean	I-LOC
+
+sw:Vifo	O
+sw:vikubwa	O
+sw:kabisa	O
+sw:ni	O
+sw:pamoja	O
+sw:na	O
+sw:cha	O
+sw:David	B-PER
+sw:Palmer	I-PER
+sw:,	O
+sw:Michelle	B-PER
+sw:Dessler	I-PER
+sw:,	O
+sw:na	O
+sw:Edgar	B-PER
+sw:Stiles	I-PER
+sw:.	O
+
+sw:Kampuni	B-ORG
+sw:ya	I-ORG
+sw:Kifalme	I-ORG
+sw:ya	I-ORG
+sw:Kiingereza	I-ORG
+sw:kwa	I-ORG
+sw:Afrika	I-ORG
+sw:ya	I-ORG
+sw:Mashariki	I-ORG
+
+sw:Babu	B-PER
+sw:wa	I-PER
+sw:Kanisa	I-PER
+
+sw:Wilfred	B-PER
+sw:Moriasi	I-PER
+sw:Ombui	I-PER
+
+sw:Ikulu	B-ORG
+sw:ya	I-ORG
+sw:Tanzania	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:3.9	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Muhammad	B-PER
+sw:(	O
+sw:محمد	O
+sw:)	O
+
+sw:Jumuiya	B-ORG
+sw:ya	I-ORG
+sw:Kiuchumi	I-ORG
+sw:ya	I-ORG
+sw:Ulaya	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:33	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:National	B-ORG
+sw:Rainbow	I-ORG
+sw:Coalition	I-ORG
+
+sw:Cristiano	B-PER
+sw:Ronaldo	I-PER
+sw:-	O
+sw:2008	O
+
+sw:Viktoria	B-PER
+sw:wa	I-PER
+sw:Uingereza	I-PER
+
+sw:CX	O
+sw:Kisiwa	B-LOC
+sw:cha	I-LOC
+sw:Krismasi	I-LOC
+
+sw:Carlo	B-PER
+sw:Rota	I-PER
+sw:kama	O
+sw:Morris	B-PER
+sw:O'Brian	I-PER
+
+sw:Orodha	B-LOC
+sw:ya	I-LOC
+sw:miji	I-LOC
+sw:ya	I-LOC
+sw:Ubelgiji	I-LOC
+
+sw:Orodha	B-ORG
+sw:ya	I-ORG
+sw:marais	I-ORG
+sw:wa	I-ORG
+sw:Nauru	I-ORG
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:30203	O
+sw:.	O
+
+sw:Thomas	B-PER
+sw:Aquinas	I-PER
+sw:Mtakatifu	I-PER
+
+sw:Brooke	B-ORG
+sw:Allison	I-ORG
+sw:''	O
+sw:(	O
+sw:2001	O
+sw:)	O
+
+sw:Montvale	B-LOC
+sw:,	I-LOC
+sw:New	I-LOC
+sw:Jersey	I-LOC
+
+sw:``	O
+sw:It	B-ORG
+sw:'s	I-ORG
+sw:Just	I-ORG
+sw:a	I-ORG
+sw:Matter	I-ORG
+sw:of	I-ORG
+sw:Time	I-ORG
+sw:''	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Pius	I-PER
+sw:VII	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Pius	I-PER
+sw:VIII	I-PER
+sw:.	O
+
+sw:Ufalme	B-PER
+sw:wa	I-PER
+sw:Kazembe	I-PER
+
+sw:Orodha	B-ORG
+sw:ya	I-ORG
+sw:Mawaziri	I-ORG
+sw:Wakuu	I-ORG
+sw:wa	I-ORG
+sw:Ureno	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:14.5	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Kimeru	B-ORG
+sw:(	I-ORG
+sw:Tanzania	I-ORG
+sw:)	I-ORG
+
+sw:Shirika	B-ORG
+sw:la	I-ORG
+sw:Kimataifa	I-ORG
+sw:la	I-ORG
+sw:Usanifishaji	I-ORG
+
+sw:Jiji	B-LOC
+sw:la	I-LOC
+sw:Quebec	I-LOC
+sw:(	O
+sw:491.142	O
+sw:)	O
+
+sw:Giboni	B-LOC
+sw:,	O
+sw:''Hylobates	O
+sw:''	O
+
+sw:''	O
+sw:Israel	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Dk.	B-PER
+sw:Omar	I-PER
+sw:Ali	I-PER
+sw:Juma	I-PER
+
+sw:Jamaika	B-LOC
+sw:(	O
+sw:Kingston	B-LOC
+sw:)	O
+sw:(	O
+sw:NA	O
+sw:)	O
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:30108	O
+sw:.	O
+
+sw:West	B-LOC
+sw:Orange	I-LOC
+sw:,	I-LOC
+sw:New	I-LOC
+sw:Jersey	I-LOC
+
+sw:Proviso	B-ORG
+sw:East	I-ORG
+sw:High	I-ORG
+sw:School	I-ORG
+
+sw:Dar	B-LOC
+sw:es	I-LOC
+sw:Salaam	I-LOC
+
+sw:Margareta	B-PER
+sw:Mtakatifu	I-PER
+sw:wa	I-PER
+sw:Uskoti	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:24.49	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Pius	I-PER
+sw:X	I-PER
+sw:(	O
+sw:1903-14	O
+sw:)	O
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Pius	I-PER
+sw:XI	I-PER
+sw:.	O
+
+sw:Wolfgang	B-PER
+sw:Amadeus	I-PER
+sw:Mozart	I-PER
+
+sw:Uhusika	O
+sw:ulichezwa	O
+sw:na	O
+sw:Eric	B-PER
+sw:Balfour	I-PER
+sw:.	O
+
+sw:Kibaha	B-LOC
+sw:(	I-LOC
+sw:mji	I-LOC
+sw:)	I-LOC
+
+sw:Dar	B-ORG
+sw:es	I-ORG
+sw:Salaam	I-ORG
+sw:Institute	I-ORG
+sw:of	I-ORG
+sw:Technology	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:71	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Mkoa	B-LOC
+sw:wa	I-LOC
+sw:Kati	I-LOC
+sw:(	I-LOC
+sw:Zambia	I-LOC
+sw:)	I-LOC
+sw:,	O
+sw:Zambia	B-LOC
+
+sw:``	O
+sw:Man	B-ORG
+sw:in	I-ORG
+sw:the	I-ORG
+sw:Mirror	I-ORG
+sw:''	O
+
+sw:Centro	B-ORG
+sw:Federal	I-ORG
+sw:de	I-ORG
+sw:Educação	I-ORG
+sw:Tecnológica	I-ORG
+sw:Celso	I-ORG
+sw:Suckow	I-ORG
+sw:da	I-ORG
+sw:Fonseca	I-ORG
+
+sw:``	O
+sw:I	B-ORG
+sw:Ai	I-ORG
+sw:n't	I-ORG
+sw:Mad	I-ORG
+sw:at	I-ORG
+sw:Cha	I-ORG
+sw:''	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Yohane	I-PER
+sw:XVIII	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Benedikto	I-PER
+sw:VIII	I-PER
+sw:.	O
+
+sw:Teresa	B-PER
+sw:wa	I-PER
+sw:Mtoto	I-PER
+sw:Yesu	I-PER
+
+sw:Pia	O
+sw:kuna	O
+sw:wasemaji	O
+sw:17,000	O
+sw:nchini	O
+sw:Burkina	B-LOC
+sw:Faso	I-LOC
+sw:.	O
+
+sw:Ernest	B-PER
+sw:Rutherford	I-PER
+sw:,	O
+sw:mwanafizikia	O
+
+sw:Forever	B-ORG
+sw:''	O
+sw:(	O
+sw:2006	O
+sw:)	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:103.54	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:*Januari	O
+sw:-	O
+sw:Papa	B-PER
+sw:Yohane	I-PER
+sw:IX	I-PER
+
+sw:Wilaya	B-ORG
+sw:ya	I-ORG
+sw:Daloa	I-ORG
+
+sw:'	O
+sw:''	O
+sw:Hokkaidō	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Bangkok	B-LOC
+sw:-	O
+sw:''Suvarnabhumi	O
+sw:Airport	O
+sw:''	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:1.6	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Merrick	B-LOC
+sw:,	I-LOC
+sw:New	I-LOC
+sw:York	I-LOC
+
+sw:Dresden	B-LOC
+sw:-	O
+sw:''Dresden	O
+sw:Airport	O
+sw:''	O
+
+sw:Imepakana	O
+sw:na	O
+sw:Veracruz	B-LOC
+sw:,	O
+sw:Hidalgo	B-LOC
+sw:,	O
+sw:Mexico	B-LOC
+sw:(	I-LOC
+sw:jimbo	I-LOC
+sw:)	I-LOC
+sw:,	O
+sw:Tlaxcala	B-LOC
+sw:,	O
+sw:Guerrero	B-LOC
+sw:,	O
+sw:Morelos	B-LOC
+sw:na	O
+sw:Oaxaca	B-LOC
+sw:.	O
+
+sw:Musoma	B-LOC
+sw:(	I-LOC
+sw:mji	I-LOC
+sw:)	I-LOC
+
+sw:Yono	B-PER
+sw:Stanley	I-PER
+sw:Jilaoneka	I-PER
+sw:Kevela	I-PER
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Yohane	I-PER
+sw:III	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Pelagio	I-PER
+sw:II	I-PER
+sw:.	O
+
+sw:Timu	B-ORG
+sw:ya	I-ORG
+sw:Taifa	I-ORG
+sw:ya	I-ORG
+sw:Kandanda	I-ORG
+sw:ya	I-ORG
+sw:Kenya	I-ORG
+
+sw:Shirika	B-ORG
+sw:la	I-ORG
+sw:Biashara	I-ORG
+sw:Duniani	I-ORG
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Klementi	I-PER
+sw:VII	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Julius	I-PER
+sw:III	I-PER
+sw:.	O
+
+sw:Nyumba	B-ORG
+sw:ya	I-ORG
+sw:sanaa	I-ORG
+sw:Kwenye	I-ORG
+sw:Makavazi	I-ORG
+sw:ya	I-ORG
+sw:Derby	I-ORG
+
+sw:Sao	B-LOC
+sw:Tome	I-LOC
+sw:na	I-LOC
+sw:Principe	I-LOC
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:30318	O
+sw:.	O
+
+sw:Beyoncé	B-PER
+sw:Knowles	I-PER
+sw:mnamo	O
+sw:tar	O
+sw:.	O
+
+sw:Soko	B-ORG
+sw:la	I-ORG
+sw:Hisa	I-ORG
+sw:la	I-ORG
+sw:Uganda	I-ORG
+
+sw:Pia	O
+sw:kuna	O
+sw:wasemaji	O
+sw:wachache	O
+sw:nchini	O
+sw:Chad	B-LOC
+sw:.	O
+
+sw:'	O
+sw:''	O
+sw:Arcadius	B-PER
+sw:''	O
+sw:'	O
+
+sw:'	O
+sw:''	O
+sw:Johannesburg	B-LOC
+sw:'	O
+sw:''	O
+
+sw:Nyamera	B-LOC
+sw:(	I-LOC
+sw:jenasi	I-LOC
+sw:)	I-LOC
+
+sw:Mfalme	B-PER
+sw:Dongmyeong	I-PER
+sw:wa	I-PER
+sw:Goguryeo	I-PER
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Stefano	I-PER
+sw:IX	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Alexander	I-PER
+sw:II	I-PER
+sw:.	O
+
+sw:Goat	B-LOC
+sw:Island	I-LOC
+sw:(	I-LOC
+sw:New	I-LOC
+sw:York	I-LOC
+sw:)	I-LOC
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:40	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:'	O
+sw:''	O
+sw:Leuven	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Kiefer	B-PER
+sw:Sutherland	I-PER
+sw:kama	O
+sw:Jack	B-PER
+sw:Bauer	I-PER
+
+sw:Vipimo	B-ORG
+sw:sanifu	I-ORG
+sw:vya	I-ORG
+sw:kimataifa	I-ORG
+
+sw:Mama	B-ORG
+sw:yetu	I-ORG
+sw:wa	I-ORG
+sw:Coromoto	I-ORG
+
+sw:Kanisa	B-ORG
+sw:Katoliki	I-ORG
+sw:la	I-ORG
+sw:Kigiriki	I-ORG
+sw:la	I-ORG
+sw:Ukraina	I-ORG
+
+sw:Mkoa	B-LOC
+sw:wa	I-LOC
+sw:Centre	I-LOC
+
+sw:Roy	B-PER
+sw:Campbell	I-PER
+sw:(	O
+sw:1901-1957	O
+sw:)	O
+
+sw:Wizara	B-ORG
+sw:ya	I-ORG
+sw:Mambo	I-ORG
+sw:ya	I-ORG
+sw:Ndani	I-ORG
+
+sw:Kikanisa	O
+sw:linahusiana	O
+sw:na	O
+sw:Jimbo	B-ORG
+sw:Kuu	I-ORG
+sw:la	I-ORG
+sw:Mbarara	I-ORG
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Anastasio	I-PER
+sw:IV	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Alexander	I-PER
+sw:III	I-PER
+sw:.	O
+
+sw:Russell	B-PER
+sw:,	I-PER
+sw:Bertrand	I-PER
+sw:.	O
+
+sw:Fogg	O
+sw:Art	O
+sw:Museum	O
+sw:,	O
+sw:Cambridge	B-LOC
+sw:,	O
+sw:Uingereza	B-LOC
+sw:.]]	O
+
+sw:Discografia	B-ORG
+sw:ya	I-ORG
+sw:50	I-ORG
+sw:Cent	I-ORG
+
+sw:Sarah	B-PER
+sw:Clarke	I-PER
+sw:kama	O
+sw:Nina	B-PER
+sw:Myers	I-PER
+
+sw:Imepakana	O
+sw:na	O
+sw:Libya	B-LOC
+sw:,	O
+sw:Sudan	B-LOC
+sw:,	O
+sw:Jamhuri	B-LOC
+sw:ya	I-LOC
+sw:Afrika	I-LOC
+sw:ya	I-LOC
+sw:Kati	I-LOC
+sw:,	O
+sw:Kamerun	B-LOC
+sw:,	O
+sw:Nigeria	B-LOC
+sw:na	O
+sw:Niger	B-LOC
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:88.7	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Yohane	I-PER
+sw:XII	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Leo	I-PER
+sw:VIII	I-PER
+sw:.	O
+
+sw:Sobhuza	B-PER
+sw:II	I-PER
+sw:wa	I-PER
+sw:Uswazi	I-PER
+
+sw:Msikiti	B-ORG
+sw:wa	I-ORG
+sw:Sultan	I-ORG
+sw:Ahmed	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:266	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Alifuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Eusebius	I-PER
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Sergio	I-PER
+sw:IV	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Yohane	I-PER
+sw:XIX	I-PER
+sw:.	O
+
+sw:Mkoa	B-LOC
+sw:wa	I-LOC
+sw:Kati	I-LOC
+sw:(	I-LOC
+sw:Kenya	I-LOC
+sw:)	I-LOC
+
+sw:Otto	B-PER
+sw:von	I-PER
+sw:Bismarck	I-PER
+
+sw:Visiwa	B-LOC
+sw:vya	I-LOC
+sw:Solomon	I-LOC
+
+sw:Wilaya	B-ORG
+sw:ya	I-ORG
+sw:Prikro	I-ORG
+
+sw:When	B-ORG
+sw:You	I-ORG
+sw:'re	I-ORG
+sw:Looking	I-ORG
+sw:Like	I-ORG
+sw:That	I-ORG
+
+sw:Kenya	B-ORG
+sw:Power	I-ORG
+sw:and	I-ORG
+sw:Lighting	I-ORG
+sw:Company	I-ORG
+
+sw:'	O
+sw:''	O
+sw:''	O
+sw:''	O
+sw:One	B-ORG
+sw:Day	I-ORG
+sw:at	I-ORG
+sw:a	I-ORG
+sw:Time	I-ORG
+sw:(	I-ORG
+sw:Em	I-ORG
+sw:'s	I-ORG
+sw:Version	I-ORG
+sw:)	I-ORG
+sw:''	O
+sw:'	O
+sw:''	O
+sw:''	O
+
+sw:Abdul	B-PER
+sw:Jabir	I-PER
+sw:Marombwa	I-PER
+
+sw:Deal	B-LOC
+sw:,	I-LOC
+sw:New	I-LOC
+sw:Jersey	I-LOC
+
+sw:Mbuyiseni	B-PER
+sw:Mtshali	I-PER
+sw:(	O
+sw:1940-	O
+sw:)	O
+
+sw:Utsunomiya	B-LOC
+sw:,	I-LOC
+sw:Tochigi	I-LOC
+
+sw:Uhusika	O
+sw:ulichezwa	O
+sw:na	O
+sw:Roger	B-PER
+sw:Cross	I-PER
+sw:.	O
+
+sw:Mji	B-LOC
+sw:mkuu	I-LOC
+sw:ni	O
+sw:Ōita	B-LOC
+sw:(	O
+sw:大分市	O
+sw:)	O
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:56	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:CF	O
+sw:Jamhuri	B-LOC
+sw:ya	I-LOC
+sw:Afrika	I-LOC
+sw:ya	I-LOC
+sw:Kati	I-LOC
+
+sw:Daudi	B-PER
+sw:(	I-PER
+sw:Biblia	I-PER
+sw:)	I-PER
+
+sw:Buffalo	B-LOC
+sw:,	I-LOC
+sw:New	I-LOC
+sw:York	I-LOC
+
+sw:Mji	B-LOC
+sw:mkuu	I-LOC
+sw:na	O
+sw:pia	O
+sw:mji	O
+sw:mkubwa	O
+sw:ni	O
+sw:Tashkent	B-LOC
+sw:.	O
+
+sw:Roger	B-PER
+sw:Cross	I-PER
+sw:kama	O
+sw:Curtis	B-PER
+sw:Manning	I-PER
+
+sw:Kabila	B-PER
+sw:la	I-PER
+sw:Benyamini	I-PER
+
+sw:Pia	O
+sw:kuna	O
+sw:wasemaji	O
+sw:8500	O
+sw:nchini	O
+sw:Guinea	B-LOC
+sw:ya	I-LOC
+sw:Ikweta	I-LOC
+sw:.	O
+
+sw:Deux-Sèvres	B-LOC
+sw:(	O
+sw:79	O
+sw:)	O
+
+sw:Kanu	B-LOC
+sw:(	I-LOC
+sw:mnyama	I-LOC
+sw:)	I-LOC
+
+sw:Shirika	B-ORG
+sw:la	I-ORG
+sw:Kimataifa	I-ORG
+sw:la	I-ORG
+sw:Nishati	I-ORG
+sw:ya	I-ORG
+sw:Nyuklia	I-ORG
+
+sw:Jumuiya	B-ORG
+sw:ya	I-ORG
+sw:Nchi	I-ORG
+sw:za	I-ORG
+sw:Kiarabu	I-ORG
+
+sw:Antili	B-LOC
+sw:za	I-LOC
+sw:Kiholanzi	I-LOC
+sw:,	O
+sw:Aruba	B-LOC
+
+sw:Orodha	B-ORG
+sw:ya	I-ORG
+sw:Mawaziri	I-ORG
+sw:Wakuu	I-ORG
+sw:wa	I-ORG
+sw:Ubelgiji	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:38	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Ilianzishwa	O
+sw:na	O
+sw:Alfred	B-PER
+sw:Nobel	I-PER
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:2,324.26	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Papa	B-PER
+sw:Silvester	I-PER
+sw:I	I-PER
+
+sw:'	O
+sw:''	O
+sw:Bangladesh	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:354.12	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:James	B-PER
+sw:Morrison	I-PER
+sw:kama	O
+sw:Bill	B-PER
+sw:Buchanan	I-PER
+
+sw:'	O
+sw:''	O
+sw:Syria	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Mary	B-PER
+sw:Benson	I-PER
+sw:(	O
+sw:1919-2000	O
+sw:)	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:5.1	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:9.34	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:106	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:262.31	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Chris	B-ORG
+sw:Brown	I-ORG
+sw:''	O
+sw:(	O
+sw:2005	O
+sw:)	O
+
+sw:Kongo	B-ORG
+sw:ya	I-ORG
+sw:Kibelgiji	I-ORG
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:39102	O
+sw:.	O
+
+sw:Johann	B-PER
+sw:Wolfgang	I-PER
+sw:von	I-PER
+sw:Goethe	I-PER
+
+sw:Papa	B-PER
+sw:Celestino	I-PER
+sw:III	I-PER
+
+sw:``	O
+sw:When	B-ORG
+sw:You	I-ORG
+sw:'re	I-ORG
+sw:Looking	I-ORG
+sw:Like	I-ORG
+sw:That	I-ORG
+sw:(	O
+sw:Single	O
+sw:Remix	O
+sw:)	O
+sw:''	O
+
+sw:lugha	B-ORG
+sw:ya	I-ORG
+sw:Kibantu	I-ORG
+sw:nchini	O
+sw:Tanzania	B-LOC
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Stefano	I-PER
+sw:IV	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Eugenio	I-PER
+sw:II	I-PER
+sw:.	O
+
+sw:Moja	O
+sw:ni	O
+sw:Ono	B-ORG
+sw:sahihi	O
+sw:.	O
+
+sw:Louisville	B-LOC
+sw:,	I-LOC
+sw:Kentucky	I-LOC
+
+sw:Visiwa	B-LOC
+sw:vya	I-LOC
+sw:Mariana	I-LOC
+sw:ya	I-LOC
+sw:Kaskazini	I-LOC
+
+sw:*Septemba	O
+sw:-	O
+sw:Papa	B-PER
+sw:Leo	I-PER
+sw:V	I-PER
+
+sw:Imepakana	O
+sw:na	O
+sw:Ubelgiji	B-LOC
+sw:,	O
+sw:Ufaransa	B-LOC
+sw:na	O
+sw:Ujerumani	B-LOC
+sw:.	O
+
+sw:''	O
+sw:Brazil	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Alliance	B-ORG
+sw:for	I-ORG
+sw:Change	I-ORG
+sw:and	I-ORG
+sw:Transparency	I-ORG
+sw:'	O
+sw:''	O
+sw:'	O
+
+sw:''	O
+sw:Chad	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Boniface	I-PER
+sw:I	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Sixtus	I-PER
+sw:III	I-PER
+sw:.	O
+
+sw:Elizabeth	B-LOC
+sw:,	I-LOC
+sw:New	I-LOC
+sw:Jersey	I-LOC
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:9.2	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Orodha	B-LOC
+sw:ya	I-LOC
+sw:miji	I-LOC
+sw:ya	I-LOC
+sw:Ubelgiji	I-LOC
+
+sw:``	O
+sw:Rock	B-ORG
+sw:with	I-ORG
+sw:You	I-ORG
+sw:''	O
+
+sw:Santiago	B-PER
+sw:Ramón	I-PER
+sw:y	I-PER
+sw:Cajal	I-PER
+
+sw:''	O
+sw:Msumbiji	B-LOC
+sw:''	O
+sw:'	O
+
+sw:**	O
+sw:'	O
+sw:''	O
+sw:Bugs	B-PER
+sw:Bunny	I-PER
+sw:''	O
+sw:'	O
+
+sw:Mkoa	B-LOC
+sw:wa	I-LOC
+sw:Kivu	I-LOC
+sw:Kusini	I-LOC
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:73	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Dominiko	B-PER
+sw:Ibáñez	I-PER
+sw:de	I-PER
+sw:Erquicia	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:1961.1	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:50	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Orodha	B-ORG
+sw:ya	I-ORG
+sw:Marais	I-ORG
+sw:wa	I-ORG
+sw:Komori	I-ORG
+
+sw:Athumani	B-PER
+sw:Saidi	I-PER
+sw:Mwinshehe	I-PER
+sw:Janguo	I-PER
+
+sw:'	O
+sw:''	O
+sw:Wilaya	B-LOC
+sw:ya	I-LOC
+sw:Trans-Nzoia	I-LOC
+sw:''	O
+sw:'	O
+
+sw:Lake	B-LOC
+sw:Success	I-LOC
+sw:,	I-LOC
+sw:New	I-LOC
+sw:York	I-LOC
+
+sw:Mkoa	B-LOC
+sw:wa	I-LOC
+sw:Santa	I-LOC
+sw:Cruz	I-LOC
+sw:de	I-LOC
+sw:Tenerife	I-LOC
+
+sw:Al	B-PER
+sw:Pacino	I-PER
+sw:(	O
+sw:1994–hadi	O
+sw:sasa	O
+sw:)	O
+
+sw:Huntington	B-LOC
+sw:Park	I-LOC
+sw:,	I-LOC
+sw:California	I-LOC
+
+sw:Pia	O
+sw:kuna	O
+sw:wasemaji	O
+sw:nchini	O
+sw:Nigeria	B-LOC
+sw:.	O
+
+sw:``	O
+sw:You	B-ORG
+sw:Rock	I-ORG
+sw:My	I-ORG
+sw:World	I-ORG
+sw:''	O
+
+sw:Wizara	B-ORG
+sw:ya	I-ORG
+sw:Nishati	I-ORG
+sw:na	I-ORG
+sw:Madini	I-ORG
+
+sw:The	B-ORG
+sw:Village	I-ORG
+sw:Voice	I-ORG
+
+sw:Baba	O
+sw:akiwa	O
+sw:amempakata	O
+sw:mtoto	O
+sw:,	O
+sw:[[Dhaka	O
+sw:,	O
+sw:Bangladesh	B-LOC
+sw:.]]	O
+
+sw:Wilaya	B-ORG
+sw:ya	I-ORG
+sw:Séguéla	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:5.8	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Zama	B-ORG
+sw:za	I-ORG
+sw:Mwangaza	I-ORG
+
+sw:Kazi	O
+sw:hii	O
+sw:ilimpeleka	O
+sw:pia	O
+sw:London	B-LOC
+sw:na	O
+sw:Paris	B-LOC
+sw:.	O
+
+sw:Edward	B-PER
+sw:Tingatinga	I-PER
+sw:,	O
+sw:msanii	O
+sw:kutoka	O
+sw:Tanzania	B-LOC
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:412,40	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Fair	B-LOC
+sw:Haven	I-LOC
+sw:,	I-LOC
+sw:New	I-LOC
+sw:Jersey	I-LOC
+
+sw:Cyclops	B-PER
+sw:(	I-PER
+sw:komiki	I-PER
+sw:)	I-PER
+
+sw:Wamisionari	B-ORG
+sw:wa	I-ORG
+sw:Afrika	I-ORG
+
+sw:Victoria	B-LOC
+sw:(	I-LOC
+sw:ziwa	I-LOC
+sw:)	I-LOC
+
+sw:William	B-PER
+sw:Plomer	I-PER
+sw:(	O
+sw:1903-1973	O
+sw:)	O
+
+sw:Alimfuata	O
+sw:Kaisari	B-PER
+sw:Kaligula	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Kaisari	B-PER
+sw:Nero	I-PER
+sw:.	O
+
+sw:Diamond	B-LOC
+sw:Bar	I-LOC
+sw:,	I-LOC
+sw:California	I-LOC
+
+sw:Mtaguso	B-ORG
+sw:wa	I-ORG
+sw:kwanza	I-ORG
+sw:wa	I-ORG
+sw:Konstantinopoli	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:148.27	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:62	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Khalifa	B-PER
+sw:bin	I-PER
+sw:Harub	I-PER
+sw:(	O
+sw:1911–1960	O
+sw:)	O
+
+sw:James	B-PER
+sw:Badge	I-PER
+sw:Dale	I-PER
+sw:kama	O
+sw:Chase	B-PER
+sw:Edmunds	I-PER
+
+sw:Wilaya	B-LOC
+sw:ya	I-LOC
+sw:Lakota	I-LOC
+
+sw:Gaziantep	B-LOC
+sw:(	O
+sw:aggl	O
+sw:.	O
+sw:)	O
+
+sw:Wimbo	O
+sw:umetayarishwa	O
+sw:na	O
+sw:Timbaland	B-PER
+sw:.	O
+
+sw:Vendée	B-LOC
+sw:(	O
+sw:85	O
+sw:)	O
+
+sw:'	O
+sw:''	O
+sw:Austria	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Muhammad	B-PER
+sw:Amour	I-PER
+sw:Chomboh	I-PER
+
+sw:Wilaya	B-LOC
+sw:ya	I-LOC
+sw:Busia	I-LOC
+sw:,	I-LOC
+sw:Uganda	I-LOC
+
+sw:Orchestra	B-ORG
+sw:Maquis	I-ORG
+sw:Original	I-ORG
+
+sw:Wilaya	B-ORG
+sw:ya	I-ORG
+sw:Bouaké	I-ORG
+
+sw:'	O
+sw:''	O
+sw:Ufaransa	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Aliyemfuata	O
+sw:ni	O
+sw:Gebre	B-PER
+sw:Krestos	I-PER
+sw:.	O
+
+sw:Guovdageaidnu	B-LOC
+sw:(	O
+sw:Kautokeino	O
+sw:)	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:23.8	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:In	B-ORG
+sw:da	I-ORG
+sw:Club	I-ORG
+
+sw:J.	B-PER
+sw:M.	I-PER
+sw:Coetzee	I-PER
+
+sw:Providence	B-LOC
+sw:,	I-LOC
+sw:Rhode	I-LOC
+sw:Island	I-LOC
+
+sw:Mji	B-LOC
+sw:mkuu	I-LOC
+sw:ni	O
+sw:Tralee	B-LOC
+sw:.	O
+
+sw:Pia	O
+sw:kuna	O
+sw:wasemaji	O
+sw:nchini	O
+sw:Nigeria	B-LOC
+sw:na	O
+sw:Marekani	B-LOC
+sw:.	O
+
+sw:'	O
+sw:''	O
+sw:Majorian	B-PER
+sw:''	O
+sw:'	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:12.53	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:'	O
+sw:''	O
+sw:Värmdö	O
+sw:''	O
+sw:'	O
+sw:ni	O
+sw:manispaa	O
+sw:nchini	O
+sw:Uswidi	B-LOC
+sw:.	O
+
+sw:'	O
+sw:''	O
+sw:Masaka	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Alimfuata	O
+sw:kaka	O
+sw:yake	O
+sw:,	O
+sw:Claudius	B-PER
+sw:II	I-PER
+sw:.	O
+
+sw:John	B-PER
+sw:Field	I-PER
+sw:(	I-PER
+sw:composer	I-PER
+sw:)	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:76	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Norbert	B-PER
+sw:wa	I-PER
+sw:Xanten	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:43.0	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Nikolasi	B-PER
+sw:Saggio	I-PER
+sw:wa	I-PER
+sw:Longobardi	I-PER
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:39117	O
+sw:.	O
+
+sw:'	O
+sw:''	O
+sw:Jeddah	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:11.3	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:63343	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:191.30	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Wilaya	B-ORG
+sw:ya	I-ORG
+sw:Bongouanou	I-ORG
+
+sw:Allen	B-LOC
+sw:Park	I-LOC
+sw:,	I-LOC
+sw:Michigan	I-LOC
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:196.0	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Kiefer	B-PER
+sw:Sutherland	I-PER
+sw:kama	O
+sw:Jack	B-PER
+sw:Bauer	I-PER
+
+sw:Huyu	O
+sw:ndiye	O
+sw:aliyemshauri	O
+sw:Wayne	B-PER
+sw:Palmer	I-PER
+sw:kugombea	O
+sw:Urais	O
+sw:.	O
+
+sw:Ni	O
+sw:nchi	O
+sw:yenye	O
+sw:watu	O
+sw:wengi	O
+sw:katika	O
+sw:Ulaya	B-LOC
+sw:,	O
+sw:isipokuwa	O
+sw:Urusi	B-LOC
+sw:ina	O
+sw:watu	O
+sw:zaidi	O
+sw:.	O
+
+sw:Mji	B-LOC
+sw:mkuu	I-LOC
+sw:ni	O
+sw:Toyama	B-LOC
+sw:(	O
+sw:富山市	O
+sw:)	O
+sw:.	O
+
+sw:Xander	B-PER
+sw:Berkeley	I-PER
+sw:kama	O
+sw:George	B-PER
+sw:Mason	I-PER
+
+sw:Jakaya	B-PER
+sw:Kikwete	I-PER
+sw:2006	O
+sw:-	O
+sw:hadi	O
+sw:sasa	O
+
+sw:Richard	B-PER
+sw:Steven	I-PER
+sw:Horvitz	I-PER
+
+sw:Franco	B-PER
+sw:Luambo	I-PER
+sw:Makiadi	I-PER
+
+sw:Papa	B-PER
+sw:Benedikto	I-PER
+sw:XV	I-PER
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:33518	O
+sw:.	O
+
+sw:Kasanga	B-LOC
+sw:(	I-LOC
+sw:Ufipa	I-LOC
+sw:)	I-LOC
+
+sw:Harare	B-LOC
+sw:(	O
+sw:mji	O
+sw:)	O
+sw:,	O
+
+sw:Pia	O
+sw:kuna	O
+sw:wasemaji	O
+sw:wachache	O
+sw:nchini	O
+sw:Jamhuri	B-LOC
+sw:ya	I-LOC
+sw:Kongo	I-LOC
+sw:na	O
+sw:Nigeria	B-LOC
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Pelagio	I-PER
+sw:I	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Benedikto	I-PER
+sw:I	I-PER
+sw:.	O
+
+sw:Sasa	O
+sw:ameolewa	O
+sw:na	O
+sw:Mbongeni	B-PER
+sw:Ngema	I-PER
+sw:.	O
+
+sw:(	O
+sw:Ufalme	B-LOC
+sw:wa	I-LOC
+sw:Muungano	I-LOC
+sw:)	O
+
+sw:Loyal	B-ORG
+sw:to	I-ORG
+sw:the	I-ORG
+sw:Game	I-ORG
+sw:''	O
+
+sw:Chama	B-ORG
+sw:cha	I-ORG
+sw:Wananchi	I-ORG
+
+sw:Elisha	B-PER
+sw:Cuthbert	I-PER
+sw:kama	O
+sw:Kim	B-PER
+sw:Bauer	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:8.8	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Wilaya	B-ORG
+sw:ya	I-ORG
+sw:Guitry	I-ORG
+
+sw:Jamhuri	B-LOC
+sw:ya	I-LOC
+sw:Afrika	I-LOC
+sw:ya	I-LOC
+sw:Kati	I-LOC
+
+sw:Mji	B-LOC
+sw:mkuu	I-LOC
+sw:ni	O
+sw:Kyoto	B-LOC
+sw:(	O
+sw:京都市	O
+sw:)	O
+sw:.	O
+
+sw:Var	B-LOC
+sw:(	O
+sw:83	O
+sw:)	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:36	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:5.9	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:9.3	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:81	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Rukwa	B-LOC
+sw:(	I-LOC
+sw:ziwa	I-LOC
+sw:)	I-LOC
+
+sw:Teresa	B-PER
+sw:wa	I-PER
+sw:Yesu	I-PER
+
+sw:'	O
+sw:''	O
+sw:Didius	B-PER
+sw:Julianus	I-PER
+sw:''	O
+sw:'	O
+
+sw:''	O
+sw:Interview	O
+sw:with	O
+sw:Westlife	B-ORG
+sw:''	O
+
+sw:Kanisa	B-ORG
+sw:Katoliki	I-ORG
+sw:la	I-ORG
+sw:Kisiria	I-ORG
+sw:la	I-ORG
+sw:Malabar	I-ORG
+
+sw:Alliance	B-ORG
+sw:for	I-ORG
+sw:Change	I-ORG
+sw:and	I-ORG
+sw:Transparency	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:477.7	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Orodha	B-ORG
+sw:ya	I-ORG
+sw:Wafalme	I-ORG
+sw:wa	I-ORG
+sw:Uswazi	I-ORG
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Adrian	I-PER
+sw:VI	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Paulo	I-PER
+sw:III	I-PER
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:3.4	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Papa	B-PER
+sw:Agapeto	I-PER
+sw:II	I-PER
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:131.27	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Wim	B-PER
+sw:Kok	I-PER
+sw:(	O
+sw:1938–	O
+sw:)	O
+
+sw:Aliigiza	O
+sw:pamoja	O
+sw:na	O
+sw:Robert	B-PER
+sw:De	I-PER
+sw:Niro	I-PER
+
+sw:Uneo	O
+sw:lake	O
+sw:ni	O
+sw:189.9	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Aniceti	B-PER
+sw:Kitereza	I-PER
+sw:(	O
+sw:1896-1981	O
+sw:)	O
+
+sw:Me	B-ORG
+sw:Against	I-ORG
+sw:the	I-ORG
+sw:World	I-ORG
+sw:''	O
+
+sw:Franz	B-PER
+sw:Beckenbauer	I-PER
+sw:(	O
+sw:1993-1994	O
+sw:)	O
+
+sw:Puerto	B-LOC
+sw:Vallarta	I-LOC
+sw:,	I-LOC
+sw:Jalisco	I-LOC
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:10.6	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:55	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:74	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Uruapan	B-LOC
+sw:(	O
+sw:238,975	O
+sw:)	O
+
+sw:Hiki	O
+sw:ni	O
+sw:kisiwa	O
+sw:kikubwa	O
+sw:kabisa	O
+sw:cha	O
+sw:Mkoa	B-LOC
+sw:wa	I-LOC
+sw:Nagasaki	I-LOC
+sw:.	O
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Sergio	I-PER
+sw:II	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Benedikto	I-PER
+sw:III	I-PER
+sw:.	O
+
+sw:Kikanisa	O
+sw:linahusiana	O
+sw:na	O
+sw:Jimbo	B-ORG
+sw:Kuu	I-ORG
+sw:la	I-ORG
+sw:Tororo	I-ORG
+sw:.	O
+
+sw:Warren	B-PER
+sw:G.	I-PER
+sw:Harding	I-PER
+
+sw:Martin	B-PER
+sw:Luther	I-PER
+sw:King	I-PER
+sw:,	I-PER
+sw:Jr	I-PER
+sw:.	I-PER
+
+sw:Halifax	B-LOC
+sw:,	I-LOC
+sw:Nova	I-LOC
+sw:Scotia	I-LOC
+
+sw:Orodha	B-ORG
+sw:ya	I-ORG
+sw:Mawaziri	I-ORG
+sw:Wakuu	I-ORG
+sw:wa	I-ORG
+sw:Ubelgiji	I-ORG
+
+sw:Pia	O
+sw:kulikuwa	O
+sw:na	O
+sw:remix	O
+sw:nyingine	O
+sw:imemshirikisha	O
+sw:Trey	B-PER
+sw:Songz	I-PER
+sw:.	O
+
+sw:``	O
+sw:Unconditional	B-ORG
+sw:Love	I-ORG
+sw:''	O
+
+sw:Tanganyika	B-ORG
+sw:African	I-ORG
+sw:National	I-ORG
+sw:Union	I-ORG
+
+sw:Wilaya	B-ORG
+sw:ya	I-ORG
+sw:Botro	I-ORG
+
+sw:Chuo	B-ORG
+sw:Kikuu	I-ORG
+sw:cha	I-ORG
+sw:Bahia	I-ORG
+
+sw:Mwakikagile	B-PER
+sw:,	I-PER
+sw:Godfrey	I-PER
+sw:(	O
+sw:2001	O
+sw:)	O
+sw:.	O
+
+sw:Yohane	B-PER
+sw:Baptista	I-PER
+sw:de	I-PER
+sw:La	I-PER
+sw:Salle	I-PER
+
+sw:Klemens	B-PER
+sw:wa	I-PER
+sw:Aleksandria	I-PER
+
+sw:Wilaya	B-LOC
+sw:ya	I-LOC
+sw:Uasin	I-LOC
+sw:Gishu	I-LOC
+
+sw:30px]]	O
+sw:Visiwa	B-LOC
+sw:vya	I-LOC
+sw:Faroe	I-LOC
+sw:(	O
+sw:Denmark	B-LOC
+sw:)	O
+
+sw:Lakini	O
+sw:chama	O
+sw:kikubwa	O
+sw:cha	O
+sw:ANC	B-ORG
+sw:haikukubali	O
+sw:na	O
+sw:mipango	O
+sw:ilishindikana	O
+sw:.	O
+
+sw:Alifuatwa	O
+sw:na	O
+sw:Ali	B-PER
+sw:Kafi	I-PER
+sw:.	O
+
+sw:William	B-PER
+sw:I	I-PER
+sw:wa	I-PER
+sw:Uingereza	I-PER
+
+sw:Bulawayo	B-LOC
+sw:(	O
+sw:mji	O
+sw:)	O
+sw:,	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:86	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Queen	B-ORG
+sw:of	I-ORG
+sw:My	I-ORG
+sw:Heart	I-ORG
+
+sw:Jimbo	B-LOC
+sw:ya	I-LOC
+sw:Tizi	I-LOC
+sw:Ouzou	I-LOC
+sw:(	I-LOC
+sw:Aljeria	I-LOC
+sw:)	I-LOC
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:592.82	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Eneo	B-LOC
+sw:la	I-LOC
+sw:ng'ambo	I-LOC
+sw:la	I-LOC
+sw:Ufaransa	I-LOC
+
+sw:San	B-LOC
+sw:Clemente	I-LOC
+sw:,	I-LOC
+sw:California	I-LOC
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:33619	O
+sw:.	O
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:30121	O
+sw:.	O
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:30401	O
+sw:.	O
+
+sw:Ignas	B-PER
+sw:wa	I-PER
+sw:Laconi	I-PER
+
+sw:'	O
+sw:''	O
+sw:Hoima	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Ugonjwa	B-ORG
+sw:wa	I-ORG
+sw:kuambukiza	I-ORG
+
+sw:Jimbo	B-ORG
+sw:la	I-ORG
+sw:Uchaguzi	I-ORG
+sw:la	I-ORG
+sw:Ikolomani	I-ORG
+
+sw:Uajemi	B-LOC
+sw:(	O
+sw:Tehran	B-LOC
+sw:)	O
+sw:(	O
+sw:AS	O
+sw:)	O
+
+sw:'	O
+sw:''	O
+sw:Pertinax	B-PER
+sw:''	O
+sw:'	O
+
+sw:Seal	B-LOC
+sw:Beach	I-LOC
+sw:,	I-LOC
+sw:California	I-LOC
+
+sw:Bonaventura	B-PER
+sw:wa	I-PER
+sw:Bagnoregio	I-PER
+
+sw:Martin	B-PER
+sw:Luther	I-PER
+sw:King	I-PER
+sw:,	I-PER
+sw:Jr	I-PER
+sw:.	I-PER
+
+sw:Teresa	B-PER
+sw:wa	I-PER
+sw:Mtoto	I-PER
+sw:Yesu	I-PER
+
+sw:George	B-PER
+sw:H.	I-PER
+sw:W.	I-PER
+sw:Bush	I-PER
+
+sw:Kikuyu	B-ORG
+sw:(	I-ORG
+sw:lugha	I-ORG
+sw:)	I-ORG
+
+sw:1998	O
+sw:Walter	B-PER
+sw:Kohn	I-PER
+sw:na	O
+sw:John	B-PER
+sw:Pople	I-PER
+
+sw:Louis	B-PER
+sw:Armstrong	I-PER
+sw:(	O
+sw:1901-1971	O
+sw:)	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:73	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Suisun	B-LOC
+sw:City	I-LOC
+sw:,	I-LOC
+sw:California	I-LOC
+
+sw:''	O
+sw:Syria	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:4.1	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:North	B-LOC
+sw:Reading	I-LOC
+sw:,	I-LOC
+sw:Massachusetts	I-LOC
+
+sw:Maria	B-PER
+sw:Ana	I-PER
+sw:wa	I-PER
+sw:Yesu	I-PER
+
+sw:Maktoum	B-PER
+sw:bin	I-PER
+sw:Rashid	I-PER
+sw:Al	I-PER
+sw:Maktoum	B-PER
+sw:(	O
+sw:1943-2006	O
+sw:)	O
+
+sw:Akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Pius	I-PER
+sw:XII	I-PER
+sw:.	O
+
+sw:Chuo	B-ORG
+sw:Kikuu	I-ORG
+sw:cha	I-ORG
+sw:Tübingen	I-ORG
+
+sw:Shirika	B-ORG
+sw:la	O
+sw:Afya	B-ORG
+sw:Duniani	I-ORG
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Gregori	I-PER
+sw:IV	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Leo	I-PER
+sw:IV	I-PER
+sw:.	O
+
+sw:Pierre-Gilles	B-PER
+sw:de	I-PER
+sw:Gennes	I-PER
+
+sw:==	O
+sw:Kanda	B-LOC
+sw:ya	I-LOC
+sw:Aegean	I-LOC
+sw:(	I-LOC
+sw:Ege	I-LOC
+sw:Bölgesi	I-LOC
+sw:)	I-LOC
+sw:==	O
+
+sw:Earth	B-ORG
+sw:Song	I-ORG
+sw:-	O
+sw:6:46	O
+
+sw:'	O
+sw:''	O
+sw:''	O
+sw:''	O
+sw:I	B-ORG
+sw:Wonder	I-ORG
+sw:If	I-ORG
+sw:Heaven	I-ORG
+sw:Got	I-ORG
+sw:a	I-ORG
+sw:Ghetto	I-ORG
+sw:''	O
+sw:'	O
+sw:''	O
+sw:''	O
+
+sw:Wimbo	B-PER
+sw:Ulio	I-PER
+sw:Bora	I-PER
+
+sw:Jacques	B-PER
+sw:Paul	I-PER
+sw:Migne	I-PER
+
+sw:''	O
+sw:Yemen	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Exit	B-ORG
+sw:13	I-ORG
+sw:''	O
+sw:(	O
+sw:2008	O
+sw:)	O
+
+sw:Kampuni	B-ORG
+sw:ya	I-ORG
+sw:Kenya	I-ORG
+sw:Pipeline	I-ORG
+
+sw:Ludwig	B-PER
+sw:van	I-PER
+sw:Beethoven	I-PER
+
+sw:''	O
+sw:Sri	B-LOC
+sw:Lanka	I-LOC
+sw:''	O
+sw:'	O
+
+sw:==Maneno	O
+sw:Yatumikayo	O
+sw:sana	O
+sw:Mtaani	O
+sw:hasa	O
+sw:Tanzania	B-LOC
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Agapeto	I-PER
+sw:II	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Benedikto	I-PER
+sw:V	I-PER
+sw:.	O
+
+sw:William	B-PER
+sw:Butler	I-PER
+sw:Yeats	I-PER
+
+sw:Nikolasi	B-PER
+sw:wa	I-PER
+sw:Myra	I-PER
+
+sw:'	O
+sw:''	O
+sw:Kilis	B-LOC
+sw:''	O
+sw:'	O
+
+sw:Daraja	B-ORG
+sw:jipya	I-ORG
+sw:la	I-ORG
+sw:Ruvu	I-ORG
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:33609	O
+sw:.	O
+
+sw:Jude	B-PER
+sw:Ciccolella	I-PER
+sw:kama	O
+sw:Mike	B-PER
+sw:Novick	I-PER
+
+sw:Visiwa	B-LOC
+sw:vya	I-LOC
+sw:Turks	I-LOC
+sw:na	I-LOC
+sw:Caicos	I-LOC
+
+sw:Alimfuata	O
+sw:Papa	B-PER
+sw:Klementi	I-PER
+sw:I	I-PER
+sw:akafuatwa	O
+sw:na	O
+sw:Papa	B-PER
+sw:Alexander	I-PER
+sw:I	I-PER
+sw:.	O
+
+sw:Yosafat	B-PER
+sw:wa	I-PER
+sw:Polotsk	I-PER
+
+sw:Dennis	B-PER
+sw:Haysbert	I-PER
+sw:kama	O
+sw:David	B-PER
+sw:Palmer	I-PER
+
+sw:Mji	B-LOC
+sw:mkuu	I-LOC
+sw:wake	O
+sw:ni	O
+sw:Nampula	B-LOC
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:420,1	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:Uganda	B-LOC
+sw:(	O
+sw:2001	O
+sw:)	O
+
+sw:When	B-ORG
+sw:You	I-ORG
+sw:'re	I-ORG
+sw:Looking	I-ORG
+sw:Like	I-ORG
+sw:That	I-ORG
+sw:(	O
+sw:2000	O
+sw:Remix	O
+sw:)	O
+
+sw:Ignas	B-PER
+sw:wa	I-PER
+sw:Antiokia	I-PER
+
+sw:Stephen	B-PER
+sw:Black	I-PER
+sw:(	O
+sw:1880-1931	O
+sw:)	O
+
+sw:Wilaya	B-LOC
+sw:ya	I-LOC
+sw:Al	I-LOC
+sw:Hudaydah	I-LOC
+
+sw:Jimmy	B-PER
+sw:Jam	I-PER
+sw:na	I-PER
+sw:Terry	I-PER
+sw:Lewis	I-PER
+
+sw:Kucha	B-LOC
+sw:wa	I-LOC
+sw:Afrika	I-LOC
+
+sw:Jimbo	B-LOC
+sw:la	I-LOC
+sw:Harar	I-LOC
+
+sw:Gregory	B-PER
+sw:Itzin	I-PER
+sw:kama	O
+sw:Charles	B-PER
+sw:Logan	I-PER
+
+sw:Wizara	B-ORG
+sw:ya	I-ORG
+sw:Viwanda	I-ORG
+sw:,	I-ORG
+sw:Biashara	I-ORG
+sw:na	I-ORG
+sw:Masoko	I-ORG
+
+sw:Baba	O
+sw:yake	O
+sw:ni	O
+sw:Niels	B-PER
+sw:Bohr	I-PER
+sw:.	O
+
+sw:All	B-ORG
+sw:Eyez	I-ORG
+sw:on	I-ORG
+sw:Me	I-ORG
+sw:''	O
+
+sw:Una	O
+sw:eneo	O
+sw:la	O
+sw:km²	B-ORG
+sw:53,683.56	O
+sw:.	O
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:102	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:'	O
+sw:''	O
+sw:Alexander	B-ORG
+sw:Severus	I-ORG
+sw:''	O
+sw:'	O
+
+sw:'	O
+sw:''	O
+sw:Ali	B-PER
+sw:Hassan	I-PER
+sw:Mwinyi	I-PER
+sw:''	O
+sw:'	O
+sw:(	O
+sw:1925–	O
+sw:)	O
+
+sw:Skolastika	B-PER
+sw:wa	I-PER
+sw:Nursia	I-PER
+
+sw:Jimbo	B-LOC
+sw:la	I-LOC
+sw:Schaffhausen	I-LOC
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:39411	O
+sw:.	O
+
+sw:The	B-ORG
+sw:Don	I-ORG
+sw:Killuminati	I-ORG
+sw::	I-ORG
+sw:The	B-ORG
+sw:7	I-ORG
+sw:Day	I-ORG
+sw:Theory	I-ORG
+
+sw:Eneo	O
+sw:lake	O
+sw:ni	O
+sw:60	O
+sw:km²	B-ORG
+sw:.	O
+
+sw:``	O
+sw:I	B-ORG
+sw:'m	I-ORG
+sw:'n	I-ORG
+sw:Luv	I-ORG
+sw:(	I-ORG
+sw:Wit	I-ORG
+sw:a	I-ORG
+sw:Stripper	I-ORG
+sw:)	I-ORG
+sw:''	O
+
+sw:'	O
+sw:''	O
+sw:Marcus	B-PER
+sw:Aurelius	I-PER
+sw:''	O
+sw:'	O
+
+sw:Msimbo	B-LOC
+sw:wa	I-LOC
+sw:posta	I-LOC
+sw:ni	O
+sw:39203	O
+sw:.	O
+
+sw:Carlos	B-PER
+sw:Bernard	I-PER
+sw:kama	O
+sw:Tony	B-PER
+sw:Almeida	I-PER
+
+sw:Yohane	B-PER
+sw:Baptista	I-PER
+sw:de	I-PER
+sw:La	I-PER
+sw:Salle	I-PER
+
+sw:Hifadhi	B-ORG
+sw:ya	I-ORG
+sw:Taifa	I-ORG
+sw:ya	I-ORG
+sw:Tsavo	I-ORG
+sw:Magharibi	I-ORG
+
+sw:'	O
+sw:''	O
+sw:Tiberius	B-PER
+sw:''	O
+sw:'	O
+
+sw:Shihabdin	O
+sw:Chiraghdin	O
+sw:et	O
+sw:Mathias	B-PER
+sw:E.	I-PER
+sw:Mnyampala	I-PER
+sw:.	O
+
