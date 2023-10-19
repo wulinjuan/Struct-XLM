@@ -24,8 +24,3 @@ This resource contains two directories ```src``` and ```data```, the Struct-XLM 
 ```
 bash run.sh
 ```
-
-=======
-# Struct-XLM
-The code of paper accepted in EMNLP2023, Struct-XLM: A Structure Discovery Multilingual Language Model for Enhancing Cross-lingual Transfer through Reinforcement Learning.
->>>>>>> d9c883d4da0e86511be7921c43c0f48525c8b4d6
