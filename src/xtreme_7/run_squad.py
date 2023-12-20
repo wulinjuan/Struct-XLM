@@ -44,7 +44,7 @@ from transformers import (
     get_linear_schedule_with_warmup,
     XLMRobertaTokenizer
 )
-from transformers.data.metrics.squad_metrics import (
+from squad_metrics import (
     compute_predictions_log_probs,
     compute_predictions_logits,
     squad_evaluate,
