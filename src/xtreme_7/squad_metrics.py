@@ -283,6 +283,7 @@ def get_final_text(pred_text, orig_text, do_lower_case, verbose_logging=False, w
     tokenizer = BasicTokenizer(do_lower_case=do_lower_case, tokenize_chinese_chars=wordpiece)  # Not splitting subwords
 
     tok_text = " ".join(tokenizer.tokenize(orig_text))
+    pred_text = " ".join(tokenizer.tokenize(pred_text.replace(',', '，')))
 
     start_position = tok_text.find(pred_text)
     if start_position == -1:
