@@ -24,4 +24,4 @@ This resource contains two directories ```src``` and ```data```, the Struct-XLM 
 ```
 bash run.sh
 ```
-The model can download from [here](https://drive.google.com/drive/folders/1SUp03mcESf9ONurWKOjNyzgQ2fwcVt2c?usp=sharing)
+The model can download from [here](https://drive.google.com/drive/folders/1SUp03mcESf9ONurWKOjNyzgQ2fwcVt2c?usp=sharing).
