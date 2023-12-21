@@ -549,6 +549,7 @@ def evaluate(args, model, actorModel, tokenizer, prefix="", language='en', lang2
             args.version_2_with_negative,
             tokenizer,
             args.verbose_logging,
+            lang=language
         )
     else:
         predictions = compute_predictions_logits(
@@ -565,6 +566,7 @@ def evaluate(args, model, actorModel, tokenizer, prefix="", language='en', lang2
             args.version_2_with_negative,
             args.null_score_diff_threshold,
             tokenizer,
+            lang=language
         )
     if dataset_name == 'squad':
         #Compute the F1 and exact scores.
