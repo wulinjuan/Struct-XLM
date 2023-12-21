@@ -237,7 +237,7 @@ def squad_evaluate(examples, preds, no_answer_probs=None, no_answer_probability_
     return evaluation
 
 
-def get_final_text(pred_text, orig_text, do_lower_case, verbose_logging=False, wordpiece=True):
+def get_final_text(pred_text, orig_text, do_lower_case, verbose_logging=False, wordpiece=True, lang='en'):
     """Project the tokenized prediction back to the original text."""
 
     # When we created the data, we kept track of the alignment between original
@@ -283,7 +283,8 @@ def get_final_text(pred_text, orig_text, do_lower_case, verbose_logging=False, w
     tokenizer = BasicTokenizer(do_lower_case=do_lower_case, tokenize_chinese_chars=wordpiece)  # Not splitting subwords
 
     tok_text = " ".join(tokenizer.tokenize(orig_text))
-    pred_text = " ".join(tokenizer.tokenize(pred_text.replace(',', '，')))
+    if lang == 'zh':
+        pred_text = " ".join(tokenizer.tokenize(pred_text.replace(',', '，')))
 
     start_position = tok_text.find(pred_text)
     if start_position == -1:
@@ -383,7 +384,8 @@ def compute_predictions_logits(
         version_2_with_negative,
         null_score_diff_threshold,
         tokenizer,
-        verbose_logging=False
+        verbose_logging=False,
+        lang='en'
 ):
     """Write final predictions to the json file and log-odds of null if needed."""
     if output_prediction_file:
@@ -505,7 +507,7 @@ def compute_predictions_logits(
                 orig_text = " ".join(orig_tokens)
 
                 wordpiece = (type(tokenizer).__name__.replace("Tokenizer", "").lower() == 'bert')
-                final_text = get_final_text(tok_text, orig_text, do_lower_case, verbose_logging, wordpiece)
+                final_text = get_final_text(tok_text, orig_text, do_lower_case, verbose_logging, workpiece, lang=lang)
                 if final_text in seen_predictions:
                     continue
 
@@ -596,6 +598,7 @@ def compute_predictions_log_probs(
         version_2_with_negative,
         tokenizer,
         verbose_logging,
+        lang='en'
 ):
     """XLNet write prediction logic (more complex than Bert's).
     Write final predictions to the json file and log-odds of null if needed.
@@ -718,7 +721,7 @@ def compute_predictions_log_probs(
             else:
                 do_lower_case = tokenizer.do_lowercase_and_remove_accent
 
-            final_text = get_final_text(tok_text, orig_text, do_lower_case, verbose_logging)
+            final_text = get_final_text(tok_text, orig_text, do_lower_case, verbose_logging, lang=lang)
 
             if final_text in seen_predictions:
                 continue
